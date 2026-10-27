@@ -1,6 +1,6 @@
 # Janitor AI — Character Framework & Character Bible (rebuilt)
 
-A complete **19-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is a **new, locally initialized Git repository** ready to push to GitHub when an empty remote is created.
+A complete **19-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
 
 ## Per character
 
@@ -27,15 +27,9 @@ Dunkle is **Scandinavian**, not Japanese, and lives on an unspecified Scandinavi
 
 The source repository’s `Kyouka Family & Gym Gals — Character Bible.docx` could not be fetched as binary through the available GitHub file reader. Accordingly, `CHARACTER_BIBLE_REBUILT.docx` is a **newly assembled canon reference** based on the accessible character bios and world description, not a claim to have edited the original DOCX in place. The project includes a text world bible and expanded character biographies. Facts that were open in the source remain open here.
 
-## Publishing to a new GitHub repository
+## Repository status
 
-GitHub integration in this environment has no **create new repository** action, so the files are built as a local git repository. Create a blank private GitHub repo, then:
-
-```bash
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-NEW-REPO.git
-git branch -M main
-git push -u origin main
-```
+This project is published at [mr_E-Janitor-ai-world-Rendition](https://github.com/mreaster2000/mr_E-Janitor-ai-world-Rendition). The original project remains unchanged.
 
 There are **no first messages** in this package, per creator preference.
 
