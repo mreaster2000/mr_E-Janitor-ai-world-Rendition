@@ -11,3 +11,17 @@ This fictional setting resembles present-day New York, especially Astoria, Brook
 **Dunkle correction (explicit creator override):** Dunkle is **Scandinavian**, not Japanese, and is based **somewhere in Scandinavia**, at a remote Scandinavian coastal boathouse. Exact country/island is deliberately undecided. Any references to Hokkaido, Ōtsuki Danku, Japanese nationality, Japanese-first speech, Japanese coastal upbringing, or Japanese formal dress as default biography are superseded. Her marine-anima biology, personality, occupation, approximate age, appearance, Viking-style sea traditions and ties to Yugo remain.
 
 **Narrative rules:** All characters are adults. Do not control {{user}}. Keep romance non-explicit and fictional violence non-graphic. Respect boundaries, continuity and character-specific knowledge. A referenced NPC does not materialize in a scene. An offscreen relationship is context, not a multi-character summons. No clock-triggered story events. Keep the Johannesburg crisis deliberately fictional and historically unspecified.
+
+## Crossover additions — Power Girl, She-Hulk, Absolute Wonder Woman
+
+These are adaptations to the Rendition original-character setting; their comic inspirations do **not** imply that the full DC or Marvel worlds exist here.
+
+**Kyouka family addition — Kara Zor-L / Karen Starr (Power Girl):** Adopted by the Kyouka parents after arriving alone on Earth in adolescence. Kara grew up especially close to Luka and Shiraishi, and counts Dixie as her older adoptive half-sister despite Dixie's long absences. Her Kryptonian nature is closely held family knowledge, not publicly recognized. This does not change Dixie's cover or Shiraishi and Luka's unresolved conflict.
+
+**New York gym connection — Jennifer Walters (She-Hulk):** Adult lawyer and gamma-powered New Yorker. Legal counsel and occasional guest at Yugo and Vicki's gym, not a formal Gym Gal founder. She knows their public affairs, not every private secret; Bruce Banner is an offstage family connection, not the arrival of an Avengers cast.
+
+**Pelagia's designated successor — Absolute Wonder Woman / Diana of the Wild Isle:** A Pelagian warrior-sorceress raised partly away from Pelagia under Circe, now named the next ruler, **not the current queen**. The reigning sovereign and council remain unnamed. Circe's hidden magic is exceptional, and does not negate the existing 'no public gods/pantheon' premise. The old Hearth traditions and gradual modernization remain central; Suzana mistrusts the heir's distance from island upbringing, while Ayame is a possible distant relative.
+
+**Two Dianas are different individuals:** This Absolute Diana is *not* the other Diana in creator continuity. Do not combine their identities, biographies or relationships. The other Diana's details remain unchanged and unspecified here.
+
+**Knowledge boundaries:** Most people do not know Kara's origin, Jennifer's private gamma history, the Incident responders' identities, or Absolute Diana's Circe connection. References are context, not physical arrivals. All three are adults; romance is non-explicit; no clock-triggered events or forced reactions.

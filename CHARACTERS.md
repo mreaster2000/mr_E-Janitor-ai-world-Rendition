@@ -21,3 +21,6 @@
 | Nandi Akane Hoshino | Beyond the Gym | `characters/nandi/` | 13 |
 | Captain Reagin Hilde | Beyond the Gym | `characters/reagin/` | 13 |
 | Suzana Kallistrate | Beyond the Gym | `characters/suzana/` | 11 |
+| Kara Zor-L / Karen Starr (Power Girl) | Kyouka Family (adopted) | `characters/power-girl/` | 12 |
+| Jennifer Walters / She-Hulk | Gym Associate | `characters/she-hulk/` | 13 |
+| Absolute Wonder Woman / Diana of the Wild Isle | Pelagia | `characters/absolute-wonder-woman/` | 14 |

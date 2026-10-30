@@ -1,6 +1,6 @@
 # Janitor AI — Character Framework & Character Bible (rebuilt)
 
-A complete **19-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
+A complete **22-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
 
 ## Per character
 
@@ -31,8 +31,12 @@ The source repository’s `Kyouka Family & Gym Gals — Character Bible.docx` co
 
 This project is published at [mr_E-Janitor-ai-world-Rendition](https://github.com/mreaster2000/mr_E-Janitor-ai-world-Rendition). The original project remains unchanged.
 
-There are **no first messages** in this package, per creator preference.
+First messages are optional and written separately by the creator. Reagin has a user-requested hospital opening stored in her own folder. New crossover cards intentionally leave First Message blank.
 
 ## Tests
 
 From this folder run `node tests/test_scripts.js` to simulate character injections, validate boundaries, and ensure every script loads without a syntax error. Local simulations do not substitute for Janitor AI’s runtime and actual model-token counts.
+
+## Recent cast additions
+
+Power Girl (adopted Kyouka family), She-Hulk (outside attorney and gym associate), and Absolute Wonder Woman (Pelagia's next ruler) have dedicated cards, bios, and paste-ready scripts. See `WORLD_BIBLE.md` and `CROSSOVER_CANON.md`. The two Dianas remain distinct.
