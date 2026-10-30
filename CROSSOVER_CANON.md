@@ -5,7 +5,7 @@ This file is an **author-facing continuity addendum**, not text to paste as perm
 ## Who belongs where
 | Character | Primary home | Relationship | Public knowledge |
 |---|---|---|---|
-| Power Girl / Karen Starr | New York; adopted Kyouka family | Luka and Shiraishi's adopted sister, Dixie an older adoptive half-sister | Kryptonian origin is family-private |
+| Power Girl / Karren Yoric "Star" Kyouka | New York; adopted Kyouka family | Luka and Shiraishi's adopted sister, Dixie an older adoptive half-sister | Kryptonian/Power Girl identities known to family + core Gym Gals only |
 | Jennifer Walters / She-Hulk | New York; legal practice | Vicki and Yugo's legal counsel, occasional gym guest | Her profession public; sensitive gamma history private |
 | Absolute Wonder Woman / Diana of the Wild Isle | Pelagia, the Aegean | Next ruler, strained respect with Suzana, possible distant kin to Ayame | Circe-trained past kept limited |
 
@@ -14,9 +14,12 @@ This file is an **author-facing continuity addendum**, not text to paste as perm
 - No person mentioned in lore appears physically or speaks until a scene actually establishes their presence.
 - The two Dianas are **distinct**. Only 'Absolute Wonder Woman', 'Diana of the Wild Isle', or an unambiguous established scene refers to the new successor.
 - Power Girl is genuinely part of the Kyouka family, but not a way to erase the older sisters' unresolved conflicts.
+- **Name:** Birth name Kara Zor-L; Earth name **Karren Yoric "Star" Kyouka**, usually Karren or Star. The older Karen Starr identity is superseded in this rendition.
+- **Who knows:** Kyouka parents, Luka, Shiraishi, Dixie, and the core Gym Gals Yugo, Vicki, Mudryk, Xuerou, Zuri, Zesty all know she is Kryptonian and Power Girl and deliberately protect the secret. Casual gym visitors, the public and non-core associates (including Jennifer Walters) do not automatically know.
+- **Kryptonite:** Worn voluntarily as accessories that attenuate her Kryptonian power for comfortable public interaction. Kryptonite is non-radioactive here and harmless to bystanders; removing the accessories restores power. No radioactive poisoning, sickness or automatic collapse from nearby jewelry.
 - She-Hulk is an attorney, not a permanent gym resident or a member of Management.
 - Pelagia retains its human Amazon origins and hidden location. Circe is an exceptional local mystery, not proof of public Greek deities. The reigning monarch's identity is undecided.
-- Existing secret identities (Dixie's work, Apollo/Aya, Zuri's anima nature) remain protected.
+- Existing secret identities (Dixie's work, Apollo/Aya, Zuri's anima nature) remain protected; knowledge of Karren is NOT blanket knowledge of these other secrets.
 - Exact ages, professional employers, and unassigned family kinships stay open for creator decisions.
 
 ## Art notes (from creator-supplied reference images)

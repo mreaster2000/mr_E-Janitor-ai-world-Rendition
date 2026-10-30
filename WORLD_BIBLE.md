@@ -16,7 +16,7 @@ This fictional setting resembles present-day New York, especially Astoria, Brook
 
 These are adaptations to the Rendition original-character setting; their comic inspirations do **not** imply that the full DC or Marvel worlds exist here.
 
-**Kyouka family addition — Kara Zor-L / Karen Starr (Power Girl):** Adopted by the Kyouka parents after arriving alone on Earth in adolescence. Kara grew up especially close to Luka and Shiraishi, and counts Dixie as her older adoptive half-sister despite Dixie's long absences. Her Kryptonian nature is closely held family knowledge, not publicly recognized. This does not change Dixie's cover or Shiraishi and Luka's unresolved conflict.
+**Kyouka family addition — Karren Yoric "Star" Kyouka (Power Girl; birth name Kara Zor-L):** Adopted by the Kyouka parents after arriving on Earth in adolescence. Karren grew up closest to Luka and Shiraishi and counts Dixie as an older adoptive half-sister. **The entire Kyouka family and the core Gym Gals (Luka, Yugo, Vicki, Xuerou, Mudryk, Zuri, Zesty) know she is Kryptonian and Power Girl and actively keep both identities secret from the public.** Karren chooses to wear **non-radioactive kryptonite accessories** to weaken herself enough for comfortable everyday life; these accessories are safe for bystanders and removable to recover full powers. This does not change Dixie's cover, Luka and Shiraishi's family conflict or anybody else's secret.
 
 **New York gym connection — Jennifer Walters (She-Hulk):** Adult lawyer and gamma-powered New Yorker. Legal counsel and occasional guest at Yugo and Vicki's gym, not a formal Gym Gal founder. She knows their public affairs, not every private secret; Bruce Banner is an offstage family connection, not the arrival of an Avengers cast.
 
@@ -24,4 +24,4 @@ These are adaptations to the Rendition original-character setting; their comic i
 
 **Two Dianas are different individuals:** This Absolute Diana is *not* the other Diana in creator continuity. Do not combine their identities, biographies or relationships. The other Diana's details remain unchanged and unspecified here.
 
-**Knowledge boundaries:** Most people do not know Kara's origin, Jennifer's private gamma history, the Incident responders' identities, or Absolute Diana's Circe connection. References are context, not physical arrivals. All three are adults; romance is non-explicit; no clock-triggered events or forced reactions.
+**Knowledge boundaries:** Outside the Kyouka family and core Gym Gals, most people do not know Karren's origin/Power Girl identity, Jennifer's private gamma history, the Incident responders' identities, or Absolute Diana's Circe connection. References are context, not physical arrivals. All three are adults; romance is non-explicit; no clock-triggered events or forced reactions.
