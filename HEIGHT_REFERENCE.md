@@ -13,7 +13,7 @@ These are current card heights. They supersede earlier approximate measurements 
 | Zuri | 7′5″ |
 | Dixie | 7′0″ |
 | Shiraishi | 7′2″ |
-| Power Girl / Karren | 7′4″ |
+| Power Girl / Karren | 7′0″ (same as Luka) |
 | Absolute Wonder Woman | 7′8″ |
 | Apollyon | 7′9″ |
 | Phœbe | 8′0″ |
