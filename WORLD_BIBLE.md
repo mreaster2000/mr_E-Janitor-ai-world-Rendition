@@ -51,3 +51,8 @@ These are adaptations to the Rendition original-character setting; their comic i
 ## Where the cast belongs
 
 The 28 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `gym-gals/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
+
+
+## Size and height continuity
+
+Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 28 revised character heights. Animal-anima characters generally stand much taller than the gym residents, with Zuri intentionally staying 7′5″. Yamato's coils, Nandi's horns, and Apollo's multiple bodies need special treatment. Older approximate sizes in biographies are superseded where inconsistent.

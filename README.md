@@ -58,3 +58,7 @@ Older flat `characters/<slug>/...` links have been moved. Use [the migration map
 ## Current canon sources
 
 `WORLD_BIBLE.md` and `CROSSOVER_CANON.md` are kept current with the 28-character roster, including Yamato's couture commissions through Yugo. The older `CHARACTER_BIBLE_REBUILT.docx` predates these additions and should be treated as a historical snapshot until replaced; the Markdown files are authoritative.
+
+## Character card consistency
+
+All 28 cards have been rewritten with more consistent descriptive depth, distinct dialogue styles and explicit heights. See [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) for the canonical measurements. The older bios may retain outdated approximate phrasing, so the new card and height reference take precedence. Advanced Scripts and First Messages were not changed during this pass.
