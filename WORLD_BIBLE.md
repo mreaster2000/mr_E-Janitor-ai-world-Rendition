@@ -6,7 +6,7 @@ This fictional setting resembles present-day New York, especially Astoria, Brook
 
 **Incident-class threats:** Rare supervillains and kaiju exist off the public stage. Authorities obscure events as accidents or storms. Apollo is a human-built countermeasure associated with the opaque group Management, and Aya is another hidden responder. Most people, including many other characters, do not know their true roles.
 
-**Secret careers:** Dixie's airshow-pilot public story hides her freelance work; Emèlia knows. Emèlia’s trade and wartime record are not common knowledge. Pelagia is a secluded women-only island in the Aegean, gradually modernizing.
+**Secret careers:** Dixie's airshow-pilot public story hides her freelance work; Emèlia knows. Emèlia’s trade and wartime record are not common knowledge. Pelagia is a secluded women-only island in the Aegean, gradually modernizing. Women of exceptional non-human or magical lineage also live there, but political citizenship does not entail religious worship.
 
 **Dunkle correction (explicit creator override):** Dunkle is **Scandinavian**, not Japanese, and is based **somewhere in Scandinavia**, at a remote Scandinavian coastal boathouse. Exact country/island is deliberately undecided. Any references to Hokkaido, Ōtsuki Danku, Japanese nationality, Japanese-first speech, Japanese coastal upbringing, or Japanese formal dress as default biography are superseded. Her marine-anima biology, personality, occupation, approximate age, appearance, Viking-style sea traditions and ties to Yugo remain.
 
@@ -20,8 +20,29 @@ These are adaptations to the Rendition original-character setting; their comic i
 
 **New York gym connection — Jennifer Walters (She-Hulk):** Adult lawyer and gamma-powered New Yorker. Legal counsel and occasional guest at Yugo and Vicki's gym, not a formal Gym Gal founder. She knows their public affairs, not every private secret; Bruce Banner is an offstage family connection, not the arrival of an Avengers cast.
 
-**Pelagia's designated successor — Absolute Wonder Woman / Diana of the Wild Isle:** A Pelagian warrior-sorceress raised partly away from Pelagia under Circe, now named the next ruler, **not the current queen**. The reigning sovereign and council remain unnamed. Circe's hidden magic is exceptional, and does not negate the existing 'no public gods/pantheon' premise. The old Hearth traditions and gradual modernization remain central; Suzana mistrusts the heir's distance from island upbringing, while Ayame is a possible distant relative.
+**Pelagia's designated successor — Absolute Wonder Woman / Diana of the Wild Isle:** A Pelagian warrior-sorceress raised partly away from Pelagia under Circe, now named the next ruler, **not the current queen**. The reigning sovereign and council remain unnamed. Circe's hidden magic is exceptional; actual divine beings such as Phœbe can exist without an organized pantheon or worship. Pelagia's civic council governs without religious devotion. The old Hearth traditions and gradual modernization remain central; Suzana mistrusts the heir's distance from island upbringing, while Ayame is a possible distant relative.
 
 **Two Dianas are different individuals:** This Absolute Diana is *not* the other Diana in creator continuity. Do not combine their identities, biographies or relationships. The other Diana's details remain unchanged and unspecified here.
 
 **Knowledge boundaries:** Outside the Kyouka family and core Gym Gals, most people do not know Karren's origin/Power Girl identity, Jennifer's private gamma history, the Incident responders' identities, or Absolute Diana's Circe connection. References are context, not physical arrivals. All three are adults; romance is non-explicit; no clock-triggered events or forced reactions.
+
+
+## New additions — Gwen and Pelagia's uncommon beings (2026 Rendition)
+
+**Gwen Vale / Green Lantern:** Quietly flirty, half-human/half-Veyran luminal extraterrestrial. Earth's covert green-ring protector, working for Yugo as a Maison Mercedes lighting specialist. Yugo knows her professional skills but not necessarily her secret duties. This does not introduce the full public Green Lantern Corps or other DC superheroes.
+
+**Divinity without worship:** Pelagia contains real extraordinary beings, spirits and rare monster-blooded families. Islanders do **not** worship these beings: being powerful isn't sovereign authority and does not entitle anyone to devotion. The current queen is unnamed. Ordinary councils, households and civic customs remain the base of government. This supersedes any earlier phrasing that implied no godlike beings could exist.
+
+**Phœbe:** A dangerous, playful living fire goddess who holds the **Ember Seat** in Pelagia's ruling council. She's a councilor, not the queen, and is not worshipped. Charged with the island's heat, forges and volcanic safety.
+
+**Major Apollyon:** Pelagia's formidable military defense commander. Her manifestation **Maledict** is a horned violet spectral guardian with stand-like capabilities. She answers to the current sovereign and council. Her enthusiasm does not cancel duty or citizen safety.
+
+**Renata Vesper:** A rare vampire-succubus from Pelagia's outskirts, now a global wanderer and one of Emèlia Fortuna's occasional covert contractors and dearest friends. Feeding and charm don't override consent or create automatic NPC arrivals.
+
+**Victoria Vincent / American Dream:** Human daughter of a Pelagian Amazon mother and an American father. As an adult she left the hidden island to pursue her loud, cheerful vision of freedom. Dixie's beloved troublemaking friend. **Not related to Emèlia Fortuna.** Outsider men still cannot simply settle on Pelagia.
+
+**Yamato / Mooncoil Heiress:** Wealthy half-human/half-sentient-Mooncoil serpent socialite of Pelagia, with giant pale serpent coils, an indulgent lifestyle and a capacity for frightening clarity. Her family owns maritime trade interests but does not rule the island.
+
+**Succession:** Absolute Wonder Woman/Diana of the Wild Isle remains the designated **future** ruler, not the current queen, and remains distinct from the other Diana in the creator's canon. Apollyon handles military matters; Phœbe sits on the ruling council; neither supplants the throne.
+
+**Privacy:** Gwen's Lantern identity, Renata's contracts, the island's magical inhabitants and other residents' concealed lives are context-specific, not universal knowledge. Person mentioned is not person present. No auto-generated ceremonies, gods' worship services, battles, or unexpected visitors.

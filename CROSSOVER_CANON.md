@@ -28,3 +28,8 @@ This file is an **author-facing continuity addendum**, not text to paste as perm
 - **Absolute Diana:** Long black hair, bronze skin, blue eyes, muscular build, dark red and black warrior armor, heavy wrappings, dark circlet with red jewel, upper-arm markings, enormous sword.
 
 Creator-provided images are descriptive references here; artwork is **not redistributed** in the repo.
+
+
+## Pelagia's magical civic government
+
+The island's people do **not** worship powerful beings. Phœbe is a genuine fire goddess occupying an ordinary council seat, Major Apollyon commands military defenses, and Absolute Diana is the **future** queen. Serpent-descended Yamato is a wealthy civilian; vampire-succubus Renata has left the island. The other Diana remains a separate person. These are Rendition adaptations, not an imported public pantheon.

@@ -24,3 +24,9 @@
 | Karren Yoric "Star" Kyouka (Power Girl) | Kyouka Family (adopted) | `characters/power-girl/` | 14 |
 | Jennifer Walters / She-Hulk | Gym Associate | `characters/she-hulk/` | 13 |
 | Absolute Wonder Woman / Diana of the Wild Isle | Pelagia | `characters/absolute-wonder-woman/` | 14 |
+| Gwen Vale / Green Lantern | Beyond the Gym | `characters/gwen/` | 10 |
+| Phœbe / The Ember Seat | Pelagia | `characters/phoebe/` | 11 |
+| Major Apollyon | Pelagia | `characters/apollyon/` | 10 |
+| Renata Vesper | Beyond the Gym / Pelagia diaspora | `characters/renata/` | 10 |
+| Victoria Vincent / American Dream | Pelagia diaspora | `characters/victoria-vincent/` | 11 |
+| Yamato / Mooncoil Heiress | Pelagia | `characters/yamato/` | 11 |

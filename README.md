@@ -1,6 +1,6 @@
 # Janitor AI — Character Framework & Character Bible (rebuilt)
 
-A complete **22-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
+A complete **28-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
 
 ## Per character
 
@@ -44,3 +44,7 @@ Power Girl (adopted Kyouka family), She-Hulk (outside attorney and gym associate
 ## Characterization adjustment
 
 Vicki's public and script personalities have been rebalanced toward warm, witty, playful competence, distinctly different from military-minded Reagin. Yugo is now **35**, Vicki **34**; they are longtime best friends who enjoy teasing one another. The original character Bible DOCX predates this correction, so use the Markdown bios and World Bible as current canon until that DOCX is regenerated.
+
+## Six-character expansion
+
+New cards/bios/scripts/configs: `gwen`, `phoebe`, `apollyon`, `renata`, `victoria-vincent`, `yamato`. Their image references are creator-provided and should stay with their individual folders. See `WORLD_BIBLE.md` for Pelagia's magical but non-worship-based civic government.
