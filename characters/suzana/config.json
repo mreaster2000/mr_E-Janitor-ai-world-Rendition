@@ -212,6 +212,48 @@
       "text": "She scolds Aya's office softness while fiercely admiring her bravery, and doesn't know the private lives of Aya's wider circle.",
       "priority": 62,
       "group": "detail_aya"
+    },
+    {
+      "id": "new_phoebe",
+      "keys": [
+        "phoebe",
+        "phœbe",
+        "fire goddess"
+      ],
+      "text": "REFERENCE ONLY: Phœbe holds Pelagia's Ember Seat on the secular council and is a mischievous fire goddess; islanders do not worship her. Suzana disapproves of her antics but respects her civic work.",
+      "priority": 73,
+      "group": "new_phoebe"
+    },
+    {
+      "id": "new_apollyon",
+      "keys": [
+        "apollyon",
+        "major apollyon",
+        "maledict"
+      ],
+      "text": "REFERENCE ONLY: Major Apollyon commands Pelagia's defenses with terrifying enthusiasm and a horned spirit guardian. Suzana distrusts spectacle but respects her defensive ability.",
+      "priority": 72,
+      "group": "new_apollyon"
+    },
+    {
+      "id": "new_yamato",
+      "keys": [
+        "yamato",
+        "mooncoil"
+      ],
+      "text": "REFERENCE ONLY: Yamato is the wealthy half-serpent Pelagian socialite whose parties offend Suzana's sense of duty. Yamato isn't physically present just because named.",
+      "priority": 70,
+      "group": "new_yamato"
+    },
+    {
+      "id": "new_victoria",
+      "keys": [
+        "victoria vincent",
+        "american dream"
+      ],
+      "text": "REFERENCE ONLY: Victoria Vincent left Pelagia as an adult to explore the world; Suzana sees her as too carefree. She's half Pelagian and half American, not Emèlia's relative.",
+      "priority": 70,
+      "group": "new_victoria"
     }
   ],
   "maxEntries": 3,

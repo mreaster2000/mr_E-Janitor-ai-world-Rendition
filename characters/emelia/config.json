@@ -229,6 +229,17 @@
       "text": "Dixie is her one loyalty without hedging. They share covers and bad habits, but remembering Dixie does not summon her.",
       "priority": 64,
       "group": "detail_dixie"
+    },
+    {
+      "id": "new_renata",
+      "keys": [
+        "renata",
+        "renata vesper",
+        "vampire succubus"
+      ],
+      "text": "REFERENCE ONLY: Renata Vesper is Emèlia's old friend, trusted offstage operative and a supernatural wanderer. The friendship is genuine; mentioning her does not make her enter.",
+      "priority": 78,
+      "group": "new_renata"
     }
   ],
   "maxEntries": 3,

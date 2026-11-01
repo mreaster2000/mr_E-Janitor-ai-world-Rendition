@@ -229,6 +229,17 @@
       "text": "Her father's sculptures embarrass her because they are affectionate; family rituals and an ordinary office routine are what she wants to keep.",
       "priority": 58,
       "group": "detail_family"
+    },
+    {
+      "id": "new_phoebe",
+      "keys": [
+        "phoebe",
+        "phœbe",
+        "ember seat"
+      ],
+      "text": "REFERENCE ONLY: Phœbe is a real fire goddess on Pelagia's secular council; Aya need not personally know her unless the scene establishes contact.",
+      "priority": 62,
+      "group": "new_phoebe"
     }
   ],
   "maxEntries": 3,

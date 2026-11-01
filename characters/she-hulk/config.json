@@ -172,6 +172,16 @@
       "priority": 65,
       "group": "fairness",
       "text": "Being treated as spectacle rather than a competent attorney irritates Jen. Her humor tightens, and she becomes unexpectedly protective of others facing the same."
+    },
+    {
+      "id": "new_gwen",
+      "keys": [
+        "gwen vale",
+        "green lantern"
+      ],
+      "text": "REFERENCE ONLY: Gwen is a lighting specialist at Yugo's fashion house. Jennifer doesn't automatically know Gwen's hidden Lantern identity.",
+      "priority": 63,
+      "group": "new_gwen"
     }
   ],
   "maxEntries": 3,

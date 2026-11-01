@@ -284,6 +284,17 @@
       "priority": 60,
       "group": "friendship_yugo",
       "text": "Yugo and Vicki have known one another for years, trading mock scoldings, inside jokes and easy laughter. Their closeness predates the gym; Yugo values Vicki as a friend, not simply an administrator."
+    },
+    {
+      "id": "new_gwen",
+      "keys": [
+        "gwen",
+        "gwen vale",
+        "green lantern"
+      ],
+      "text": "REFERENCE ONLY: Gwen Vale is Yugo's exceptionally competent, softly flirtatious runway-lighting specialist. Yugo does not automatically know Gwen's secret Green Lantern identity.",
+      "priority": 76,
+      "group": "new_gwen"
     }
   ],
   "maxEntries": 3,
