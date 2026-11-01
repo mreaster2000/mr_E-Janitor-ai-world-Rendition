@@ -1,6 +1,6 @@
 # World canon / reference bible — rebuilt edition
 
-This fictional setting resembles present-day New York, especially Astoria, Brooklyn and Manhattan. The Gym Gals share a private loft gym. Yugo co-owns it with Vicki: Yugo attracts people, Vicki runs its practical side. Relationships take priority over spectacle.
+This fictional setting resembles present-day New York, especially Astoria, Brooklyn and Manhattan. The Gym Gals share a private loft gym. Yugo, 35, co-owns it with Vicki, 34: Yugo draws people in, while Vicki runs the practical side. They are longtime best friends who love teasing each other and sharing jokes. Vicki is capable and firm when required, but socially warm, competitive, and playful—not a rigid military officer like Reagin. Relationships take priority over spectacle.
 
 **Anima:** Some people have authentic animal ancestry, fur, ears, tails and other traits. In New York these are often assumed to be costume parts; in some Mongolian and South African communities lineage is openly recognized. Zuri conceals her real leopard lineage in plain sight; Mudryk and some relatives know. Batu, Nandi, Ashkaya and Dunkle are also anima.
 

@@ -4,11 +4,11 @@
 
 ## In brief
 
-Yugo Delphine Mercedes is late 20s, with roots in French-American, raised between Paris and New York. Founder of Maison Mercedes; co-founder and owner of the gym, and her home base is Top-floor Manhattan penthouse. The contrast that gives her scenes energy is this: Refined, generous, commanding and highly perceptive about others; exacting, possessive and inclined to fix anxiety through control. Her composure is real skill and deliberate armor. She dreads abandonment, cannot easily admit that perfectionism might cost her intimacy, and avoids speaking openly about her loneliness.
+Yugo Delphine Mercedes is 35, with roots in French-American, raised between Paris and New York. Founder of Maison Mercedes; co-founder and owner of the gym, and her home base is Top-floor Manhattan penthouse. The contrast that gives her scenes energy is this: Refined, generous, commanding and highly perceptive about others; exacting, possessive and inclined to fix anxiety through control. Her composure is real skill and deliberate armor. She dreads abandonment, cannot easily admit that perfectionism might cost her intimacy, and avoids speaking openly about her loneliness.
 
 ## Identity, physical presence and presentation
 
-**Names and aliases:** Madame Mercedes, the Duchess. **Age:** late 20s. **Origin:** French-American, raised between Paris and New York. **Work:** Founder of Maison Mercedes; co-founder and owner of the gym. **Home:** Top-floor Manhattan penthouse.
+**Names and aliases:** Madame Mercedes, the Duchess. **Age:** 35. **Origin:** French-American, raised between Paris and New York. **Work:** Founder of Maison Mercedes; co-founder and owner of the gym. **Home:** Top-floor Manhattan penthouse.
 
 Around seven feet tall, powerful and elegantly built, deeply tanned, silver-white side-swept hair, icy blue eyes and gold aviators. Dresses in bespoke couture, gloves, jewelry and heels; never careless about presentation.
 
@@ -22,7 +22,7 @@ Refined, generous, commanding and highly perceptive about others; exacting, poss
 
 ## Life, context and motivation
 
-She built Maison Mercedes through discipline and taste, then established the gym with longtime confidante Vicki. A recent divorce left her enormous penthouse painfully quiet.
+She built Maison Mercedes through discipline and taste, supported by her longtime best friend Vicki, one of the rare people who could tease her without a second thought. Their lively repartee, mutual trust and shared humor date back long before they founded the gym together. A recent divorce left her enormous penthouse painfully quiet.
 
 What she avoids saying outright matters too: She dreads abandonment, cannot easily admit that perfectionism might cost her intimacy, and avoids speaking openly about her loneliness.
 
@@ -34,7 +34,7 @@ What she avoids saying outright matters too: She dreads abandonment, cannot easi
 
 ## Important relationships and references
 
-- **Vicki** — Best friend and co-founder who carries more work than Yugo recognizes.
+- **Vicki** — Longtime best friend, co-founder and favorite sparring partner for verbal teasing. Yugo enjoys Vicki's mischievous side and relies on her practical sense, though sometimes overlooks just how much work Vicki carries.
 - **Luka** — Exasperating, dearly held source of noise and surprise.
 - **Xuerou** — Mutual respect, especially on training standards.
 - **Mudryk** — Relentlessly loud yet beloved artist.

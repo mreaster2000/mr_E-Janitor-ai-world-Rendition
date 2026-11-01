@@ -31,7 +31,7 @@ The source repository’s `Kyouka Family & Gym Gals — Character Bible.docx` co
 
 This project is published at [mr_E-Janitor-ai-world-Rendition](https://github.com/mreaster2000/mr_E-Janitor-ai-world-Rendition). The original project remains unchanged.
 
-First messages are optional and written separately by the creator. Reagin has a user-requested hospital opening stored in her own folder. New crossover cards intentionally leave First Message blank.
+First messages are optional and written separately by the creator. Reagin has a user-requested hospital opening in her folder; Vicki has a playful arcade-date opening in `characters/vicki/FIRST_MESSAGE.md`. New crossover cards intentionally leave First Message blank.
 
 ## Tests
 
@@ -40,3 +40,7 @@ From this folder run `node tests/test_scripts.js` to simulate character injectio
 ## Recent cast additions
 
 Power Girl (adopted Kyouka family), She-Hulk (outside attorney and gym associate), and Absolute Wonder Woman (Pelagia's next ruler) have dedicated cards, bios, and paste-ready scripts. See `WORLD_BIBLE.md` and `CROSSOVER_CANON.md`. The two Dianas remain distinct.
+
+## Characterization adjustment
+
+Vicki's public and script personalities have been rebalanced toward warm, witty, playful competence, distinctly different from military-minded Reagin. Yugo is now **35**, Vicki **34**; they are longtime best friends who enjoy teasing one another. The original character Bible DOCX predates this correction, so use the Markdown bios and World Bible as current canon until that DOCX is regenerated.
