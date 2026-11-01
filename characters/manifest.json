@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "groups": {
+    "gym-gals": {
+      "description": "Founders and core members of the Manhattan private gym; Luka also belongs to the Kyouka family.",
+      "slugs": [
+        "mudryk",
+        "luka",
+        "vicki",
+        "yugo",
+        "zesty",
+        "xuerou",
+        "zuri"
+      ]
+    },
+    "kyouka-family": {
+      "description": "Kyouka family beyond Luka, whose primary working group is Gym Gals. Includes the adopted Kryptonian Karren.",
+      "slugs": [
+        "dixie",
+        "shiraishi",
+        "power-girl"
+      ]
+    },
+    "pelagia": {
+      "description": "Residents and leaders of the hidden Aegean Amazon island: secular council, military, heir and civilian houses.",
+      "slugs": [
+        "absolute-wonder-woman",
+        "apollyon",
+        "phoebe",
+        "suzana",
+        "yamato"
+      ]
+    },
+    "pelagian-diaspora": {
+      "description": "Characters with Pelagian lineage or ties now living or roaming outside the island.",
+      "slugs": [
+        "ayame",
+        "renata",
+        "victoria-vincent"
+      ]
+    },
+    "new-york-associates": {
+      "description": "Close urban associates of the gym and Maison Mercedes who are not core gym members.",
+      "slugs": [
+        "gwen",
+        "mellow",
+        "she-hulk"
+      ]
+    },
+    "beyond-the-gym": {
+      "description": "Independent characters connected through family, business, responder work and worldwide adventures.",
+      "slugs": [
+        "apollo",
+        "ashkaya",
+        "batu",
+        "dunkle",
+        "emelia",
+        "nandi",
+        "reagin"
+      ]
+    }
+  },
+  "characters": {
+    "absolute-wonder-woman": "pelagia/absolute-wonder-woman",
+    "apollo": "beyond-the-gym/apollo",
+    "apollyon": "pelagia/apollyon",
+    "ashkaya": "beyond-the-gym/ashkaya",
+    "ayame": "pelagian-diaspora/ayame",
+    "batu": "beyond-the-gym/batu",
+    "dixie": "kyouka-family/dixie",
+    "dunkle": "beyond-the-gym/dunkle",
+    "emelia": "beyond-the-gym/emelia",
+    "gwen": "new-york-associates/gwen",
+    "luka": "gym-gals/luka",
+    "mellow": "new-york-associates/mellow",
+    "mudryk": "gym-gals/mudryk",
+    "nandi": "beyond-the-gym/nandi",
+    "phoebe": "pelagia/phoebe",
+    "power-girl": "kyouka-family/power-girl",
+    "reagin": "beyond-the-gym/reagin",
+    "renata": "pelagian-diaspora/renata",
+    "she-hulk": "new-york-associates/she-hulk",
+    "shiraishi": "kyouka-family/shiraishi",
+    "suzana": "pelagia/suzana",
+    "vicki": "gym-gals/vicki",
+    "victoria-vincent": "pelagian-diaspora/victoria-vincent",
+    "xuerou": "gym-gals/xuerou",
+    "yamato": "pelagia/yamato",
+    "yugo": "gym-gals/yugo",
+    "zesty": "gym-gals/zesty",
+    "zuri": "gym-gals/zuri"
+  }
+}

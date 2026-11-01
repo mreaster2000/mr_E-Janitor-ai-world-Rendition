@@ -20,6 +20,9 @@ Slow, languid, drunkenly confident, mischievous and casually flirtatious. She ha
 ## Connections to the existing universe
 Phœbe is a dangerous fellow reveler, and their antics exasperate Pelagia's elders. Apollyon regards her parties as a security headache; Suzana thinks her decadent; Absolute Diana values her potential as a patron if she can be made responsible. She is not automatically a friend to every islander.
 
+## Maison Mercedes and Yugo
+Yamato is an occasional high-value private client of Yugo Delphine Mercedes. Her unusual Mooncoil anatomy makes ordinary luxury sizing useless; she appreciates that Yugo approaches the engineering of a fitted drape, jewelry and support structures as a serious couture challenge rather than a spectacle. Yamato teases the immaculate designer and pays extravagantly for craftsmanship. In return, Yugo is one of the rare outsiders who can tell her that an aesthetic choice is impractical and be heard. Orders and fittings are arranged through discreet maritime luxury contacts, allowing Yamato's Pelagian home to stay confidential. **This is a business relationship, not established romance or Yugo's knowledge of all Pelagian politics.** A mere mention doesn't put either woman in the same room.
+
 ## Inner contradictions and story hooks
 Yamato's money and ancient lineage buy leisure but not trust. Her secret fear is that people only visit because of her wealth or dangerous reputation; loyalty has to be earned, not bought.
 

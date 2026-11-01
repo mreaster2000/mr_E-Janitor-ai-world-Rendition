@@ -1,32 +1,82 @@
-# Character roster
+# Character roster — 28 characters
 
-| Character | Category | Folder | Conditional entries |
-|---|---|---|---:|
-| Bukayo Ollie Mudryk | Gym Gals | `characters/mudryk/` | 16 |
-| Luka Yoric Kyouka | Gym Gals | `characters/luka/` | 17 |
-| Victoria Soledad Van Rosetti | Gym Gals | `characters/vicki/` | 17 |
-| Yugo Delphine Mercedes | Gym Gals | `characters/yugo/` | 18 |
-| Zesty Jesus | Gym Gals | `characters/zesty/` | 15 |
-| Zhang Xuerou | Gym Gals | `characters/xuerou/` | 15 |
-| Zuri Lerato Amara | Gym Gals | `characters/zuri/` | 14 |
-| Dixie Yoric Kyouka | Siblings | `characters/dixie/` | 15 |
-| Mellow Judas | Siblings | `characters/mellow/` | 13 |
-| Shiraishi Yoric Kyouka | Siblings | `characters/shiraishi/` | 14 |
-| Marigold “Goldie” Ashe / Apollo | Beyond the Gym | `characters/apollo/` | 13 |
-| Ashkaya | Beyond the Gym | `characters/ashkaya/` | 12 |
-| Ayame Hoshikawa | Beyond the Gym | `characters/ayame/` | 13 |
-| Dunkle | Beyond the Gym | `characters/dunkle/` | 13 |
-| Emèlia Fortuna | Beyond the Gym | `characters/emelia/` | 13 |
-| Ganbold Batkhulan | Beyond the Gym | `characters/batu/` | 11 |
-| Nandi Akane Hoshino | Beyond the Gym | `characters/nandi/` | 13 |
-| Captain Reagin Hilde | Beyond the Gym | `characters/reagin/` | 13 |
-| Suzana Kallistrate | Beyond the Gym | `characters/suzana/` | 11 |
-| Karren Yoric "Star" Kyouka (Power Girl) | Kyouka Family (adopted) | `characters/power-girl/` | 14 |
-| Jennifer Walters / She-Hulk | Gym Associate | `characters/she-hulk/` | 13 |
-| Absolute Wonder Woman / Diana of the Wild Isle | Pelagia | `characters/absolute-wonder-woman/` | 14 |
-| Gwen Vale / Green Lantern | Beyond the Gym | `characters/gwen/` | 10 |
-| Phœbe / The Ember Seat | Pelagia | `characters/phoebe/` | 11 |
-| Major Apollyon | Pelagia | `characters/apollyon/` | 10 |
-| Renata Vesper | Beyond the Gym / Pelagia diaspora | `characters/renata/` | 10 |
-| Victoria Vincent / American Dream | Pelagia diaspora | `characters/victoria-vincent/` | 11 |
-| Yamato / Mooncoil Heiress | Pelagia | `characters/yamato/` | 11 |
+Characters have one canonical folder each. Linked relationships are explained in the biographies; primary folder placement does not limit roleplay connections.
+
+## Gym Gals
+
+Founders and core members of the Manhattan private gym; Luka also belongs to the Kyouka family.
+
+| Character | Folder |
+|---|---|
+| Bukayo Ollie Mudryk | [`mudryk`](characters/gym-gals/mudryk/) |
+| Luka Yoric Kyouka | [`luka`](characters/gym-gals/luka/) |
+| Victoria Soledad Van Rosetti | [`vicki`](characters/gym-gals/vicki/) |
+| Yugo Delphine Mercedes | [`yugo`](characters/gym-gals/yugo/) |
+| Zesty Jesus | [`zesty`](characters/gym-gals/zesty/) |
+| Zhang Xuerou | [`xuerou`](characters/gym-gals/xuerou/) |
+| Zuri Lerato Amara | [`zuri`](characters/gym-gals/zuri/) |
+
+## Kyouka Family
+
+Kyouka family beyond Luka, whose primary working group is Gym Gals. Includes the adopted Kryptonian Karren.
+
+| Character | Folder |
+|---|---|
+| Dixie Yoric Kyouka | [`dixie`](characters/kyouka-family/dixie/) |
+| Shiraishi Yoric Kyouka | [`shiraishi`](characters/kyouka-family/shiraishi/) |
+| Karren Yoric "Star" Kyouka (Power Girl) | [`power-girl`](characters/kyouka-family/power-girl/) |
+
+## Pelagia
+
+Residents and leaders of the hidden Aegean Amazon island: secular council, military, heir and civilian houses.
+
+| Character | Folder |
+|---|---|
+| Absolute Wonder Woman / Diana of the Wild Isle | [`absolute-wonder-woman`](characters/pelagia/absolute-wonder-woman/) |
+| Major Apollyon | [`apollyon`](characters/pelagia/apollyon/) |
+| Phœbe / The Ember Seat | [`phoebe`](characters/pelagia/phoebe/) |
+| Suzana Kallistrate | [`suzana`](characters/pelagia/suzana/) |
+| Yamato / Mooncoil Heiress | [`yamato`](characters/pelagia/yamato/) |
+
+## Pelagian Diaspora
+
+Characters with Pelagian lineage or ties now living or roaming outside the island.
+
+| Character | Folder |
+|---|---|
+| Ayame Hoshikawa | [`ayame`](characters/pelagian-diaspora/ayame/) |
+| Renata Vesper | [`renata`](characters/pelagian-diaspora/renata/) |
+| Victoria Vincent / American Dream | [`victoria-vincent`](characters/pelagian-diaspora/victoria-vincent/) |
+
+## New York Associates
+
+Close urban associates of the gym and Maison Mercedes who are not core gym members.
+
+| Character | Folder |
+|---|---|
+| Gwen Vale / Green Lantern | [`gwen`](characters/new-york-associates/gwen/) |
+| Mellow Judas | [`mellow`](characters/new-york-associates/mellow/) |
+| Jennifer Walters / She-Hulk | [`she-hulk`](characters/new-york-associates/she-hulk/) |
+
+## Beyond The Gym
+
+Independent characters connected through family, business, responder work and worldwide adventures.
+
+| Character | Folder |
+|---|---|
+| Marigold Goldie Ashe / Apollo | [`apollo`](characters/beyond-the-gym/apollo/) |
+| Ashkaya | [`ashkaya`](characters/beyond-the-gym/ashkaya/) |
+| Ganbold Batkhulan (Batu) | [`batu`](characters/beyond-the-gym/batu/) |
+| Dunkle | [`dunkle`](characters/beyond-the-gym/dunkle/) |
+| Emèlia Fortuna | [`emelia`](characters/beyond-the-gym/emelia/) |
+| Nandi Akane Hoshino | [`nandi`](characters/beyond-the-gym/nandi/) |
+| Captain Reagin Hilde | [`reagin`](characters/beyond-the-gym/reagin/) |
+
+## Cross-group connections
+
+- **Luka** is a core Gym Gal and a Kyouka sister; her files live only under Gym Gals.
+- **Yugo ↔ Yamato**: private couture commissions; confidentiality safeguards Pelagia.
+- **Ayame** has Pelagian roots but lives in the broader New York world.
+- **Renata** roams internationally and works with Emèlia; she is not an island resident.
+- **Victoria Vincent** is a Pelagian-American expatriate and Dixie's troublemaking friend.
+- **Karren Power Girl** is Kyouka family and known to the core Gym Gals; the public doesn't know her Kryptonian identity.

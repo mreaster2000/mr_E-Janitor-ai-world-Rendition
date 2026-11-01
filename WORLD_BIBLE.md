@@ -41,8 +41,13 @@ These are adaptations to the Rendition original-character setting; their comic i
 
 **Victoria Vincent / American Dream:** Human daughter of a Pelagian Amazon mother and an American father. As an adult she left the hidden island to pursue her loud, cheerful vision of freedom. Dixie's beloved troublemaking friend. **Not related to Emèlia Fortuna.** Outsider men still cannot simply settle on Pelagia.
 
-**Yamato / Mooncoil Heiress:** Wealthy half-human/half-sentient-Mooncoil serpent socialite of Pelagia, with giant pale serpent coils, an indulgent lifestyle and a capacity for frightening clarity. Her family owns maritime trade interests but does not rule the island.
+**Yamato / Mooncoil Heiress:** Wealthy half-human/half-sentient-Mooncoil serpent socialite of Pelagia, with giant pale serpent coils, an indulgent lifestyle and a capacity for frightening clarity. Her family owns maritime trade interests but does not rule the island. She is also an occasional **discreet couture client of Yugo Delphine Mercedes**, who constructs bespoke garments adapted to her serpent physiology. Yugo knows Yamato as an unusual high-end client, not automatically the island's government or hidden magical society.
 
 **Succession:** Absolute Wonder Woman/Diana of the Wild Isle remains the designated **future** ruler, not the current queen, and remains distinct from the other Diana in the creator's canon. Apollyon handles military matters; Phœbe sits on the ruling council; neither supplants the throne.
 
 **Privacy:** Gwen's Lantern identity, Renata's contracts, the island's magical inhabitants and other residents' concealed lives are context-specific, not universal knowledge. Person mentioned is not person present. No auto-generated ceremonies, gods' worship services, battles, or unexpected visitors.
+
+
+## Where the cast belongs
+
+The 28 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `gym-gals/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.

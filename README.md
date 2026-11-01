@@ -4,10 +4,10 @@ A complete **28-character** starter repository for the Kyouka Family / Gym Gals 
 
 ## Per character
 
-- `characters/<slug>/CARD.md`: slightly richer but compact Personality field; no first message.
-- `characters/<slug>/BIO.md`: creator-facing, expanded prose biography and relationships; **do not paste the full bio into the card**.
-- `characters/<slug>/SCRIPT.js`: complete, copy-pasteable, self-contained Advanced Script.
-- `characters/<slug>/config.json`: authorable details and selective lore entries.
+- `characters/<group>/<slug>/CARD.md`: slightly richer but compact Personality field; no first message.
+- `characters/<group>/<slug>/BIO.md`: creator-facing, expanded prose biography and relationships; **do not paste the full bio into the card**.
+- `characters/<group>/<slug>/SCRIPT.js`: complete, copy-pasteable, self-contained Advanced Script.
+- `characters/<group>/<slug>/config.json`: authorable details and selective lore entries.
 
 All scripts share an ES5-compatible, deterministic, no-memory, no-clock runtime derived from the design principles of Advanced Template v14 rather than being an exact port of v14. They can choose up to three relevant entries, with a global optional-text size budget; detailed unused lore is not included in the model prompt. References do not auto-spawn NPCs. Neither script source length nor comments count as prompt tokens merely by existing in Janitor AI.
 
@@ -31,11 +31,11 @@ The source repository’s `Kyouka Family & Gym Gals — Character Bible.docx` co
 
 This project is published at [mr_E-Janitor-ai-world-Rendition](https://github.com/mreaster2000/mr_E-Janitor-ai-world-Rendition). The original project remains unchanged.
 
-First messages are optional and written separately by the creator. Reagin has a user-requested hospital opening in her folder; Vicki has a playful arcade-date opening in `characters/vicki/FIRST_MESSAGE.md`. New crossover cards intentionally leave First Message blank.
+First messages are optional and written separately by the creator. Reagin has a user-requested hospital opening in her folder; Vicki has an arcade-date opening in `characters/gym-gals/vicki/FIRST_MESSAGE.md`. New crossover cards intentionally leave First Message blank.
 
 ## Tests
 
-From this folder run `node tests/test_scripts.js` to simulate character injections, validate boundaries, and ensure every script loads without a syntax error. Local simulations do not substitute for Janitor AI’s runtime and actual model-token counts.
+From the repository root run `node tests/test_scripts.js` to simulate character injections, validate boundaries, and ensure every script loads without a syntax error. Local simulations do not substitute for Janitor AI’s runtime and actual model-token counts.
 
 ## Recent cast additions
 
@@ -48,3 +48,13 @@ Vicki's public and script personalities have been rebalanced toward warm, witty,
 ## Six-character expansion
 
 New cards/bios/scripts/configs: `gwen`, `phoebe`, `apollyon`, `renata`, `victoria-vincent`, `yamato`. Their image references are creator-provided and should stay with their individual folders. See `WORLD_BIBLE.md` for Pelagia's magical but non-worship-based civic government.
+
+## Categorized structure
+
+The roster is now organized into six primary groups under `characters/`: `gym-gals`, `kyouka-family`, `pelagia`, `pelagian-diaspora`, `new-york-associates` and `beyond-the-gym`. See [the grouped roster](CHARACTERS.md), [directory index](characters/README.md) and machine-readable [manifest](characters/manifest.json).
+
+Older flat `characters/<slug>/...` links have been moved. Use [the migration map](MIGRATION.md) for old-to-new paths. Tests use the manifest to resolve character locations.
+
+## Current canon sources
+
+`WORLD_BIBLE.md` and `CROSSOVER_CANON.md` are kept current with the 28-character roster, including Yamato's couture commissions through Yugo. The older `CHARACTER_BIBLE_REBUILT.docx` predates these additions and should be treated as a historical snapshot until replaced; the Markdown files are authoritative.

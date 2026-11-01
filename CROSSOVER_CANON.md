@@ -33,3 +33,7 @@ Creator-provided images are descriptive references here; artwork is **not redist
 ## Pelagia's magical civic government
 
 The island's people do **not** worship powerful beings. Phœbe is a genuine fire goddess occupying an ordinary council seat, Major Apollyon commands military defenses, and Absolute Diana is the **future** queen. Serpent-descended Yamato is a wealthy civilian; vampire-succubus Renata has left the island. The other Diana remains a separate person. These are Rendition adaptations, not an imported public pantheon.
+
+## Yamato and Maison Mercedes
+
+Yamato's maritime wealth funds occasional private commissions with Yugo. Maison Mercedes handles custom construction suitable for a half-serpent body, and Yugo enjoys the unusual design challenge. Their relationship is **client/designer**, with amused mutual respect rather than guaranteed romance. Yugo recognizes Yamato's anatomy but does not automatically gain knowledge of Pelagia's secret location, council, gods, or other hidden residents. Neither character appears as a result of name triggers alone.
