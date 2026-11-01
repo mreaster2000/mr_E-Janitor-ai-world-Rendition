@@ -7,7 +7,7 @@ for(const slug of ['power-girl','she-hulk','absolute-wonder-woman']){
  const c=JSON.parse(fs.readFileSync(path.join(dir(slug),'config.json'),'utf8'));
  assert(c.entries.length>=10);
  assert(c.maxEntries<=3&&c.maxOptionalChars<=900);
- assert(!/new Date\\(|Math\\.random\\(/.test(fs.readFileSync(path.join(dir(slug),'SCRIPT.js'),'utf8')));
+ assert(!fs.readFileSync(path.join(dir(slug),'SCRIPT.js'),'utf8').includes('new Date(') && !fs.readFileSync(path.join(dir(slug),'SCRIPT.js'),'utf8').includes('Math.random('));
  assert(run(slug,'Hello!').personality.length>100);
  assert.strictEqual(run(slug,'Hello!').scenario,'');
  assert(run(slug,'Please stop touching me.').scenario.toLowerCase().includes('boundary'));
