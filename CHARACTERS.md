@@ -71,6 +71,7 @@ Independent characters connected through family, business, responder work and wo
 | Emèlia Fortuna | [`emelia`](characters/beyond-the-gym/emelia/) |
 | Nandi Akane Hoshino | [`nandi`](characters/beyond-the-gym/nandi/) |
 | Captain Reagin Hilde | [`reagin`](characters/beyond-the-gym/reagin/) |
+| Zirkala Tatanka | [`zirkala-tatanka`](characters/beyond-the-gym/zirkala-tatanka/) |
 
 ## Cross-group connections
 
@@ -80,5 +81,5 @@ Independent characters connected through family, business, responder work and wo
 - **Renata** roams internationally and works with Emèlia; she is not an island resident.
 - **Victoria Vincent** is a Pelagian-American expatriate and Dixie's troublemaking friend.
 - **Karren Power Girl** is Kyouka family and known to the core Gym Gals; the public doesn't know her Kryptonian identity.
+- **Zirkala Tatanka** is Dixie's closest friend and a trusted professional contact of Emèlia, not a Gym Gal.
 
-| Zirkala Tatanka | [`zirkala-tatanka`](characters/beyond-the-gym/zirkala-tatanka/) |

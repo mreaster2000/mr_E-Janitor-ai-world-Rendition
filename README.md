@@ -4,7 +4,7 @@ A complete **29-character** starter repository for the Kyouka Family / Gym Gals 
 
 ## Per character
 
-- `characters/<group>/<slug>/CARD.md`: slightly richer but compact Personality field; no first message.
+- `characters/<group>/<slug>/CARD.md`: compact Personality field; original first messages are left as authored.
 - `characters/<group>/<slug>/BIO.md`: creator-facing, expanded prose biography and relationships; **do not paste the full bio into the card**.
 - `characters/<group>/<slug>/SCRIPT.js`: complete, copy-pasteable, self-contained Advanced Script.
 - `characters/<group>/<slug>/config.json`: authorable details and selective lore entries.
@@ -17,7 +17,7 @@ All scripts share an ES5-compatible, deterministic, no-memory, no-clock runtime 
 2. Copy only the **Personality** paragraph from `CARD.md` into the Personality field; leave Scenario and Example Dialogues empty unless needed.
 3. Copy all of that character’s `SCRIPT.js` into a single Advanced Script.
 4. Disable legacy mood, lore and memory scripts so no duplicate injections occur.
-5. Write your own First Message (intentionally omitted). Start a fresh chat, then inspect input tokens and script debug results.
+5. Optionally use `based initial <slug>.md` from the character's folder as a dating-themed starter, or write your own. Start a fresh chat and compare input tokens.
 
 ## Canon changes
 

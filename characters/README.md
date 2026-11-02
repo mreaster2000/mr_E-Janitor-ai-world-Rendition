@@ -1,6 +1,6 @@
 # Character directory
 
-Each character has one canonical folder containing `CARD.md`, `BIO.md`, `config.json`, `SCRIPT.js` and occasionally `FIRST_MESSAGE.md`. The file [`manifest.json`](manifest.json) maps all 28 slugs to their location.
+Each character has one canonical folder containing `CARD.md`, `BIO.md`, `config.json`, `SCRIPT.js` and occasionally `FIRST_MESSAGE.md`. The file [`manifest.json`](manifest.json) maps all 29 slugs to their location.
 
 - [gym gals](gym-gals/) — 7 characters. Founders and core members of the Manhattan private gym; Luka also belongs to the Kyouka family.
 - [kyouka family](kyouka-family/) — 3 characters. Kyouka family beyond Luka, whose primary working group is Gym Gals. Includes the adopted Kryptonian Karren.

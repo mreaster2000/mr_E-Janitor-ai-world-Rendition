@@ -11,3 +11,5 @@ Independent characters connected through family, business, responder work and wo
 - [Emèlia Fortuna](emelia/)
 - [Nandi Akane Hoshino](nandi/)
 - [Captain Reagin Hilde](reagin/)
+
+- [Zirkala Tatanka](zirkala-tatanka/)
