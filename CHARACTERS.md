@@ -1,4 +1,4 @@
-# Character roster — 28 characters
+# Character roster — 29 characters
 
 Characters have one canonical folder each. Linked relationships are explained in the biographies; primary folder placement does not limit roleplay connections.
 
@@ -80,3 +80,5 @@ Independent characters connected through family, business, responder work and wo
 - **Renata** roams internationally and works with Emèlia; she is not an island resident.
 - **Victoria Vincent** is a Pelagian-American expatriate and Dixie's troublemaking friend.
 - **Karren Power Girl** is Kyouka family and known to the core Gym Gals; the public doesn't know her Kryptonian identity.
+
+| Zirkala Tatanka | [`zirkala-tatanka`](characters/beyond-the-gym/zirkala-tatanka/) |

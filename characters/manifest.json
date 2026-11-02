@@ -56,7 +56,8 @@
         "dunkle",
         "emelia",
         "nandi",
-        "reagin"
+        "reagin",
+        "zirkala-tatanka"
       ]
     }
   },
@@ -88,6 +89,7 @@
     "yamato": "pelagia/yamato",
     "yugo": "gym-gals/yugo",
     "zesty": "gym-gals/zesty",
-    "zuri": "gym-gals/zuri"
+    "zuri": "gym-gals/zuri",
+    "zirkala-tatanka": "beyond-the-gym/zirkala-tatanka"
   }
 }

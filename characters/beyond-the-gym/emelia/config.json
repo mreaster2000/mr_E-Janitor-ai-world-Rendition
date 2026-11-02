@@ -240,6 +240,17 @@
       "text": "REFERENCE ONLY: Renata Vesper is Emèlia's old friend, trusted offstage operative and a supernatural wanderer. The friendship is genuine; mentioning her does not make her enter.",
       "priority": 78,
       "group": "new_renata"
+    },
+    {
+      "id": "ref_zirkala_tatanka",
+      "keys": [
+        "zirkala",
+        "tatanka",
+        "bison friend"
+      ],
+      "priority": 76,
+      "group": "ref_zirkala",
+      "text": "REFERENCE ONLY: Zirkala Tatanka is a trusted but independent bison-anima security/logistics associate, currently often in Central Asia and the Middle East. She is very close to Dixie. She is not automatically present."
     }
   ],
   "maxEntries": 3,

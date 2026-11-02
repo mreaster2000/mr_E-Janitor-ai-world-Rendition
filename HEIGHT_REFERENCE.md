@@ -34,3 +34,5 @@ These are current card heights. They supersede earlier approximate measurements 
 | Reagin | 7′1″ |
 
 Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
+
+| Zirkala Tatanka | 8′9″ |

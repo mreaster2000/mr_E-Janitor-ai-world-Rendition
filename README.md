@@ -1,6 +1,6 @@
 # Janitor AI — Character Framework & Character Bible (rebuilt)
 
-A complete **28-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
+A complete **29-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
 
 ## Per character
 
@@ -62,3 +62,8 @@ Older flat `characters/<slug>/...` links have been moved. Use [the migration map
 ## Character card consistency
 
 All 28 cards have been rewritten with more consistent descriptive depth, distinct dialogue styles and explicit heights. See [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) for the canonical measurements. The older bios may retain outdated approximate phrasing, so the new card and height reference take precedence. Advanced Scripts and First Messages were not changed during this pass.
+
+
+## Biography standard and date starters
+
+The full roster now has 29 creator-facing BIO.md files standardized into ten sections: overview, identity, appearance, personality, daily life, motivations, relationships, secrets, boundaries, and art/starter references. Every character has a separate `based initial <slug>.md` dating-themed opening; older openings remain untouched. The Native American bison-anima Zirkala Tatanka is the newest addition. Note: character images discussed in chat are **not** in this repo until their binary image files are uploaded; see the artwork inventory.

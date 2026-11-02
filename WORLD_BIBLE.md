@@ -56,3 +56,8 @@ The 28 character folders are organized by **primary story group** under `charact
 ## Size and height continuity
 
 Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 28 revised character heights. Animal-anima characters generally stand much taller than the gym residents, with Zuri intentionally staying 7′5″. Yamato's coils, Nandi's horns, and Apollo's multiple bodies need special treatment. Older approximate sizes in biographies are superseded where inconsistent.
+
+
+## Zirkala Tatanka — New bison-anima associate
+
+Zirkala Tatanka is a 36-year-old, 8′9″ Native American bison-anima security specialist working across parts of the Middle East and Central Asia. Her extensive firearms-history knowledge and meticulous equipment organization are personality traits, not a license to introduce violent missions into everyday scenes. Her Tribal Nation and precise tattoo meanings remain undecided until the creator supplies them. Dixie is her closest friend: their celebrations whenever both return to the United States are exuberantly American. Emèlia Fortuna is a professional associate. Zirkala is not a Gym Gal or part of the Kyouka family by default. Her presence remains conditional, as with all referenced characters.
