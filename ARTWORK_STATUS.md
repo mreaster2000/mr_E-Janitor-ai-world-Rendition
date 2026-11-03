@@ -44,3 +44,7 @@
 **13 creator-supplied image files** are visible in the original uploads, but the matching **12 new character** profiles and full character-to-image mapping from the interrupted 41-character Word project are not yet recoverable as a complete source. The two cyborg sheets represent one character, not two independent people. Do not automatically assign these artworks to the preexisting 29-character roster. Preserve source images and get exact names from original creator lore rather than invent them.
 
 Respect artist attribution and permission before redistributing these images outside this private repository.
+
+## Additional rescued expansion artwork
+
+Thirteen **optimized JPEG** copies from the November 3 Zentreya expansion are now committed under [incoming/zentreya/](incoming/zentreya/). These have intentionally not been assigned to existing characters. See [the detailed inventory](incoming/zentreya/README.md). The unfinished 41-character Word export is still not recovered.

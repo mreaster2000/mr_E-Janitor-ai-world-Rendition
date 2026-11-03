@@ -67,3 +67,9 @@ All 28 cards have been rewritten with more consistent descriptive depth, distinc
 ## Biography standard and date starters
 
 The full roster now has 29 creator-facing BIO.md files standardized into ten sections: overview, identity, appearance, personality, daily life, motivations, relationships, secrets, boundaries, and art/starter references. Every character has a separate `based initial <slug>.md` dating-themed opening; older openings remain untouched. The Native American bison-anima Zirkala Tatanka is the newest addition. Note: character images discussed in chat are **not** in this repo until their binary image files are uploaded; see the artwork inventory.
+
+## November 4 recovery: Pelagia and Zentreya
+
+The expanded women-only, culturally diverse Pelagia setting, centuries of limited trade, diaspora and unequal technological development are documented in [PELAGIA_CANON.md](PELAGIA_CANON.md). Five Pelagian and three diaspora bios include added continuity notes. The prior 29 characters' cards and openings are preserved; the test suite's erroneous 28-character assertion was corrected to 29.
+
+Seven verified creator-provided artworks have been placed into their matching character directories. Another thirteen creator-provided art files from the unfinished Zentreya expansion are preserved as optimized copies in [incoming/zentreya/](incoming/zentreya/) pending the exact twelve-character mapping. The interrupted 41-character Word document and twelve new profiles were not committed and must not be claimed as finished. The historical `CHARACTER_BIBLE_REBUILT.docx` still predates the new material.
