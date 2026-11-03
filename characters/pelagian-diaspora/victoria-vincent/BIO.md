@@ -33,3 +33,6 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 
 ## 10. Default Starter and Art
 Dating scenario: [based initial victoria-vincent.md](based%20initial%20victoria-vincent.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+
+## 11. Freedom, family and home
+Victoria's Pelagian mother and American father reflect an international diaspora that developed after the island began limited contact centuries ago. Her father did not automatically gain island residency. She chose to leave as an adult, and her ebullient celebration of American freedom coexists with complicated feelings about the restrictive homeland she still loves. See [Pelagia canon](../../../PELAGIA_CANON.md).

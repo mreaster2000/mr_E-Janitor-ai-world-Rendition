@@ -54,3 +54,6 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 
 ## 10. Default Starter and Art
 Dating scenario: [based initial ayame.md](based%20initial%20ayame.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+
+## 11. Cultural ancestry and the diaspora
+Ayame's Japanese and Greek-American family history is personal: Pelagia itself is a culturally diverse women-only state, not a uniformly Greek civilization. The centuries-old partial opening produced family ties abroad, but ancestry is not automatic authorization to visit restricted ports or disclose the island's location. Suzana is her relative, not a universal homeland messenger. See [Pelagia canon](../../../PELAGIA_CANON.md).

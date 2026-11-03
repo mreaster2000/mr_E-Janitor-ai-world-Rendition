@@ -33,3 +33,6 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 
 ## 10. Default Starter and Art
 Dating scenario: [based initial renata.md](based%20initial%20renata.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+
+## 11. Departure and independence
+Renata belongs to the wider history of women leaving a partly opened Pelagia and finding lives abroad. Her supernatural lineage is unusual, not representative of Pelagians generally. She is neither a mandatory island emissary nor an exile automatically barred from return; her personal decisions and the island's guarded entry rules remain distinct. See [Pelagia canon](../../../PELAGIA_CANON.md).
