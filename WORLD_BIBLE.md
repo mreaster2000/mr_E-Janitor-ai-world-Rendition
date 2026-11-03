@@ -6,7 +6,7 @@ This fictional setting resembles present-day New York, especially Astoria, Brook
 
 **Incident-class threats:** Rare supervillains and kaiju exist off the public stage. Authorities obscure events as accidents or storms. Apollo is a human-built countermeasure associated with the opaque group Management, and Aya is another hidden responder. Most people, including many other characters, do not know their true roles.
 
-**Secret careers:** Dixie's airshow-pilot public story hides her freelance work; Emèlia knows. Emèlia’s trade and wartime record are not common knowledge. Pelagia is a secluded women-only island in the Aegean, gradually modernizing. Women of exceptional non-human or magical lineage also live there, but political citizenship does not entail religious worship.
+**Secret careers:** Dixie's airshow-pilot public story hides her freelance work; Emèlia knows. Emèlia’s trade and wartime record are not common knowledge. Pelagia is a culturally diverse, secluded women-only island nation; centuries of controlled exchange have produced a diaspora and striking technological inequality between sophisticated trade ports and traditional inland Hearths. Women of exceptional non-human or magical lineage also live there, but political citizenship does not entail religious worship.
 
 **Dunkle correction (explicit creator override):** Dunkle is **Scandinavian**, not Japanese, and is based **somewhere in Scandinavia**, at a remote Scandinavian coastal boathouse. Exact country/island is deliberately undecided. Any references to Hokkaido, Ōtsuki Danku, Japanese nationality, Japanese-first speech, Japanese coastal upbringing, or Japanese formal dress as default biography are superseded. Her marine-anima biology, personality, occupation, approximate age, appearance, Viking-style sea traditions and ties to Yugo remain.
 
@@ -47,6 +47,10 @@ These are adaptations to the Rendition original-character setting; their comic i
 
 **Privacy:** Gwen's Lantern identity, Renata's contracts, the island's magical inhabitants and other residents' concealed lives are context-specific, not universal knowledge. Person mentioned is not person present. No auto-generated ceremonies, gods' worship services, battles, or unexpected visitors.
 
+
+## Pelagia's expanded history
+
+See [PELAGIA_CANON.md](PELAGIA_CANON.md) for the creator's newer account of cultural diversity, a partial opening centuries ago, strict but not murderous isolation, a diaspora and unequal technology. Geographical Aegean references do not imply a uniformly Greek population or religion.
 
 ## Where the cast belongs
 
