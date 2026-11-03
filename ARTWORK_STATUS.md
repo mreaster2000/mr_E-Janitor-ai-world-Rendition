@@ -1,10 +1,10 @@
-# Reference art status — 29 characters
+# Reference art status — existing 29-character roster
 
-## GitHub status
+## GitHub status (November 4, 2026)
 
-At this verification, **1** character `reference.jpg` image exists in the GitHub repository. Zirkala's creator-supplied reference image is now included in the repository; the other mapped images have not yet been committed. The companion archive `Rendition_Reference_Images_For_GitHub.zip` contains seven user-provided matched images in the appropriate folder paths.
+**7** verified reference artworks have now been committed as `reference.jpg` in their corresponding character folders. These were recovered from the creator-provided `Rendition_Reference_Images_For_GitHub.zip` archive and the Zirkala image source.
 
-## Images ready to upload
+## Confirmed images in GitHub
 
 - Gwen Vale: `characters/new-york-associates/gwen/reference.jpg`
 - Phœbe: `characters/pelagia/phoebe/reference.jpg`
@@ -12,9 +12,9 @@ At this verification, **1** character `reference.jpg` image exists in the GitHub
 - Renata Vesper: `characters/pelagian-diaspora/renata/reference.jpg`
 - Victoria Vincent: `characters/pelagian-diaspora/victoria-vincent/reference.jpg`
 - Yamato: `characters/pelagia/yamato/reference.jpg`
-- Zirkala Tatanka: `characters/beyond-the-gym/zirkala-tatanka/reference.jpg` **(committed)**
+- Zirkala Tatanka: `characters/beyond-the-gym/zirkala-tatanka/reference.jpg`
 
-## Still needs an identified reference image
+## Not yet matched to existing roster
 
 - mudryk
 - luka
@@ -39,4 +39,8 @@ At this verification, **1** character `reference.jpg` image exists in the GitHub
 - nandi
 - reagin
 
-Some other image files were visible in the conversation runtime, but their associations with individual characters weren't verified. Please confirm their identity before importing rather than assigning the wrong artwork. Respect artist credits and permissions before publishing user-provided artwork publicly.
+## Separate November 3 Zentreya artwork batch
+
+**13 creator-supplied image files** are visible in the original uploads, but the matching **12 new character** profiles and full character-to-image mapping from the interrupted 41-character Word project are not yet recoverable as a complete source. The two cyborg sheets represent one character, not two independent people. Do not automatically assign these artworks to the preexisting 29-character roster. Preserve source images and get exact names from original creator lore rather than invent them.
+
+Respect artist attribution and permission before redistributing these images outside this private repository.
