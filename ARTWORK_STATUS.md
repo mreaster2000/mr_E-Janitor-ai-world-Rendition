@@ -52,3 +52,7 @@ Thirteen **optimized JPEG** copies from the November 3 Zentreya expansion are no
 ## November 4: proposed matching completed
 
 All **13** November 3 artworks remain archived under [incoming/zentreya/](incoming/zentreya/). The twelve new folders now have `reference.jpg` aliases to these already-committed binary blobs; **Kaia has two cybernetic sheets**, `reference.jpg` and `reference-alternate.jpg`. Image-role matches are **proposed** using visual references plus recovered creator descriptions, not confirmed copies of the lost mapping. See [ZENTREYA_ART_MAPPING.md](ZENTREYA_ART_MAPPING.md).
+
+## Creator-confirmed visual identities — November 4, 2026
+
+The water-gun artwork `20261103-134433.jpg` now belongs to **Marisol Reyes**, the media-business founder. The pink-lipstick artwork `20261103-134136.jpg` now belongs to **Vera Callahan**, who works at a nightclub and also retains her engineering job. Both canonical `reference.jpg` Git blob associations were swapped to match; the other Zentreya assignments remain editorial proposals.

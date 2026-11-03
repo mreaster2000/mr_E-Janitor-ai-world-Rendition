@@ -85,3 +85,9 @@ The interrupted November 3 conversation's exact unpublished Word output could no
 - [41-character roster](CHARACTERS.md) and [test suite](tests/test_zentreya.js)
 
 The seven previously matched character artworks remain in their original folders. Thirteen November 3 images also remain backed up under `incoming/zentreya/`, and are now additionally referenced in the twelve new profile directories; **the image mapping remains proposed, not independently verified**. The original historical Word editions remain for comparison.
+
+## November 4 creator revision: adult personalities and corrected art
+
+Ten adult Zentreya characters other than **Kaia Solenne** and **General Aveline Drakk** have been rewritten to show a stronger, sex-positive drive, consensual independent adult work (public or private), bolder flirtation and distinct personal impulses. Their existing careers are retained. This is fictional characterization, not a blanket consent mechanic or automatic adult scene. All ten bios, cards, selective Advanced Scripts and optional first messages were updated; the two exceptions' files were not modified. The 41-character [Word bible](Rendition_Character_Bible_41_Reconstructed.docx) was revised accordingly.
+
+**Creator-confirmed art correction:** **Marisol Reyes** is the company-running green-watergun character (`20261103-134433.jpg`); **Vera Callahan** is the pink-lipstick nightclub woman (`20261103-134136.jpg`), who also retains her harbor engineering career. See [ZENTREYA_ART_MAPPING.md](ZENTREYA_ART_MAPPING.md). Other artwork assignments are still tentative.
