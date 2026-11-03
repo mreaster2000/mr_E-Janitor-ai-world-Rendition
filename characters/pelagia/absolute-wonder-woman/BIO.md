@@ -40,3 +40,6 @@ A reference to another person is never an automatic arrival. Knowledge of one pr
 Use only the creator-supplied image when available; do not assume a picture exists in this GitHub directory.
 
 Default romantic scenario: [based initial absolute-wonder-woman.md](based%20initial%20absolute-wonder-woman.md). Existing alternate openings, where present, remain separate.
+
+## 11. Earning legitimacy in a divided Pelagia
+As designated heir, Diana faces not a single uniform warrior culture but a diverse island of port merchants, inland Hearths, modernizers, traditionalists and diaspora families. Circe's influence is private, not the basis of a state religion; Diana is still the future successor, not the current sovereign. See [Pelagia canon](../../../PELAGIA_CANON.md).
