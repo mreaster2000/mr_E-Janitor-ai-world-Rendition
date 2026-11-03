@@ -48,3 +48,7 @@ Respect artist attribution and permission before redistributing these images out
 ## Additional rescued expansion artwork
 
 Thirteen **optimized JPEG** copies from the November 3 Zentreya expansion are now committed under [incoming/zentreya/](incoming/zentreya/). These have intentionally not been assigned to existing characters. See [the detailed inventory](incoming/zentreya/README.md). The unfinished 41-character Word export is still not recovered.
+
+## November 4: proposed matching completed
+
+All **13** November 3 artworks remain archived under [incoming/zentreya/](incoming/zentreya/). The twelve new folders now have `reference.jpg` aliases to these already-committed binary blobs; **Kaia has two cybernetic sheets**, `reference.jpg` and `reference-alternate.jpg`. Image-role matches are **proposed** using visual references plus recovered creator descriptions, not confirmed copies of the lost mapping. See [ZENTREYA_ART_MAPPING.md](ZENTREYA_ART_MAPPING.md).

@@ -1,6 +1,6 @@
 # Janitor AI — Character Framework & Character Bible (rebuilt)
 
-A complete **29-character** starter repository for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
+A **41-character** Rendition repository (29 earlier profiles plus 12 reconstructed Zentreya additions) for the Kyouka Family / Gym Gals world. The original source repository remains untouched. This is the **independent Rendition repository**, published separately from the original source.
 
 ## Per character
 
@@ -73,3 +73,15 @@ The full roster now has 29 creator-facing BIO.md files standardized into ten sec
 The expanded women-only, culturally diverse Pelagia setting, centuries of limited trade, diaspora and unequal technological development are documented in [PELAGIA_CANON.md](PELAGIA_CANON.md). Five Pelagian and three diaspora bios include added continuity notes. The prior 29 characters' cards and openings are preserved; the test suite's erroneous 28-character assertion was corrected to 29.
 
 Seven verified creator-provided artworks have been placed into their matching character directories. Another thirteen creator-provided art files from the unfinished Zentreya expansion are preserved as optimized copies in [incoming/zentreya/](incoming/zentreya/) pending the exact twelve-character mapping. The interrupted 41-character Word document and twelve new profiles were not committed and must not be claimed as finished. The historical `CHARACTER_BIBLE_REBUILT.docx` still predates the new material.
+
+## Reconstructed 41-character edition — November 4, 2026
+
+The interrupted November 3 conversation's exact unpublished Word output could not be recovered. Its creator-defined *twelve Zentreya roles* and relationships were recoverable, while most personal names and specific biographies were not; the new profiles are therefore clearly labeled editorial reconstructions. **Marisol and Kaia** are the two names known from the earlier work. The creator's current 29 originals—especially CARD, SCRIPT and First Message files—remain unchanged.
+
+- [Full 41-character Word bible](Rendition_Character_Bible_41_Reconstructed.docx) (28 historical profiles, Zirkala, 12 new)
+- [Zentreya species and character connections](ZENTREYA_CANON.md)
+- [12 new profile folders](characters/zentreya/)
+- [Proposed character-to-art matches](ZENTREYA_ART_MAPPING.md); originals remain in `incoming/zentreya/`
+- [41-character roster](CHARACTERS.md) and [test suite](tests/test_zentreya.js)
+
+The seven previously matched character artworks remain in their original folders. Thirteen November 3 images also remain backed up under `incoming/zentreya/`, and are now additionally referenced in the twelve new profile directories; **the image mapping remains proposed, not independently verified**. The original historical Word editions remain for comparison.

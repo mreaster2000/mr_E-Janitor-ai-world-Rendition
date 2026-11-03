@@ -18,3 +18,7 @@ The six artworks were supplied in this conversation and mapped in order:
 - Creator-supplied illustration: `image(20261102-084031).png`; intended path `characters/beyond-the-gym/zirkala-tatanka/reference.jpg`. Binary GitHub upload has not yet been verified. The downloadable image package contains a copy.
 
 - Prior chat images: contact-sheet review identified some extra mounted image attachments, but only the six 2026-11-01 new-character images and Zirkala's image have unambiguous slug mappings. Please provide or map others individually rather than guessing.
+
+## November 4 status update
+
+The six mapped artwork images listed above, as well as Zirkala's seventh image, **have since been committed** to their matching character folders. The older status note reflects the previous missing-binary state. The additional twelve-character reconstruction references thirteen separate images via [ZENTREYA_ART_MAPPING.md](ZENTREYA_ART_MAPPING.md); its matches are provisional.

@@ -30,3 +30,7 @@ The creator's lost conversation established **12 new characters**, not thirteen.
 The old conversation reportedly prepared a **41-character Word bible** with the 29 earlier characters and 12 new ones, but the final document and exact twelve-name mapping are **not present in the repository or accessible uploaded files**. The original conversation's unfinished GitHub commit was not published. Do not label the current 29-character Word snapshot as a finished 41-character version or fabricate names, ages or relationships just to fill out the count.
 
 To complete the last stage faithfully, import the original 41-character export or the missing twelve-name lore notes from the archived project. Once recovered, move or link the verified art into the new canonical character folders and update the manifest, character roster, world bible, Word edition and test suite. Existing card personalities, scripts and openings must remain unchanged unless explicitly authorized by the creator.
+
+## Update: reconstructed assignments
+
+The missing roles were subsequently recovered well enough to reconstruct 12 individual character profiles. A proposed mapping from these thirteen artworks to the new cast is recorded in [ZENTREYA_ART_MAPPING.md](../../ZENTREYA_ART_MAPPING.md). Source images remain unchanged here; image aliases in new character directories reuse the same Git blobs. These mappings are **not verified against the interrupted original Word export**.

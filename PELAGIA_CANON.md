@@ -36,3 +36,7 @@ Characters may have biased, incomplete or conflicting descriptions of Pelagia. T
 
 ## Recovery note
 The creator also supplied **13 images** for a separate Zentreya-related character expansion. The artwork includes multiple depictions/design references for some characters; do not assume 13 images means 13 independent characters. Several names and relationships from that unfinished expansion require checking the original archived discussion before publishing newly invented character profiles. The earlier Word document in this repository is historical and predates these additions.
+
+## Rare Pelagian-dragon descendants
+
+Some long-established dragon families have rare humanoid daughters of mixed Pelagian and dragon ancestry, known collectively as **Zentreya**. The selective effort to use their talents to modernize Pelagia is a civic expectation applied to existing people, not proof of laboratory manufacture or a universal obligation. Their careers include port engineering, couture, racing, media, nightlife and military service. See [ZENTREYA_CANON.md](ZENTREYA_CANON.md) for the reconstructed twelve-character addition.

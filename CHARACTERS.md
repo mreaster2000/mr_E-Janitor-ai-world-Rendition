@@ -1,4 +1,4 @@
-# Character roster — 29 characters
+# Character roster — 41 characters
 
 Characters have one canonical folder each. Linked relationships are explained in the biographies; primary folder placement does not limit roleplay connections.
 
@@ -83,3 +83,22 @@ Independent characters connected through family, business, responder work and wo
 - **Karren Power Girl** is Kyouka family and known to the core Gym Gals; the public doesn't know her Kryptonian identity.
 - **Zirkala Tatanka** is Dixie's closest friend and a trusted professional contact of Emèlia, not a Gym Gal.
 
+
+## Zentreya — reconstructed addition (12)
+
+Rare half-Pelagian/half-dragon women; they are not one uniform family or military unit. Names and specific details beyond recovered roles are editorial reconstructions from November 2026. See [Zentreya canon](ZENTREYA_CANON.md) and [art mapping](ZENTREYA_ART_MAPPING.md).
+
+| Character | Folder |
+|---|---|
+| Celeste Rojas | [`celeste-rojas`](characters/zentreya/celeste-rojas/) |
+| General Aveline Drakk | [`aveline-drakk`](characters/zentreya/aveline-drakk/) |
+| Kaia Solenne | [`kaia-solenne`](characters/zentreya/kaia-solenne/) |
+| Leona Aster | [`leona-aster`](characters/zentreya/leona-aster/) |
+| Liberty Redford | [`liberty-redford`](characters/zentreya/liberty-redford/) |
+| Marisol Reyes | [`marisol-reyes`](characters/zentreya/marisol-reyes/) |
+| Nyx Rielle | [`nyx-rielle`](characters/zentreya/nyx-rielle/) |
+| Roux Caldera | [`roux-caldera`](characters/zentreya/roux-caldera/) |
+| Rowan Mercer | [`rowan-mercer`](characters/zentreya/rowan-mercer/) |
+| Runa Valeska | [`runa-valeska`](characters/zentreya/runa-valeska/) |
+| Seraphine Ash | [`seraphine-ash`](characters/zentreya/seraphine-ash/) |
+| Vera Callahan | [`vera-callahan`](characters/zentreya/vera-callahan/) |

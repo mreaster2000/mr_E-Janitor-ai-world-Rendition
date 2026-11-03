@@ -59,6 +59,23 @@
         "reagin",
         "zirkala-tatanka"
       ]
+    },
+    "zentreya": {
+      "description": "Rare Pelagian-dragon hybrid women: a reconstructed twelve-person cast spanning the island and the diaspora.",
+      "slugs": [
+        "aveline-drakk",
+        "celeste-rojas",
+        "kaia-solenne",
+        "leona-aster",
+        "liberty-redford",
+        "marisol-reyes",
+        "nyx-rielle",
+        "roux-caldera",
+        "rowan-mercer",
+        "runa-valeska",
+        "seraphine-ash",
+        "vera-callahan"
+      ]
     }
   },
   "characters": {
@@ -90,6 +107,18 @@
     "yugo": "gym-gals/yugo",
     "zesty": "gym-gals/zesty",
     "zuri": "gym-gals/zuri",
-    "zirkala-tatanka": "beyond-the-gym/zirkala-tatanka"
+    "zirkala-tatanka": "beyond-the-gym/zirkala-tatanka",
+    "aveline-drakk": "zentreya/aveline-drakk",
+    "celeste-rojas": "zentreya/celeste-rojas",
+    "kaia-solenne": "zentreya/kaia-solenne",
+    "leona-aster": "zentreya/leona-aster",
+    "liberty-redford": "zentreya/liberty-redford",
+    "marisol-reyes": "zentreya/marisol-reyes",
+    "nyx-rielle": "zentreya/nyx-rielle",
+    "roux-caldera": "zentreya/roux-caldera",
+    "rowan-mercer": "zentreya/rowan-mercer",
+    "runa-valeska": "zentreya/runa-valeska",
+    "seraphine-ash": "zentreya/seraphine-ash",
+    "vera-callahan": "zentreya/vera-callahan"
   }
 }

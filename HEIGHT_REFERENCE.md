@@ -36,3 +36,22 @@ These are current card heights. They supersede earlier approximate measurements 
 
 Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
 
+
+## Twelve reconstructed Zentreya heights (proposed)
+
+| Character | Height |
+|---|---|
+| Marisol Reyes | 7′10″ |
+| Runa Valeska | 8′7″ |
+| Celeste Rojas | 7′4″ |
+| Leona Aster | 8′1″ |
+| Nyx Rielle | 7′6″ |
+| Roux Caldera | 7′9″ |
+| Vera Callahan | 7′8″ |
+| Seraphine Ash | 7′7″ |
+| Rowan Mercer | 8′0″ |
+| Liberty Redford | 8′5″ |
+| Kaia Solenne | 7′5″ civilian; armored silhouette varies |
+| General Aveline Drakk | 8′2″ |
+
+All measurements above are editorial defaults for the reconstructed new cast; do not override the established 29 characters with them.
