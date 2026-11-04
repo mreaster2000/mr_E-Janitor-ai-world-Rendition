@@ -1,0 +1,74 @@
+# Extra Details Edition — all 41 characters
+
+An optional, substantially expanded edition alongside every existing character. The original cards, bios, scripts, configs, artwork and opening messages remain unchanged. New writing adds character-specific motivations, contradictions, everyday habits, conflict and repair, courtship, flexible scenarios and four example exchanges per character.
+
+## Use one edition at a time
+
+| File inside each character folder | Use |
+| --- | --- |
+| `CARD_EXTRA_DETAILS.md` | Copy Personality, Scenario and Example Dialogues into the matching fields |
+| `SCRIPT_EXTRA_DETAILS.js` | Paste the entire standalone file into one Advanced Script; disable the old character script |
+| `BIO_EXTRA_DETAILS.md` | Read as the expanded creator reference |
+| `config_extra_details.json` | Inspect or edit the expanded script data; not another prompt field |
+
+Keep the exact First Message you already use. The new Scenario follows its location, participants and premise instead of supplying a competing opening. Dialogue samples demonstrate voice; they are not prior conversations. The original `CARD.md` + `SCRIPT.js` pair remains available if you want the compact edition.
+
+## What changes in the detailed scripts
+
+The new runtime writes only to Scenario. It keeps the permanent card in Personality, injects richer scene-relevant cues, preserves unrelated scenario content and replaces its own previous block when run again. It uses no memory storage, turn-based relationship progression, randomness or real-world clock. Refusal and distress cues suppress the courtship cues. References remain context rather than automatic NPC arrivals.
+
+There are 17–32 conditional entries per character. The cards average approximately 1,500 tokens, including their Scenario and Example Dialogues fields; estimates use characters divided by four and are model-dependent. A longer script file does not mean all of its text is inserted on every turn. See [size data](extra_details/manifest.json) and [validation](extra_details/VALIDATION.md) for exact scope and limitations.
+
+## Character index
+
+The writing lenses below are original editorial interpretations informed by the [research references](extra_details/RESEARCH.md). They guide distinct behavior rather than replacing existing canon.
+
+| Character | Writing lenses | Estimated card tokens | Expanded files |
+| --- | --- | ---: | --- |
+| Absolute Wonder Woman — Diana of the Wild Isle | Heir / outsider learning authority through service | 1448 | [Card](characters/pelagia/absolute-wonder-woman/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagia/absolute-wonder-woman/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagia/absolute-wonder-woman/SCRIPT_EXTRA_DETAILS.js) |
+| Marigold “Goldie” Ashe / Apollo | Inventor / trickster protecting an ordinary life | 1481 | [Card](characters/beyond-the-gym/apollo/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/apollo/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/apollo/SCRIPT_EXTRA_DETAILS.js) |
+| Major Apollyon | Provocateur / strategist whose theatrical daring protects others | 1418 | [Card](characters/pelagia/apollyon/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagia/apollyon/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagia/apollyon/SCRIPT_EXTRA_DETAILS.js) |
+| Ashkaya | Guardian / solitary survivor with deliberate tenderness | 1383 | [Card](characters/beyond-the-gym/ashkaya/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/ashkaya/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/ashkaya/SCRIPT_EXTRA_DETAILS.js) |
+| Ayame Hoshikawa | Reluctant hero / conscientious everyday companion | 1485 | [Card](characters/pelagian-diaspora/ayame/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagian-diaspora/ayame/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagian-diaspora/ayame/SCRIPT_EXTRA_DETAILS.js) |
+| Ganbold Batkhulan | Explorer / maker balancing freedom with responsibility | 1368 | [Card](characters/beyond-the-gym/batu/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/batu/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/batu/SCRIPT_EXTRA_DETAILS.js) |
+| Dixie Yoric Kyouka | Adventurer / affectionate drifter with a carefully maintained cover | 1402 | [Card](characters/kyouka-family/dixie/CARD_EXTRA_DETAILS.md) · [Bio](characters/kyouka-family/dixie/BIO_EXTRA_DETAILS.md) · [Script](characters/kyouka-family/dixie/SCRIPT_EXTRA_DETAILS.js) |
+| Dunkle | Host / sea guardian carrying a private loneliness | 1404 | [Card](characters/beyond-the-gym/dunkle/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/dunkle/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/dunkle/SCRIPT_EXTRA_DETAILS.js) |
+| Emèlia Fortuna | Negotiator / charming survivor burdened by consequential choices | 1429 | [Card](characters/beyond-the-gym/emelia/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/emelia/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/emelia/SCRIPT_EXTRA_DETAILS.js) |
+| Gwen Vale / Green Lantern | Quiet guardian / light artist who values being seen selectively | 1395 | [Card](characters/new-york-associates/gwen/CARD_EXTRA_DETAILS.md) · [Bio](characters/new-york-associates/gwen/BIO_EXTRA_DETAILS.md) · [Script](characters/new-york-associates/gwen/SCRIPT_EXTRA_DETAILS.js) |
+| Luka Yoric Kyouka | Challenger / builder who mistakes usefulness for worth | 1583 | [Card](characters/gym-gals/luka/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/luka/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/luka/SCRIPT_EXTRA_DETAILS.js) |
+| Mellow Judas | Guarded scholar / deadpan companion with hidden enthusiasm | 1346 | [Card](characters/new-york-associates/mellow/CARD_EXTRA_DETAILS.md) · [Bio](characters/new-york-associates/mellow/BIO_EXTRA_DETAILS.md) · [Script](characters/new-york-associates/mellow/SCRIPT_EXTRA_DETAILS.js) |
+| Bukayo Ollie Mudryk | Trickster / loyal artist whose noise protects a community | 1524 | [Card](characters/gym-gals/mudryk/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/mudryk/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/mudryk/SCRIPT_EXTRA_DETAILS.js) |
+| Nandi Akane Hoshino | Steward / guarded caregiver whose reliability has a cost | 1405 | [Card](characters/beyond-the-gym/nandi/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/nandi/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/nandi/SCRIPT_EXTRA_DETAILS.js) |
+| Phœbe / The Ember Seat | Magician / civic guardian whose heat hides conscientiousness | 1419 | [Card](characters/pelagia/phoebe/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagia/phoebe/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagia/phoebe/SCRIPT_EXTRA_DETAILS.js) |
+| Karren Yoric "Star" Kyouka / Power Girl | Champion / adopted daughter seeking belonging without indebtedness | 1366 | [Card](characters/kyouka-family/power-girl/CARD_EXTRA_DETAILS.md) · [Bio](characters/kyouka-family/power-girl/BIO_EXTRA_DETAILS.md) · [Script](characters/kyouka-family/power-girl/SCRIPT_EXTRA_DETAILS.js) |
+| Captain Reagin Hilde | Guardian / dutiful realist learning to receive care | 1403 | [Card](characters/beyond-the-gym/reagin/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/reagin/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/reagin/SCRIPT_EXTRA_DETAILS.js) |
+| Renata Vesper | Wanderer / guarded charmer protecting her autonomy | 1464 | [Card](characters/pelagian-diaspora/renata/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagian-diaspora/renata/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagian-diaspora/renata/SCRIPT_EXTRA_DETAILS.js) |
+| Jennifer Walters / She-Hulk | Advocate / exuberant professional resisting spectacle | 1585 | [Card](characters/new-york-associates/she-hulk/CARD_EXTRA_DETAILS.md) · [Bio](characters/new-york-associates/she-hulk/BIO_EXTRA_DETAILS.md) · [Script](characters/new-york-associates/she-hulk/SCRIPT_EXTRA_DETAILS.js) |
+| Shiraishi Yoric Kyouka | Performer / creator, with an approval-seeking private self | 1501 | [Card](characters/kyouka-family/shiraishi/CARD_EXTRA_DETAILS.md) · [Bio](characters/kyouka-family/shiraishi/BIO_EXTRA_DETAILS.md) · [Script](characters/kyouka-family/shiraishi/SCRIPT_EXTRA_DETAILS.js) |
+| Suzana Kallistrate | Traditional guardian / realist afraid of becoming unnecessary | 1421 | [Card](characters/pelagia/suzana/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagia/suzana/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagia/suzana/SCRIPT_EXTRA_DETAILS.js) |
+| Victoria Soledad Van Rosetti | Steward / dry-witted companion who wants reciprocal care | 1646 | [Card](characters/gym-gals/vicki/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/vicki/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/vicki/SCRIPT_EXTRA_DETAILS.js) |
+| Victoria Vincent / American Dream | Explorer / exuberant idealist with an unadvertised homesickness | 1511 | [Card](characters/pelagian-diaspora/victoria-vincent/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagian-diaspora/victoria-vincent/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagian-diaspora/victoria-vincent/SCRIPT_EXTRA_DETAILS.js) |
+| Zhang Xuerou | Mentor / exacting maker with a quietly stubborn center | 1487 | [Card](characters/gym-gals/xuerou/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/xuerou/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/xuerou/SCRIPT_EXTRA_DETAILS.js) |
+| Yamato / Mooncoil Heiress | Indulgent ruler of a social world / lonely observer | 1467 | [Card](characters/pelagia/yamato/CARD_EXTRA_DETAILS.md) · [Bio](characters/pelagia/yamato/BIO_EXTRA_DETAILS.md) · [Script](characters/pelagia/yamato/SCRIPT_EXTRA_DETAILS.js) |
+| Yugo Delphine Mercedes | Ruler / creator learning to share authorship of her private life | 1597 | [Card](characters/gym-gals/yugo/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/yugo/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/yugo/SCRIPT_EXTRA_DETAILS.js) |
+| Zesty Jesus | Rebel / investigator whose indignation competes with exhaustion | 1408 | [Card](characters/gym-gals/zesty/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/zesty/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/zesty/SCRIPT_EXTRA_DETAILS.js) |
+| Zuri Lerato Amara | Proud outsider / generous artisan beneath sharp wit | 1458 | [Card](characters/gym-gals/zuri/CARD_EXTRA_DETAILS.md) · [Bio](characters/gym-gals/zuri/BIO_EXTRA_DETAILS.md) · [Script](characters/gym-gals/zuri/SCRIPT_EXTRA_DETAILS.js) |
+| Zirkala Tatanka | Scholar / protector who wants to be seen beyond her equipment | 1598 | [Card](characters/beyond-the-gym/zirkala-tatanka/CARD_EXTRA_DETAILS.md) · [Bio](characters/beyond-the-gym/zirkala-tatanka/BIO_EXTRA_DETAILS.md) · [Script](characters/beyond-the-gym/zirkala-tatanka/SCRIPT_EXTRA_DETAILS.js) |
+| General Aveline Drakk | Returning commander / principled reformer with divided loyalties | 1348 | [Card](characters/zentreya/aveline-drakk/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/aveline-drakk/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/aveline-drakk/SCRIPT_EXTRA_DETAILS.js) |
+| Celeste Rojas | Competitive optimist / meticulous craftswoman behind rapid banter | 1648 | [Card](characters/zentreya/celeste-rojas/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/celeste-rojas/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/celeste-rojas/SCRIPT_EXTRA_DETAILS.js) |
+| Kaia Solenne | Inventor / autonomous person resisting the role of permanent weapon | 1363 | [Card](characters/zentreya/kaia-solenne/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/kaia-solenne/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/kaia-solenne/SCRIPT_EXTRA_DETAILS.js) |
+| Leona Aster | Proud creator / exacting mentor with a lavish romantic manner | 1707 | [Card](characters/zentreya/leona-aster/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/leona-aster/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/leona-aster/SCRIPT_EXTRA_DETAILS.js) |
+| Liberty Redford | Generous host / exuberant organizer who overpromises | 1737 | [Card](characters/zentreya/liberty-redford/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/liberty-redford/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/liberty-redford/SCRIPT_EXTRA_DETAILS.js) |
+| Marisol Reyes | Entrepreneur / exuberant performer who insists on authorship | 1501 | [Card](characters/zentreya/marisol-reyes/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/marisol-reyes/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/marisol-reyes/SCRIPT_EXTRA_DETAILS.js) |
+| Nyx Rielle | Gothic performer / private creator who dislikes being reduced to a fantasy | 1652 | [Card](characters/zentreya/nyx-rielle/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/nyx-rielle/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/nyx-rielle/SCRIPT_EXTRA_DETAILS.js) |
+| Roux Caldera | Rebel / disciplined competitor who hides feelings in analysis | 1657 | [Card](characters/zentreya/roux-caldera/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/roux-caldera/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/roux-caldera/SCRIPT_EXTRA_DETAILS.js) |
+| Rowan Mercer | Independent provider / wanderer seeking a durable home | 1671 | [Card](characters/zentreya/rowan-mercer/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/rowan-mercer/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/rowan-mercer/SCRIPT_EXTRA_DETAILS.js) |
+| Runa Valeska | Sage / mischievous witness who refuses to become a monument | 1492 | [Card](characters/zentreya/runa-valeska/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/runa-valeska/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/runa-valeska/SCRIPT_EXTRA_DETAILS.js) |
+| Seraphine Ash | Artist / troupe steward whose public composure conceals a need for care | 1684 | [Card](characters/zentreya/seraphine-ash/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/seraphine-ash/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/seraphine-ash/SCRIPT_EXTRA_DETAILS.js) |
+| Vera Callahan | Charismatic host / ambitious performer who wants a life offstage | 1603 | [Card](characters/zentreya/vera-callahan/CARD_EXTRA_DETAILS.md) · [Bio](characters/zentreya/vera-callahan/BIO_EXTRA_DETAILS.md) · [Script](characters/zentreya/vera-callahan/SCRIPT_EXTRA_DETAILS.js) |
+
+## Regeneration and verification
+
+Run `python extra_details/build.py`, then `node tests/test_extra_details.js`. The authoring sources are `extra_details/profiles.py`, the existing character references and `scripts/engine_extra_details.js`. Regeneration writes only the expanded cards, bios, configs, scripts and extra-details size manifest. Edit the authoring sources before rebuilding so manual changes to generated files are not lost.
+
+The expanded suite passes 1,305 assertions. Three pre-existing legacy suites have failures, documented individually in [VALIDATION.md](extra_details/VALIDATION.md); the original files are intentionally preserved.

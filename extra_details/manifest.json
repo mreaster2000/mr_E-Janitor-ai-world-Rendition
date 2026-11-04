@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "estimate_method": "ceil(Unicode character count / 4), Personality + Scenario + Example Dialogues only; not a model tokenizer",
+  "characters": [
+    {
+      "slug": "absolute-wonder-woman",
+      "path": "characters/pelagia/absolute-wonder-woman",
+      "field_characters": 5791,
+      "estimated_tokens": 1448,
+      "examples": 4,
+      "lore_entries": 25,
+      "script_bytes": 20616
+    },
+    {
+      "slug": "apollo",
+      "path": "characters/beyond-the-gym/apollo",
+      "field_characters": 5922,
+      "estimated_tokens": 1481,
+      "examples": 4,
+      "lore_entries": 26,
+      "script_bytes": 21571
+    },
+    {
+      "slug": "apollyon",
+      "path": "characters/pelagia/apollyon",
+      "field_characters": 5670,
+      "estimated_tokens": 1418,
+      "examples": 4,
+      "lore_entries": 17,
+      "script_bytes": 16295
+    },
+    {
+      "slug": "ashkaya",
+      "path": "characters/beyond-the-gym/ashkaya",
+      "field_characters": 5531,
+      "estimated_tokens": 1383,
+      "examples": 4,
+      "lore_entries": 24,
+      "script_bytes": 19845
+    },
+    {
+      "slug": "ayame",
+      "path": "characters/pelagian-diaspora/ayame",
+      "field_characters": 5937,
+      "estimated_tokens": 1485,
+      "examples": 4,
+      "lore_entries": 26,
+      "script_bytes": 20640
+    },
+    {
+      "slug": "batu",
+      "path": "characters/beyond-the-gym/batu",
+      "field_characters": 5471,
+      "estimated_tokens": 1368,
+      "examples": 4,
+      "lore_entries": 23,
+      "script_bytes": 19583
+    },
+    {
+      "slug": "dixie",
+      "path": "characters/kyouka-family/dixie",
+      "field_characters": 5606,
+      "estimated_tokens": 1402,
+      "examples": 4,
+      "lore_entries": 29,
+      "script_bytes": 22320
+    },
+    {
+      "slug": "dunkle",
+      "path": "characters/beyond-the-gym/dunkle",
+      "field_characters": 5616,
+      "estimated_tokens": 1404,
+      "examples": 4,
+      "lore_entries": 25,
+      "script_bytes": 20780
+    },
+    {
+      "slug": "emelia",
+      "path": "characters/beyond-the-gym/emelia",
+      "field_characters": 5714,
+      "estimated_tokens": 1429,
+      "examples": 4,
+      "lore_entries": 27,
+      "script_bytes": 21425
+    },
+    {
+      "slug": "gwen",
+      "path": "characters/new-york-associates/gwen",
+      "field_characters": 5579,
+      "estimated_tokens": 1395,
+      "examples": 4,
+      "lore_entries": 17,
+      "script_bytes": 16270
+    },
+    {
+      "slug": "luka",
+      "path": "characters/gym-gals/luka",
+      "field_characters": 6332,
+      "estimated_tokens": 1583,
+      "examples": 4,
+      "lore_entries": 29,
+      "script_bytes": 22606
+    },
+    {
+      "slug": "mellow",
+      "path": "characters/new-york-associates/mellow",
+      "field_characters": 5384,
+      "estimated_tokens": 1346,
+      "examples": 4,
+      "lore_entries": 25,
+      "script_bytes": 20260
+    },
+    {
+      "slug": "mudryk",
+      "path": "characters/gym-gals/mudryk",
+      "field_characters": 6095,
+      "estimated_tokens": 1524,
+      "examples": 4,
+      "lore_entries": 28,
+      "script_bytes": 21944
+    },
+    {
+      "slug": "nandi",
+      "path": "characters/beyond-the-gym/nandi",
+      "field_characters": 5618,
+      "estimated_tokens": 1405,
+      "examples": 4,
+      "lore_entries": 25,
+      "script_bytes": 20237
+    },
+    {
+      "slug": "phoebe",
+      "path": "characters/pelagia/phoebe",
+      "field_characters": 5676,
+      "estimated_tokens": 1419,
+      "examples": 4,
+      "lore_entries": 18,
+      "script_bytes": 16736
+    },
+    {
+      "slug": "power-girl",
+      "path": "characters/kyouka-family/power-girl",
+      "field_characters": 5463,
+      "estimated_tokens": 1366,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19686
+    },
+    {
+      "slug": "reagin",
+      "path": "characters/beyond-the-gym/reagin",
+      "field_characters": 5611,
+      "estimated_tokens": 1403,
+      "examples": 4,
+      "lore_entries": 26,
+      "script_bytes": 21064
+    },
+    {
+      "slug": "renata",
+      "path": "characters/pelagian-diaspora/renata",
+      "field_characters": 5855,
+      "estimated_tokens": 1464,
+      "examples": 4,
+      "lore_entries": 17,
+      "script_bytes": 16432
+    },
+    {
+      "slug": "she-hulk",
+      "path": "characters/new-york-associates/she-hulk",
+      "field_characters": 6338,
+      "estimated_tokens": 1585,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 18435
+    },
+    {
+      "slug": "shiraishi",
+      "path": "characters/kyouka-family/shiraishi",
+      "field_characters": 6001,
+      "estimated_tokens": 1501,
+      "examples": 4,
+      "lore_entries": 26,
+      "script_bytes": 21768
+    },
+    {
+      "slug": "suzana",
+      "path": "characters/pelagia/suzana",
+      "field_characters": 5684,
+      "estimated_tokens": 1421,
+      "examples": 4,
+      "lore_entries": 27,
+      "script_bytes": 21230
+    },
+    {
+      "slug": "vicki",
+      "path": "characters/gym-gals/vicki",
+      "field_characters": 6581,
+      "estimated_tokens": 1646,
+      "examples": 4,
+      "lore_entries": 31,
+      "script_bytes": 23629
+    },
+    {
+      "slug": "victoria-vincent",
+      "path": "characters/pelagian-diaspora/victoria-vincent",
+      "field_characters": 6041,
+      "estimated_tokens": 1511,
+      "examples": 4,
+      "lore_entries": 18,
+      "script_bytes": 16922
+    },
+    {
+      "slug": "xuerou",
+      "path": "characters/gym-gals/xuerou",
+      "field_characters": 5947,
+      "estimated_tokens": 1487,
+      "examples": 4,
+      "lore_entries": 27,
+      "script_bytes": 21267
+    },
+    {
+      "slug": "yamato",
+      "path": "characters/pelagia/yamato",
+      "field_characters": 5868,
+      "estimated_tokens": 1467,
+      "examples": 4,
+      "lore_entries": 19,
+      "script_bytes": 17567
+    },
+    {
+      "slug": "yugo",
+      "path": "characters/gym-gals/yugo",
+      "field_characters": 6385,
+      "estimated_tokens": 1597,
+      "examples": 4,
+      "lore_entries": 32,
+      "script_bytes": 24027
+    },
+    {
+      "slug": "zesty",
+      "path": "characters/gym-gals/zesty",
+      "field_characters": 5629,
+      "estimated_tokens": 1408,
+      "examples": 4,
+      "lore_entries": 27,
+      "script_bytes": 21076
+    },
+    {
+      "slug": "zuri",
+      "path": "characters/gym-gals/zuri",
+      "field_characters": 5829,
+      "estimated_tokens": 1458,
+      "examples": 4,
+      "lore_entries": 26,
+      "script_bytes": 20864
+    },
+    {
+      "slug": "zirkala-tatanka",
+      "path": "characters/beyond-the-gym/zirkala-tatanka",
+      "field_characters": 6389,
+      "estimated_tokens": 1598,
+      "examples": 4,
+      "lore_entries": 18,
+      "script_bytes": 17821
+    },
+    {
+      "slug": "aveline-drakk",
+      "path": "characters/zentreya/aveline-drakk",
+      "field_characters": 5391,
+      "estimated_tokens": 1348,
+      "examples": 4,
+      "lore_entries": 20,
+      "script_bytes": 18522
+    },
+    {
+      "slug": "celeste-rojas",
+      "path": "characters/zentreya/celeste-rojas",
+      "field_characters": 6589,
+      "estimated_tokens": 1648,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19335
+    },
+    {
+      "slug": "kaia-solenne",
+      "path": "characters/zentreya/kaia-solenne",
+      "field_characters": 5451,
+      "estimated_tokens": 1363,
+      "examples": 4,
+      "lore_entries": 19,
+      "script_bytes": 18194
+    },
+    {
+      "slug": "leona-aster",
+      "path": "characters/zentreya/leona-aster",
+      "field_characters": 6827,
+      "estimated_tokens": 1707,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19563
+    },
+    {
+      "slug": "liberty-redford",
+      "path": "characters/zentreya/liberty-redford",
+      "field_characters": 6945,
+      "estimated_tokens": 1737,
+      "examples": 4,
+      "lore_entries": 22,
+      "script_bytes": 19988
+    },
+    {
+      "slug": "marisol-reyes",
+      "path": "characters/zentreya/marisol-reyes",
+      "field_characters": 6002,
+      "estimated_tokens": 1501,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19916
+    },
+    {
+      "slug": "nyx-rielle",
+      "path": "characters/zentreya/nyx-rielle",
+      "field_characters": 6608,
+      "estimated_tokens": 1652,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19410
+    },
+    {
+      "slug": "roux-caldera",
+      "path": "characters/zentreya/roux-caldera",
+      "field_characters": 6625,
+      "estimated_tokens": 1657,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19443
+    },
+    {
+      "slug": "rowan-mercer",
+      "path": "characters/zentreya/rowan-mercer",
+      "field_characters": 6682,
+      "estimated_tokens": 1671,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19425
+    },
+    {
+      "slug": "runa-valeska",
+      "path": "characters/zentreya/runa-valeska",
+      "field_characters": 5968,
+      "estimated_tokens": 1492,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19825
+    },
+    {
+      "slug": "seraphine-ash",
+      "path": "characters/zentreya/seraphine-ash",
+      "field_characters": 6734,
+      "estimated_tokens": 1684,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19484
+    },
+    {
+      "slug": "vera-callahan",
+      "path": "characters/zentreya/vera-callahan",
+      "field_characters": 6409,
+      "estimated_tokens": 1603,
+      "examples": 4,
+      "lore_entries": 21,
+      "script_bytes": 19444
+    }
+  ]
+}
