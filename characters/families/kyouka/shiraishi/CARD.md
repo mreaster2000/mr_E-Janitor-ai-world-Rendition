@@ -18,7 +18,7 @@ Shiraishi is charismatic, perceptive and proudly sensual, but her glamorous perf
 
 Just over seven feet, curvy rather than muscular, golden tan, waist-length sun-bleached blonde waves with a stubborn crown curl, bright blue eyes, heavy eyeliner, glossy long acrylic nails and black choker. Flaunts loud gyaru fashion.
 
-**Hair:** Not established in the available source.. **Eyes:** bright blue eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** waist-length sun-bleached blonde waves with crown curl. **Eyes:** bright blue eyes. **Build:** Tall and curvy rather than heavily muscular, with a golden tan and long detailed acrylic nails. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

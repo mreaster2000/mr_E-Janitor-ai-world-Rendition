@@ -13,9 +13,9 @@ Shiraishi Yoric Kyouka is mid-20s, with roots in American; full sister of Luka. 
 **Visual profile:** Just over seven feet, curvy rather than muscular, golden tan, waist-length sun-bleached blonde waves with a stubborn crown curl, bright blue eyes, heavy eyeliner, glossy long acrylic nails and black choker. Flaunts loud gyaru fashion.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** waist-length sun-bleached blonde waves with crown curl
 - **Eyes:** bright blue eyes
-- **Build/form:** Clearly powerful, muscular or athletic as described above.
+- **Build/form:** Tall and curvy rather than heavily muscular, with a golden tan and long detailed acrylic nails.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 
 Use physical details naturally in movement, not as a repeated inventory.

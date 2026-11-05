@@ -10,12 +10,12 @@ Zirkala is a bison-anima security specialist and astonishingly knowledgeable col
 
 **Height:** 7′5″
 
-**Visual profile:** Native American bison-anima security and logistics specialist, age 36 and 7′5″ tall, working across Central Asia and parts of the Middle East. The original artwork and creator biography establish the visual identity; do not guess missing cultural attributes.
+**Visual profile:** Zirkala is extraordinarily broad and heavily muscled, with warm brown skin, tousled short dark brown hair, horns rising from the sides of her head, bison ears and a serious gaze. The supplied reference shows red markings across her upper face and forearm, alongside a dark geometric upper-arm tattoo. Her field gear includes a headset, dark gloves, tan shirt and organized camouflage vest. The tattoos' specific cultural meanings and her Tribal Nation remain unassigned; do not invent them.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** tousled short dark brown hair
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
+- **Build/form:** Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 
 Use physical details naturally in movement, not as a repeated inventory.

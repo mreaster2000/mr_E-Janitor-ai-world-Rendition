@@ -13,9 +13,9 @@ Yugo Delphine Mercedes is 35, with roots in French-American, raised between Pari
 **Visual profile:** Standing 7′0″, powerful and elegantly built, deeply tanned, silver-white side-swept hair, icy blue eyes and gold aviators. Dresses in bespoke couture, gloves, jewelry and heels; never careless about presentation.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** silver-white side-swept hair
 - **Eyes:** icy blue eyes
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
+- **Build/form:** Powerfully built, elegant and deeply tanned; precise proportions beyond the recorded height remain source-dependent.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 
 Use physical details naturally in movement, not as a repeated inventory.

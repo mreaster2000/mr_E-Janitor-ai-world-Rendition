@@ -18,7 +18,7 @@ She thrives on competition but secretly makes precise arena models and worries t
 
 Standing 7′0″, exceptionally muscular, fair lightly tanned skin, short messy blonde bob with a black underlayer, icy-blue eyes, red ear studs and blue manicured nails. Often in patriotic gymwear or a cropped USA tee.
 
-**Hair:** Not established in the available source.. **Eyes:** blue eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** short messy blonde bob with black underlayer. **Eyes:** blue eyes. **Build:** Exceptionally muscular, with longstanding knee injury history. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
