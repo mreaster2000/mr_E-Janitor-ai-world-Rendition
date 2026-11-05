@@ -33,7 +33,8 @@ const completed={
   'gluco-charin':'candy',
   'crimson-viper':'maison',
   'marieza-san':'training',
-  rosa:'guitar'
+  rosa:'guitar',
+  besterta:'cattle'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
