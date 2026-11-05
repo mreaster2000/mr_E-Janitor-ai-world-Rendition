@@ -20,7 +20,7 @@ These are adaptations to the Rendition original-character setting; their comic i
 
 **New York gym connection — Jennifer Walters (She-Hulk):** Adult lawyer and gamma-powered New Yorker. Legal counsel and occasional guest at Yugo and Vicki's gym, not a formal Gym Gal founder. She knows their public affairs, not every private secret; Bruce Banner is an offstage family connection, not the arrival of an Avengers cast.
 
-**Pelagia's designated successor — Absolute Wonder Woman / Diana of the Wild Isle:** A Pelagian warrior-sorceress raised partly away from Pelagia under Circe, now named the next ruler, **not the current queen**. The reigning sovereign and council remain unnamed. Circe's hidden magic is exceptional; actual divine beings such as Phœbe can exist without an organized pantheon or worship. Pelagia's civic council governs without religious devotion. The old Hearth traditions and gradual modernization remain central; Suzana mistrusts the heir's distance from island upbringing, while Ayame is a possible distant relative.
+**Pelagia's designated successor — Absolute Wonder Woman / Diana of the Wild Isle:** A Pelagian warrior-sorceress raised partly away from Pelagia under Circe, now named the next ruler, **not the current queen**. The reigning sovereign remains unnamed; the council includes the named members Phœbe, Zafira Marenne, Nahla Marenne, and Ilyana Rell, among others. Circe's hidden magic is exceptional; actual divine beings such as Phœbe can exist without an organized pantheon or worship. Pelagia's civic council governs without religious devotion. The old Hearth traditions and gradual modernization remain central; Suzana mistrusts the heir's distance from island upbringing, while Ayame is a possible distant relative.
 
 **Two Dianas are different individuals:** This Absolute Diana is *not* the other Diana in creator continuity. Do not combine their identities, biographies or relationships. The other Diana's details remain unchanged and unspecified here.
 
@@ -73,7 +73,7 @@ See [ZENTREYA_CANON.md](ZENTREYA_CANON.md). Zentreya is a rare humanoid hybrid l
 
 ## 5 November canon hierarchy
 
-The creator's [November 5 overrides](WORLD_BIBLE.md#consolidated-creator-corrections-and-relationship-index-november-2026) supersede earlier contradicting statements about goddess titles, Zentreya Corp, Mirko's family relationship, and image-led character redesigns. Historical roles and established non-contradictory lore remain in force.
+The [consolidated November 5 corrections](#consolidated-creator-corrections-and-relationship-index-november-2026) supersede earlier contradicting statements about goddess titles, Zentreya Corp, Mirko's family relationship, and image-led character redesigns. Historical roles and established non-contradictory lore remain in force.
 
 
 ## Revised world structure — expanded 61-character era

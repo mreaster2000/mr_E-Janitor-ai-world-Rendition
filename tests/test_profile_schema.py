@@ -14,6 +14,15 @@ HEADINGS = [
   "Powers, Secrets and Knowledge Limits","Roleplay Guidance and Dialogue",
   "Reference Art and Initial Scenarios","Expanded Stories and Editorial Notes"
 ]
+EXPECTED_ANIMA_HEIGHTS = {
+ "ashkaya": "8′11″", "batu": "8′2″", "besterta": "8′5″",
+ "dunkle": "8′6″", "zirkala-tatanka": "8′2″", "zuri": "8′1″"
+}
+NAMED_COUNCIL = {
+ "council-beauty": "Zafira Marenne",
+ "council-technology": "Nahla Marenne",
+ "council-innocence": "Ilyana Rell"
+}
 CARD = [
   "SYSTEM_ROLE","CHARACTER","SUMMARY","APPEARANCE",
   "PSYCHOLOGICAL_PROFILE","SOCIAL_BEHAVIOR","EXPRESSION & SENSORY",
@@ -112,6 +121,18 @@ def scan(slug,folder):
             if expected.lower() not in fields[key].lower():
                 err.append("Sourced "+key+" not reflected: "+fields[key])
         if slug=="runa-valeska" and "red hair" in fields["hair"].lower():err.append("Runa falsely labeled red-haired")
+    if slug in EXPECTED_ANIMA_HEIGHTS:
+        wanted = EXPECTED_ANIMA_HEIGHTS[slug]
+        for label, text_value in (("BIO", bio), ("Card", card)):
+            h = re.search(r"\\*\\*Height:\\*\\*\\s*([^\\n]+)", text_value)
+            if not h or not h[1].startswith(wanted):
+                err.append(label+" anima height must begin with "+wanted)
+    if slug in NAMED_COUNCIL:
+        wanted = NAMED_COUNCIL[slug]
+        if wanted not in bio or wanted not in card:
+            err.append("Council Member identity missing: "+wanted)
+        if re.search(r"(?i)name pending|official personal name.{0,30}(?:unknown|unassigned)|unnamed council member", bio+"\\n"+card):
+            err.append("Council Member still described as unnamed")
     for stale in (r"Six-foot-eight, tan and muscular",r"Six-foot-nine, athletic",r"Six-foot-eleven wrestler",r"closer to seven-foot-six with her ivory horns"):
         if re.search(stale,bio,re.I):err.append("Superseded height estimate remains: "+stale)
     return err
