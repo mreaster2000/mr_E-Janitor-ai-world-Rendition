@@ -1,10 +1,10 @@
-# Character roster — 58 profiles
+# Character roster — 61 profiles
 
-Navigation groups do not imply shared knowledge, ancestry or affiliations.
+Canonical profile paths; primary groups are organizational, not exclusive affiliations.
 
 ## manhattan/gym
 
-- [mudryk](characters/manhattan/gym/mudryk/)
+- [rosa](characters/manhattan/gym/rosa/)
 - [luka](characters/manhattan/gym/luka/)
 - [vicki](characters/manhattan/gym/vicki/)
 - [yugo](characters/manhattan/gym/yugo/)
@@ -69,7 +69,7 @@ Navigation groups do not imply shared knowledge, ancestry or affiliations.
 - [ashkaya](characters/anima/ashkaya/)
 - [batu](characters/anima/batu/)
 - [dunkle](characters/anima/dunkle/)
-- [nandi](characters/anima/nandi/)
+- [besterta](characters/anima/besterta/)
 - [zirkala-tatanka](characters/anima/zirkala-tatanka/)
 
 ## worldwide/associates
@@ -78,6 +78,9 @@ Navigation groups do not imply shared knowledge, ancestry or affiliations.
 - [emelia](characters/worldwide/associates/emelia/)
 - [reagin](characters/worldwide/associates/reagin/)
 - [bernadette](characters/worldwide/associates/bernadette/)
+- [bon](characters/worldwide/associates/bon/)
+- [sukisekine](characters/worldwide/associates/sukisekine/)
+- [talatora](characters/worldwide/associates/talatora/)
 
 ## families/mercedes
 

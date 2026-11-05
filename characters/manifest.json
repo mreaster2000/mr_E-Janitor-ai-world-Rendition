@@ -91,7 +91,10 @@
         "apollo",
         "emelia",
         "reagin",
-        "bernadette"
+        "bernadette",
+        "bon",
+        "sukisekine",
+        "talatora"
       ]
     },
     "families/mercedes": {
@@ -173,6 +176,9 @@
     "wonder-witch": "pelagia/islanders/wonder-witch",
     "saint-diana": "pelagia/islanders/saint-diana",
     "rosa": "manhattan/gym/rosa",
-    "besterta": "anima/besterta"
+    "besterta": "anima/besterta",
+    "bon": "worldwide/associates/bon",
+    "sukisekine": "worldwide/associates/sukisekine",
+    "talatora": "worldwide/associates/talatora"
   }
 }
