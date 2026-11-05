@@ -14,6 +14,8 @@ jobs:
           node-version: '22'
       - name: Validate roster
         run: node tests/test_structure.js
+      - name: Validate BIO and Card v4 structure
+        run: python3 tests/test_profile_schema.py
       - name: Validate scripts
         run: node tests/test_scripts.js
       - name: Validate completed long-form characters
