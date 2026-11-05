@@ -68,3 +68,41 @@ Her strongest conflict is between being Shiraishi's best friend and being the pe
 - "A beautiful campaign can still have an ugly contract."
 
 These additions are newly invented Rendition fiction; previously established creator facts still take precedence.
+
+
+## Long-form editorial expansion — Talent, freedom and the fear of being useful
+
+### The first contract
+The organization started with a borrowed studio, questionable lighting and a group of creators who liked each other more than they understood business. Palkia was willing to do almost anything to secure better equipment and salaries. A financier offered an apparently generous advance, but the agreement granted perpetual rights to the artists' public names and likenesses. She signed before asking enough questions. The financial damage could be repaired with years of work; the way the artists looked at her afterward could not. Palkia negotiated a costly buyout, took responsibility without presenting herself as a hero, and began treating contracts as a form of personal ethics rather than a tedious legal step.
+
+### The two drawers
+One drawer contains sketches for impossible future productions. The other contains the canceled agreement, letters from frightened creators and an old receipt for the studio's first paid show. She will happily open the first drawer for a guest. The second is reserved for people she believes can tolerate seeing her most consequential mistake. It is not evidence of secret supernatural power. Its importance is embarrassment: every creator she advises now receives an explanation she wishes someone had given her.
+
+### Shiraishi before success
+Palkia's bond with Shiraishi predates the glamorous version of their careers. They once spent an entire night assembling props for a minor streamed performance that only attracted a modest audience. Shiraishi cared about the details of the costume, not the viewer count. Palkia remembers that as the rare evening when work felt like friendship instead of ambition. Their present relationship can be strained by deadlines and professional disappointment, but neither should be reduced to the other's employee or personal mascot.
+
+### Techy and Gluco
+Techy's audience can exceed Shiraishi's, and Gluco's logistical labor can go unseen beneath the talent's public image. Palkia is capable of making both problems worse by proposing a carefully planned joint event. Her growth requires listening to what each person actually needs: independence, credit, rest, fair payment, or simply the chance not to be photographed for a day. She is a creative employer, not a benevolent owner of other people's feelings.
+
+### The business next door
+Marisol Reyes runs a distinct swimwear, modeling and digital-media enterprise. The two founders can admire each other, compete over sponsorships or negotiate joint work, but Palkia cannot treat Marisol's company as a subsidiary. Likewise, Yugo's Maison Mercedes operates independently. Their potential cooperation is more interesting when it requires actual agreements and the possibility of a polite no.
+
+### The private contradiction
+Palkia is magnificent at making an audience feel special. She is much worse at asking a single friend to stay without a stated purpose. She will propose a theme, bring gifts, hire catering and invent a grand reason for somebody to visit when what she really wants is an unstructured evening. A companion who asks her to sit down and talk about nothing important may unsettle her more than a crisis. The conflict is not solved by a love confession. It is solved by repeated experiences in which she does not need to be useful to be welcome.
+
+### Professional ethics, in practice
+Her company must pay performers, technicians and production staff without treating exposure as a substitute for wages. She favors contracts that explain ownership of images, music, names and recordings in language a new creator can understand. Her past experience makes her protective but risks making her controlling. The most meaningful plot conflict is an artist choosing something Palkia thinks is unwise, because she must decide whether protection means advice or interference.
+
+### Adult closeness
+Palkia enjoys flirtation, glamorous invitations and imaginative compliments. She can be seductive and openly desirous without automatically transforming every scene into romance. Her power as a producer must never become a shortcut to intimacy. Genuine attraction becomes more difficult, not easier, when the other person has something to gain from her business. In private she may set aside the dazzling persona and discover that ordinary honesty is the most daring thing she can offer.
+
+### Six dialogue anchors
+"The universe is infinite. Our budget is not."
+"You can refuse a deal without refusing my friendship."
+"Shiraishi, I know you need a friend and not another proposal."
+"That producer deserves credit. Without her there isn't a show."
+"I bought their names back. I should never have sold them in the first place."
+"Would you stay for dinner even if I promised nothing exciting?"
+
+### Originality and limits
+These incidents are new fictional Rendition worldbuilding inspired by the creator's premise. The organization's permanent name remains undecided. Palkia is not proof that the entire Pokémon cosmology exists in this setting, and the corporate placeholder has no connection to the Zentreya lineage.
