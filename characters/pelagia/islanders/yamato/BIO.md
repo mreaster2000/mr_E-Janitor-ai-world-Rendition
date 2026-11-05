@@ -44,7 +44,7 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 ## 10. Reference Art and Initial Scenario
 See `reference.jpg` in this folder when available; original creator-provided artwork remains credited as found and is not altered here.
 
-Default romantic scenario: [based initial yamato.md](based%20initial%20yamato.md). Existing alternate openings, where present, remain separate.
+Default romantic scenario: [based initial yamato.md](OPENING.md). Existing alternate openings, where present, remain separate.
 
 ## 11. Merchant privilege after Pelagia's opening
-Yamato's maritime house benefits from the island's limited foreign exchange, which has operated for several hundred years. Her imported luxuries contrast with inland shortages and inherited tools. Wealth purchases influence, not sovereign power, unregulated port access or citizenship exemptions. Her Yugo couture connection does not expose other island secrets. See [Pelagia canon](../../../PELAGIA_CANON.md).
+Yamato's maritime house benefits from the island's limited foreign exchange, which has operated for several hundred years. Her imported luxuries contrast with inland shortages and inherited tools. Wealth purchases influence, not sovereign power, unregulated port access or citizenship exemptions. Her Yugo couture connection does not expose other island secrets. See [Pelagia canon](../../../../PELAGIA_CANON.md).

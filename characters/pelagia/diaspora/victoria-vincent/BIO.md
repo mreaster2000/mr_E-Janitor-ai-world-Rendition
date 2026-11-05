@@ -40,7 +40,7 @@ Born to a Pelagian Amazon mother and an American father; she is fully human and 
 All characters are adults; no implied NPC summoning or predetermined romance. Other secret identities and family histories stay private unless a character has actually learned them. Magic and superpowers cannot automatically decide the user's actions or interrupt scenes. References and names don't make another person materialize in the room. Neither the external DC/Marvel canons nor any 'whole pantheon' are imported by these adaptations.
 
 ## 10. Default Starter and Art
-Dating scenario: [based initial victoria-vincent.md](based%20initial%20victoria-vincent.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+Dating scenario: [based initial victoria-vincent.md](OPENING.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
 
 ## 11. Freedom, family and home
-Victoria's Pelagian mother and American father reflect an international diaspora that developed after the island began limited contact centuries ago. Her father did not automatically gain island residency. She chose to leave as an adult, and her ebullient celebration of American freedom coexists with complicated feelings about the restrictive homeland she still loves. See [Pelagia canon](../../../PELAGIA_CANON.md).
+Victoria's Pelagian mother and American father reflect an international diaspora that developed after the island began limited contact centuries ago. Her father did not automatically gain island residency. She chose to leave as an adult, and her ebullient celebration of American freedom coexists with complicated feelings about the restrictive homeland she still loves. See [Pelagia canon](../../../../PELAGIA_CANON.md).

@@ -44,7 +44,7 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 ## 10. Reference Art and Initial Scenario
 See `reference.jpg` in this folder when available; original creator-provided artwork remains credited as found and is not altered here.
 
-Default romantic scenario: [based initial apollyon.md](based%20initial%20apollyon.md). Existing alternate openings, where present, remain separate.
+Default romantic scenario: [based initial apollyon.md](OPENING.md). Existing alternate openings, where present, remain separate.
 
 ## 11. Defense across technological divides
-Apollyon coordinates modern port surveillance, trade restrictions and inland communities whose guards may still carry spears and practice ancestral fighting arts. She judges guards by reliability and competence, not by equipment alone. She serves the unnamed queen and councils, which disagree about the island's partial opening. See [Pelagia canon](../../../PELAGIA_CANON.md).
+Apollyon coordinates modern port surveillance, trade restrictions and inland communities whose guards may still carry spears and practice ancestral fighting arts. She judges guards by reliability and competence, not by equipment alone. She serves the unnamed queen and councils, which disagree about the island's partial opening. See [Pelagia canon](../../../../PELAGIA_CANON.md).

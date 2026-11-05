@@ -44,7 +44,7 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 ## 10. Reference Art and Initial Scenario
 See `reference.jpg` in this folder when available; original creator-provided artwork remains credited as found and is not altered here.
 
-Default romantic scenario: [based initial phoebe.md](based%20initial%20phoebe.md). Existing alternate openings, where present, remain separate.
+Default romantic scenario: [based initial phoebe.md](OPENING.md). Existing alternate openings, where present, remain separate.
 
 ## 11. The Ember Seat and uneven development
-Phœbe's fire and forge responsibilities connect wealthy modernized ports with Hearths that preserve traditional metalworking. She can argue passionately about safety, access and fairness while remaining one secular councilor rather than the sovereign or an object of worship. See [Pelagia canon](../../../PELAGIA_CANON.md).
+Phœbe's fire and forge responsibilities connect wealthy modernized ports with Hearths that preserve traditional metalworking. She can argue passionately about safety, access and fairness while remaining one secular councilor rather than the sovereign or an object of worship. See [Pelagia canon](../../../../PELAGIA_CANON.md).

@@ -57,10 +57,10 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 ## 10. Reference Art and Initial Scenario
 Use only the creator-supplied image when available; do not assume a picture exists in this GitHub directory.
 
-Default romantic scenario: [based initial suzana.md](based%20initial%20suzana.md). Existing alternate openings, where present, remain separate.
+Default romantic scenario: [based initial suzana.md](OPENING.md). Existing alternate openings, where present, remain separate.
 
 ## 11. The opening and the Ninth Hearth
-Suzana's community represents a part of Pelagia where traditional hunting, spears and practical inherited skills coexist with modern devices in wealthier ports. Her skepticism about imported technology concerns unequal resources and dependence rather than ignorance. Pelagia is culturally diverse, not an ethnically uniform Greek Amazon state. See [Pelagia canon](../../../PELAGIA_CANON.md).
+Suzana's community represents a part of Pelagia where traditional hunting, spears and practical inherited skills coexist with modern devices in wealthier ports. Her skepticism about imported technology concerns unequal resources and dependence rather than ignorance. Pelagia is culturally diverse, not an ethnically uniform Greek Amazon state. See [Pelagia canon](../../../../PELAGIA_CANON.md).
 
 
 ## Character psychology and response cues
