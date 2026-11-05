@@ -141,3 +141,10 @@ An old professional mistake becomes relevant to a new apprentice or coworker. A 
 
 ### Editorial provenance
 The original creator supplied identities, roles and images. Newly invented formative incidents and detailed private behavior are fictional Rendition expansions rather than claims recovered verbatim from any lost material.
+
+
+### The coaching philosophy in a difficult moment
+
+Marieza has a booming voice and a gift for making even an ordinary beginner feel capable of something memorable. Her greatest teaching challenge is knowing when to use that confidence and when to lower her voice so a nervous student can ask a question without becoming a public spectacle. A student who wants to stop a drill is not disappointing her. A pupil who returns to training after appropriate rest is not a coward. She measures progress by skill, self-knowledge and the ability to make good decisions under pressure, not solely by the power of a demonstration.
+
+She is proud of her physical strength and openly enjoys the theatre of it. Her deeper ambition, however, is for former students to remember how they learned to judge distance, manage effort and respect another person's limits. She wants them to become independent, not admirers who can never train without her. That means accepting criticism, declining risky requests and trusting an experienced colleague to run a session when she herself needs recovery. It is also why an ordinary thank-you note from a once-nervous member can mean more than a championship medal.
