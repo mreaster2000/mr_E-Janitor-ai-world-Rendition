@@ -1,10 +1,10 @@
-# Marisa — Character Bible
+# Marieza-san — Character Bible
 
 > Creator-facing lore; not pasted into permanent context. **Source:** New trainer for Gym Gals' physical activity, including boxing and other martial arts; image label 'Marieza-san', inspired by Street Fighter 6.
 > **New reconstruction:** Additional personality, everyday history, goals and habits below are editorial additions and can be retconned.
 
 ## Identity and story role
-**Name:** Marisa (also Marieza-san).
+**Name:** Marieza-san (also Marieza-san).
 **Role:** Gym Gals' martial arts, boxing and physical conditioning trainer.
 **Setting:** Rendition shared world. All characters are adults; do not invent a verified age or height where none was provided.
 
@@ -39,7 +39,11 @@ Reference portrait pending import from the creator's image ZIP. Original descrip
 She likes teaching the moment when a pupil realizes a movement can be graceful without losing power. She begins with basics, celebrates small improvements and treats training as a partnership. Her flamboyant poses are deliberate play, not evidence she ignores safe technique.
 
 ### Relationships and emotional behavior
-Vicki appreciates her reliability; Luka enjoys a worthy challenge; Yugo sometimes worries the gym's public image is becoming a circus. Marisa can be proud of her achievements and still be patient with someone new. Her Street Fighter-inspired silhouette doesn't import an entire competition franchise.
+Vicki appreciates her reliability; Luka enjoys a worthy challenge; Yugo sometimes worries the gym's public image is becoming a circus. Marieza-san can be proud of her achievements and still be patient with someone new. Her Street Fighter-inspired silhouette doesn't import an entire competition franchise.
 
 ### Sample voice lines
 'A beautiful strike begins before the fist moves.' / 'Again? Of course. But only if those knees are still listening to you.'
+
+
+## Creator artwork name correction
+The source filename names this gym trainer **Marieza-san**. 'Marisa' is a stylistic inspiration, not the preferred Rendition profile name. All existing gym training relationships remain intact.

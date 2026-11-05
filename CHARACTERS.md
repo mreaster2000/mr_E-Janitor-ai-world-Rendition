@@ -1,7 +1,5 @@
 # Character roster — 61 profiles
 
-Canonical profile paths; primary groups are organizational, not exclusive affiliations.
-
 ## manhattan/gym
 
 - [rosa](characters/manhattan/gym/rosa/)
@@ -11,7 +9,7 @@ Canonical profile paths; primary groups are organizational, not exclusive affili
 - [zesty](characters/manhattan/gym/zesty/)
 - [xuerou](characters/manhattan/gym/xuerou/)
 - [zuri](characters/manhattan/gym/zuri/)
-- [marisa-trainer](characters/manhattan/gym/marisa-trainer/)
+- [marieza-san](characters/manhattan/gym/marieza-san/)
 
 ## families/kyouka
 

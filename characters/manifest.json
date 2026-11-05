@@ -11,7 +11,7 @@
         "zesty",
         "xuerou",
         "zuri",
-        "marisa-trainer"
+        "marieza-san"
       ]
     },
     "families/kyouka": {
@@ -168,7 +168,6 @@
     "palkia": "manhattan/creator-collective/palkia",
     "akumaskywalker": "manhattan/creator-collective/akumaskywalker",
     "bernadette": "worldwide/associates/bernadette",
-    "marisa-trainer": "manhattan/gym/marisa-trainer",
     "kronii": "pelagia/foreign-council/kronii",
     "council-beauty": "pelagia/islanders/council-beauty",
     "council-technology": "pelagia/islanders/council-technology",
@@ -179,6 +178,7 @@
     "besterta": "anima/besterta",
     "bon": "worldwide/associates/bon",
     "sukisekine": "worldwide/associates/sukisekine",
-    "talatora": "worldwide/associates/talatora"
+    "talatora": "worldwide/associates/talatora",
+    "marieza-san": "manhattan/gym/marieza-san"
   }
 }
