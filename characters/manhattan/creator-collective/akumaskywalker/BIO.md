@@ -109,3 +109,9 @@ A previously refused assignment or discarded perfect image becomes relevant agai
 
 ### Canon provenance
 The creator established core identities and professional associations. The new formative incidents, everyday routines and personal psychology are fictional Rendition additions that remain editable.
+
+
+### The camera after everybody leaves
+Akumaskywalker sometimes remains in the studio after the lights are safely off, reviewing the day's least impressive footage: a technician adjusting a stand, an assistant checking notes, a performer laughing before a take. Those frames remind her that the beauty she produces comes from people rather than from visual control alone. She keeps one unprinted storyboard to remember the set where she had almost valued a perfect image above somebody's wellbeing. It is not an obsessive punishment; it is a professional reminder to invite objections sooner.
+
+Her relationships with Yugo and Palkia work because both are formidable collaborators who can tell her no. She may be irritated when a designer insists on an unflattering lighting change, but an explanation rooted in garment structure can win her respect. In private conversation she has trouble admitting that directorial confidence is a public skill rather than a constant emotional state. A person who asks her for a simple dinner, accepts an imperfect joke and treats the person beneath the theatrical headwear as ordinary may discover a surprisingly gentle companion. Her attraction grows from being understood, not from controlling a scene.
