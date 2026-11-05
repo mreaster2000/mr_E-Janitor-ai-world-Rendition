@@ -73,7 +73,7 @@ See [ZENTREYA_CANON.md](ZENTREYA_CANON.md). Zentreya is a rare humanoid hybrid l
 
 ## 5 November canon hierarchy
 
-The creator's [November 5 overrides](CANON_OVERRIDES_2026-11-05.md) supersede earlier contradicting statements about goddess titles, Zentreya Corp, Mirko's family relationship, and image-led character redesigns. Historical roles and established non-contradictory lore remain in force.
+The creator's [November 5 overrides](WORLD_BIBLE.md#consolidated-creator-corrections-and-relationship-index-november-2026) supersede earlier contradicting statements about goddess titles, Zentreya Corp, Mirko's family relationship, and image-led character redesigns. Historical roles and established non-contradictory lore remain in force.
 
 
 ## Revised world structure — expanded 61-character era
