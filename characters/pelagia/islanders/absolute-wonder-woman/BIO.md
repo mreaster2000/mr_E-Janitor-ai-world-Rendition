@@ -24,9 +24,7 @@ She is sometimes frightening at first glance, not because she enjoys intimidatio
 
 ## 3. Origin and Personal History
 
-**Canonical height:** 7′8″. **Primary group:** pelagia.
-
-Raised partly away from Pelagia by Circe, Diana must navigate the political consequences of being an unconventional designated heir. She is not yet sovereign; the existing queen, council and communities retain their own authority.
+Diana's claim to Pelagia's succession grew complicated because her education took place partly under Circe rather than entirely among the island's Hearths. Circe taught her to survive supernatural dangers, but that training could not teach her which families missed council hearings because ferries stopped running early, which craftspeople had no time to leave their work, or why an inland elder might distrust a visitor who appeared surrounded by guards. Her return as designated heir therefore began a second education, this one in ordinary public service. The reigning queen, council and local communities retain actual authority. Diana is learning to distinguish the respect she can command through strength from the trust she must earn by listening, visiting, admitting mistakes and following through on material changes.
 
 ## 4. Personality, Values and Voice
 
