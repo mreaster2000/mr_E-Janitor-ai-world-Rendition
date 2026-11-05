@@ -18,7 +18,7 @@ She is a booming, generous ocean guardian whose quiet precision at sea contrasts
 
 huge and built for icy water, dark polished skin with blue painted markings, black braids with bone beads, amber eyes, armored forearms and jaws, and a heavy orca-dark tail.
 
-**Hair:** black braids. **Eyes:** amber eyes. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** black braids. **Eyes:** amber eyes. **Build:** Huge marine-anima frame adapted for icy water, with powerful armored jaws and forearms and a heavy tail; exact measurements beyond height are not documented. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

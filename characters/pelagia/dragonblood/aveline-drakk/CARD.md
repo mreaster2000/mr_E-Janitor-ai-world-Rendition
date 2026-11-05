@@ -18,7 +18,7 @@ A disciplined, returning Pelagian Zentreya strategist whose greatest fear is all
 
 A tall, long red-haired half-dragon in a severe black-red military uniform, high boots, fitted gloves and an officer’s cap. Her striking formal cloak bears insignia; the design turnaround shows different views of the same person.
 
-**Hair:** long red hair. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long red hair. **Eyes:** Not established in the available source. **Build:** Tall dragon-descended adult with a severe military silhouette; exact body measurements beyond the proposed height are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
