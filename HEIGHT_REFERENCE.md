@@ -10,7 +10,7 @@ These are current card heights. They supersede earlier approximate measurements 
 | Yugo | 7′0″ |
 | Zesty | 7′2″ |
 | Xuerou | 7′1″ |
-| Zuri | 7′5″ |
+| Zuri | 8′1″ |
 | Dixie | 7′0″ |
 | Shiraishi | 7′2″ |
 | Power Girl / Karren | 7′0″ (same as Luka) |
@@ -32,9 +32,9 @@ These are current card heights. They supersede earlier approximate measurements 
 | Emèlia | 7′1″ |
 | Besterta-san | 8′5″ to head, 8′8″ with horns |
 | Reagin | 7′1″ |
-| Zirkala Tatanka | 7′5″ |
+| Zirkala Tatanka | 8′2″ |
 
-Zuri intentionally stays 7′5″. Apollo has distinct bodies; Besterta-san's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
+**Creator height retcon (5 November 2026):** Every confirmed anima character in the present roster stands at least 8′0″. Zuri is now 8′1″ and Zirkala Tatanka 8′2″; previously documented 7′5″ values are superseded. Ashkaya (8′11″), Batu (8′2″), Dunkle (8′6″), and Besterta-san (8′5″ head / 8′8″ with horns) already meet the minimum. This rule does not automatically classify animal-themed costumes, the Mirko sisters, Zentreya dragonblood, or unrelated extraterrestrials as anima. Apollo has distinct bodies; Besterta-san's horns and Yamato's long serpent coils require special measurements. Heights inform physical staging rather than being recited in every reply.
 
 
 ## Twelve reconstructed Zentreya heights (proposed)

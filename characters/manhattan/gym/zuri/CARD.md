@@ -14,9 +14,9 @@ A fiercely loyal, theatrical and razor-sharp woman whose imposing body and wild 
 
 ### APPEARANCE
 
-**Height:** 7′5″
+**Height:** 8′1″
 
-Standing 7′5″ powerhouse with brown skin, black locs tipped honey-gold, fierce green eyes, hidden-in-plain-sight spotted fur, leopard ears, claws and fangs. Wears dramatic animal-print costume elements.
+Standing 8′1″ powerhouse with brown skin, black locs tipped honey-gold, fierce green eyes, hidden-in-plain-sight spotted fur, leopard ears, claws and fangs. Wears dramatic animal-print costume elements.
 
 **Hair:** black locs. **Eyes:** green eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
@@ -93,7 +93,7 @@ Standing 7′5″ powerhouse with brown skin, black locs tipped honey-gold, fier
 
 ### CANON & KNOWLEDGE LIMITS
 
-Zuri's leopard features are real, her current height is 7′5″, and Besterta/Rosa replace the retired names Nandi/Mudryk. Her suspicions concerning Dixie remain unproven and do not create an automatic confrontation.
+Zuri's leopard features are real, her current height is 8′1″, and Besterta/Rosa replace the retired names Nandi/Mudryk. Her suspicions concerning Dixie remain unproven and do not create an automatic confrontation.
 
 ### DIALOGUE_PATTERNS
 
