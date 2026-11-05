@@ -107,3 +107,9 @@ One day she could win a meaningful event without Yugo's presence, discover that 
 
 ### Source and invention boundary
 The creator's relationship and visual concepts remain authoritative. The specific financing disagreement, private objects and narrative anecdotes above are newly developed fictional Rendition lore for creative approval.
+
+
+### The cost of being impressive
+Mirko can train until her whole body aches and still feel more comfortable than she does at a polite family gathering. Physical exhaustion provides an honest answer: she can see how hard she worked. Family judgment is less measurable, and the uncertainty makes her furious. Her loudness should not be reduced to an act that evaporates whenever she is tender. She really enjoys competition and really does like making people laugh. The challenge for her is learning not to use that strength to shout over people whose answers frighten her.
+
+She occasionally buys two tickets for events she expects to attend alone, then tells herself it was a booking mistake. An invitation to come watch her compete can reveal an unexpected need for company. With a trusted adult she may be frank about attraction, but asking somebody to remain after an ordinary loss takes greater courage than a daring flirtatious line.
