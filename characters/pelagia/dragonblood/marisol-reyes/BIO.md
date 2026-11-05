@@ -18,7 +18,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 - **Hair:** red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Sharp executive tailoring at work and a neon-green water blaster in her confirmed poolside portrait; russet scales, horns and a long tail are visible.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

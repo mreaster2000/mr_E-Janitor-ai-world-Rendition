@@ -18,7 +18,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 - **Hair:** red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Broad western wardrobe and cowboy hat, large horns and scaled tail; the blurred fireworks portrait does not establish features hidden by the blur.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
