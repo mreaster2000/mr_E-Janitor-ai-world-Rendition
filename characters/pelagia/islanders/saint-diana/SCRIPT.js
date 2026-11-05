@@ -1,1 +1,20 @@
-(function(){if(typeof context==='undefined'||!context||!context.character)return;var m=String((context.chat||{}).last_message||(context.chat||{}).lastMessage||'').toLowerCase();var kw=["saint","diana","pelagia","council"];if(kw.some(function(k){return m.indexOf(k)>=0;}))context.character.scenario=(context.character.scenario||'')+'\nDo not merge this Diana with Absolute Diana or invent powers.';})();
+/* Rendition Advanced Lore v14 (lean edition). Replace __AUTHOR_RULES__ with author entries.
+   Self-contained; no imports, clocks, dice rolls, memory counters or automatic NPC entrances.
+*/
+(function(){
+ if(typeof context==='undefined'||!context||!context.character)return;
+ var dynamicLore=[{"keywords":["diana","wonder woman","absolute","heir"],"group":"saint-diana_new_0","priority":5,"scenario":"Saint Diana is not Absolute Diana. Their identities, families and powers must not merge."},{"keywords":["hero","rescue","incident","mission"],"group":"saint-diana_new_1","priority":5,"scenario":"Heroic courage does not imply arbitrary powers or knowledge. Keep actions within established scene capability."},{"keywords":["poster","headline","name","publicity"],"group":"saint-diana_new_2","priority":5,"scenario":"A mistaken headline prompted her to insist on an identity separate from the Pelagian heir."},{"keywords":["pelagia","witch","council","queen"],"group":"saint-diana_new_3","priority":5,"scenario":"She has no confirmed Pelagian political role, and Wonder Witch is someone else's sister."},{"keywords":["date","flirt","kiss","romance"],"group":"saint-diana_new_4","priority":3,"personality":"She enjoys reciprocal adult chemistry, but rescue and public fame create no romantic obligation."},{"keywords":["volunteer","community","child","drawing"],"group":"saint-diana_new_5","priority":5,"scenario":"Small local service and a child's correct-name drawing mean more to her than grand mistaken publicity."}], APPLY_LIMIT=3, MAX_OPTIONAL_CHARS=900;
+ var chat=context.chat||{},raw=String(chat.last_message||chat.lastMessage||'');
+ function norm(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9*]+/g,' ').trim().replace(/\s+/g,' ');}
+ var h=' '+norm(raw).replace(/\*/g,'')+' ';
+ function hasWord(k){var w=norm(k);if(!w)return false;if(w.charAt(w.length-1)==='*'){w=w.slice(0,-1);if(w.length<3)return false;return h.trim().split(/\s+/).some(function(x){return x.indexOf(w)===0;});}return h.indexOf(' '+w+' ')>=0;}
+ function any(a){return Array.isArray(a)&&a.some(hasWord);}
+ function all(a){return !Array.isArray(a)||a.every(hasWord);}
+ var fired={},chosen={},entries=[],total=0;
+ var candidates=dynamicLore.filter(function(r){if(!Array.isArray(r.keywords)||!r.keywords.length||!any(r.keywords))return false;if(Array.isArray(r.requireAny)&&r.requireAny.length&&!any(r.requireAny))return false;if(Array.isArray(r.requireAll)&&!all(r.requireAll))return false;if(Array.isArray(r.requireNone)&&any(r.requireNone))return false;return true;});
+ candidates.sort(function(a,b){return(b.priority||3)-(a.priority||3);});
+ var boundary=any(['stop touching','do not touch','back off','leave me alone','not comfortable','no flirting','please stop','no means no']);
+ for(var i=0;i<candidates.length&&entries.length<APPLY_LIMIT;i++){var r=candidates[i],g=r.group||('rule'+i);if(chosen[g]||(boundary&&g==='romance'))continue;if(Array.isArray(r.andAllTags)&&!r.andAllTags.every(function(t){return fired[t];}))continue;if(Array.isArray(r.notAnyTags)&&r.notAnyTags.some(function(t){return fired[t];}))continue;var p=String(r.personality||''),s=String(r.scenario||''),len=p.length+s.length;if(!len||total+len>MAX_OPTIONAL_CHARS)continue;entries.push(r);chosen[g]=true;total+=len;if(Array.isArray(r.triggers))r.triggers.forEach(function(t){fired[t]=true;});}
+ for(var j=0;j<entries.length;j++){var e=entries[j];if(e.personality)context.character.personality=(context.character.personality||'')+'\n[Relevant behavioral cue] '+e.personality;if(e.scenario)context.character.scenario=(context.character.scenario||'')+'\n[Relevant background; not an automatic event] '+e.scenario;}
+ if(boundary&&!chosen.boundary)context.character.personality=(context.character.personality||'')+'\nRespect the stated boundary immediately without pressure or retaliation.';
+})();
