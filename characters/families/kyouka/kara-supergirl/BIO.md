@@ -19,8 +19,8 @@ An adult Kryptonian heroine who wants to belong so badly that she copied Shirais
 **Verified attributes:**
 - **Hair:** blonde hair
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Exceptionally strong adult Kryptonian with an athletic heroic silhouette; precise body measurements are not established.
+- **Style and markings:** Bright blue-and-red heroic styling, blonde hair and an open, expressive face; this Kara is distinct from Karren/Power Girl.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

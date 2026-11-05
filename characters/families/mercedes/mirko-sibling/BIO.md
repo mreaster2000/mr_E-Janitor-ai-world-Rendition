@@ -20,7 +20,7 @@ Mirko's sister has learned to disappear beside a louder relative and then make e
 - **Hair:** Silver-white hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Dark striped athletic suit, silver-white hair and oversized rabbit ears distinguish her from her sister.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

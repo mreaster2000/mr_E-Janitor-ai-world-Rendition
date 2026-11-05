@@ -20,7 +20,7 @@ A genuinely gifted fashion executive whose secret investigation has created a co
 - **Hair:** Long magenta-red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Tailored black-and-violet street couture, sharp cosmetics and magenta-red hair give her a polished but confrontational appearance.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

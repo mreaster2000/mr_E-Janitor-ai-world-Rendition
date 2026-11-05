@@ -19,8 +19,8 @@ A cheerful sour-candy fanatic whose backstage competence and tenderness are cons
 **Verified attributes:**
 - **Hair:** Not established in the available source.
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Sporty adult with a highly expressive face; body proportions beyond any documented height are not confirmed.
+- **Style and markings:** Bright red-and-yellow sporty fashion and candy-themed accessories; expressive reactions to sour foods are a recurring visual tell.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

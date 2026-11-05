@@ -19,8 +19,8 @@ A brilliant public technologist whose audience eclipsed her closest collaborator
 **Verified attributes:**
 - **Hair:** magenta hair
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Adult with a youthful-looking face and pop-styled technical clothing; precise build is not confirmed in the supplied description.
+- **Style and markings:** Brightly saturated street-tech clothing and playful technical accessories complement her magenta hair; outfit details vary by scene.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
