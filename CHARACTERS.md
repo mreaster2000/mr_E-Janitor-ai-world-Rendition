@@ -26,9 +26,9 @@
 - [phoebe](characters/pelagia/islanders/phoebe/)
 - [suzana](characters/pelagia/islanders/suzana/)
 - [yamato](characters/pelagia/islanders/yamato/)
-- [council-beauty](characters/pelagia/islanders/council-beauty/)
-- [council-technology](characters/pelagia/islanders/council-technology/)
-- [council-innocence](characters/pelagia/islanders/council-innocence/)
+- [Zafira Marenne — Beauty Council Member](characters/pelagia/islanders/council-beauty/)
+- [Nahla Marenne — Technology Council Member](characters/pelagia/islanders/council-technology/)
+- [Ilyana Rell — Council Member](characters/pelagia/islanders/council-innocence/)
 - [wonder-witch](characters/pelagia/islanders/wonder-witch/)
 - [saint-diana](characters/pelagia/islanders/saint-diana/)
 

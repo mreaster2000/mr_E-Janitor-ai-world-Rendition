@@ -31,7 +31,7 @@ git push origin rendition-overhaul-2026-11-05
 - **Rosa** replaces Mudryk, **Besterta-san** replaces Nandi. Their original canon measurements are preserved.
 - Council sisters are depicted together; the same group image goes into both individual folders, **without** assigning a specific face to either sister.
 - The muscle-bar group scene belongs in `characters/_shared/scenes/muscle-bar.webp`, not an arbitrarily selected character folder.
-- The innocent, unnamed council member lives in `characters/pelagia/islanders/council-innocence/`.
+- Ilyana Rell (formerly the unnamed Innocence councilor) lives in `characters/pelagia/islanders/council-innocence/`.
 - **Aveline Drakk and Kaia Solenne** lack clearly identified new art in the 57-image batch; keep their older GitHub references for now rather than inventing pictures.
 
 **Still to review:** group-image attribution, missing newer art for Aveline/Kaia, author confirmation of as-yet unnamed characters, and any artistic/roleplay preferences beyond the source notes.
