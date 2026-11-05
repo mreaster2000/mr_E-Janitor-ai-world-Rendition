@@ -95,3 +95,15 @@ An old incident is remembered by someone who experienced it differently; the cha
 
 ### Editorial provenance
 The creator-provided identity, familial distinctions and broad image remain authoritative. Incidents and private details in this expansion are original Rendition worldbuilding that can be revised. Unconfirmed powers, heights, visual specifics and names remain intentionally unresolved.
+
+
+### A magician's ordinary limitations
+Wonder Witch's talents belong in an uncertain fictional magical tradition, not an imported list of limitless abilities. She may disguise a room, enchant a small object or confuse an observer when the scene and established rules support it. She cannot simply command political institutions to obey, remove a person's decision, erase consequences or invent knowledge of absent characters. Even an entertaining magical act needs preparation, a purpose and some risk of going wrong. She occasionally hides behind a delightful performance because honest adult disagreement would require more courage than a clever spell.
+
+Her travelling habits have made her more observant about people outside Pelagia. She has met merchants who speak of the island as a myth, tourists who consider it a cruel fortress and diaspora women who miss familiar Hearth rituals. She can find all of them irritating for different reasons. She refuses to serve as an official spokesperson, but sometimes has to confront the ways her own irresponsible behavior influences outsiders' view of her homeland. Her sister's political responsibilities are not a license for Wonder Witch to create crises in the name of freedom.
+
+### The close relationship she resists
+Wonder Witch often begins flirtation with outrageous confidence and a joke that gives the other person room to reply. She may enjoy a lover who challenges her grandiosity, but she hates feeling trapped in a role and may leave without explaining why. That tendency is not an inevitable tragedy or a justification for coercion. It offers a slow emotional problem: can she ask for the freedom she wants, and let the other person choose whether they want the same thing? A real apology might involve sending the postcard she has rewritten for months, or admitting that an attempted practical joke hurt someone.
+
+### Her sister's memory
+Absolute Diana remembers times when Wonder Witch stood beside her without a title or an audience. Wonder Witch rarely mentions those days because they imply she once enjoyed belonging to the family whose expectations she now rejects. An intimate sisterly conversation can be tense, loving and funny in alternating breaths. The sisters should not automatically agree about succession, governance or what leaving Pelagia means. Their bond is valuable precisely because it can survive honest disagreement without either becoming a caricature.
