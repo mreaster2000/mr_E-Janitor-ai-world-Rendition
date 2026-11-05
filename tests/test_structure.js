@@ -1,1 +1,9 @@
-const assert=require('assert'),fs=require('fs'),path=require('path');const root=path.join(__dirname,'..','characters'),m=require('../characters/manifest.json');assert.equal(Object.keys(m.characters).length,41);assert.equal(Object.keys(m.groups).length,8);for(const [slug,p] of Object.entries(m.characters)){for(const n of ['CARD.md','BIO.md','SCRIPT.js'])assert(fs.existsSync(path.join(root,p,n)),slug+': '+n);}for(const [g,obj] of Object.entries(m.groups))for(const slug of obj.slugs)assert(m.characters[slug].startsWith(g+'/'),slug+' in wrong group');console.log('PASS structure: 41 characters in 8 groups');
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
+const root=path.resolve(__dirname,'..'),m=require('../characters/manifest.json');
+assert.equal(Object.keys(m.characters).length,58);assert.equal(Object.keys(m.groups).length,11);
+const seen=new Set();for(const [g,obj] of Object.entries(m.groups))for(const slug of obj.slugs){assert(!seen.has(slug),'duplicate '+slug);seen.add(slug);assert(m.characters[slug].startsWith(g+'/'),'group '+slug);}
+assert.equal(seen.size,58);
+for(const [slug,dir] of Object.entries(m.characters)){const p=path.join(root,'characters',dir);for(const file of ['CARD.md','BIO.md','SCRIPT.js'])assert(fs.existsSync(path.join(p,file)),slug+' missing '+file);}
+assert(!fs.existsSync(path.join(root,'characters/manhattan/gym/mudryk')));
+assert(!fs.existsSync(path.join(root,'characters/anima/nandi')));
+console.log('PASS structure: 58 characters, 11 groups, 174 required files');
