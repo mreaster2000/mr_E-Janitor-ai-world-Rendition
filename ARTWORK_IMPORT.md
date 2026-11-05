@@ -7,7 +7,7 @@ The creator supplied 57 distinct PNG illustrations. The final import ZIP holds 5
 ## Recommended Windows import
 
 1. Download **rendition_artwork_final_import.zip** from the ChatGPT conversation.
-2. Right-click the ZIP and select **Extract All**. Leave the file `rendition_artwork_final_import.zip` beside the extracted `install_artwork.cmd` and `install_artwork.ps1`. If needed, copy the original ZIP into the extracted folder (Windows extraction does not always include the archive itself).
+2. Right-click the ZIP and select **Extract All**. The installer automatically looks for the downloaded ZIP in either the extracted folder or its parent folder. Do not delete the ZIP after extraction.
 3. Double-click **install_artwork.cmd**. It will prompt for a checkout path; press Enter to clone the private overhaul branch into `Rendition-repo` if needed. Git might ask you to sign into GitHub.
 4. The importer fetches the overhaul branch, ensures a clean checkout, checks every SHA-256, copies the artwork, creates one artwork commit and pushes **only** the overhaul branch. It never pushes to `main`.
 5. Confirm the [GitHub artwork commit](https://github.com/mreaster2000/mr_E-Janitor-ai-world-Rendition/tree/rendition-overhaul-2026-11-05) and GitHub Actions.

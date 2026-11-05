@@ -17,3 +17,7 @@ Each character has one `CARD.md`, `BIO.md`, and `SCRIPT.js` in their canonical f
 **Artwork status:** 57 images are optimized and mapped in a separate import-ready ZIP, but the pictures have **not** yet been pushed to this branch. Existing GitHub reference JPGs have been preserved. See [import guide](ARTWORK_IMPORT.md).
 
 The branch is a reviewable overhaul, not merged to main.
+
+## Final art handoff
+
+The final verified 57-source, 58-destination artwork package is supplied in the conversation as `rendition_artwork_final_import.zip`. It includes a Windows installer and source-filename lore manifest. Follow [ARTWORK_IMPORT.md](ARTWORK_IMPORT.md) to push it into the **overhaul branch**, not `main`. Repository tests verify text and links; image verification becomes active once `ARTWORK_IMPORT_MANIFEST.json` has been imported.

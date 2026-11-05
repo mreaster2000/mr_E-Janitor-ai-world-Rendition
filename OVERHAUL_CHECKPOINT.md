@@ -34,3 +34,11 @@ Continue on this branch and consult `characters/manifest.json`, `CANON_OVERRIDES
 - The accompanying ZIP holds 57 renamed WebP files with unique verified paths and original filename notes preserved. Bon and Marieza-san paths match the branch. **Image binaries are not yet on GitHub.**
 - GitHub Actions for latest character code passed both structural/script checks and Markdown link audit. The original main branch remains untouched.
 - Continue from the existing overhaul branch. Prioritize artwork import and final in-character roleplay review. Never restart or recreate the profiles.
+
+## Final packaging and integration checkpoint
+
+- Prepared `rendition_artwork_final_import.zip`: **57 distinct original sources → 58 verified destination files**, with the council sisters' group art intentionally mapped to both councilor folders. The muscle-bar group scene remains shared/unassigned. All 58 WebP files have verified SHA-256 hashes.
+- Fixed the new package's trainer folder to `manhattan/gym/marieza-san`, matching the latest 61-character manifest. The older `marisa-trainer` folder mapping is superseded.
+- Updated `tools/import_artwork.py` with SHA-256 and WebP validation, and added `tests/test_artwork.py` to run after artwork import. This test currently skips when the manifest is not present.
+- Added an included Windows `install_artwork.cmd` / `install_artwork.ps1` installer; it can clone the private overhaul branch, check images, commit and push artwork to that branch. The package is generated and available in the conversation, but **the actual binary upload still requires running the installer on a connected machine**. Do not claim the images are already pushed.
+- Source-canon note: the photo filename `Gwen Stuard` supersedes the earlier Gwen Vale name; MarieZa-san is the chosen trainer name. The unresolved unnamed council members, shared portraits and missing Aveline/Kaia replacements still require creator decisions.
