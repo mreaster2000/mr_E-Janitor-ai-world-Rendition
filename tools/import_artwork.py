@@ -1,31 +1,42 @@
 #!/usr/bin/env python3
-"""Install the creator's prepared artwork ZIP into the corresponding character folders."""
+"""Import the verified Rendition image bundle into a local Git checkout."""
 from pathlib import Path
-import argparse, json, zipfile, shutil
+import argparse
+import hashlib
+import json
+import shutil
+import zipfile
 
-ROOT=Path(__file__).resolve().parents[1]
-parser=argparse.ArgumentParser(description="Import cleaned artwork prepared from character image.zip")
-parser.add_argument("archive",type=Path,help="rendition_artwork_import_ready.zip")
-parser.add_argument("--dry-run",action="store_true",help="Show copy actions only")
-args=parser.parse_args()
+ROOT = Path(__file__).resolve().parents[1]
+parser = argparse.ArgumentParser()
+parser.add_argument("archive", type=Path, help="rendition_artwork_final_import.zip")
+parser.add_argument("--dry-run", action="store_true")
+args = parser.parse_args()
 
-with zipfile.ZipFile(args.archive) as z:
-    manifest=json.loads(z.read("ARTWORK_IMPORT_MANIFEST.json"))
-    total=0
-    for item in manifest["files"]:
-        rel=Path(item["path"])
-        if rel.is_absolute() or ".." in rel.parts or rel.parts[0]!="characters" or rel.suffix.lower()!=".webp":
-            raise SystemExit(f"Unsafe destination: {rel}")
-        if rel.as_posix() not in z.namelist():
-            raise SystemExit(f"Artwork missing from ZIP: {rel}")
-        target=ROOT/rel
-        print(f"{item['original']} -> {rel}")
+with zipfile.ZipFile(args.archive) as archive:
+    manifest = json.loads(archive.read("ARTWORK_IMPORT_MANIFEST.json"))
+    pictures = manifest["files"]
+    if len(pictures) != 58 or len({f["original"] for f in pictures}) != 57:
+        raise SystemExit("Expected 57 source images and 58 import destinations")
+    for file in pictures:
+        rel = Path(file["path"])
+        if rel.is_absolute() or ".." in rel.parts or rel.parts[0] != "characters" or rel.suffix != ".webp":
+            raise SystemExit(f"Unsafe path: {rel}")
+        if rel.as_posix() not in archive.namelist():
+            raise SystemExit(f"Missing ZIP entry: {rel}")
+        raw = archive.read(rel.as_posix())
+        if hashlib.sha256(raw).hexdigest() != file["sha256"]:
+            raise SystemExit(f"Checksum mismatch: {rel}")
+        if raw[:4] != b"RIFF" or raw[8:12] != b"WEBP":
+            raise SystemExit(f"Invalid WebP: {rel}")
+        target = ROOT / rel
+        print(f'{file["original"]} -> {rel}')
         if not args.dry_run:
-            target.parent.mkdir(parents=True,exist_ok=True)
-            with z.open(rel.as_posix()) as source, target.open("wb") as output:
-                shutil.copyfileobj(source,output)
-        total+=1
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(raw)
     if not args.dry_run:
-        dest=ROOT/"ARTWORK_IMPORT_MANIFEST.json"
-        dest.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf8")
-    print(f"{'Would import' if args.dry_run else 'Imported'} {total} images")
+        (ROOT / "ARTWORK_IMPORT_MANIFEST.json").write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    print(f'{"Dry-run ready" if args.dry_run else "Imported"}: 58 verified images from 57 originals')
