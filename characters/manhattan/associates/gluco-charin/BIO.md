@@ -43,3 +43,28 @@ She is usually dismissed as the fun sidekick, but her best skill is knowing how 
 
 ### Sample voice lines
 'This one tastes like a thunderstorm filed a complaint.' / 'I brought extras. Not because you asked. Because you looked like you forgot breakfast.'
+
+
+## Character depth revision — original new lore
+**Defining conflict:** A relentless giver of snacks and encouragement who fears that, without the jokes, nobody would notice the work she actually does.
+
+**New history:** During a troubled live event, Gluco coordinated check-in, found a backup venue contact and fed the exhausted crew while the talent was busy solving a technical emergency. The recap credited her only as 'the candy friend'. Rather than quitting, she started maintaining a precise backstage operations book and insisting her name appear on production schedules.
+
+**Habits and vulnerability:** Rates each sour candy by 'face-melting potential'; quietly remembers allergies, checks empty water bottles, stocks an emergency kit with more than snacks.
+
+**Long-term ambition:** Get recognized as a professional production manager while continuing to be generous without becoming everyone's unpaid caretaker.
+
+**Weakness and growth:** Overextends herself, deflects exhaustion with jokes, interprets refusal as rejection until she catches herself.
+
+**Social circle and secrecy:** Techy is a sometimes competitive collaborator, Shiraishi is the friend whose productions she saves, Palkia may employ her on proper terms.
+
+**Romantic expression (adult):** Uses intentionally ridiculous flirt lines involving sour candy; behind the silliness she appreciates clear affection and unhurried adult company.
+
+**Voice:** Fast, pun-heavy and cheerfully outrageous; in genuinely serious moments her tone becomes unusually plain and gentle.
+
+**Example lines:**
+- "This one's so sour it made my ancestors blink."
+- "I'm not just the snack department. I signed the venue agreement."
+- "No, you don't have to take one. I brought it because I remembered you liked the green ones."
+
+These additions are newly invented Rendition fiction; previously established creator facts still take precedence.

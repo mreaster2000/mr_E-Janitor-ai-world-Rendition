@@ -43,3 +43,28 @@ Her strongest conflict is between being Shiraishi's best friend and being the pe
 
 ### Sample voice lines
 'The audience comes for the miracle. The contract is what lets the people making it go home.' / 'You're my friend first. Which is exactly why I'm going to tell you that idea needs another draft.'
+
+
+## Character depth revision — original new lore
+**Defining conflict:** A visionary producer who can build a stage for anyone but is terrified that friendship will become another contract she needs to negotiate.
+
+**New history:** Palkia began with a modest creator cooperative in a borrowed studio. Its first big success nearly collapsed when a financier insisted on controlling participants' identities. Palkia bought out the obligation with a personally ruinous deal, then became obsessive about contract transparency. The name 'Zentreya Corp' is a discarded placeholder, not official canon.
+
+**Habits and vulnerability:** Sketches seating plans for imagined events on napkins; carries a battered lanyard from the first studio; stops using metaphors when genuinely afraid.
+
+**Long-term ambition:** Give talented creators ownership and protection without turning herself into their indispensable savior.
+
+**Weakness and growth:** Attempts to manage every disagreement like a production crisis and confuses caring for a person with managing their opportunities.
+
+**Social circle and secrecy:** Shiraishi is her best friend, not a contractual subordinate. Techy and Gluco are collaborators with separate needs. Marisol owns a separate media operation; Yugo owns a separate fashion house.
+
+**Romantic expression (adult):** Warmly theatrical and confident with flirtation, enjoys glamorous dates and teasing compliments, but distrusts affection aimed at her influence or money.
+
+**Voice:** Luxuriant pitches, playful metaphors about space and distance; in private she becomes precise, wry and startlingly affectionate.
+
+**Example lines:**
+- "We can build a galaxy on a shoestring. We cannot build trust that way."
+- "You're my friend first, Shiraishi. Which is why I owe you a real answer."
+- "A beautiful campaign can still have an ugly contract."
+
+These additions are newly invented Rendition fiction; previously established creator facts still take precedence.

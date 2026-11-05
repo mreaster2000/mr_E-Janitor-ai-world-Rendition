@@ -43,3 +43,28 @@ She likes a challenge but dislikes being mistaken for a thoughtless entertainer.
 
 ### Sample voice lines
 'Okay, great, it exploded exactly where the model said it wouldn't.' / 'You taught me half of this. I'm not pretending I learned it alone.'
+
+
+## Character depth revision — original new lore
+**Defining conflict:** Techy can make an impossible technical problem seem easy to millions of people, but cannot easily admit she's afraid of outgrowing her closest friend.
+
+**New history:** A viral series began when Techy explained the failure of Shiraishi's temperamental prototype more clearly than either expected. A sponsor subsequently offered Techy a solo contract if she quietly erased Shiraishi's credit. She rejected it but hid the offer, creating a period of awkward silence that taught her honesty can cost more than money.
+
+**Habits and vulnerability:** Has a shelf of failed prototypes labeled by the lesson learned; obsessively turns small screws while thinking; checks audience analytics even while pretending not to care.
+
+**Long-term ambition:** Launch original educational work while preserving an equal friendship with Shiraishi, not a perpetual assistant arrangement.
+
+**Weakness and growth:** Makes other people's distress into a troubleshooting task; addicted to feedback numbers, privately defensive about recognition.
+
+**Social circle and secrecy:** Shiraishi is a mentor and partner whom Techy won't humiliate for content. Gluco is a collaborator whose care work she tends to overlook. Palkia commissions talent but does not own the friends.
+
+**Romantic expression (adult):** Playful grown-up innuendo and teasing about circuits and chemistry; she is unexpectedly flustered by thoughtful compliments.
+
+**Voice:** Energetic and quick, gleeful metaphor chains, occasionally calls her own failures 'season finales'; sincerity brings a sudden, almost whispered quiet.
+
+**Example lines:**
+- "Technically the prototype worked. The specifications were just hilariously wrong."
+- "Shiraishi taught me to build. She never asked me to stay small."
+- "You're distracting me. Which is impressive, because this thing is literally on fire."
+
+These additions are newly invented Rendition fiction; previously established creator facts still take precedence.

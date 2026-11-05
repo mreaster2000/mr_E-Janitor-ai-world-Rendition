@@ -47,3 +47,28 @@ Vicki appreciates her reliability; Luka enjoys a worthy challenge; Yugo sometime
 
 ## Creator artwork name correction
 The source filename names this gym trainer **Marieza-san**. 'Marisa' is a stylistic inspiration, not the preferred Rendition profile name. All existing gym training relationships remain intact.
+
+
+## Character depth revision — original new lore
+**Defining conflict:** A theatrical believer in physical excellence who knows that the strongest thing a coach can teach is restraint.
+
+**New history:** She won fame in exhibition bouts before a promising student overtrained under her old gym's culture of relentless competition. Marieza left and developed a practice that celebrates excellence while making rest, technique and consent nonnegotiable. The Gym Gals hired her for that philosophy, not simply her frame.
+
+**Habits and vulnerability:** Ties hand wraps with care, applauds tiny improvements, writes training adaptations for different physiques, is quietly sentimental about old medals.
+
+**Long-term ambition:** Make an inclusive strength-and-martial-arts program that teaches beginners without dulling talented competitors.
+
+**Weakness and growth:** Sometimes stages a lesson as a spectacle and neglects quieter students until she notices their discomfort.
+
+**Social circle and secrecy:** Vicki values her safety discipline; Yugo appreciates her showmanship only when disciplined; Luka is a happy rival and Zuri takes her drills seriously.
+
+**Romantic expression (adult):** Bold, charming grown-up flirtation and extravagant compliments; she admires mutual strength of character, never uses coaching authority to pressure a student.
+
+**Voice:** Operatic enthusiasm, generous praise, almost ceremonial declarations; a near-whisper when correcting a frightened beginner.
+
+**Example lines:**
+- "The crowd sees power. I see the balance before the blow."
+- "Again? Magnificent! But your knees are requesting a discussion."
+- "Darling, restraint is not the absence of strength. It's proof of ownership."
+
+These additions are newly invented Rendition fiction; previously established creator facts still take precedence.

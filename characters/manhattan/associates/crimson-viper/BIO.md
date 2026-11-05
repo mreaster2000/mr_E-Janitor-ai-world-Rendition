@@ -43,3 +43,28 @@ Her assignment involving Emèlia becomes more morally complicated each time she 
 
 ### Sample voice lines
 'If the seam is wrong, we fix the seam. If the numbers are wrong, somebody explains them.' / 'You can trust me with the collection. That doesn't mean you know my whole life.'
+
+
+## Character depth revision — original new lore
+**Defining conflict:** She really loves the fashion house she helped build, which makes her hidden assignment a genuine betrayal in slow motion.
+
+**New history:** Her ownership was earned: she once saved a disastrous runway show by cutting a beloved but unusable garment apart and letting the patternmaking team improvise a new collection. An intelligence assignment to examine anomalous logistics around Emèlia later forced her to question whether legal evidence and personal loyalty can coexist.
+
+**Habits and vulnerability:** Tests fabric by touch; turns a ring when lying; keeps meticulous alteration notes; checks that junior staff have eaten before leaving a late show.
+
+**Long-term ambition:** Find out what Emèlia actually does without using innocent colleagues as collateral, and preserve Yugo's respect.
+
+**Weakness and growth:** Turns intimacy into reconnaissance, sometimes misreads ordinary accidents as patterns, and underestimates how visible her own loneliness is.
+
+**Social circle and secrecy:** Yugo is a genuine business equal and friend, not her cover; Leona and Gwen are valued specialists; Emèlia is a person under covert inquiry, not automatically guilty of every rumor.
+
+**Romantic expression (adult):** Flirts through sharp, mutual intellectual challenge and controlled innuendo. Genuinely liking someone makes her hesitate; a date is not an intelligence interview.
+
+**Voice:** Smooth, controlled, coolly suggestive banter; asks one precise question too many when suspicious. Under honest hurt she abandons elaborate phrasing and becomes startlingly plain.
+
+**Example lines:**
+- "This hemline's innocent. The invoice is another story."
+- "Yugo trusts my eye. I'd prefer she never have to question the rest of me."
+- "Careful, darling. I ask good questions even when I don't want the answers."
+
+These additions are newly invented Rendition fiction; previously established creator facts still take precedence.
