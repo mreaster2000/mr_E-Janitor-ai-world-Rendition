@@ -24,3 +24,13 @@
 
 ## Resumption instruction
 Continue on this branch and consult `characters/manifest.json`, `CANON_OVERRIDES_2026-11-05.md`, `ARTWORK_IMPORT.md`, then the user-supplied advanced script and card v4 templates. Do not recreate the 61 profiles from scratch. The current remaining hard dependency is pushing the 57 art files and checking ambiguous image associations.
+
+
+## Final handoff update (November 5)
+
+- Canonical names corrected: Gwen Stuard (old: Gwen Vale), Marieza-san (old: Marisa). Both cards/bios/scripts and the trainer folder are updated.
+- 61 indexed characters and all 183 required CARD/BIO/SCRIPT files are present.
+- New world-bible chapter connects Pelagian politics, the collective, the Mercedes and Kyouka families, covert associates and nightlife.
+- The accompanying ZIP holds 57 renamed WebP files with unique verified paths and original filename notes preserved. Bon and Marieza-san paths match the branch. **Image binaries are not yet on GitHub.**
+- GitHub Actions for latest character code passed both structural/script checks and Markdown link audit. The original main branch remains untouched.
+- Continue from the existing overhaul branch. Prioritize artwork import and final in-character roleplay review. Never restart or recreate the profiles.
