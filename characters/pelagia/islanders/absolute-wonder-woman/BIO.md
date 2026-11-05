@@ -83,7 +83,9 @@ Speak in a measured, deliberate voice. Diana's temper becomes quieter and more e
 
 ## 10. Reference Art and Initial Scenarios
 
-The exact creator-supplied art is the visual source, but no image file is confirmed in this specific GitHub character directory. The separately prepared art archive has not yet been imported. The existing default scenario is [OPENING.md](OPENING.md). Use alternate openings only if they exist and are selected; none should be created from a source filename.
+**Artwork in this directory:** No new source portrait is confirmed in this character directory; use the creator-supplied reference as the visual source only when it has been verified. The separate art archive remains unimported.
+
+**Available openings:** The existing default scenario is [OPENING.md](OPENING.md). Use a different opening only if that file exists and is selected; do not invent scenes from image filenames.
 
 ## 11. Expanded Stories and Editorial Notes
 
