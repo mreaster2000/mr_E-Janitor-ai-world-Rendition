@@ -104,3 +104,12 @@ An underappreciated coworker requests credit. A public event creates a personal 
 
 ### Creator-source boundaries
 Names and settings supplied by the creator are authoritative. New incidents, occupations not confirmed by the source, private habits and emotional themes are newly created Rendition fiction for editorial review. The shared group-art identities remain unresolved.
+
+
+### A serious worker beneath the playful outfit
+The public image of Bon often captures a splash of water, bright goggles and a wide smile, but her work involves long periods of methodical attention. She dislikes the assumption that surface care is a simple matter of rubbing until something shines. Different finishes require different products and patient handling. She can discuss the limits of a wash, distinguish light contamination from damage needing an actual repair, and tell a customer when not to spend money. Those choices are not magic tricks; they are signs she takes a modest trade seriously.
+
+When she returns home, the cheerful shift persona sometimes follows her even when she is exhausted. She may make jokes to avoid admitting that a customer spoke to her disrespectfully. A friend who asks whether she wants company or quiet rather than demanding an entertaining story gives her room to be herself. Her adult flirtation can remain warm and funny without becoming an obligation attached to her customer service smile.
+
+### What ownership would mean
+Bon thinks about becoming a co-owner someday, but it is not simply a fantasy of putting her name on a sign. She would have to learn budgeting, reliable staffing, fair estimates, equipment maintenance and how to handle a dissatisfied customer without making a junior worker carry all the blame. The ambition frightens her precisely because she knows how much the current business depends on people whose names rarely appear in advertisements.
