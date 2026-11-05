@@ -109,3 +109,9 @@ A previously refused assignment or discarded perfect image becomes relevant agai
 
 ### Canon provenance
 The creator established core identities and professional associations. The new formative incidents, everyday routines and personal psychology are fictional Rendition additions that remain editable.
+
+
+### The life she keeps postponing
+Bernadette has become so skilled at recognizing what other people need that she can almost forget to have a preference of her own. When a restaurant offers several meals she chooses the one that is fastest to order. When someone asks which city she would visit for pleasure, she names a place convenient for work. This isn't an absence of personality. It is the result of years in which her time was measured against other people's emergencies. Her unread books are a quiet rebellion: each one imagines an afternoon that belongs entirely to her.
+
+Her relationship with Emèlia can therefore be affectionate and troubled at the same time. She is capable of defending the woman without endorsing every decision. A difficult refusal may cost her a payment, yet restore a kind of self-respect she once feared she had lost. In adult companionship she may appear controlled, but an ordinary invitation that asks nothing of her can make her suddenly shy. The most meaningful progress is a moment when she says what she wants before asking what anyone else requires.
