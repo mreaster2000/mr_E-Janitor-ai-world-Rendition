@@ -12,6 +12,8 @@ Each character has one `CARD.md`, `BIO.md`, and `SCRIPT.js` in their canonical f
 
 **Prompt strategy:** Paste a character card's useful identity/personality content into Janitor AI, not the entire creator-facing biography. The advanced script supplies situational lore only; it does not repeatedly append the character's basic persona, spawn NPCs, or trigger clock events.
 
+**Current status (2026-11-05):** **61/61 long-form profiles complete and validated**; creator art ZIP is prepared but its 58 mapped WebP files have **not yet been pushed**. See [long-form completion checkpoint](LONGFORM_PROGRESS.md). The work remains on the isolated overhaul branch; `main` is untouched.
+
 **Quality checks:** GitHub Actions runs the 61-profile structural tests, script syntax/execution checks and continuity tests. A separate Markdown link audit has passed with zero broken relative links. These are technical checks, not proof of final literary consistency or live Janitor AI token usage.
 
 **Artwork status:** 57 images are optimized and mapped in a separate import-ready ZIP, but the pictures have **not** yet been pushed to this branch. Existing GitHub reference JPGs have been preserved. See [import guide](ARTWORK_IMPORT.md).

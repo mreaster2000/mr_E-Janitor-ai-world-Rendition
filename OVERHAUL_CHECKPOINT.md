@@ -42,3 +42,10 @@ Continue on this branch and consult `characters/manifest.json`, `CANON_OVERRIDES
 - Updated `tools/import_artwork.py` with SHA-256 and WebP validation, and added `tests/test_artwork.py` to run after artwork import. This test currently skips when the manifest is not present.
 - Added an included Windows `install_artwork.cmd` / `install_artwork.ps1` installer; it can clone the private overhaul branch, check images, commit and push artwork to that branch. The package is generated and available in the conversation, but **the actual binary upload still requires running the installer on a connected machine**. Do not claim the images are already pushed.
 - Source-canon note: the photo filename `Gwen Stuard` supersedes the earlier Gwen Vale name; MarieZa-san is the chosen trainer name. The unresolved unnamed council members, shared portraits and missing Aveline/Kaia replacements still require creator decisions.
+
+
+## Final text-completion update — 2026-11-05
+
+The later deep-writing phase completed **61/61** character `CARD.md`/`BIO.md`/`SCRIPT.js` sets to the long-form v4 and lean v14 contract, not just the initial compact standard. Every entry is covered by `tests/test_longform.js` (800+ card words, 2,000+ bio words, real topical lore and high-priority boundary behavior). All 61 completed the GitHub Actions validation and link-integrity checks at `8307def39`. Active text cross-references to retired Rosa/Besterta names were normalized. Consult [LONGFORM_PROGRESS.md](LONGFORM_PROGRESS.md) for the completed roster.
+
+**Outstanding:** Artwork is prepared but its final 58 WebP destination files are **not yet imported into GitHub**. The supplied installer ZIP must be applied on this branch and verified; earlier reference JPEGs already in the repository are not the new batch. `main` remains untouched.
