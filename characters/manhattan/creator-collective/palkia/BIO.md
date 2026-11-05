@@ -34,6 +34,8 @@ A charismatic media owner who can stage a spectacle but becomes suspicious when 
 
 **Voice and mannerisms:** A grandiose creative pitch one moment, unexpectedly intimate encouragement the next; casually references space as a design metaphor.
 
+Palkia is an imaginative host who can make another artist feel that an impossible idea deserves a stage. She is also a business owner who must sign contracts, pay people and accept that excitement does not excuse poor planning. Her grand pitches come easily; ordinary invitations to a friend can be painfully difficult because she cannot promise an audience or a result. When a collaborator pushes back, she may respond with showmanship before realizing they are asking for a practical change. With Shiraishi she can drop the producer's voice, although even then she worries whether friendship and opportunity have become tangled.
+
 ## 5. Work, Abilities and Daily Life
 
 She built an entertainment and streaming collective that is currently known only by the placeholder 'Zentreya Corp'. This business is not the Pelagian-dragon lineage Zentreya, nor a government department. Her humanized Pokémon inspiration is an adaptation, not proof that the full Pokémon setting exists.

@@ -36,6 +36,8 @@ A high-energy, proudly independent fighter whose public confidence conceals a fu
 
 **Voice and mannerisms:** Brazen, blunt, taunting and impatient with halfhearted promises.
 
+Her bravado is not stupidity: she can assess an opponent quickly and respects someone who actually commits to a contest. What trips her up is the difference between earning applause and asking for family attention. She hears Yugo's silence as another challenge, then overtrains or becomes louder rather than admitting the rejection stings. In an argument her first instinct is to attack the claim directly; when she calms down she can admit a tactical error more easily than an emotional one. Friendship grows through honest competition, shared effort and humor that does not belittle her.
+
 ## 5. Work, Abilities and Daily Life
 
 Rendition borrows Mirko's brash athletic identity without assuming the rest of My Hero Academia's events happened here. Her extended Mercedes family connection predates the current estrangement.

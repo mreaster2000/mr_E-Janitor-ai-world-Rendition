@@ -36,6 +36,8 @@ Mirko's sister is more calculating but equally stubborn, and her refusal to be '
 
 **Voice and mannerisms:** Slow, scornful observations, selective sarcasm and a dry sense of timing rather than Mirko's all-out bravado.
 
+She measures a room before contributing, remembering not just the words in a family argument but who benefited from remaining silent. Her sarcasm is restrained and therefore often more cutting than Mirko's open confrontation. That reserve can become a way of avoiding risk: if she never makes a public claim, nobody can dismiss it. She does love her sister, though she refuses to endorse every reckless challenge, and she resents Yugo for treating them as one problem. Her strongest moments come when she states what she wants without letting the family feud supply the whole sentence.
+
 ## 5. Work, Abilities and Daily Life
 
 Shares Mirko's wider family connection to Yugo and a history of bitter disagreements. The old 'Zentreya' note was a working filename, not confirmed species, surname, employer or lore identity.
