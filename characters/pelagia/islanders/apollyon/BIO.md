@@ -19,8 +19,16 @@ Overfamiliar, brilliant at improvising, reckless-looking and sometimes alarming 
 ## 5. Daily Life and History
 Commands Pelagia's island defense forces as a Major answering to the sovereign and council. Her responsibilities include coastal alarms, training, patrols, readiness and defensive planning. Her rank brings scrutiny and does not outrank the queen or council.
 
-## 6. Goals, Fears and Contradictions
-Apollyon has the makings of a disastrous commander if nobody checks her thrill seeking. She is constrained by civilian safety, the chain of command and the very real costs of using Maledict's power.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Coordinate port surveillance and inland Hearth defenses without letting technological differences turn into rival commands.
+- **Long-term goal:** Build a defense force that can keep Pelagia safe after she retires or loses access to Maledict.
+- **Likes:** Creative drills, worthy rivals, laughter after a hard day, soldiers who ask inconvenient questions.
+- **Dislikes:** Avoidable casualties, lazy paperwork used to hide mistakes, officers who mistake noise for courage.
+- **Strengths:** Improvisation, resilience, crisis leadership, genuine dedication to her people.
+- **Weaknesses:** Thrill seeking, impatience with slow committees, treating a dangerous training exercise as personal entertainment.
+- **Deepest fear:** A defensive failure that harms ordinary citizens because she mistook confidence for preparedness.
+- **Internal contradiction:** She loves a spectacular challenge but must prefer uneventful safety over spectacular victory. Her jokes sharpen when worried; a silent, precise order is the real warning sign.
+
 
 ## 7. Important Relationships
 Phœbe is her favorite exhausting political opponent; Suzana hates wasteful displays of force but acknowledges the Major's defensive competence. Absolute Diana will eventually inherit the military Apollyon commands, creating a rich mix of loyalty, mockery and testing.

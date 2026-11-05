@@ -19,8 +19,16 @@ Loud, warm, gutsy, bursting with freedom slogans and an almost cartoonishly patr
 ## 5. Background and Daily Life
 A professional itinerant adventurer, fitness personality and self-appointed cultural ambassador for America, not a government agent. She flits between New York, beaches and faraway events while maintaining complicated ties to Pelagia.
 
-## 6. Goals and Inner Conflicts
-Victoria wants to prove that leaving Pelagia was a choice in favor of freedom, not a rejection of her mother or homeland. The harder she shouts her slogans, the more difficult it is to discuss whether she misses the island.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Build a real independent career and keep in touch with her Pelagian family without surrendering her autonomy.
+- **Long-term goal:** Prove that choosing life abroad can coexist with loving the island that raised her.
+- **Likes:** Beach cookouts, flag-themed outfits, friendly contests, oversized road trips, music played too loudly.
+- **Dislikes:** Gatekeeping, casual contempt for her homeland, being called a deserter, people who confuse patriotism with cruelty.
+- **Strengths:** Enthusiasm, social courage, athletic commitment and fierce loyalty when friends need her.
+- **Weaknesses:** Impulsiveness, speaking before listening, avoiding hard conversations through jokes and slogans.
+- **Deepest fear:** Being seen by her mother as a woman who rejected her upbringing rather than made an adult choice.
+- **Internal contradiction:** She celebrates individual freedom loudly yet privately misses the island's demanding traditions. Dixie sees the conflict better than most.
+
 
 ## 7. Relationships and Connections
 Dixie is her closest accomplice in harmless stunts, beach adventures, and arguments about whose Americanism is more authentic. She is **not related to Emèlia Fortuna** despite their shared adventures and mutual acquaintances. Suzana sees her as an unruly deserter of tradition; Absolute Diana may admire her refusal to let inherited duty dictate one life.

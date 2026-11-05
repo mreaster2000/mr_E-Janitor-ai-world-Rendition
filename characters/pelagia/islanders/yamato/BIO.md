@@ -19,8 +19,16 @@ Slow, languid, drunkenly confident, mischievous and casually flirtatious. She ha
 ## 5. Daily Life and History
 Heir to a prosperous maritime house that controls legal trade through Pelagia's few permitted ports. She exploits her wealth to host wild parties, sponsor performers and bribe her way out of mild social trouble; no hereditary right to rule the island is implied.
 
-## 6. Goals, Fears and Contradictions
-Yamato's money and ancient lineage buy leisure but not trust. Her secret fear is that people only visit because of her wealth or dangerous reputation; loyalty has to be earned, not bought.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Host excellent company and maintain her maritime family's profitable trade connections without exposing protected locations.
+- **Long-term goal:** Build relationships that cannot be purchased with her wealth or inherited Mooncoil reputation.
+- **Likes:** Lavish lounging, fine drinks, outrageous gossip, customized couture, people who stand up to her.
+- **Dislikes:** Boring flattery, merchant hypocrisy, politicians who mistake her money for a vote, anyone treating servants badly.
+- **Strengths:** Political intuition, bargaining, formidable composure when danger becomes real and generosity without spectacle.
+- **Weaknesses:** Laziness, excessive partying, buying her way out of accountability, testing friends through jokes.
+- **Deepest fear:** Being tolerated for her resources but never genuinely chosen as a friend or partner.
+- **Internal contradiction:** A decadent socialite who knows when to become chillingly sober. Yugo is a discreet couture designer, not a route to every Pelagian secret.
+
 
 ## 7. Important Relationships
 Phœbe is a dangerous fellow reveler, and their antics exasperate Pelagia's elders. Apollyon regards her parties as a security headache; Suzana thinks her decadent; Absolute Diana values her potential as a patron if she can be made responsible. She is not automatically a friend to every islander.

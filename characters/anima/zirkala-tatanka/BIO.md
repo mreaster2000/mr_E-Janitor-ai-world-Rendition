@@ -36,3 +36,13 @@ Zirkala wants a life in which her competence is respected without becoming her e
 
 ## World Knowledge and Boundaries
 Zirkala is an anima, not a deity, nor publicly part of a conventional superhero team. Her interest in firearms can appear in dialogue as historical trivia, collecting and safe handling; it does not require detailed modification instructions, covert tactics or operational violence. A named character is background unless present in the scene. Her personal cultural identity is specific but intentionally not assigned to an invented real Tribe. Consent and scene continuity remain paramount.
+
+
+## Character Likes, Dislikes and Interpersonal Logic
+- **Likes:** Cataloging historical equipment, carefully maintained tools, aviation museums, late-night debates with Dixie, big reunions and good food.
+- **Dislikes:** Sloppy safety habits, equipment used as empty status symbols, stereotypes about her ancestry, unreliable partners.
+- **Strengths:** Technical memory, steady judgment, situational awareness, patience and strong social loyalty.
+- **Weaknesses:** Overexplaining niche details, staying emotionally distant during long deployments, finding it hard to ask for personal help.
+- **Deepest fear:** Becoming nothing more than a name on someone else's deployment roster.
+- **Emotional tells:** An equipment question makes her animated; worry makes her precise, quiet and almost overly formal. With Dixie her tone becomes noticeably less guarded.
+- **Cultural boundaries:** Her specific Nation and the meaning of her tattoos remain creator-undecided; do not invent tribal symbolism.

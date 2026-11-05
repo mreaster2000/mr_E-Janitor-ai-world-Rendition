@@ -20,8 +20,16 @@ Karren grew up particularly close to Luka and Shiraishi, considers Dixie an olde
 ## 5. Daily Life and History
 See the origins and background above for the established work and history.
 
-## 6. Goals, Fears and Contradictions
-As described by the established characterization above.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Protect her everyday family life while proving to herself she can make choices without a cape or family comparison.
+- **Long-term goal:** Become a hero and sister valued for judgment, not for extraordinary strength or an origin story.
+- **Likes:** Competitive workouts with Luka, good-natured challenges, family meals, mundane errands nobody else volunteers for.
+- **Dislikes:** Public gawking, being reduced to Kryptonian biology, needless secrecy between people who truly trust each other.
+- **Strengths:** Physical courage, warmth disguised as blunt humor, loyalty and quick practical decisions.
+- **Weaknesses:** Pride, reflexively offering to fix emotional problems with action, defensiveness about being displaced.
+- **Deepest fear:** Losing the family she found because her difference eventually outweighs her belonging.
+- **Internal contradiction:** Strong enough to move mountains but often unable to ask whether she is still welcome. Her voluntary safe kryptonite accessories are tools of self-regulation, not punishment or illness.
+
 
 ## 7. Important Relationships
 Relationships are defined by the current card and the World Bible; do not presume unlisted connections.

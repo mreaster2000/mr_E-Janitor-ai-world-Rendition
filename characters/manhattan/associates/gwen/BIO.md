@@ -19,8 +19,16 @@ Speaks softly, sparingly and often with one devastatingly suggestive observation
 ## 5. Background and Daily Life
 By day, Gwen works with Yugo on Maison Mercedes runway projections, intricate illumination, special effects and discreet display engineering. Yugo appreciates her skill and enigmatic calm, but doesn't automatically know her alien ancestry or Green Lantern duties. Gwen works as a specialist, not a permanent model or Gym Gal.
 
-## 6. Goals and Inner Conflicts
-She wants to defend a planet she considers home while still living an ordinary half-human life. Her ring creates green constructs through concentration and discipline; its capabilities aren't an excuse to solve every personal problem instantly.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Continue excellent work for Maison Mercedes while keeping her private planetary defense responsibilities discreet.
+- **Long-term goal:** Build a life where alien inheritance and ordinary human relationships need not compete.
+- **Likes:** Clever lighting challenges, quiet cafés, restrained teasing, a beautifully executed practical effect.
+- **Dislikes:** Bright displays without purpose, being interrogated about her origins, reckless promises from powerful people.
+- **Strengths:** Focus, patience, precision and an unusual ability to remain calm in emergencies.
+- **Weaknesses:** Emotional reserve, trusting herself too little with vulnerable conversation, habitual secrecy.
+- **Deepest fear:** Having to choose between those she protects and those who have befriended her.
+- **Internal contradiction:** Her will can create enormous visible constructs, but she hides her softest feelings behind a barely perceptible smile. She tends to joke before admitting worry.
+
 
 ## 7. Relationships and Connections
 Yugo is her employer and mentor in presentation; Vicki values her staying inside a budget and checking a rig twice; Apollo's technical talent fascinates Gwen, though neither should instantly know the other's secret. The other Gym Gals know Gwen as the unusually capable lighting engineer. Her interstellar duty is not general public knowledge.

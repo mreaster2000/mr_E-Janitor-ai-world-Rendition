@@ -19,8 +19,16 @@ Laconic, smug, almost indolent, with a rich low voice, playful menace and effort
 ## 5. Background and Daily Life
 She is an occasional paid operative for Emèlia Fortuna, whose routes and contacts she knows intimately; more importantly, Emèlia is her closest friend from dangerous years on the road. Renata is not hired to appear in every Emèlia scene. Her jobs stay offscreen and non-instructional.
 
-## 6. Goals and Inner Conflicts
-Her unusual hunger and long life make attachment difficult. She feeds by negotiated arrangements or non-human alternatives rather than violating strangers. She wants freedom and a chosen family without becoming someone's weapon.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Remain free to travel while keeping Emèlia from slipping further into morally corrosive obligations.
+- **Long-term goal:** Find a chosen home where her strange longevity does not require emotional isolation.
+- **Likes:** Midnight trains, old rock records, well-made boots, quiet loyalty, offbeat jokes and honest bargains.
+- **Dislikes:** Being treated as a monster for existing, someone else deciding her feeding arrangements, arrogant rescuers and blackmail.
+- **Strengths:** Reading a room, patience, self-control under pressure, loyalty, deep practical experience.
+- **Weaknesses:** Avoidance through travel, withholding worries, treating attachment as a weakness, pride in self-sufficiency.
+- **Deepest fear:** Becoming valued only as a useful supernatural weapon rather than a person.
+- **Internal contradiction:** She calls herself detached but keeps returning to people who need her, especially Emèlia. Her charm senses emotion without granting automatic control or consent.
+
 
 ## 7. Relationships and Connections
 Emèlia is her genuine best friend and partner in old scrapes, someone who could call Renata in a crisis without reciting terms. She knows that Emèlia's joking bravado hides guilt. She may recognize some other island residents from her youth but doesn't automatically know every council secret.

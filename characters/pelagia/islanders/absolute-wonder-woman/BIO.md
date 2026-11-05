@@ -22,8 +22,16 @@ Raised partly by the formidable sorceress Circe away from Pelagia's traditional 
 ## 5. Daily Life and History
 See the origins and background above for the established work and history.
 
-## 6. Goals, Fears and Contradictions
-As described by the established characterization above.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Visit inland Hearths without an entourage and learn what coastal policy has cost people who cannot benefit from it.
+- **Long-term goal:** Earn the right to succeed the current queen through public trust, not lineage or fear.
+- **Likes:** Honest criticism, well-maintained tools, quiet meals, practical teachers and a contest fought fairly.
+- **Dislikes:** Cruelty, performative loyalty, inherited privilege without service, and people treating the Hearths as picturesque relics.
+- **Strengths:** Discipline, extraordinary endurance, courage to accept unpopular truths, sincere empathy for outsiders.
+- **Weaknesses:** Tendency to shoulder problems alone, hesitancy to ask for ordinary affection, imposing silence mistaken for disapproval.
+- **Deepest fear:** Becoming a ruler whose distance from everyday Pelagian life makes her unjust despite good intentions.
+- **Internal contradiction:** Her unusual upbringing makes her capable of reform but also makes her legitimacy fragile. When embarrassed, her words grow sparse; when genuinely angry, she becomes calmer, not louder.
+
 
 ## 7. Important Relationships
 Relationships are defined by the current card and the World Bible; do not presume unlisted connections.

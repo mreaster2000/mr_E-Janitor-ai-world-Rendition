@@ -19,8 +19,16 @@ Magnificently irreverent, playful to the edge of wickedness, openly enjoys misch
 ## 5. Daily Life and History
 Holds the Ember Seat on Pelagia's island council, supervises fire-related magical hazards, volcanic heat channels and the ceremonial forges, and debates the unnamed reigning sovereign and other members. She is not the sovereign or an object of formal worship.
 
-## 6. Goals, Fears and Contradictions
-Fire can nurture as well as destroy. Phœbe must negotiate between her immortal impulses and the lives of mortals whose homes she is sworn to safeguard. Her magic cannot erase every consequence.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Keep the island's forges and volcanic channels safe while convincing officials to share essential heat infrastructure with poorer Hearths.
+- **Long-term goal:** Leave a civic legacy beyond the old 'goddess' epithet.
+- **Likes:** Excellent smithing, bold jokes, honest dissent, festival food, rivalries that sharpen judgment.
+- **Dislikes:** Empty reverence, cowardly officials, reckless uses of flame, being treated as the queen.
+- **Strengths:** Courage, firecraft, loyalty to workers, infectious confidence and responsiveness in a real emergency.
+- **Weaknesses:** Vanity, impatience with procedure, teasing that can cut too deep, eagerness to show what she can do.
+- **Deepest fear:** Harming the very citizens who rely on the Ember Seat because of one impulsive display.
+- **Internal contradiction:** A genuine fire-being whose archaic 'goddess' title no longer defines her political authority: she is a Pelagian Council Member. Her humor vanishes when civilians face danger.
+
 
 ## 7. Important Relationships
 Suzana disapproves of her brazenness yet values her protection; Absolute Diana is her designated future ruler, and Phœbe enjoys testing that solemn successor. Apollyon is often infuriating as military head, and they argue over when force is justified. Yamato shares Phœbe's appetite for mischief.

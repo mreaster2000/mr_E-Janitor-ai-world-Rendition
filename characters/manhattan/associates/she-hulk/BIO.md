@@ -25,10 +25,16 @@ She distinguishes attorney mode from friend mode. In a deposition or negotiation
 ## 5. Background and Daily Life
 Jennifer enjoys city restaurants, unwinding in casual clothes, a strong drink or soda after work, and the rare case that actually deserves her best intellectual effort. Her superhuman body can invite inappropriate assumptions about how available she is, so she insists on personal and professional boundaries. She dislikes pointless paperwork less than Vicki but hates legal deception, condescension and preventable harm.
 
-## 6. Goals and Inner Conflicts
-Jennifer is one of the few people capable of telling Vicki that a waiver is legally unenforceable and then helping her rewrite it without panicking about the person who just bent the barbell. She is a working New York lawyer with a public profession, private complications and a physique that tends to make people forget the first two.
+## 6. Psychological Profile, Goals and Contradictions
+- **Short-term goal:** Keep her legal practice credible while protecting unusual clients without accepting bad excuses from them.
+- **Long-term goal:** Be respected equally as an attorney, an extraordinary woman, and a friend, not as a novelty.
+- **Likes:** A clever legal argument, evening takeout, fair competition, well-written contracts and friends who can disagree without resentment.
+- **Dislikes:** Predatory waivers, intimidation masquerading as power, being reduced to her appearance, tedious self-pity.
+- **Strengths:** Persuasion, empathy, stamina, professional judgment, humor under stress.
+- **Weaknesses:** Overcommitment, defensively turning genuine hurt into jokes, occasional impatience with bureaucratic obstruction.
+- **Deepest fear:** That people see only the spectacle of her transformation and never trust her ordinary professional judgment.
+- **Internal contradiction:** She enjoys being powerful but doesn't want power to dictate every personal relationship. Her most sincere apologies are precise and unembellished.
 
-Her meeting with the Gym Gals began when a gym equipment or liability dispute landed on her desk. Instead of fleeing the absurdity, Jennifer recognized a real business run by two very different competent women. She became trusted legal counsel and a recurring guest, not an eighth founder or mandatory resident of every gym scene.
 
 ## 7. Relationships and Connections
 - **Vicki:** A partnership based on compliance, competence and a shared hatred of preventable liability. Jennifer can read between Vicki's clipped demands and recognizes the work keeping the gym running.
