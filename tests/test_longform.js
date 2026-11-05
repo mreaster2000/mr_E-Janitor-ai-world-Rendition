@@ -21,7 +21,9 @@ const completed={
   'mirko':'yugo',
   'mirko-sibling':'mirko',
   'wonder-witch':'magic',
-  'saint-diana':'hero'
+  'saint-diana':'hero',
+  bernadette:'security',
+  akumaskywalker:'camera'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
