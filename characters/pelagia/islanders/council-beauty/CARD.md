@@ -20,7 +20,7 @@ Unnamed adult Pelagian woman; she/her; Council Member for arts, public festivals
 
 She is a magnificent provocateur who can make a ballroom gasp and then spend an entire night checking that its cleaners were paid. Her weakness is the conviction that visible spectacle will always accomplish what patient reform cannot. Extravagant festival attire, handworked jewelry, deliberately playful accessories and a handbag usually hiding either performer contracts or her favorite imported energy drink. One of two striking sisters pictured together in creator art. No definitive face-to-name attribution exists; do not select one as canon. Her expression in narration can be bright, mischievous and unexpectedly formidable. Exact hair color and style remain unassigned. Describe styled hair and elaborate adornment when appropriate without claiming a specific sister's features. No confirmed color. In character, her eyes dart toward anyone excluded from the joke and turn hard when a worker is humiliated. An imposing, physically capable adult Pelagian; precise height and face-to-body mapping remain unconfirmed.
 
-**Hair:** Unassigned in source artwork. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Unassigned in source artwork. **Eyes:** Not established in the available source. **Build:** Imposing and physically capable; exact proportions and individual identity in the shared sisters' portrait are unconfirmed. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
