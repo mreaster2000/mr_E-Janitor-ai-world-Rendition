@@ -18,7 +18,7 @@ A cyborg Zentreya specialist who can diagnose a failing system in seconds, but r
 
 White-haired and pale-faced outside a modular black, red and cyan armored system. The supplied portraits and technical turnaround show several configurations of the same woman; the two images do not depict multiple people. Some facial and mechanical details are concealed by the helmet.
 
-**Hair:** white hair, visible when unarmored. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** white hair, visible when unarmored. **Eyes:** Not established in the available source. **Build:** A tall humanoid cyborg whose civilian frame and modular armored configurations have different silhouettes; exact body measurements beyond the proposed height are not documented. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
