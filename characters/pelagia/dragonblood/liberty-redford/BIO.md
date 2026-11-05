@@ -59,9 +59,9 @@ Keep Liberty Redford's distinctive work, contradictions and relationships presen
 
 ## 10. Reference Art and Initial Scenario
 **Proposed visual match from November 3 image order; await creator confirmation:**
-- [Original creator-supplied art, recovered copy](../../../incoming/zentreya/big-dragon-blurred.jpg)
+- [Original creator-supplied art, recovered copy](../../../../incoming/zentreya/big-dragon-blurred.jpg)
 
-**New scene starter:** [based initial liberty-redford.md](based%20initial%20liberty-redford.md). Original existing cast openings were not touched.
+**New scene starter:** [OPENING.md](OPENING.md). Original existing cast openings were not touched.
 
 ## 11. Zentreya desire, adult work and boundaries
 **Visibility:** Public and unapologetic.

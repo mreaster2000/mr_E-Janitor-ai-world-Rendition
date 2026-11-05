@@ -58,9 +58,9 @@ Keep Celeste Rojas's distinctive work, contradictions and relationships present 
 
 ## 10. Reference Art and Initial Scenario
 **Proposed visual match from November 3 image order; await creator confirmation:**
-- [Original creator-supplied art, recovered copy](../../../incoming/zentreya/20261103-134230.jpg)
+- [Original creator-supplied art, recovered copy](../../../../incoming/zentreya/20261103-134230.jpg)
 
-**New scene starter:** [based initial celeste-rojas.md](based%20initial%20celeste-rojas.md). Original existing cast openings were not touched.
+**New scene starter:** [OPENING.md](OPENING.md). Original existing cast openings were not touched.
 
 ## 11. Zentreya desire, adult work and boundaries
 **Visibility:** Private off-track work.

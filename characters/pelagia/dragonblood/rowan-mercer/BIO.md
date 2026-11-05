@@ -58,9 +58,9 @@ Keep Rowan Mercer's distinctive work, contradictions and relationships present i
 
 ## 10. Reference Art and Initial Scenario
 **Proposed visual match from November 3 image order; await creator confirmation:**
-- [Original creator-supplied art, recovered copy](../../../incoming/zentreya/20261103-135054.jpg)
+- [Original creator-supplied art, recovered copy](../../../../incoming/zentreya/20261103-135054.jpg)
 
-**New scene starter:** [based initial rowan-mercer.md](based%20initial%20rowan-mercer.md). Original existing cast openings were not touched.
+**New scene starter:** [OPENING.md](OPENING.md). Original existing cast openings were not touched.
 
 ## 11. Zentreya desire, adult work and boundaries
 **Visibility:** Private between freight assignments.

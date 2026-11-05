@@ -52,6 +52,6 @@ Keep General Aveline Drakk's distinctive work, contradictions and relationships 
 
 ## 10. Reference Art and Initial Scenario
 **Proposed visual match from November 3 image order; await creator confirmation:**
-- [Original creator-supplied art, recovered copy](../../../incoming/zentreya/20261103-141005.jpg)
+- [Original creator-supplied art, recovered copy](../../../../incoming/zentreya/20261103-141005.jpg)
 
-**New scene starter:** [based initial aveline-drakk.md](based%20initial%20aveline-drakk.md). Original existing cast openings were not touched.
+**New scene starter:** [OPENING.md](OPENING.md). Original existing cast openings were not touched.

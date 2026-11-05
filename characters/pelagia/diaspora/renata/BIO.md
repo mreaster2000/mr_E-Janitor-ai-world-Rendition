@@ -40,7 +40,7 @@ Renata is a rare mixed-lineage creature: an undead blood-bound vampire whose inf
 All characters are adults; no implied NPC summoning or predetermined romance. Other secret identities and family histories stay private unless a character has actually learned them. Magic and superpowers cannot automatically decide the user's actions or interrupt scenes. References and names don't make another person materialize in the room. Neither the external DC/Marvel canons nor any 'whole pantheon' are imported by these adaptations.
 
 ## 10. Default Starter and Art
-Dating scenario: [based initial renata.md](based%20initial%20renata.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+Dating scenario: [OPENING.md](OPENING.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
 
 ## 11. Departure and independence
-Renata belongs to the wider history of women leaving a partly opened Pelagia and finding lives abroad. Her supernatural lineage is unusual, not representative of Pelagians generally. She is neither a mandatory island emissary nor an exile automatically barred from return; her personal decisions and the island's guarded entry rules remain distinct. See [Pelagia canon](../../../PELAGIA_CANON.md).
+Renata belongs to the wider history of women leaving a partly opened Pelagia and finding lives abroad. Her supernatural lineage is unusual, not representative of Pelagians generally. She is neither a mandatory island emissary nor an exile automatically barred from return; her personal decisions and the island's guarded entry rules remain distinct. See [Pelagia canon](../../../../PELAGIA_CANON.md).
