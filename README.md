@@ -1,28 +1,27 @@
 # Rendition — Janitor AI character world
 
-A creator-led roleplay world with **61 character profiles**, indexed by story-world groups. Work continues safely on branch `rendition-overhaul-2026-11-05`; the original `main` remains unchanged and preserves all earlier exports.
+This private, creator-led fictional world has **61 character profiles** across 11 story-world groups. The active review branch is `rendition-overhaul-2026-11-05`; `main` remains untouched until the creator approves a merge.
 
-## Browse
-- [Character roster](CHARACTERS.md) and [machine-readable manifest](characters/manifest.json)
-- [World bible](WORLD_BIBLE.md), [Pelagia](PELAGIA_CANON.md), [Zentreya lineage](ZENTREYA_CANON.md), [crossovers](CROSSOVER_CANON.md), [heights](HEIGHT_REFERENCE.md)
-- [Creator overrides](CANON_OVERRIDES_2026-11-05.md) and [overhaul checkpoint](OVERHAUL_CHECKPOINT.md)
-- [Artwork import guide](ARTWORK_IMPORT.md)
+## Find what you need
 
-Each character has one `CARD.md`, `BIO.md`, and `SCRIPT.js` in their canonical folder. Existing openings are preserved as `OPENING.md` or `OPENING_ALT.md`. New cast additions do not necessarily have a written opening.
+- [Character roster](CHARACTERS.md) · [machine-readable manifest](characters/manifest.json) · [character directory](characters/README.md)
+- Canon: [World Bible](WORLD_BIBLE.md) · [Pelagia](PELAGIA_CANON.md) · [Zentreya dragonblood](ZENTREYA_CANON.md) · [Crossovers](CROSSOVER_CANON.md) · [Heights](HEIGHT_REFERENCE.md)
+- Workflows: [Character authoring standard](CHARACTER_AUTHORING_STANDARD.md) · [Artwork import](ARTWORK_IMPORT.md)
 
-**Prompt strategy:** Paste a character card's useful identity/personality content into Janitor AI, not the entire creator-facing biography. The advanced script supplies situational lore only; it does not repeatedly append the character's basic persona, spawn NPCs, or trigger clock events.
+## Current state and decisions
 
-**Current status (2026-11-05):** **61/61 long-form profiles complete and validated**; creator art ZIP is prepared but its 58 mapped WebP files have **not yet been pushed**. See [long-form completion checkpoint](LONGFORM_PROGRESS.md). The work remains on the isolated overhaul branch; `main` is untouched.
+- **61/61 profiles:** each has `CARD.md` (15-section v4 playable persona), `BIO.md` (11-section long-form creator reference), and conditional-only `SCRIPT.js`. Earlier openings remain separate. The card is the roleplay prompt; the BIO is *not* pasted every turn.
+- **Names:** the Beauty/Revelry and Technology Council Members are sisters **Zafira** and **Nahla Marenne**; the independently characterized 'Innocence' councilor is **Ilyana Rell**. Their names are editorial Rendition choices. The sisters' individual faces in the shared portrait are **not** assigned, Ilyana's portfolio is undecided, and Pelagia's incumbent queen is still unnamed.
+- **Anima height retcon:** every established anima in the active roster stands at least **8′0″**. Zuri is **8′1″**, Zirkala Tatanka **8′2″**; see the canonical [height table](HEIGHT_REFERENCE.md). Unconfirmed animal-themed people are not automatically classified as anima.
+- **Identity distinctions:** Rosa supersedes Mudryk; Besterta-san supersedes Nandi. Kara/Supergirl is not Karren/Power Girl. Saint Diana is not Absolute Diana. 'Zentreya' is an inherited dragon-descended lineage; `Zentreya Corp` is only a temporary working name for Palkia's unrelated creator collective. Mirko and her sister are Yugo's estranged cousins. Vera works in nightlife, not engineering.
+- **Story continuity:** no time-counted relationship advances, automatic NPC arrivals, wholesale biography insertion, omniscient secrets, or forced decisions for `{{user}}`. Select **one** character script; council name updates changed lore strings only, not the injection engine.
 
+## Artwork still pending
 
-**Unified profile format:** Every character now uses the same [11-section BIO and 15-section Card v4 standard](UNIFIED_PROFILE_STANDARD.md), with appearance dimensions, hair, eyes, clothing and anatomy recorded directly or explicitly left unconfirmed. The new [profile schema test](tests/test_profile_schema.py) checks all 61. The creator-facing BIO holds extended lore; only the Card belongs in the roleplay prompt. No `SCRIPT.js` was altered during this formatting pass.
+A separately prepared `rendition_artwork_final_import.zip` contains **57 source images mapped to 58 WebP destinations** (the council sisters' shared image maps to two folders). These WebPs are **not yet pushed to GitHub**. Follow [ARTWORK_IMPORT.md](ARTWORK_IMPORT.md) to import into the **overhaul branch only**. Aveline and Kaia lack confirmed new-pack individual art; some group-image faces are unassigned. Earlier verified reference JPGs remain. Do not mark art migration complete until the image test confirms the import.
 
-**Quality checks:** GitHub Actions runs the 61-profile structural tests, script syntax/execution checks and continuity tests. A separate Markdown link audit has passed with zero broken relative links. These are technical checks, not proof of final literary consistency or live Janitor AI token usage.
+## Verification and historical notes
 
-**Artwork status:** 57 images are optimized and mapped in a separate import-ready ZIP, but the pictures have **not** yet been pushed to this branch. Existing GitHub reference JPGs have been preserved. See [import guide](ARTWORK_IMPORT.md).
+GitHub Actions runs structure, v4 schema, script behavior, continuity, and Markdown link checks. Successful CI establishes structural consistency, **not** perfect creative characterization. Re-run validation after revisions; do not merge without approval.
 
-The branch is a reviewable overhaul, not merged to main.
-
-## Final art handoff
-
-The final verified 57-source, 58-destination artwork package is supplied in the conversation as `rendition_artwork_final_import.zip`. It includes a Windows installer and source-filename lore manifest. Follow [ARTWORK_IMPORT.md](ARTWORK_IMPORT.md) to push it into the **overhaul branch**, not `main`. Repository tests verify text and links; image verification becomes active once `ARTWORK_IMPORT_MANIFEST.json` has been imported.
+The old update logs, duplicate formatting standards, and one-off correction notes were consolidated into this guide, the authoring standard, and the World Bible. Their original text remains recoverable in Git history; no character profile, opening, or reference picture was deleted by the documentation cleanup.

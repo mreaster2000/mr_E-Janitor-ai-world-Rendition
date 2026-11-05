@@ -47,4 +47,4 @@ The cohort is **unusually lustful by Zentreya biology**, and this is a **promine
 
 ## Name distinction
 
-'Zentreya' refers to Pelagian/dragon-descended people. 'Zentreya Corp' is only a draft name for an entertainment/talent collective, not the lineage. Palkia's owner role is a new image-filename proposal. Both Mirko and Mirko's unnamed sibling are **Yugo's cousins**, and Yugo loathes them. See [canon overrides](CANON_OVERRIDES_2026-11-05.md).
+'Zentreya' refers to Pelagian/dragon-descended people. 'Zentreya Corp' is only a draft name for an entertainment/talent collective, not the lineage. Palkia's owner role is a new image-filename proposal. Both Mirko and Mirko's unnamed sibling are **Yugo's cousins**, and Yugo loathes them. See the [World Bible](WORLD_BIBLE.md) for consolidated creator corrections and identity distinctions.

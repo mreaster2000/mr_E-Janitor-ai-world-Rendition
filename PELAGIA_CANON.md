@@ -44,4 +44,4 @@ Some long-established dragon families have rare humanoid daughters of mixed Pela
 
 ## Government nomenclature update
 
-As clarified by the creator on 5 November, all goddess-titled figures except Kronii are Pelagian. Their current title is **Council Member**, while 'goddess' survives as an older tradition; not every person so styled necessarily possesses divinity. Phœbe's existing elemental nature remains. Refer to [canon overrides](CANON_OVERRIDES_2026-11-05.md).
+As clarified by the creator on 5 November, all goddess-titled figures except Kronii are Pelagian. Their current title is **Council Member**, while 'goddess' survives as an older tradition; not every person so styled necessarily possesses divinity. Phœbe's existing elemental nature remains. The active names and roles are consolidated in this file and the [World Bible](WORLD_BIBLE.md).
