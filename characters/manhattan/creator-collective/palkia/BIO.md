@@ -19,8 +19,8 @@ An extravagant producer who creates opportunities for other people but fears the
 **Verified attributes:**
 - **Hair:** pale lavender hair
 - **Eyes:** lilac eyes
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Humanoid adult presented through a fantastical influencer silhouette; precise build is not established by the source art.
+- **Style and markings:** Amethyst-toned influencer fashion, pale lavender hair, lilac eyes and playful horn-like head accessories; the accessories are not evidence of actual horns.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

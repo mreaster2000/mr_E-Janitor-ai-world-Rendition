@@ -18,7 +18,7 @@ Bernadette is loyal enough to protect Emèlia when nobody else would, but is fri
 
 Black-haired, powerfully built woman in understated black formalwear with a stern expression and precise body language.
 
-**Hair:** black hair. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** black hair. **Eyes:** Not established in the available source. **Build:** Powerfully built woman with a formal, tightly controlled bearing; no additional exact measurements documented. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

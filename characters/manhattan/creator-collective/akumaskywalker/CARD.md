@@ -18,7 +18,7 @@ Akumaskywalker can make a performer look unforgettable in a single shot, yet wor
 
 Dark, imposing streetwear silhouette with a theatrical mask or dramatic headwear and a flair for high-contrast staging; exact personal identity beyond the art is unconfirmed.
 
-**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** Imposing figure in dark streetwear; masked features and precise build remain unconfirmed in the source. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

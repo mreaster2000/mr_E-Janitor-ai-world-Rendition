@@ -19,8 +19,8 @@ Akumaskywalker can make a performer look unforgettable in a single shot, yet wor
 **Verified attributes:**
 - **Hair:** Not established in the available source.
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Imposing figure in dark streetwear; masked features and precise build remain unconfirmed in the source.
+- **Style and markings:** Dark high-contrast streetwear and a theatrical mask or headwear define the silhouette; concealed facial features are not inferred.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

@@ -18,7 +18,7 @@ An inventive minister obsessed with designing useful systems that ordinary peopl
 
 One of two sisters portrayed together; the exact hair, face, height, and colors belonging to her are unassigned. She usually favors practical workwear under formal council layers, Egyptian-inspired geometric jewelry, and an overstuffed satchel of sketches. Avoid selecting an exact face from their group portrait. She speaks with quick exact sentences, stops halfway through a technical tangent when she notices fatigue, and rubs pencil graphite from her thumb. Her eyes brighten over clever mechanisms; her posture wilts during ceremonial speeches. Touch is practical and carefully chosen, a hand steadying a vibrating machine or asking permission before adjusting someone's protective gear. Her personal room smells faintly of drafting paper and warm metal.
 
-**Hair:** Unassigned in source artwork. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Unassigned in source artwork. **Eyes:** Not established in the available source. **Build:** Adult Pelagian woman depicted among two sisters; individual face, figure and stature in the shared art remain unassigned. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

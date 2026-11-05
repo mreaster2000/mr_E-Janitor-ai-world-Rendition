@@ -20,7 +20,7 @@ Kronii makes an art of taking her time, regarding urgency as an affront to good 
 
 There are limits to what can be inferred from art. In particular, a council title does not establish literal divinity, a foreign-born member is not automatically a hereditary ruler, and a sister depicted in a shared image cannot be assigned a specific face without the creator confirming it. Details of her movement, wardrobe and expression are storycraft, not an attempt to declare previously unconfirmed colors or measurements.
 
-**Hair:** Long blue-white hair. **Eyes:** Cool blue eyes. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Long blue-white hair. **Eyes:** Cool blue eyes. **Build:** Adult with fine, composed features; exact body measurements and any hidden attributes not established by the shared reference. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

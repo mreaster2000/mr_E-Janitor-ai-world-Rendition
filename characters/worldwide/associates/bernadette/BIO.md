@@ -19,8 +19,8 @@ Bernadette is loyal enough to protect Emèlia when nobody else would, but is fri
 **Verified attributes:**
 - **Hair:** black hair
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Powerfully built woman with a formal, tightly controlled bearing; no additional exact measurements documented.
+- **Style and markings:** Understated black formalwear, black hair, stern expression and exacting body language; no specific jewelry or additional markings are confirmed.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

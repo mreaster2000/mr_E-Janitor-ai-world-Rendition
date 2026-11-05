@@ -21,8 +21,8 @@ There are limits to what can be inferred from art. In particular, a council titl
 **Verified attributes:**
 - **Hair:** Long blue-white hair
 - **Eyes:** Cool blue eyes
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Adult with fine, composed features; exact body measurements and any hidden attributes not established by the shared reference.
+- **Style and markings:** Blue-and-silver tailoring or ceremonial clothes with clocklike ornaments and deliberately unsynchronized pocket clocks; the accessories are not universal time-control devices.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

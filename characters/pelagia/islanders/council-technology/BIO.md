@@ -15,8 +15,8 @@ An inventive minister obsessed with designing useful systems that ordinary peopl
 **Verified attributes:**
 - **Hair:** Unassigned in source artwork.
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Adult Pelagian woman depicted among two sisters; individual face, figure and stature in the shared art remain unassigned.
+- **Style and markings:** Practical workwear under formal council layers, Egyptian-inspired geometric jewelry and a satchel of sketches; neither sister's face is assigned by the shared portrait.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
