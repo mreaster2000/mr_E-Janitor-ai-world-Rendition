@@ -20,7 +20,7 @@ The ordinary constructed body presents as a tall woman with a miniature artifici
 
 Normally a seven-foot-five woman with ember-red hair tipped yellow, amber slit-pupilled eyes, warm tan skin and faint mechanical seams. Has a glowing artificial sun in her back and orbiting sun drones, Dawn and Dusk.
 
-**Hair:** ember-red hair tipped yellow. **Eyes:** amber slit-pupilled eyes. **Build:** Tall constructed humanoid form with faint mechanical seams; distinct standard, original, and Sunkiller bodies.. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** ember-red hair tipped yellow. **Eyes:** amber slit-pupilled eyes. **Build:** Tall constructed humanoid form with faint mechanical seams; distinct standard, original, and Sunkiller bodies. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

@@ -18,7 +18,7 @@ Mirko is brilliantly self-sufficient in a contest and almost helpless at admitti
 
 Athletic rabbit-eared heroine with pale hair, long ears, a defiant grin and an unmistakably explosive stance.
 
-**Hair:** pale hair. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** pale hair. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

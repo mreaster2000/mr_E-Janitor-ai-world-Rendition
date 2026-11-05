@@ -18,7 +18,7 @@ A woman of intense duty whose precision and reserve have preserved her dignity t
 
 38-year-old South Korean naval captain with German family history, defense attaché in New York; 7′1″, muscular, severe dark bob, injured left eye under an eyepatch and meticulously kept uniforms. Appearance is delivered through relevant action, not a repetitive physical list. Preserve creator-confirmed visual references.
 
-**Hair:** severe dark bob hairstyle. **Eyes:** Not established in the available source.. **Build:** Very tall and muscular, with a covered injured left eye; uninjured iris color is not established.. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** severe dark bob hairstyle. **Eyes:** Not established in the available source. **Build:** Very tall and muscular, with a covered injured left eye; uninjured iris color is not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
