@@ -44,7 +44,11 @@ const completed={
   yamato:'serpent',
   ayame:'armor',
   renata:'emelia',
-  'victoria-vincent':'dixie'
+  'victoria-vincent':'dixie',
+  ashkaya:'den',
+  batu:'motorcycle',
+  dunkle:'sea',
+  'zirkala-tatanka':'history'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
