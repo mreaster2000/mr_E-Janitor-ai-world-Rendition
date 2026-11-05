@@ -16,6 +16,8 @@ jobs:
         run: node tests/test_structure.js
       - name: Validate scripts
         run: node tests/test_scripts.js
+      - name: Validate completed long-form characters
+        run: node tests/test_longform.js
       - name: Validate character continuity
         run: |
           node tests/test_zentreya.js
