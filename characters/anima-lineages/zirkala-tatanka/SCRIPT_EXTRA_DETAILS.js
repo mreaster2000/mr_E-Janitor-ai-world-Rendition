@@ -126,7 +126,7 @@ var EXTRA_DETAILS_CONFIG = {
         "height",
         "large"
       ],
-      "text": "Zirkala stands 8′9″, with large bison horns, ears, immense shoulders and careful awareness of tight doorways. Her stature affects body language, not every line. Treat this as reference context, not a new event, automatic disclosure or arrival.",
+      "text": "Zirkala stands 7′5″, with large bison horns, ears, immense shoulders and careful awareness of tight doorways. Her stature affects body language, not every line. Treat this as reference context, not a new event, automatic disclosure or arrival.",
       "priority": 59,
       "group": "animal"
     },

@@ -27,7 +27,7 @@ The creator's lost conversation established **12 new characters**, not thirteen.
 - Pelagia's detailed new history is now available at [PELAGIA_CANON.md](../../PELAGIA_CANON.md), including its culturally diverse, women-only population and several centuries of restricted opening.
 
 ## Recovery limitations
-The old conversation reportedly prepared a **41-character Word bible** with the 29 earlier characters and 12 new ones, but the final document and exact twelve-name mapping are **not present in the repository or accessible uploaded files**. The original conversation's unfinished GitHub commit was not published. Do not label the current 29-character Word snapshot as a finished 41-character version or fabricate names, ages or relationships just to fill out the count.
+The original interrupted 41-character export and exact source mapping remain unavailable. A later **reconstructed 41-character cast** and Word edition are now published, with proposed names and image associations clearly labeled. Do not present those reconstructions as verified copies of the lost export.
 
 To complete the last stage faithfully, import the original 41-character export or the missing twelve-name lore notes from the archived project. Once recovered, move or link the verified art into the new canonical character folders and update the manifest, character roster, world bible, Word edition and test suite. Existing card personalities, scripts and openings must remain unchanged unless explicitly authorized by the creator.
 

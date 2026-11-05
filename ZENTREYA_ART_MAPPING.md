@@ -8,7 +8,7 @@ The original 13 images are preserved at [incoming/zentreya/](../incoming/zentrey
 - **Leona Aster**: `20261103-134253.jpg`
 - **Nyx Rielle**: `20261103-134326.jpg`
 - **Roux Caldera**: `20261103-134407.jpg`
-- **Vera Callahan**: `20261103-134136.jpg` (creator-confirmed: pink-lipstick nightclub personality, also keeps engineering career)
+- **Vera Callahan**: `20261103-134136.jpg` (creator-confirmed: pink-lipstick full-time nightclub performer; former engineering biography superseded)
 - **Seraphine Ash**: `20261103-135029.jpg`
 - **Rowan Mercer**: `20261103-135054.jpg`
 - **Liberty Redford**: `big-dragon-blurred.jpg`
@@ -16,4 +16,4 @@ The original 13 images are preserved at [incoming/zentreya/](../incoming/zentrey
 - **General Aveline Drakk**: `20261103-141005.jpg`
 
 ## Creator correction — 4 November 2026
-Marisol is the **green water-gun** woman, who **runs the company**. The pink, lipstick-focused image belongs to Vera, who **works at a nightclub** while keeping her earlier civil-engineering occupation. This two-way assignment is creator-confirmed; the other ten mappings remain proposed.
+Marisol is the **green water-gun** woman, who **runs the company**. The pink, lipstick-focused image belongs to Vera, who **works full-time at a nightclub**; her former engineering biography is superseded. This two-way assignment is creator-confirmed; the other ten mappings remain proposed.

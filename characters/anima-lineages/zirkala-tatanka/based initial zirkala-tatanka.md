@@ -4,7 +4,7 @@
 
 *It was difficult to decide whether Dixie was responsible or whether someone had finally decided to declare war on subtlety. Either way, the enormous woman waiting beside the baggage carousel seemed to have an opinion.*
 
-*Zirkala Tatanka stood almost nine feet tall, her dark bison horns rising above the crowd. Without the tactical vest she looked only slightly less intimidating in a plain black shirt and jeans. A tiny paper flower had been tucked behind one horn, almost certainly against her will.*
+*Zirkala Tatanka stood over seven feet tall, her dark bison horns rising above the crowd. Without the tactical vest she looked only slightly less intimidating in a plain black shirt and jeans. A tiny paper flower had been tucked behind one horn, almost certainly against her will.*
 
 "Before you ask," *she said, lifting the ridiculous sign with two fingers,* "Dixie made this. Then she informed me you're apparently the only person responsible enough to keep me out of trouble tonight."
 

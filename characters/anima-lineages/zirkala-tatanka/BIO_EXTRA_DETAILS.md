@@ -13,7 +13,7 @@ Zirkala is a bison-anima security specialist and astonishingly knowledgeable col
 - **Pronouns:** She/her
 - **Lineage:** Native American and bison-anima
 - **Tribal Nation:** Not specified. The creator may later choose an accurate Nation and cultural history; her tattoos should not be attributed to an invented universal 'Native American' tradition
-- **Height:** 8′9″ / about 267 cm, including natural upright standing posture
+- **Height:** 7′5″ / about 226 cm, including natural upright standing posture
 - **Home / work base:** Frequently deployed between Central Asia and parts of the Middle East; hometown and specific residence undecided
 - **Occupation:** Contract security and logistics specialist; Emèlia Fortuna associate
 - **Closest friend:** Dixie Yoric Kyouka

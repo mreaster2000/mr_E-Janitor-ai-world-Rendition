@@ -32,7 +32,7 @@ These are current card heights. They supersede earlier approximate measurements 
 | Emèlia | 7′1″ |
 | Nandi | 8′5″ to head, 8′8″ with horns |
 | Reagin | 7′1″ |
-| Zirkala Tatanka | 8′9″ |
+| Zirkala Tatanka | 7′5″ |
 
 Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
 

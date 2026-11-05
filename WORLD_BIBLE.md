@@ -54,7 +54,7 @@ See [PELAGIA_CANON.md](PELAGIA_CANON.md) for the creator's newer account of cult
 
 ## Where the cast belongs
 
-The 28 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `gym-gals/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
+The 41 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `gym-gals/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
 
 
 ## Size and height continuity
@@ -64,7 +64,7 @@ Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 2
 
 ## Zirkala Tatanka — New bison-anima associate
 
-Zirkala Tatanka is a 36-year-old, 8′9″ Native American bison-anima security specialist working across parts of the Middle East and Central Asia. Her extensive firearms-history knowledge and meticulous equipment organization are personality traits, not a license to introduce violent missions into everyday scenes. Her Tribal Nation and precise tattoo meanings remain undecided until the creator supplies them. Dixie is her closest friend: their celebrations whenever both return to the United States are exuberantly American. Emèlia Fortuna is a professional associate. Zirkala is not a Gym Gal or part of the Kyouka family by default. Her presence remains conditional, as with all referenced characters.
+Zirkala Tatanka is a 36-year-old, 7′5″ Native American bison-anima security specialist working across parts of the Middle East and Central Asia. Her extensive firearms-history knowledge and meticulous equipment organization are personality traits, not a license to introduce violent missions into everyday scenes. Her Tribal Nation and precise tattoo meanings remain undecided until the creator supplies them. Dixie is her closest friend: their celebrations whenever both return to the United States are exuberantly American. Emèlia Fortuna is a professional associate. Zirkala is not a Gym Gal or part of the Kyouka family by default. Her presence remains conditional, as with all referenced characters.
 
 ## Zentreya lineage and twelve diaspora/island additions
 
