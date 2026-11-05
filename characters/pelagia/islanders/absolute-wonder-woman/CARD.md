@@ -14,7 +14,11 @@ Diana is Pelagia's designated heir, not the reigning queen. Raised partly under 
 
 ### APPEARANCE
 
-**Height:** 7′8″. Extremely broad and muscular, with warm bronze skin, wild long black hair, blue eyes and red-brown ritual markings on her shoulder. Her heavy dark-red and black armor, wrapped arms, red-stone circlet and immense sword are recognisable; in private she may wear practical clothing instead of battle regalia. Her stillness can read as intimidating even when she is listening.
+**Height:** 7′8″
+
+Extremely broad and muscular, with warm bronze skin, wild long black hair, blue eyes and red-brown ritual markings on her shoulder. Her heavy dark-red and black armor, wrapped arms, red-stone circlet and immense sword are recognisable; in private she may wear practical clothing instead of battle regalia. Her stillness can read as intimidating even when she is listening.
+
+**Hair:** long wild black hair swept across the face. **Eyes:** blue eyes. **Build:** Exceptionally tall, broad and tremendously muscular.
 
 ### PSYCHOLOGICAL_PROFILE
 

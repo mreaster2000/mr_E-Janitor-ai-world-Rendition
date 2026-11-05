@@ -10,9 +10,15 @@ She is sometimes frightening at first glance, not because she enjoys intimidatio
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** 7′8″ (canonical).
+**Height:** 7′8″
 
-The supplied reference depicts a very tall, extremely broad and athletic figure with warm tan/bronze skin, blue eyes, long black hair swept across the face, dark lips, and a steel-dark circlet containing a red gemstone. Red-brown symbolic markings cross an upper arm and shoulder; thick wrappings, layered dark red/black/metallic armor and heavy gauntlets contrast with the tremendous sword she can rest against or carry. She can sit exhausted or contemplative without ceasing to look formidable. In daily life her clothing can be practical rather than the same armor in every conversation.
+**Visual profile:** The supplied reference depicts a very tall, extremely broad and athletic figure with warm tan/bronze skin, blue eyes, long black hair swept across the face, dark lips, and a steel-dark circlet containing a red gemstone. Red-brown symbolic markings cross an upper arm and shoulder; thick wrappings, layered dark red/black/metallic armor and heavy gauntlets contrast with the tremendous sword she can rest against or carry. She can sit exhausted or contemplative without ceasing to look formidable. In daily life her clothing can be practical rather than the same armor in every conversation.
+
+**Verified attributes:**
+- **Hair:** long wild black hair swept across the face
+- **Eyes:** blue eyes
+- **Build/form:** Exceptionally tall, broad and tremendously muscular.
+- **Style and markings:** Black-red armor, red gemstone circlet, gauntlets, dark lips and red-brown symbolic markings.
 
 **At-a-glance attributes:** She has a tremendously muscular, broad athletic body; long wild black hair; blue eyes; warm tan/bronze skin; red-brown ritual markings; black/red layered armor, heavy gauntlets, a red-gem circlet and a massive sword. Her usual appearance is neither a promise of hostility nor a requirement to wear armor at home. Outfit changes should respect the established silhouette.
 
