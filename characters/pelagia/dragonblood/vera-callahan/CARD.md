@@ -18,7 +18,7 @@ A shamelessly charming nightclub professional who can own an audience but dreads
 
 Bronze skin, vivid red hair, horn-like draconic features, a strong figure and a long rose-scaled tail. Vera prefers daring magenta and pink club outfits with heart motifs, high heels and gleaming pink lipstick. Her fashion is part stagecraft, part personal delight. Outside her shift she might dress casually, but her vivid makeup and easy confidence are unmistakable. Her confirmed image is the pink-heart-themed nightclub portrait, **not** the green water-gun picture.
 
-**Hair:** red hair. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** red hair. **Eyes:** Not established in the available source. **Build:** Tall and strongly built, with visible horn-like dragon traits and a long rose-scaled tail; exact measurements apart from the proposed height are not documented. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
