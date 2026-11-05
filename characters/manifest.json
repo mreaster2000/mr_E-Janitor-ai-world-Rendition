@@ -4,7 +4,7 @@
     "manhattan/gym": {
       "description": "Founders and core members of the Manhattan private gym; Luka also belongs to the Kyouka family.",
       "slugs": [
-        "mudryk",
+        "rosa",
         "luka",
         "vicki",
         "yugo",
@@ -81,7 +81,7 @@
         "ashkaya",
         "batu",
         "dunkle",
-        "nandi",
+        "besterta",
         "zirkala-tatanka"
       ]
     },
@@ -128,8 +128,6 @@
     "gwen": "manhattan/associates/gwen",
     "luka": "manhattan/gym/luka",
     "mellow": "manhattan/associates/mellow",
-    "mudryk": "manhattan/gym/mudryk",
-    "nandi": "anima/nandi",
     "phoebe": "pelagia/islanders/phoebe",
     "power-girl": "families/kyouka/power-girl",
     "reagin": "worldwide/associates/reagin",
@@ -173,6 +171,8 @@
     "council-technology": "pelagia/islanders/council-technology",
     "council-innocence": "pelagia/islanders/council-innocence",
     "wonder-witch": "pelagia/islanders/wonder-witch",
-    "saint-diana": "pelagia/islanders/saint-diana"
+    "saint-diana": "pelagia/islanders/saint-diana",
+    "rosa": "manhattan/gym/rosa",
+    "besterta": "anima/besterta"
   }
 }
