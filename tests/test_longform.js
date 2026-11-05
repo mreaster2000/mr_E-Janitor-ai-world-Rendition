@@ -9,7 +9,11 @@ const completed={
   'vera-callahan':'nightclub',
   'runa-valeska':'archive',
   'roux-caldera':'track',
-  palkia:'contract'
+  palkia:'contract',
+  'aveline-drakk':'military',
+  'celeste-rojas':'steering',
+  'kaia-solenne':'cyborg',
+  'leona-aster':'fabric'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
