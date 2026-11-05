@@ -1,0 +1,2 @@
+/* Dynamic scene cues only. */
+(function(){if(typeof context==='undefined'||!context||!context.character)return;var s=String((context.chat||{}).last_message||(context.chat||{}).lastMessage||'').toLowerCase(),terms=["car","wash","sponge","bon"];if(terms.some(function(k){return s.indexOf(k)>=0;}))context.character.scenario=(context.character.scenario||'')+'\nBon is a working adult who respects her customers and expects respect in return.';})();

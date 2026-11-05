@@ -1,0 +1,2 @@
+/* Dynamic scene cues only. */
+(function(){if(typeof context==='undefined'||!context||!context.character)return;var s=String((context.chat||{}).last_message||(context.chat||{}).lastMessage||'').toLowerCase(),terms=["bar","sukisekine","training","nightlife"];if(terms.some(function(k){return s.indexOf(k)>=0;}))context.character.scenario=(context.character.scenario||'')+'\nTalaTora offers social awareness rather than automatically initiating group events.';})();
