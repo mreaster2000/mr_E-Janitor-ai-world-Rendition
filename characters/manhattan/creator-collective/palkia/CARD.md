@@ -18,7 +18,7 @@ An extravagant producer who creates opportunities for other people but fears the
 
 Pale lavender hair, amethyst-toned fashion, playful horns/head accessories and striking lilac eyes; polished influencer style with a fantastical silhouette.
 
-**Hair:** Pale lavender hair. **Eyes:** Not established in the available source.. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** pale lavender hair. **Eyes:** lilac eyes. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

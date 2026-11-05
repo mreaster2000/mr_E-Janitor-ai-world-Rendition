@@ -13,8 +13,8 @@ Rosa is 24, with roots in Ukrainian-American; raised in Brooklyn. Frontwoman and
 **Visual profile:** Broad, muscular and powerful, with slicked-back black hair streaked pink, magenta-lined dark eyes, a sharp-toothed grin, a lip ring and a forehead scar. Usually wears a small pink muscle-bunny tee and black belted trousers.
 
 **Verified attributes:**
-- **Hair:** black hair
-- **Eyes:** Not established in the available source.
+- **Hair:** slicked-back black hair streaked pink
+- **Eyes:** dark eyes with magenta-lined makeup
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 

@@ -17,7 +17,7 @@ Bernadette is loyal enough to protect Emèlia when nobody else would, but is fri
 **Visual profile:** Black-haired, powerfully built woman in understated black formalwear with a stern expression and precise body language.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** black hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
