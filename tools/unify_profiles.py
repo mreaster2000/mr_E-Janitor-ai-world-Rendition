@@ -8,7 +8,7 @@ BIO=['Overview','Physical Appearance and Presentation','Origin and Personal Hist
 def sections(s, kind='bio'):
     pattern=r'^## ([^\n]+)\s*$' if kind=='bio' else r'^#{2,3} ([A-Z][A-Z_ &/-]+)\s*$'
     ms=list(re.finditer(pattern,s,re.M))
-    return [(m[1].strip(),s[m.end():ms[i+1].start()].strip()) for i,m in enumerate(ms)]
+    return [(m[1].strip(),s[m.end():(ms[i+1].start() if i+1<len(ms) else len(s))].strip()) for i,m in enumerate(ms)]
 
 def num(sec,n):
     return next((t for h,t in sec if re.match(r'^'+str(n)+r'\.\s',h)), '')
