@@ -100,6 +100,14 @@ def scan(slug,folder):
         for f in ("Hair","Eyes"):
             q=re.search(r"(?m)^- \*\*"+f+r":\*\* ([^\n]+)",visual)
             fields[f.lower()]=q[1] if q else ""
+        card_pair=re.search(r"\*\*Hair:\*\* (.*?)\. \*\*Eyes:\*\* (.*?)\. \*\*Build:\*\*",cv,re.S)
+        if not card_pair:
+            err.append("Card hair/eyes pair malformed")
+        else:
+            if card_pair[1].strip()!=fields["hair"].strip() or card_pair[2].strip()!=fields["eyes"].strip():
+                err.append("Card hair/eyes differ from BIO source")
+        if ".. **Build:**" in cv or ".. Maintain creator-confirmed" in cv:
+            err.append("Duplicate punctuation in appearance fields")
         for key,expected in CONFIRMED.get(slug,{}).items():
             if expected.lower() not in fields[key].lower():
                 err.append("Sourced "+key+" not reflected: "+fields[key])

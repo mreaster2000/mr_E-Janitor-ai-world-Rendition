@@ -124,6 +124,9 @@ def main():
     for slug,folder in manifest.items():
         if slug=='absolute-wonder-woman':continue
         if opts.only and slug not in opts.only:continue
+        if '## 11. Expanded Stories and Editorial Notes' in (ROOT/'characters'/folder/'BIO.md').read_text(encoding='utf-8'):
+            print('already unified:', slug)
+            continue
         b,c=normalize(slug,folder,ROOT,H)
         print(slug,b,c)
         if b<2000 or c<800:raise ValueError(slug+' below long-form floor')

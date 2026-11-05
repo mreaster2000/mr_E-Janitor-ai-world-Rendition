@@ -100,3 +100,8 @@ The last pre-checkpoint GitHub Actions runs for branch commit `8307def3903876e9e
 3. Creator review of character-specific inventions, then optionally open a pull request; never merge to main without approval.
 
 No additional character needs a structural long-form rewrite according to the enforced 61-character gate.
+
+
+## Uniform biography/card quality pass
+
+All 61 BIOs now follow [UNIFIED_PROFILE_STANDARD.md](UNIFIED_PROFILE_STANDARD.md): eleven populated numbered sections including an explicit physical description and real relationship/knowledge notes. All Cards follow fifteen ordered v4 headings with matching sourced height, hair, eye, and appearance descriptions. Historical incompatible measurements were reconciled for Besterta-san, Ayame, Emèlia, and Batu; deliberately unassigned features remain explicitly unknown. The [schema/appearance regression test](tests/test_profile_schema.py) runs in CI. The 61 individual script blobs remain byte-for-byte identical to the pre-formatting overhaul branch commit `96ac4bad`, and no opening files were changed. One-time bulk workflow YAMLs were deleted after successful execution to avoid future accidental rewrites.

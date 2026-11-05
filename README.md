@@ -14,6 +14,9 @@ Each character has one `CARD.md`, `BIO.md`, and `SCRIPT.js` in their canonical f
 
 **Current status (2026-11-05):** **61/61 long-form profiles complete and validated**; creator art ZIP is prepared but its 58 mapped WebP files have **not yet been pushed**. See [long-form completion checkpoint](LONGFORM_PROGRESS.md). The work remains on the isolated overhaul branch; `main` is untouched.
 
+
+**Unified profile format:** Every character now uses the same [11-section BIO and 15-section Card v4 standard](UNIFIED_PROFILE_STANDARD.md), with appearance dimensions, hair, eyes, clothing and anatomy recorded directly or explicitly left unconfirmed. The new [profile schema test](tests/test_profile_schema.py) checks all 61. The creator-facing BIO holds extended lore; only the Card belongs in the roleplay prompt. No `SCRIPT.js` was altered during this formatting pass.
+
 **Quality checks:** GitHub Actions runs the 61-profile structural tests, script syntax/execution checks and continuity tests. A separate Markdown link audit has passed with zero broken relative links. These are technical checks, not proof of final literary consistency or live Janitor AI token usage.
 
 **Artwork status:** 57 images are optimized and mapped in a separate import-ready ZIP, but the pictures have **not** yet been pushed to this branch. Existing GitHub reference JPGs have been preserved. See [import guide](ARTWORK_IMPORT.md).
