@@ -1,6 +1,6 @@
-# Character roster — 41 existing profiles
+# Character roster — 52 profiles
 
-These are organizational folders, not exclusive affiliations. New image-led characters will increase the count.
+Character groups are navigation, not exclusive allegiances. New profiles based on image notes include editorial additions; details remain revisable.
 
 ## manhattan/gym
 
@@ -11,12 +11,15 @@ These are organizational folders, not exclusive affiliations. New image-led char
 - [zesty](characters/manhattan/gym/zesty/)
 - [xuerou](characters/manhattan/gym/xuerou/)
 - [zuri](characters/manhattan/gym/zuri/)
+- [marisa-trainer](characters/manhattan/gym/marisa-trainer/)
 
 ## families/kyouka
 
 - [dixie](characters/families/kyouka/dixie/)
 - [shiraishi](characters/families/kyouka/shiraishi/)
 - [power-girl](characters/families/kyouka/power-girl/)
+- [balaika](characters/families/kyouka/balaika/)
+- [kara-supergirl](characters/families/kyouka/kara-supergirl/)
 
 ## pelagia/islanders
 
@@ -37,6 +40,9 @@ These are organizational folders, not exclusive affiliations. New image-led char
 - [gwen](characters/manhattan/associates/gwen/)
 - [mellow](characters/manhattan/associates/mellow/)
 - [she-hulk](characters/manhattan/associates/she-hulk/)
+- [crimson-viper](characters/manhattan/associates/crimson-viper/)
+- [techy](characters/manhattan/associates/techy/)
+- [gluco-charin](characters/manhattan/associates/gluco-charin/)
 
 ## pelagia/dragonblood
 
@@ -66,3 +72,14 @@ These are organizational folders, not exclusive affiliations. New image-led char
 - [apollo](characters/worldwide/associates/apollo/)
 - [emelia](characters/worldwide/associates/emelia/)
 - [reagin](characters/worldwide/associates/reagin/)
+- [bernadette](characters/worldwide/associates/bernadette/)
+
+## families/mercedes
+
+- [mirko](characters/families/mercedes/mirko/)
+- [mirko-sibling](characters/families/mercedes/mirko-sibling/)
+
+## manhattan/creator-collective
+
+- [palkia](characters/manhattan/creator-collective/palkia/)
+- [akumaskywalker](characters/manhattan/creator-collective/akumaskywalker/)

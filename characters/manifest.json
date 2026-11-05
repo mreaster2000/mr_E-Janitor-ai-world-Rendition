@@ -10,7 +10,8 @@
         "yugo",
         "zesty",
         "xuerou",
-        "zuri"
+        "zuri",
+        "marisa-trainer"
       ]
     },
     "families/kyouka": {
@@ -18,7 +19,9 @@
       "slugs": [
         "dixie",
         "shiraishi",
-        "power-girl"
+        "power-girl",
+        "balaika",
+        "kara-supergirl"
       ]
     },
     "pelagia/islanders": {
@@ -44,7 +47,10 @@
       "slugs": [
         "gwen",
         "mellow",
-        "she-hulk"
+        "she-hulk",
+        "crimson-viper",
+        "techy",
+        "gluco-charin"
       ]
     },
     "pelagia/dragonblood": {
@@ -79,7 +85,22 @@
       "slugs": [
         "apollo",
         "emelia",
-        "reagin"
+        "reagin",
+        "bernadette"
+      ]
+    },
+    "families/mercedes": {
+      "description": "families / mercedes",
+      "slugs": [
+        "mirko",
+        "mirko-sibling"
+      ]
+    },
+    "manhattan/creator-collective": {
+      "description": "manhattan / creator-collective",
+      "slugs": [
+        "palkia",
+        "akumaskywalker"
       ]
     }
   },
@@ -124,6 +145,17 @@
     "rowan-mercer": "pelagia/dragonblood/rowan-mercer",
     "runa-valeska": "pelagia/dragonblood/runa-valeska",
     "seraphine-ash": "pelagia/dragonblood/seraphine-ash",
-    "vera-callahan": "pelagia/dragonblood/vera-callahan"
+    "vera-callahan": "pelagia/dragonblood/vera-callahan",
+    "balaika": "families/kyouka/balaika",
+    "kara-supergirl": "families/kyouka/kara-supergirl",
+    "mirko": "families/mercedes/mirko",
+    "mirko-sibling": "families/mercedes/mirko-sibling",
+    "crimson-viper": "manhattan/associates/crimson-viper",
+    "techy": "manhattan/associates/techy",
+    "gluco-charin": "manhattan/associates/gluco-charin",
+    "palkia": "manhattan/creator-collective/palkia",
+    "akumaskywalker": "manhattan/creator-collective/akumaskywalker",
+    "bernadette": "worldwide/associates/bernadette",
+    "marisa-trainer": "manhattan/gym/marisa-trainer"
   }
 }
