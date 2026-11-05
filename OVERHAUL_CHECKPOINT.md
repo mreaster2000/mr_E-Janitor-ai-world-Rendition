@@ -19,3 +19,10 @@ Branch: `rendition-overhaul-2026-11-05`. Starting point: main commit `a7c0002930
 - Manifest paths were repaired, but legacy cross-links and old tests still need updating. Do not claim validation complete before testing.
 
 All 41 existing BIO.md / CARD.md / SCRIPT.js retained. Main branch is the recovery reference. Do not invent automatically present NPCs or control {{user}}.
+
+## Update after initial checkpoint
+
+- Repository tree checked: 218 tracked files, 41 manifest characters, and all 123 required BIO/CARD/SCRIPT files present.
+- First v4-inspired cards completed for Yugo, Phœbe and Vera. Remaining 38 character cards still use their earlier layout and need individual revision.
+- A local optimized import-ready artwork ZIP was prepared from all 57 supplied PNGs with original filename lore notes preserved in ARTWORK_IMPORT_MANIFEST.json. It has **not been uploaded to GitHub**; use it to complete the artwork phase, checking composite scenes and alias mappings before import.
+- Tests were rewritten as initial smoke checks for new paths, but were **not executed** against a checkout. Legacy links in individual BIOs and other canon files may still need correction.
