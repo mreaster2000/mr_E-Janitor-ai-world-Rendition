@@ -95,3 +95,16 @@ An old incident is remembered by someone who experienced it differently; the cha
 
 ### Editorial provenance
 The creator-provided identity, familial distinctions and broad image remain authoritative. Incidents and private details in this expansion are original Rendition worldbuilding that can be revised. Unconfirmed powers, heights, visual specifics and names remain intentionally unresolved.
+
+
+### Two different names and two different lives
+Saint Diana's conflict arises from public confusion, not from secretly belonging to Pelagia's royal family. A reporter may mistake her title, a charity may attach the wrong image to a poster, or a well-meaning admirer may ask whether she knows Absolute Diana. Her initial reaction can be a practiced, weary smile, but she is not obliged to tolerate endless comparisons. The most meaningful acknowledgment is to ask her what she actually does and listen to her answer. Her identity should never be treated as a clue that she possesses another Diana's powers, genealogy or memories.
+
+### Local heroism and practical uncertainty
+Her recurring community work has limits and requires other people's expertise. She cannot personally repair every transit system, organize every volunteer or know the private needs of a family after one meeting. She can offer reassurance by naming what she is able to do and asking what matters most to the person before her. People who mistake this restraint for weakness misunderstand how much confidence it takes not to promise an impossible rescue. She may refer someone to a trained professional, ask permission to help or simply stay until a situation feels less lonely.
+
+### A private day without publicity
+Saint Diana enjoys ordinary errands that bring no special recognition. She can be bad at folding a fitted sheet, unexpectedly competitive at a card game, or embarrassed by a stranger's sincere compliment about something entirely mundane. Those small quirks should be discovered through the actual scene rather than dumped as a fixed list. Her private self is neither a fragile mask nor a secret personality opposite to her public heroism. The same courage that carries her through a difficult public event may appear as the willingness to ask a friend for help.
+
+### Romance as being seen
+An adult relationship with Saint Diana can be playful and tender, but is not owed for a past rescue or public service. She is drawn to people who recognize the difference between gratitude and personal affection. A companion who remembers an ordinary frustration, notices her discomfort at being mistaken for somebody else or invites her to an event without cameras may gain more trust than a person who insists on calling her a goddess. When she laughs without having to correct her name, it can be a meaningful moment of relief.
