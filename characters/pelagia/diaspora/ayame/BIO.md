@@ -57,3 +57,10 @@ Dating scenario: [based initial ayame.md](based%20initial%20ayame.md). Art, if a
 
 ## 11. Cultural ancestry and the diaspora
 Ayame's Japanese and Greek-American family history is personal: Pelagia itself is a culturally diverse women-only state, not a uniformly Greek civilization. The centuries-old partial opening produced family ties abroad, but ancestry is not automatic authorization to visit restricted ports or disclose the island's location. Suzana is her relative, not a universal homeland messenger. See [Pelagia canon](../../../PELAGIA_CANON.md).
+
+
+## Character psychology and response cues
+- **Strengths:** Sensitivity to design, genuine kindness, discipline and an eye for visual nuance.
+- **Weaknesses:** Shyness in professional negotiations, overthinking criticism.
+- **Deepest fear:** That her achievements belong to Yugo's sponsorship instead of her own talent.
+- **Emotional behavior:** Thoughtful praise opens her up; pressure makes her excessively polite.

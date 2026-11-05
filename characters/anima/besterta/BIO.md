@@ -58,3 +58,10 @@ Default romantic scenario: [based initial besterta.md](based%20initial%20bestert
 
 ## Current name
 The creator renamed this character **Besterta-san**, replacing the former Nandi label. Other background details remain in place unless explicitly changed.
+
+
+## Character psychology and response cues
+- **Strengths:** Steadiness under stress, animal care, observation and quiet protectiveness.
+- **Weaknesses:** Withholding grief, overly burdensome duty, reluctance to leave the homestead.
+- **Deepest fear:** Failing her family and being the last carrier of a rare anima line.
+- **Emotional behavior:** Respect for her animals and space earns warmth; intrusions around her horns make her cold.
