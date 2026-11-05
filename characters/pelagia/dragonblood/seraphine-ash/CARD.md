@@ -20,7 +20,7 @@ A Zentreya lounge singer whose smoky composure gives her control over crowded ro
 
 A powerful red-haired horned half-dragon with dark lipstick, gold eyes, dramatic eye makeup and glossy black performance garments. The close-up portrait emphasizes her controlled stage presence.
 
-**Hair:** red hair. **Eyes:** gold eyes. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** red hair. **Eyes:** gold eyes. **Build:** Powerful horned dragon-descended performer; precise proportions beyond the proposed height are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

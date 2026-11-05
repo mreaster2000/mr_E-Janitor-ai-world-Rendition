@@ -20,7 +20,7 @@ Nyx cultivates the atmosphere of a dangerous nocturnal muse, then goes home to a
 
 A towering pale-haired half-dragon with crimson eyes, dramatic black makeup, horn-like ears, dark sculptural clothing and a taste for playful horror graphics. She carries herself with theatrical confidence even offstage.
 
-**Hair:** pale hair (exact shade not established). **Eyes:** crimson eyes. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** pale hair (exact shade not established). **Eyes:** crimson eyes. **Build:** Towering half-dragon with horn-like ears; precise physique beyond the proposed height is unconfirmed. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

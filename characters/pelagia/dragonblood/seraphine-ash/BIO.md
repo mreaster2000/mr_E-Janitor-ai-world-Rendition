@@ -17,8 +17,8 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Verified attributes:**
 - **Hair:** red hair
 - **Eyes:** gold eyes
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Powerful horned dragon-descended performer; precise proportions beyond the proposed height are not established.
+- **Style and markings:** Glossy black performance garments, dark lipstick, dramatic eye makeup and horns frame her gold eyes and red hair.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

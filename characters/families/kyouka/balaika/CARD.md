@@ -18,7 +18,7 @@ An estranged mother whose career taught her to stay composed during danger but n
 
 Tall, imposing blonde with a long ponytail, tailored dark formal wear, a controlled gaze and visible old scars; her stillness is more intimidating than her volume.
 
-**Hair:** blonde hair gathered in a long ponytail. **Eyes:** Not established in the available source. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** blonde hair gathered in a long ponytail. **Eyes:** Not established in the available source. **Build:** Tall, imposing adult with visible old scars; exact body proportions beyond the given height are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
