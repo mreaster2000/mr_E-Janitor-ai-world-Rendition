@@ -36,7 +36,10 @@ const completed={
   rosa:'guitar',
   besterta:'cattle',
   vicki:'yugo',
-  yugo:'couture'
+  yugo:'couture',
+  'absolute-wonder-woman':'heir',
+  apollyon:'maledict',
+  phoebe:'forge'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
