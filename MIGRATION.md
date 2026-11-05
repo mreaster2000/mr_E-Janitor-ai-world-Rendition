@@ -5,22 +5,22 @@ Folders previously stored at `characters/<slug>/` are now nested in primary grou
 | Old folder | New folder |
 |---|---|
 | `characters/absolute-wonder-woman/` | [`characters/pelagia/absolute-wonder-woman/`](characters/pelagia/absolute-wonder-woman/) |
-| `characters/apollo/` | [`characters/beyond-the-gym/apollo/`](characters/beyond-the-gym/apollo/) |
+| `characters/apollo/` | [`characters/independent-associates/apollo/`](characters/independent-associates/apollo/) |
 | `characters/apollyon/` | [`characters/pelagia/apollyon/`](characters/pelagia/apollyon/) |
-| `characters/ashkaya/` | [`characters/beyond-the-gym/ashkaya/`](characters/beyond-the-gym/ashkaya/) |
+| `characters/ashkaya/` | [`characters/anima-lineages/ashkaya/`](characters/anima-lineages/ashkaya/) |
 | `characters/ayame/` | [`characters/pelagian-diaspora/ayame/`](characters/pelagian-diaspora/ayame/) |
-| `characters/batu/` | [`characters/beyond-the-gym/batu/`](characters/beyond-the-gym/batu/) |
+| `characters/batu/` | [`characters/anima-lineages/batu/`](characters/anima-lineages/batu/) |
 | `characters/dixie/` | [`characters/kyouka-family/dixie/`](characters/kyouka-family/dixie/) |
-| `characters/dunkle/` | [`characters/beyond-the-gym/dunkle/`](characters/beyond-the-gym/dunkle/) |
-| `characters/emelia/` | [`characters/beyond-the-gym/emelia/`](characters/beyond-the-gym/emelia/) |
+| `characters/dunkle/` | [`characters/anima-lineages/dunkle/`](characters/anima-lineages/dunkle/) |
+| `characters/emelia/` | [`characters/independent-associates/emelia/`](characters/independent-associates/emelia/) |
 | `characters/gwen/` | [`characters/new-york-associates/gwen/`](characters/new-york-associates/gwen/) |
 | `characters/luka/` | [`characters/gym-gals/luka/`](characters/gym-gals/luka/) |
 | `characters/mellow/` | [`characters/new-york-associates/mellow/`](characters/new-york-associates/mellow/) |
 | `characters/mudryk/` | [`characters/gym-gals/mudryk/`](characters/gym-gals/mudryk/) |
-| `characters/nandi/` | [`characters/beyond-the-gym/nandi/`](characters/beyond-the-gym/nandi/) |
+| `characters/nandi/` | [`characters/anima-lineages/nandi/`](characters/anima-lineages/nandi/) |
 | `characters/phoebe/` | [`characters/pelagia/phoebe/`](characters/pelagia/phoebe/) |
 | `characters/power-girl/` | [`characters/kyouka-family/power-girl/`](characters/kyouka-family/power-girl/) |
-| `characters/reagin/` | [`characters/beyond-the-gym/reagin/`](characters/beyond-the-gym/reagin/) |
+| `characters/reagin/` | [`characters/independent-associates/reagin/`](characters/independent-associates/reagin/) |
 | `characters/renata/` | [`characters/pelagian-diaspora/renata/`](characters/pelagian-diaspora/renata/) |
 | `characters/she-hulk/` | [`characters/new-york-associates/she-hulk/`](characters/new-york-associates/she-hulk/) |
 | `characters/shiraishi/` | [`characters/kyouka-family/shiraishi/`](characters/kyouka-family/shiraishi/) |
@@ -34,3 +34,7 @@ Folders previously stored at `characters/<slug>/` are now nested in primary grou
 | `characters/zuri/` | [`characters/gym-gals/zuri/`](characters/gym-gals/zuri/) |
 
 The machine-readable map is in [`characters/manifest.json`](characters/manifest.json). Link to a character's new folder instead of retaining copied/duplicate cards.
+
+## November 5 restructuring
+
+The former `beyond-the-gym` catch-all was split into `anima-lineages` and `independent-associates`. All per-character card, bio, script, config, first-message and reference-art file contents remain intact. The table above now links to the active grouped paths.

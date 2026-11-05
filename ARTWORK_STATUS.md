@@ -12,7 +12,7 @@
 - Renata Vesper: `characters/pelagian-diaspora/renata/reference.jpg`
 - Victoria Vincent: `characters/pelagian-diaspora/victoria-vincent/reference.jpg`
 - Yamato: `characters/pelagia/yamato/reference.jpg`
-- Zirkala Tatanka: `characters/beyond-the-gym/zirkala-tatanka/reference.jpg`
+- Zirkala Tatanka: `characters/anima-lineages/zirkala-tatanka/reference.jpg`
 
 ## Not yet matched to existing roster
 
@@ -55,4 +55,4 @@ All **13** November 3 artworks remain archived under [incoming/zentreya/](incomi
 
 ## Creator-confirmed visual identities — November 4, 2026
 
-The water-gun artwork `20261103-134433.jpg` now belongs to **Marisol Reyes**, the media-business founder. The pink-lipstick artwork `20261103-134136.jpg` now belongs to **Vera Callahan**, who works at a nightclub and also retains her engineering job. Both canonical `reference.jpg` Git blob associations were swapped to match; the other Zentreya assignments remain editorial proposals.
+The water-gun artwork `20261103-134433.jpg` now belongs to **Marisol Reyes**, the media-business founder. The pink-lipstick artwork `20261103-134136.jpg` now belongs to **Vera Callahan**, who works full-time in a nightclub; the old engineering biography is superseded. Both canonical `reference.jpg` Git blob associations were swapped to match; the other Zentreya assignments remain editorial proposals.

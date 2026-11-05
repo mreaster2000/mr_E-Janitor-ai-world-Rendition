@@ -13,7 +13,7 @@
     },
     {
       "slug": "apollo",
-      "path": "characters/beyond-the-gym/apollo",
+      "path": "characters/independent-associates/apollo",
       "field_characters": 5922,
       "estimated_tokens": 1481,
       "examples": 4,
@@ -31,7 +31,7 @@
     },
     {
       "slug": "ashkaya",
-      "path": "characters/beyond-the-gym/ashkaya",
+      "path": "characters/anima-lineages/ashkaya",
       "field_characters": 5531,
       "estimated_tokens": 1383,
       "examples": 4,
@@ -49,7 +49,7 @@
     },
     {
       "slug": "batu",
-      "path": "characters/beyond-the-gym/batu",
+      "path": "characters/anima-lineages/batu",
       "field_characters": 5471,
       "estimated_tokens": 1368,
       "examples": 4,
@@ -67,7 +67,7 @@
     },
     {
       "slug": "dunkle",
-      "path": "characters/beyond-the-gym/dunkle",
+      "path": "characters/anima-lineages/dunkle",
       "field_characters": 5616,
       "estimated_tokens": 1404,
       "examples": 4,
@@ -76,7 +76,7 @@
     },
     {
       "slug": "emelia",
-      "path": "characters/beyond-the-gym/emelia",
+      "path": "characters/independent-associates/emelia",
       "field_characters": 5714,
       "estimated_tokens": 1429,
       "examples": 4,
@@ -121,7 +121,7 @@
     },
     {
       "slug": "nandi",
-      "path": "characters/beyond-the-gym/nandi",
+      "path": "characters/anima-lineages/nandi",
       "field_characters": 5618,
       "estimated_tokens": 1405,
       "examples": 4,
@@ -148,7 +148,7 @@
     },
     {
       "slug": "reagin",
-      "path": "characters/beyond-the-gym/reagin",
+      "path": "characters/independent-associates/reagin",
       "field_characters": 5611,
       "estimated_tokens": 1403,
       "examples": 4,
@@ -256,7 +256,7 @@
     },
     {
       "slug": "zirkala-tatanka",
-      "path": "characters/beyond-the-gym/zirkala-tatanka",
+      "path": "characters/anima-lineages/zirkala-tatanka",
       "field_characters": 6389,
       "estimated_tokens": 1598,
       "examples": 4,

@@ -47,19 +47,6 @@
         "she-hulk"
       ]
     },
-    "beyond-the-gym": {
-      "description": "Independent characters connected through family, business, responder work and worldwide adventures.",
-      "slugs": [
-        "apollo",
-        "ashkaya",
-        "batu",
-        "dunkle",
-        "emelia",
-        "nandi",
-        "reagin",
-        "zirkala-tatanka"
-      ]
-    },
     "zentreya": {
       "description": "Rare Pelagian-dragon hybrid women: a reconstructed twelve-person cast spanning the island and the diaspora.",
       "slugs": [
@@ -76,26 +63,44 @@
         "seraphine-ash",
         "vera-callahan"
       ]
+    },
+    "anima-lineages": {
+      "description": "Characters of distinct animal-anima lineages, cultures and walks of life.",
+      "slugs": [
+        "ashkaya",
+        "batu",
+        "dunkle",
+        "nandi",
+        "zirkala-tatanka"
+      ]
+    },
+    "independent-associates": {
+      "description": "Independent responders, veterans and internationally connected allies beyond the gym.",
+      "slugs": [
+        "apollo",
+        "emelia",
+        "reagin"
+      ]
     }
   },
   "characters": {
     "absolute-wonder-woman": "pelagia/absolute-wonder-woman",
-    "apollo": "beyond-the-gym/apollo",
+    "apollo": "independent-associates/apollo",
     "apollyon": "pelagia/apollyon",
-    "ashkaya": "beyond-the-gym/ashkaya",
+    "ashkaya": "anima-lineages/ashkaya",
     "ayame": "pelagian-diaspora/ayame",
-    "batu": "beyond-the-gym/batu",
+    "batu": "anima-lineages/batu",
     "dixie": "kyouka-family/dixie",
-    "dunkle": "beyond-the-gym/dunkle",
-    "emelia": "beyond-the-gym/emelia",
+    "dunkle": "anima-lineages/dunkle",
+    "emelia": "independent-associates/emelia",
     "gwen": "new-york-associates/gwen",
     "luka": "gym-gals/luka",
     "mellow": "new-york-associates/mellow",
     "mudryk": "gym-gals/mudryk",
-    "nandi": "beyond-the-gym/nandi",
+    "nandi": "anima-lineages/nandi",
     "phoebe": "pelagia/phoebe",
     "power-girl": "kyouka-family/power-girl",
-    "reagin": "beyond-the-gym/reagin",
+    "reagin": "independent-associates/reagin",
     "renata": "pelagian-diaspora/renata",
     "she-hulk": "new-york-associates/she-hulk",
     "shiraishi": "kyouka-family/shiraishi",
@@ -107,7 +112,7 @@
     "yugo": "gym-gals/yugo",
     "zesty": "gym-gals/zesty",
     "zuri": "gym-gals/zuri",
-    "zirkala-tatanka": "beyond-the-gym/zirkala-tatanka",
+    "zirkala-tatanka": "anima-lineages/zirkala-tatanka",
     "aveline-drakk": "zentreya/aveline-drakk",
     "celeste-rojas": "zentreya/celeste-rojas",
     "kaia-solenne": "zentreya/kaia-solenne",

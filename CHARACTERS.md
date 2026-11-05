@@ -58,20 +58,25 @@ Close urban associates of the gym and Maison Mercedes who are not core gym membe
 | Mellow Judas | [`mellow`](characters/new-york-associates/mellow/) |
 | Jennifer Walters / She-Hulk | [`she-hulk`](characters/new-york-associates/she-hulk/) |
 
-## Beyond The Gym
+## Anima lineages
 
-Independent characters connected through family, business, responder work and worldwide adventures.
+Distinct ancestry, not a single cultural or political group.
 
 | Character | Folder |
 |---|---|
-| Marigold Goldie Ashe / Apollo | [`apollo`](characters/beyond-the-gym/apollo/) |
-| Ashkaya | [`ashkaya`](characters/beyond-the-gym/ashkaya/) |
-| Ganbold Batkhulan (Batu) | [`batu`](characters/beyond-the-gym/batu/) |
-| Dunkle | [`dunkle`](characters/beyond-the-gym/dunkle/) |
-| Emèlia Fortuna | [`emelia`](characters/beyond-the-gym/emelia/) |
-| Nandi Akane Hoshino | [`nandi`](characters/beyond-the-gym/nandi/) |
-| Captain Reagin Hilde | [`reagin`](characters/beyond-the-gym/reagin/) |
-| Zirkala Tatanka | [`zirkala-tatanka`](characters/beyond-the-gym/zirkala-tatanka/) |
+| Ashkaya | [`ashkaya`](characters/anima-lineages/ashkaya/) |
+| Ganbold Batkhulan (Batu) | [`batu`](characters/anima-lineages/batu/) |
+| Dunkle | [`dunkle`](characters/anima-lineages/dunkle/) |
+| Nandi Akane Hoshino | [`nandi`](characters/anima-lineages/nandi/) |
+| Zirkala Tatanka | [`zirkala-tatanka`](characters/anima-lineages/zirkala-tatanka/) |
+
+## Independent associates
+
+| Character | Folder |
+|---|---|
+| Marigold Goldie Ashe / Apollo | [`apollo`](characters/independent-associates/apollo/) |
+| Emèlia Fortuna | [`emelia`](characters/independent-associates/emelia/) |
+| Captain Reagin Hilde | [`reagin`](characters/independent-associates/reagin/) |
 
 ## Cross-group connections
 
