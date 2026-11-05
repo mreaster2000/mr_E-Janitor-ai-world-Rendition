@@ -26,7 +26,13 @@ const completed={
   akumaskywalker:'camera',
   bon:'wash',
   sukisekine:'bar',
-  talatora:'guest'
+  talatora:'guest',
+  balaika:'daughter',
+  'kara-supergirl':'shiraishi',
+  techy:'viral',
+  'gluco-charin':'candy',
+  'crimson-viper':'maison',
+  'marieza-san':'training'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
