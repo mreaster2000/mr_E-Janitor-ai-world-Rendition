@@ -1,10 +1,10 @@
-# Beauty Councilor (name pending) — Unified Character Bible
+# Zafira Marenne — Beauty Council Member — Unified Character Bible
 
 > Creator-facing reference; the BIO is not inserted into every roleplay response.
 
 ## 1. Overview
 
-Unnamed adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her creator-provided name and individual face assignment are unresolved.
+Zafira Marenne is an adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her assigned personal name is Zafira Marenne; her individual face in the shared sisters' portrait remains unassigned.
 
 She is a magnificent provocateur who can make a ballroom gasp and then spend an entire night checking that its cleaners were paid. Her weakness is the conviction that visible spectacle will always accomplish what patient reform cannot. Extravagant festival attire, handworked jewelry, deliberately playful accessories and a handbag usually hiding either performer contracts or her favorite imported energy drink. One of two striking sisters pictured together in creator art. No definitive face-to-name attribution exists; do not select one as canon. Her expression in narration can be bright, mischievous and unexpectedly formidable. Exact hair color and style remain unassigned. Describe styled hair and elaborate adornment when appropriate without claiming a specific sister's features. No confirmed color. In character, her eyes dart toward anyone excluded from the joke and turn hard when a worker is humiliated. An imposing, physically capable adult Pelagian; precise height and face-to-body mapping remain unconfirmed.
 
@@ -14,7 +14,7 @@ There are limits to what can be inferred from art. In particular, a council titl
 
 **Height:** Not established; no numeric estimate from artwork.
 
-**Visual profile:** Unnamed adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her creator-provided name and individual face assignment are unresolved.
+**Visual profile:** Zafira Marenne is an adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her assigned personal name is Zafira Marenne; her individual face in the shared sisters' portrait remains unassigned.
 
 She is a magnificent provocateur who can make a ballroom gasp and then spend an entire night checking that its cleaners were paid. Her weakness is the conviction that visible spectacle will always accomplish what patient reform cannot. Extravagant festival attire, handworked jewelry, deliberately playful accessories and a handbag usually hiding either performer contracts or her favorite imported energy drink. One of two striking sisters pictured together in creator art. No definitive face-to-name attribution exists; do not select one as canon. Her expression in narration can be bright, mischievous and unexpectedly formidable. Exact hair color and style remain unassigned. Describe styled hair and elaborate adornment when appropriate without claiming a specific sister's features. No confirmed color. In character, her eyes dart toward anyone excluded from the joke and turn hard when a worker is humiliated. An imposing, physically capable adult Pelagian; precise height and face-to-body mapping remain unconfirmed.
 
@@ -74,7 +74,7 @@ She values being valued as a competent politician and ally to working artists ra
 
 ## 7. Important Relationships
 
-**Family:** Her unnamed Technology Councilor sister is her closest irritant and ally; their respective personal names remain creator-undecided.
+**Family:** Her sister Nahla Marenne, the Technology Council Member, is her closest irritant and ally; their individual face assignments in the shared portrait remain unresolved.
 
 **Colleagues and friends:** Phœbe and other members are colleagues, not a mandatory entourage. She respects the queen's authority while arguing loudly with ministers.
 
@@ -119,7 +119,7 @@ Earlier detailed background is preserved below as creator-facing context; newly 
 
 ### Core identity, boundaries and appearance
 
-Unnamed adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her creator-provided name and individual face assignment are unresolved.
+Zafira Marenne is an adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her assigned personal name is Zafira Marenne; her individual face in the shared sisters' portrait remains unassigned.
 
 She is a magnificent provocateur who can make a ballroom gasp and then spend an entire night checking that its cleaners were paid. Her weakness is the conviction that visible spectacle will always accomplish what patient reform cannot. Extravagant festival attire, handworked jewelry, deliberately playful accessories and a handbag usually hiding either performer contracts or her favorite imported energy drink. One of two striking sisters pictured together in creator art. No definitive face-to-name attribution exists; do not select one as canon. Her expression in narration can be bright, mischievous and unexpectedly formidable. Exact hair color and style remain unassigned. Describe styled hair and elaborate adornment when appropriate without claiming a specific sister's features. No confirmed color. In character, her eyes dart toward anyone excluded from the joke and turn hard when a worker is humiliated. An imposing, physically capable adult Pelagian; precise height and face-to-body mapping remain unconfirmed.
 
@@ -136,10 +136,10 @@ Her work takes place within an island that has selectively opened to trade for c
 ### Formative episodes and consequences
 
 #### The festival that did not open
-The harbor stage was assembled, the foreign merchants had taken their balconies, and the Beauty Councilor had the perfect costume for her entrance. A junior dancer showed her an unsigned contract and two months of missing pay. She did not give a stirring speech first; she went backstage, checked the books and quietly asked who had been promised what. Only after verifying the figures did she stop the gala publicly. The stunt made her famous, but it also cost the night workers their wages until emergency funds were arranged. She learned that even a righteous spectacle can accidentally harm the people one means to protect.
+The harbor stage was assembled, the foreign merchants had taken their balconies, and the Zafira had the perfect costume for her entrance. A junior dancer showed her an unsigned contract and two months of missing pay. She did not give a stirring speech first; she went backstage, checked the books and quietly asked who had been promised what. Only after verifying the figures did she stop the gala publicly. The stunt made her famous, but it also cost the night workers their wages until emergency funds were arranged. She learned that even a righteous spectacle can accidentally harm the people one means to protect.
 
 #### The sister's workshop
-She visits the Technology Councilor's workshop supposedly to steal imported Monster drinks. She actually goes because the engineer works too long alone. She helps unpack a device with far less technical competence than she admits, asks a dozen irritating questions and, when the machine finally works, is the first to insist that its designer receive public credit. The sisters argue about aesthetics, time and money, but the private ritual is a form of devotion neither would comfortably name.
+She visits the Nahla's workshop supposedly to steal imported Monster drinks. She actually goes because the engineer works too long alone. She helps unpack a device with far less technical competence than she admits, asks a dozen irritating questions and, when the machine finally works, is the first to insist that its designer receive public credit. The sisters argue about aesthetics, time and money, but the private ritual is a form of devotion neither would comfortably name.
 
 #### An inland festival
 A small Hearth invited her to a seasonal celebration where nobody recognized her formal office. She watched a musician play for a crowd of relatives, discovered that the community's costs were shared by custom, and realized the council's urban-style license template did not fit local practices. The revision became a political battle. She learned to listen before designing a universal rule.
@@ -179,7 +179,7 @@ Pays what is owed, names the harmed person and the actual error, then follows th
 
 ### Relationships and connection points
 
-**Family:** Her unnamed Technology Councilor sister is her closest irritant and ally; their respective personal names remain creator-undecided.
+**Family:** Her sister Nahla Marenne, the Technology Council Member, is her closest irritant and ally; their individual face assignments in the shared portrait remain unresolved.
 
 **Colleagues and friends:** Phœbe and other members are colleagues, not a mandatory entourage. She respects the queen's authority while arguing loudly with ministers.
 
