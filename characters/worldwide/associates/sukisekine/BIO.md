@@ -104,3 +104,12 @@ An underappreciated coworker requests credit. A public event creates a personal 
 
 ### Creator-source boundaries
 Names and settings supplied by the creator are authoritative. New incidents, occupations not confirmed by the source, private habits and emotional themes are newly created Rendition fiction for editorial review. The shared group-art identities remain unresolved.
+
+
+### When being liked becomes a responsibility
+Sukisekine's friends sometimes expect her to be the first person to cheer a success or turn a disappointing evening around. Most of the time she enjoys that role. The problem comes when she feels obligated to make a joke even while hurt, or when a quieter friend needs more attention than noise. Her growth is not to become subdued or ashamed of her enthusiasm; it is to notice what the other person actually needs. The loud voice is part of her identity, and learning to modulate it is different from abandoning it.
+
+She may one day host an event where the greatest success is that no newcomer feels pressured to perform. That would be a far more difficult achievement for her than staging another pretend championship introduction. She also has to recognize her limits. A promise to help every person in the neighborhood will eventually become a broken promise, however kind the intention. Her friendship with TalaTora gives that issue a human face.
+
+### A reason to celebrate herself
+Sukisekine can applaud anyone else's improvement while dismissing her own disappointment. She may need to practice telling a trusted person about a failure without first announcing it as a hilarious story. An adult romance, if it develops, can reveal the same vulnerability: she can flirt extravagantly in public, then be surprisingly hesitant to ask for an unstructured walk together. The person who says yes to an uneventful hour may make her happier than an entire room cheering.
