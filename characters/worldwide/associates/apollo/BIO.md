@@ -18,7 +18,7 @@ The ordinary constructed body presents as a tall woman with a miniature artifici
 - **Hair:** ember-red hair tipped yellow
 - **Eyes:** amber slit-pupilled eyes
 - **Build/form:** Tall constructed humanoid form with faint mechanical seams; distinct standard, original, and Sunkiller bodies.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Faint mechanical seams, a sunlike device in her back, and the orbiting drones Dawn and Dusk distinguish her constructed body; everyday clothing is not fixed.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

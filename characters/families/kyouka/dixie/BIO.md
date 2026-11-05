@@ -16,7 +16,7 @@ Dixie Yoric Kyouka is 36, with roots in American, born in the Bible Belt South. 
 - **Hair:** golden blonde hair
 - **Eyes:** sharp blue-green eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Aviator glasses, American-themed nails and a cross necklace complement her pilot's bearing; civilian outfits are not a permanent uniform.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

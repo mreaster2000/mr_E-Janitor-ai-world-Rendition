@@ -17,8 +17,8 @@ The island's defense major laughs at danger but keeps a painfully exact memory o
 **Verified attributes:**
 - **Hair:** pink hair
 - **Eyes:** green eyes
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Enormous adult warrior with an imposing, physically powerful frame; exact body measurements are not documented.
+- **Style and markings:** White-and-black military coat with gold epaulets over a fitted uniform; freckles, sharp teeth and a violet armored apparition are distinct visual markers.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

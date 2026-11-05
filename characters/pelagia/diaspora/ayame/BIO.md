@@ -16,7 +16,7 @@ Ayame Hoshikawa is 31, with roots in Japanese and Greek-American heritage, with 
 - **Hair:** long black hair
 - **Eyes:** red eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Modest office clothing contrasts with white-and-teal, star-plated Tenma armor; contact lenses conceal her natural red eyes in public.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

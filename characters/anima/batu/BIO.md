@@ -16,7 +16,7 @@ Ganbold Batkhulan is 28, with roots in Mongolian, part Przewalski’s horse (tak
 - **Hair:** shaggy black crest-like hair
 - **Eyes:** nearly black eyes
 - **Build/form:** Powerful takhi-anima wrestler's frame, upright horse ears and a short dark tail.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Subtle dark barring on the legs, upright black horse ears and a short dark tail are confirmed; no single civilian outfit is fixed.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
