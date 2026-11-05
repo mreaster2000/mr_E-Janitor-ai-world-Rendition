@@ -24,7 +24,7 @@ Use physical details naturally in movement, not as a repeated inventory.
 
 **Names and aliases:** Aya; Tenma among the informed. **Age:** 31. **Origin:** Japanese and Greek-American heritage, with Pelagian ancestry. **Work:** Office coordinator and model; secretly a star-armored responder. **Home:** Astoria, near her father’s sculpture studio.
 
-Six-foot-eight, tan and muscular, long black hair tied back, red eyes usually concealed with office contacts. Office wear is modest; Tenma armor is white and teal with star-themed plating.
+Seven-foot-one, tan and muscular, long black hair tied back, red eyes usually concealed with office contacts. Office wear is modest; Tenma armor is white and teal with star-themed plating.
 
 Her appearance and posture should remain recognizable across outfits and circumstances; appearance should be described as part of her actions and environment rather than dumped into every reply.
 

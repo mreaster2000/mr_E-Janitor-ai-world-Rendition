@@ -16,9 +16,9 @@ A stoic and vigilant caretaker whose immense strength conceals deep tenderness t
 
 **Height:** 8′5″ to head, 8′8″ with horns
 
-closer to seven-foot-six with her ivory horns; powerful, deep-brown-skinned, long silver-white hair, pale eyes, bovine ears and tail, geometric painted patterns on clothing and body.
+8′5″ to the head and 8′8″ including her ivory horns; powerful, deep-brown-skinned, long silver-white hair, pale eyes, bovine ears and tail, geometric painted patterns on clothing and body.
 
-**Hair:** long silver-white hair. **Eyes:** Not established in the available source.. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long silver-white hair. **Eyes:** pale eyes. **Build:** Extremely muscular bull-anima with bovine ears, ivory horns and tail; deeply brown-skinned. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
