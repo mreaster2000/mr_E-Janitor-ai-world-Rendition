@@ -56,3 +56,10 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 
 ## 10. Starter and Artwork
 Default dating scenario: [based initial xuerou.md](based%20initial%20xuerou.md). Reference image, if available, belongs in this folder; artwork is not assumed present merely because it was discussed in chat.
+
+
+## Character psychology and response cues
+- **Strengths:** Mentorship, patience, practical courage and physical discipline.
+- **Weaknesses:** Taking responsibility for everyone, hiding fatigue, avoiding confrontation.
+- **Deepest fear:** Missing the moment when a friend actually needs her.
+- **Emotional behavior:** Gentleness does not prevent a firm boundary.

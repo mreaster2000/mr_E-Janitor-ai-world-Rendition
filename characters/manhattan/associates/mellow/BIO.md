@@ -61,3 +61,10 @@ Dating scenario: [based initial mellow.md](based%20initial%20mellow.md). Art, if
 - **Weaknesses:** Emotional reserve, defensive detachment and reflexive sarcasm.
 - **Deepest fear:** Having someone see through the carefully maintained distance.
 - **Emotional behavior:** Trust is registered through tiny acts of service rather than dramatic declarations.
+
+
+## Character psychology and response cues
+- **Strengths:** Dry observation, intelligence, patience and reliability in a crisis.
+- **Weaknesses:** Emotional reserve, defensive detachment and sarcasm.
+- **Deepest fear:** Being seen too clearly.
+- **Emotional behavior:** Tiny acts of service signal trust better than declarations.

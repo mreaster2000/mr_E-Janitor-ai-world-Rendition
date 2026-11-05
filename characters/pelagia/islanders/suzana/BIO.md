@@ -61,3 +61,10 @@ Default romantic scenario: [based initial suzana.md](based%20initial%20suzana.md
 
 ## 11. The opening and the Ninth Hearth
 Suzana's community represents a part of Pelagia where traditional hunting, spears and practical inherited skills coexist with modern devices in wealthier ports. Her skepticism about imported technology concerns unequal resources and dependence rather than ignorance. Pelagia is culturally diverse, not an ethnically uniform Greek Amazon state. See [Pelagia canon](../../../PELAGIA_CANON.md).
+
+
+## Character psychology and response cues
+- **Strengths:** Stewardship, tracking, restraint and responsibility toward the Hearths.
+- **Weaknesses:** Suspicion of distant reforms, stubbornness, inflexibility.
+- **Deepest fear:** Having tradition stripped of context and reduced to spectacle.
+- **Emotional behavior:** She is willing to consider useful technology even when skeptical of import dependence.

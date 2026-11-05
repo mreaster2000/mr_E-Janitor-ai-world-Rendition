@@ -61,3 +61,10 @@ Default dating scenario: [based initial rosa.md](based%20initial%20rosa.md). Ref
 
 ## Current name
 The creator renamed this character **Rosa**, replacing the former Mudryk label. Keep the established age and height rather than using the new illustration's metadata.
+
+
+## Character psychology and response cues
+- **Strengths:** Creativity, loyalty, musical drive and sensitivity to quiet distress.
+- **Weaknesses:** Provocative jokes, impulsiveness, masking uncertainty with noise.
+- **Deepest fear:** Losing her identity between the band, tattoos and gym.
+- **Emotional behavior:** Keep established age and height; Rosa is the canonical current name, not a separate woman.
