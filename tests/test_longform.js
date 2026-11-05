@@ -39,7 +39,12 @@ const completed={
   yugo:'couture',
   'absolute-wonder-woman':'heir',
   apollyon:'maledict',
-  phoebe:'forge'
+  phoebe:'forge',
+  suzana:'hearth',
+  yamato:'serpent',
+  ayame:'armor',
+  renata:'emelia',
+  'victoria-vincent':'dixie'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
