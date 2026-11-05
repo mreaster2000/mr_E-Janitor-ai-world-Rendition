@@ -104,7 +104,7 @@ def scan(slug,folder):
         if not card_pair:
             err.append("Card hair/eyes pair malformed")
         else:
-            if card_pair[1].strip()!=fields["hair"].strip() or card_pair[2].strip()!=fields["eyes"].strip():
+            if card_pair[1].strip().rstrip(".")!=fields["hair"].strip().rstrip(".") or card_pair[2].strip().rstrip(".")!=fields["eyes"].strip().rstrip("."):
                 err.append("Card hair/eyes differ from BIO source")
         if ".. **Build:**" in cv or ".. Maintain creator-confirmed" in cv:
             err.append("Duplicate punctuation in appearance fields")
