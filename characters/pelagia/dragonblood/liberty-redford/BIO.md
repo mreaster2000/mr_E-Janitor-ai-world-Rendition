@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A huge red-haired, horned and scaly half-dragon with an expansive western wardrobe, cowboy hat and broad powerful tail. The reference art is a blurred, partly obscured celebration scene with fireworks; details beneath the blur are not assumed.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

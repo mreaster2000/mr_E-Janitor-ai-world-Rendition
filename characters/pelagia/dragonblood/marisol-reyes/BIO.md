@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A powerful red-haired, horned half-dragon with russet scales, muscular curves and a long expressive tail. Her playful poolside reference has an unmistakable neon-green water blaster; at work she also favors sharp executive tailoring.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

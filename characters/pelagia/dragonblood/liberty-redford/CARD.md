@@ -20,7 +20,7 @@ Liberty is a spectacularly loud and affectionate hauler of people, supplies, fav
 
 A huge red-haired, horned and scaly half-dragon with an expansive western wardrobe, cowboy hat and broad powerful tail. The reference art is a blurred, partly obscured celebration scene with fireworks; details beneath the blur are not assumed.
 
-**Hair:** Not established in the available source.. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** red hair. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

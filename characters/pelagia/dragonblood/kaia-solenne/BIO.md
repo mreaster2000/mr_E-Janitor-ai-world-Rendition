@@ -13,7 +13,7 @@ Kaia Solenne is a cyborg technical specialist, maison mercedes model and apolloâ
 **Visual profile:** White-haired and pale-faced outside a modular black, red and cyan armored system. The supplied portraits and technical turnaround show several configurations of the same woman; the two images do not depict multiple people. Some facial and mechanical details are concealed by the helmet.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** white hair, visible when unarmored
 - **Eyes:** Not established in the available source.
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

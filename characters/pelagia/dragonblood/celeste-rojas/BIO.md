@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A compact-by-Zentreya-standards powerfully built pale-haired driver with white and red horn-frills that resemble racing rabbit ears. She favors a black-and-white check-patterned racing suit, protective gear and a bright number-seven motif.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** pale hair (exact shade not established)
 - **Eyes:** Not established in the available source.
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

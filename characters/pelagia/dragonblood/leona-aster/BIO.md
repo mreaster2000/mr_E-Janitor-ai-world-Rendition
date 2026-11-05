@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** Golden-haired and enormously athletic, with a spectacular mane-like coiffure, leonine facial accents, broad shoulders and draconic features. Lion imagery is a personal expression of her mixed lineage and design identity, not a claim that all Zentreya are lion-anima.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** golden mane-like hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
