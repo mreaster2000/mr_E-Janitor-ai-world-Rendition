@@ -16,7 +16,7 @@ Zhang Xuerou is 27, with roots in Chinese, now living in the U.S.. Gymnastics, y
 - **Hair:** mint-teal hair
 - **Eyes:** green eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Mint-teal double buns and a black choker accompany her training attire; she goes barefoot on mats and dresses to move rather than impress.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

@@ -18,7 +18,7 @@ An Amazon-descended, aggressively American traveler who celebrates freedom loudl
 - **Hair:** coral hair
 - **Eyes:** vivid turquoise eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Star-shaped earrings and stars-and-stripes accessories; a small white flag-patterned bikini at the beach and colorful, durable sporty clothes in daily life.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

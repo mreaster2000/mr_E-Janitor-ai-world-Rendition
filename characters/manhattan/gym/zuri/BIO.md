@@ -16,7 +16,7 @@ Zuri Lerato Amara is 28, with roots in South African / Kenyan-American, part leo
 - **Hair:** black locs
 - **Eyes:** green eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Animal-print costume pieces help conceal real leopard ears, spotted fur, claws and fangs in plain sight; honey-tipped locs are a recognizable detail.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

@@ -16,7 +16,7 @@ Zesty Jesus is 29, with roots in American. Geologist; gaming video essayist; gym
 - **Hair:** orange hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Training tape and red accessories, orange hair, red eyepatch over the LEFT eye; her named double-bladed axe Hot Take stays stored under gym rules.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

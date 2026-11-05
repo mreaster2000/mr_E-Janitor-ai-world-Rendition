@@ -18,7 +18,7 @@ A rich half-human Mooncoil serpent socialite whose decadent parties conceal a co
 - **Hair:** long white hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Deep-red draped cloth and gold bangles, rings and ornaments; long braided white hair and the pale silver-lavender serpent coils are defining features.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
