@@ -18,7 +18,7 @@ She adores freedom, hospitality and a fair contest but is unwilling to remain an
 
 wrestler’s frame, dark tan skin with subtle leg barring, shaggy black crest-like hair, upright black horse ears, short dark tail and nearly black eyes.
 
-**Hair:** Not established in the available source.. **Eyes:** black eyes. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** shaggy black crest-like hair. **Eyes:** nearly black eyes. **Build:** Powerful takhi-anima wrestler's frame, upright horse ears and a short dark tail.. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

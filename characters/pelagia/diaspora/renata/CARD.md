@@ -18,7 +18,7 @@ A wandering vampire-succubus of Pelagian origins whose provocative confidence co
 
 Towering deep-plum-haired muscular woman with long braided locks and loose curls, tanned olive skin, sharp eyes, visible fangs and gold accents. Black and red fitted clothing beneath a long dark coat, multiple tattoos and piercings, dark glossy trousers, buckled boots and a relaxed predatory smirk. Her presence is part rocker, part aristocratic monster.
 
-**Hair:** Not established in the available source.. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** deep-plum braided locks and loose curls. **Eyes:** Not established in the available source.. **Build:** Towering, muscular vampire-succubus with visible fangs and olive-tanned skin.. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

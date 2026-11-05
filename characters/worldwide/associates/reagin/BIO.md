@@ -13,9 +13,9 @@ Captain Reagin Hilde is 38, with roots in South Korean, with German family herit
 **Visual profile:** 38-year-old South Korean naval captain with German family history, defense attaché in New York; 7′1″, muscular, severe dark bob, injured left eye under an eyepatch and meticulously kept uniforms. Appearance is delivered through relevant action, not a repetitive physical list. Preserve creator-confirmed visual references.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** severe dark bob hairstyle
 - **Eyes:** Not established in the available source.
-- **Build/form:** Clearly powerful, muscular or athletic as described above.
+- **Build/form:** Very tall and muscular, with a covered injured left eye; uninjured iris color is not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 
 Use physical details naturally in movement, not as a repeated inventory.

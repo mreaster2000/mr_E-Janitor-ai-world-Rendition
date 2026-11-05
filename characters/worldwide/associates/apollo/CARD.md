@@ -16,9 +16,11 @@ Goldie is irresistibly sociable and brilliant at making machines, yet the artifi
 
 **Height:** 7′5″ standard; 4′11″ original; over 11′ Sunkiller
 
+The ordinary constructed body presents as a tall woman with a miniature artificial sun in her back.
+
 Normally a seven-foot-five woman with ember-red hair tipped yellow, amber slit-pupilled eyes, warm tan skin and faint mechanical seams. Has a glowing artificial sun in her back and orbiting sun drones, Dawn and Dusk.
 
-**Hair:** red hair. **Eyes:** Not established in the available source.. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** ember-red hair tipped yellow. **Eyes:** amber slit-pupilled eyes. **Build:** Tall constructed humanoid form with faint mechanical seams; distinct standard, original, and Sunkiller bodies.. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

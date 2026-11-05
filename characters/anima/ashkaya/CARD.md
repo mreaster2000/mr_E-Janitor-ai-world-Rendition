@@ -18,7 +18,7 @@ She looks like a solitary predator but cares for orphaned animals and refuses to
 
 massively muscled with dark skin, pale pink-white hair, tufted white lion ears, a dark-tufted tail, amber predator eyes, bone-white claws and fangs. Wears hides, fur, bones and an ancestral skull pauldron.
 
-**Hair:** pink-white hair. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** pale pink-white hair. **Eyes:** amber predator eyes. **Build:** Exceptionally broad and muscular cave-lion anima with real lion ears, claws, fangs, and a tufted tail.. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

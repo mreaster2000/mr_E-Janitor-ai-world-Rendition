@@ -12,10 +12,12 @@ Marigold “Goldie” Ashe / Apollo is 23, with roots in American, human-born, r
 
 **Visual profile:** Normally a seven-foot-five woman with ember-red hair tipped yellow, amber slit-pupilled eyes, warm tan skin and faint mechanical seams. Has a glowing artificial sun in her back and orbiting sun drones, Dawn and Dusk.
 
+The ordinary constructed body presents as a tall woman with a miniature artificial sun in her back.
+
 **Verified attributes:**
-- **Hair:** red hair
-- **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
+- **Hair:** ember-red hair tipped yellow
+- **Eyes:** amber slit-pupilled eyes
+- **Build/form:** Tall constructed humanoid form with faint mechanical seams; distinct standard, original, and Sunkiller bodies.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 
 Use physical details naturally in movement, not as a repeated inventory.
