@@ -54,7 +54,10 @@ const completed={
   reagin:'navy',
   dixie:'pilot',
   'power-girl':'kryptonite',
-  shiraishi:'cosplay'
+  shiraishi:'cosplay',
+  gwen:'lighting',
+  luka:'architecture',
+  mellow:'greenhouse'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
