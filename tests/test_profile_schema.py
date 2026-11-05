@@ -70,11 +70,15 @@ def scan(slug,folder):
     if [h for h,_ in cs] != CARD:
         err.append("Card v4 headings out of order or missing")
     for i,(heading,content) in enumerate(bs):
-        required = 35 if i in (1,6,7,8) else 12
+        required = 8 if i == 9 else (35 if i in (1,6,7,8) else 12)
         if len(content.split())<required:
             err.append("BIO section "+str(i+1)+" underspecified: "+str(len(content.split()))+" words")
         if i in (1,6,7,8) and re.match(r"^(?:see (?:the )?(?:card|identity)|relationships are defined|a reference to)",content,re.I):
             err.append("BIO section "+str(i+1)+" is a placeholder")
+    if len(bs)>=10 and ("**Artwork in this directory:**" not in bs[9][1] and "**Verified local visual files:**" not in bs[9][1]):
+        err.append("BIO reference section does not identify actual artwork status")
+    if len(bs)>=10 and ("**Available openings:**" not in bs[9][1] and "OPENING" not in bs[9][1]):
+        err.append("BIO reference section does not identify actual opening status")
     for name,content in cs:
         if len(content.split())<5:err.append("Card section "+name+" empty/short")
     if len(bio.split())<2000:err.append("BIO below established 2000-word minimum")
