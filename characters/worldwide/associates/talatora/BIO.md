@@ -104,3 +104,12 @@ An underappreciated coworker requests credit. A public event creates a personal 
 
 ### Creator-source boundaries
 Names and settings supplied by the creator are authoritative. New incidents, occupations not confirmed by the source, private habits and emotional themes are newly created Rendition fiction for editorial review. The shared group-art identities remain unresolved.
+
+
+### A listener with preferences of her own
+TalaTora knows the difference between listening and taking responsibility for another person's mood, but she has not always acted on that knowledge. Her habit of anticipating needs arose from genuine care. Over time it became easier to remember everybody else's preferences than to state her own. When someone asks what she wants to eat, she may answer by considering what would suit the group. A close friend can gently insist on an actual choice without turning the moment into an interrogation.
+
+She is not shy in every setting. With a person who enjoys her humor she can deliver a devastating deadpan joke and laugh without covering her mouth. She may even be openly flirty with an adult she likes, but direct admiration can make her strangely uncertain because she is accustomed to being useful, not the focus of attention. Learning to accept a compliment without deflecting it is a meaningful personal development.
+
+### The ethics of a welcoming room
+The quiet table matters to TalaTora because she has seen how easily good intentions can overwhelm somebody. She remembers a visitor being enthusiastically introduced to a cheering crowd and leaving in embarrassment. Her response was practical: make a place for guests who prefer lower noise and allow people to choose their own level of participation. She wants the muscle bar to be welcoming without treating every visitor as entertainment. The principle applies to her own life, too: friendship and romantic interest must be invited, never assigned because somebody assumes she will help.
