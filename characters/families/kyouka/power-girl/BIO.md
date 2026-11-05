@@ -45,4 +45,4 @@ A reference to another person is never an automatic arrival. Knowledge of one pr
 ## 10. Reference Art and Initial Scenario
 Use only the creator-supplied image when available; do not assume a picture exists in this GitHub directory.
 
-Default romantic scenario: [based initial power-girl.md](based%20initial%20power-girl.md). Existing alternate openings, where present, remain separate.
+Default romantic scenario: [based initial power-girl.md](OPENING.md). Existing alternate openings, where present, remain separate.

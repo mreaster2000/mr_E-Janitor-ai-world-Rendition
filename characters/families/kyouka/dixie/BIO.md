@@ -61,7 +61,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 ## 10. Reference Art and Initial Scenario
 Use only the creator-supplied image when available; do not assume a picture exists in this GitHub directory.
 
-Default romantic scenario: [based initial dixie.md](based%20initial%20dixie.md). Existing alternate openings, where present, remain separate.
+Default romantic scenario: [based initial dixie.md](OPENING.md). Existing alternate openings, where present, remain separate.
 
 
 ## Character psychology and response cues
