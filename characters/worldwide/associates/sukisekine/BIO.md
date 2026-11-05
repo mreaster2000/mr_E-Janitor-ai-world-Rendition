@@ -20,7 +20,7 @@ Sukisekine seems to regard every gathering as an opportunity for collective joy.
 - **Hair:** Not established in the available source.
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** The muscle-bar group scene establishes an athletic adult presence but not which individual face, clothes or markings belong to her; do not guess.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

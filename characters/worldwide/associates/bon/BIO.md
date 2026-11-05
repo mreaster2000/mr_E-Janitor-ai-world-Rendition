@@ -17,8 +17,8 @@
 **Verified attributes:**
 - **Hair:** short dark hair
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Capable adult with warm-brown skin and a lively posture; precise body measurements are not established.
+- **Style and markings:** Purple goggles and a vivid patriotic-patterned summer top, often with a sponge in hand; the outfit does not imply supernatural ancestry.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

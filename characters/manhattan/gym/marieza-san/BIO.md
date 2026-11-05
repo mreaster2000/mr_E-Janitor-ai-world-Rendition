@@ -20,7 +20,7 @@ A spectacularly powerful trainer who has learned that her true success is teachi
 - **Hair:** light-colored hair (specific shade not confirmed)
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Ornate athletic gear and flamboyant gladiator-like flourishes complement her monumental physique and light hair.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

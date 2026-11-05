@@ -20,7 +20,7 @@ TalaTora understands other people's discomfort almost before they speak, but has
 - **Hair:** Not established in the available source.
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** The group muscle-bar illustration contains multiple women without reliable face-to-name attribution; personal hairstyle, outfit and markings remain unassigned.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

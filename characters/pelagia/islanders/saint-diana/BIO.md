@@ -17,8 +17,8 @@ Saint Diana has a public heroic name that repeatedly draws comparisons with a di
 **Verified attributes:**
 - **Hair:** Not established in the available source.
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Poised, physically confident adult heroine; exact height, musculature and costume measurements are not established.
+- **Style and markings:** A distinct Japanese superhero portrait is established, but costume details and markings are not confirmed; never substitute Absolute Diana's Pelagian armor.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

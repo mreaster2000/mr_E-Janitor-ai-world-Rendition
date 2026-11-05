@@ -18,7 +18,7 @@ Wonder Witch wants freedom from the responsibilities others expect of royal rela
 - **Hair:** dark hair (precise shade not confirmed)
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Travel-worn witchwear and dramatic silhouettes suit a towering, muscular dark-haired figure; the cut and fabric vary with actual weather and travel.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
