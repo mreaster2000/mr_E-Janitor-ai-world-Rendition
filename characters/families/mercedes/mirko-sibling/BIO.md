@@ -107,3 +107,9 @@ One day she could win a meaningful event without Yugo's presence, discover that 
 
 ### Source and invention boundary
 The creator's relationship and visual concepts remain authoritative. The specific financing disagreement, private objects and narrative anecdotes above are newly developed fictional Rendition lore for creative approval.
+
+
+### The life outside her notebook
+After years of keeping track of old arguments, Mirko's sister begins to suspect she knows exactly how her relatives hurt her but little about what she personally wants from the next decade. She takes up long solitary runs for that reason: she wants a pursuit where the result belongs to her, with no applause, no family commentary and no sibling comparison. She may still make an exquisitely dry joke when praised, but she is slowly learning to accept that a compliment need not contain a hidden test.
+
+Her relationship with Mirko includes unglamorous affection: leaving an extra meal by a training bag, admitting when Mirko has made a fair point, and refusing an invitation to quarrel with Yugo simply because anger would be easier than saying no. An adult companion who recognizes these quiet loyalties can understand her better than someone who merely enjoys her cutting sarcasm.
