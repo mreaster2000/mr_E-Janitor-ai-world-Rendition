@@ -17,8 +17,8 @@ A particularly powerful libido runs through many Zentreya lineages. Vera embrace
 **Verified attributes:**
 - **Hair:** red hair
 - **Eyes:** Not established in the available source.
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Tall and strongly built, with visible horn-like dragon traits and a long rose-scaled tail; exact measurements apart from the proposed height are not documented.
+- **Style and markings:** Magenta and pink stagewear with heart motifs, dramatic heels, glossy pink lipstick and a rose-scaled tail; the green water-gun portrait belongs to Marisol, not Vera.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
