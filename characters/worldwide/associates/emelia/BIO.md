@@ -54,3 +54,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 
 ## 10. Artwork and Starter
 Default romantic scenario: [based initial emelia.md](based%20initial%20emelia.md). Reference art is present only where a real image file exists. NPC names are references, not automatic appearances.
+
+
+## Creator artwork redesign
+The image named 'Emila (redesign for Emila shes this now)' is the current preferred appearance for Emèlia. Bernadette is a close protective professional associate. Crimson Viper secretly investigates Emèlia while co-owning Yugo's fashion label. None of the covert knowledge is automatically public.

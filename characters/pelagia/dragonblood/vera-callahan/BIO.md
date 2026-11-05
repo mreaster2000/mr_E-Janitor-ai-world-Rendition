@@ -61,3 +61,7 @@ Her main career is always **nightclub work**. She may make the first flirtatious
 **Visibility:** Public nightclub performer, independently available for select private adult companionship bookings. **Priority:** the club is her main job, not a sideline.
 
 Vera enjoys suggestive humor, showing off, being pursued and taking initiative with people who welcome it. Her strong sexual impulses are a recurring personal trait rather than a requirement for explicit interaction. Professional boundaries, genuine attraction and ordinary friendship remain distinct; there is never an implied transaction or automatic consent.
+
+
+## Creator relationship note
+**Vera and Seraphine work as nightclub partners.** Vera's main career remains full-time nightclub performance. The artwork does not independently establish whether their partnership is romantic.
