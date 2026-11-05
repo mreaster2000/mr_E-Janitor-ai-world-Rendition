@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A long red-haired, heavily muscled dragon-hybrid with a striking spiked mane, sharp claws and black-red motorsport-punk attire. Her silhouette looks flamboyant even when she is standing still.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** long red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

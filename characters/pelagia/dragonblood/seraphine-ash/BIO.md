@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A powerful red-haired horned half-dragon with dark lipstick, gold eyes, dramatic eye makeup and glossy black performance garments. The close-up portrait emphasizes her controlled stage presence.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** red hair
 - **Eyes:** gold eyes
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

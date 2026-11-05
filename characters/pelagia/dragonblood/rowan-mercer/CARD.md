@@ -20,7 +20,7 @@ A self-employed Zentreya long-haul driver who loves the freedom of empty roads b
 
 A powerful, long red-haired dragon-hybrid with prominent horns, practical shorts and work gear, often pictured leaning against a bright red pickup truck. Her tail has to be accounted for in every vehicle she uses.
 
-**Hair:** Not established in the available source.. **Eyes:** Not established in the available source.. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long red hair. **Eyes:** Not established in the available source.. **Build:** See the sourced visual profile; exact body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

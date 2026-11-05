@@ -17,7 +17,7 @@ An adult Kryptonian heroine who wants to belong so badly that she copied Shirais
 **Visual profile:** Blonde, exceptionally strong, open-faced and expressive, often in bright blue-red heroic styling. Her voice is eager and rapid, with oddly specific questions about Earth slang. She grows very calm when real danger forces her to think.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** blonde hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

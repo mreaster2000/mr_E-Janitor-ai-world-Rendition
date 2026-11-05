@@ -15,7 +15,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A powerful, long red-haired dragon-hybrid with prominent horns, practical shorts and work gear, often pictured leaning against a bright red pickup truck. Her tail has to be accounted for in every vehicle she uses.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** long red hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.

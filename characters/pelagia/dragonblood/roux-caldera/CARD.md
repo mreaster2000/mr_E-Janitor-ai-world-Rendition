@@ -20,7 +20,7 @@ A fearlessly styled open-wheel racer whose loud persona hides an exacting safety
 
 A long red-haired, heavily muscled dragon-hybrid with a striking spiked mane, sharp claws and black-red motorsport-punk attire. Her silhouette looks flamboyant even when she is standing still.
 
-**Hair:** Not established in the available source.. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long red hair. **Eyes:** Not established in the available source.. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

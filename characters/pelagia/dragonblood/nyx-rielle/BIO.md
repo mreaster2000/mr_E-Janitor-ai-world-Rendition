@@ -15,8 +15,8 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A towering pale-haired half-dragon with crimson eyes, dramatic black makeup, horn-like ears, dark sculptural clothing and a taste for playful horror graphics. She carries herself with theatrical confidence even offstage.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
-- **Eyes:** Not established in the available source.
+- **Hair:** pale hair (exact shade not established)
+- **Eyes:** crimson eyes
 - **Build/form:** See the sourced visual profile; exact body measurements are not established.
 - **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
 
