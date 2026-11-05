@@ -18,7 +18,7 @@ Her meeting with the Gym Gals began when a gym equipment or liability dispute la
 - **Hair:** dark hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Hoop earrings, bangles and sunglasses above the forehead complement a cropped athletic top and distressed denim shorts; her professional wardrobe is tailored rather than fixed.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

@@ -16,7 +16,7 @@ Captain Reagin Hilde is 38, with roots in South Korean, with German family herit
 - **Hair:** severe dark bob hairstyle
 - **Eyes:** Not established in the available source.
 - **Build/form:** Very tall and muscular, with a covered injured left eye; uninjured iris color is not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Meticulously maintained naval uniforms, black eyepatch on the injured left eye and a controlled military posture; discreet rose-print stockings remain private.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

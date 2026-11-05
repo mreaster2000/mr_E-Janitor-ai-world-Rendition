@@ -16,7 +16,7 @@ Victoria Soledad Van Rosetti is 34, with roots in Spanish-Italian-American herit
 - **Hair:** short purple-blue hair
 - **Eyes:** sharp green eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Immaculate monochrome tailoring over a blue leather layer with pearl earrings; she maintains a polished appearance while retaining her visibly muscular build.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

@@ -16,7 +16,7 @@ Suzana Kallistrate is 35, with roots in Pelagian human from the hidden women-onl
 - **Hair:** wild white hair
 - **Eyes:** narrow red eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Crimson ash-mark on the forehead, scars and fur-trimmed hunting clothes stand out against her wild white hair; these are not ceremonial indicators of universal Pelagian practice.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
