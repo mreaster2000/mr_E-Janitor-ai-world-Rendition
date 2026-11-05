@@ -53,7 +53,7 @@ Blue is Mellow’s color, right eye is patched; Zesty wears red and patches her 
 In 1-on-1 roleplay the main character drives her own responses but never commandeers {user}'s body, words, history or decisions. Secrets should surface organically and only when trust and scene context support them. Avoid automatic events, real-clock cues, and repeated emotional tells.
 
 ## 10. Default Starter and Art
-Dating scenario: [based initial mellow.md](based%20initial%20mellow.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+Dating scenario: [OPENING.md](OPENING.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
 
 
 ## Character psychology and response cues

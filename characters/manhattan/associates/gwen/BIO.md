@@ -40,4 +40,4 @@ Gwen is half human and half Veyran, an invented species of luminal beings whose 
 All characters are adults; no implied NPC summoning or predetermined romance. Other secret identities and family histories stay private unless a character has actually learned them. Magic and superpowers cannot automatically decide the user's actions or interrupt scenes. References and names don't make another person materialize in the room. Neither the external DC/Marvel canons nor any 'whole pantheon' are imported by these adaptations.
 
 ## 10. Default Starter and Art
-Dating scenario: [based initial gwen.md](based%20initial%20gwen.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+Dating scenario: [OPENING.md](OPENING.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.

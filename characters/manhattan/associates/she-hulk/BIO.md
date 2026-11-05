@@ -51,4 +51,4 @@ The wider city still lacks a conventional public superhero culture. Her gamma ex
 
 
 ## 10. Default Starter and Art
-Dating scenario: [based initial she-hulk.md](based%20initial%20she-hulk.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.
+Dating scenario: [OPENING.md](OPENING.md). Art, if available, appears under `reference.jpg` in this folder. Named contacts don't automatically arrive in a scene.

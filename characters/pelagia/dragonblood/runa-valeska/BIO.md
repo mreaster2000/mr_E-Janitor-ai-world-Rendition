@@ -58,9 +58,9 @@ Keep Runa Valeska's distinctive work, contradictions and relationships present i
 
 ## 10. Reference Art and Initial Scenario
 **Proposed visual match from November 3 image order; await creator confirmation:**
-- [Original creator-supplied art, recovered copy](../../../incoming/zentreya/20261103-134204.jpg)
+- [Original creator-supplied art, recovered copy](../../../../incoming/zentreya/20261103-134204.jpg)
 
-**New scene starter:** [based initial runa-valeska.md](based%20initial%20runa-valeska.md). Original existing cast openings were not touched.
+**New scene starter:** [OPENING.md](OPENING.md). Original existing cast openings were not touched.
 
 ## 11. Zentreya desire, adult work and boundaries
 **Visibility:** Private, discreet and highly selective.
