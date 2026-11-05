@@ -18,7 +18,7 @@ A spectacularly powerful trainer who has learned that her true success is teachi
 
 Monumentally muscular, light-haired woman with ornate athletic gear and a fondness for flamboyant, gladiator-like flourishes.
 
-**Hair:** light-colored hair (specific shade not confirmed). **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** light-colored hair (specific shade not confirmed). **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

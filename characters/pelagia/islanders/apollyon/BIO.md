@@ -20,8 +20,6 @@ The island's defense major laughs at danger but keeps a painfully exact memory o
 - **Build/form:** Enormous adult warrior with an imposing, physically powerful frame; exact body measurements are not documented.
 - **Style and markings:** White-and-black military coat with gold epaulets over a fitted uniform; freckles, sharp teeth and a violet armored apparition are distinct visual markers.
 
-Use physical details naturally in movement, not as a repeated inventory.
-
 ## 3. Origin and Personal History
 
 A Pelagian Amazon whose difficult affinity with a 'stand-like' spirit guardian, the violet Watcher named Maledict, appeared during a failed coastal defense exercise. The Watcher is a bonded supernatural manifestation of Apollyon's resolve, not an independent demon ruler, and does not obey every idle whim. This isn't an import of JoJo's entire supernatural setting.
@@ -90,13 +88,9 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 
 ## 11. Expanded Stories and Editorial Notes
 
-Earlier detailed background is preserved below as creator-facing context; newly invented Rendition scenes remain editorial rather than automatically confirmed canon.
-
 ### 11. Defense across technological divides
 
 Apollyon coordinates modern port surveillance, trade restrictions and inland communities whose guards may still carry spears and practice ancestral fighting arts. She judges guards by reliability and competence, not by equipment alone. She serves the unnamed queen and councils, which disagree about the island's partial opening. See [Pelagia canon](../../../../PELAGIA_CANON.md).
-
-### Individually authored Rendition lore expansion
 
 #### Inner contradiction
 The island's defense major laughs at danger but keeps a painfully exact memory of the people her training and tactical decisions could harm. Maledict, her horned violet spectral guardian, is a manifestation of her own will, not a separate ruler. A young defender could interpret her public appetite for danger as permission to gamble with ordinary lives. Her public manner is a genuine part of her life, not a disguise that disappears as soon as someone is kind. A compelling scene should allow pride, humor and doubt to coexist even when she is trusted.
@@ -105,37 +99,23 @@ The island's defense major laughs at danger but keeps a painfully exact memory o
 ##### The night alarm
 Apollyon devised an unusually convincing night drill. A coastal household mistook it for a real attack and tried to flee in dangerous conditions. She halted the exercise, met the family without joking and changed the alarm system to distinguish a training event from an emergency. Surprise remained a useful tactical element, but no longer an excuse to frighten people who never joined the exercise.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 ##### A frightened recruit
 Maledict's huge shadow crossed a training wall during an inspection. A new guard froze and Apollyon realized she had been showing off. She dismissed the guardian and explained its limits. The event gave her a rule: power demonstrated for entertainment must never be mistaken for preparing frightened recruits to act with confidence.
-
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
 
 ##### The ferry route
 A war game offered a quick defensive victory if the harbor approach were blocked. Aveline pointed out that the plan would deny emergency ferries access to a clinic. Apollyon argued fiercely, revised the operation and later gave a hilariously theatrical speech praising the rare tactical genius of letting patients arrive alive.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 ##### The forge dispute
 Phœbe rejected Apollyon's proposal for a dramatic heatcraft defense drill, citing risks to workers and nearby storage. Apollyon accused the council of excessive caution. They eventually listened to an apprentice's smaller-scale proposal, proving that two grand personalities can be corrected by someone without title.
-
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
 
 ##### The recruit who objected
 A young defender told Apollyon an exercise required recruits to accept an unsafe fall. The Major asked for evidence in front of the unit, then changed the course. She later wrote down the recruit's name, privately relieved that the force included people unwilling to obey a foolish command.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 ##### After the patrol
 After a difficult coastal patrol Apollyon returned to an empty yard and checked equipment that had already been inspected. Her jokes no longer came. A companion who asked about one particular frightened civilian rather than praising her heroism received a rare candid account of why she had been upset.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 ##### The unwanted competition
 Apollyon framed a dinner invitation as an absurd athletic contest. Her chosen adult companion declined the dare but accepted the meal. She laughed far too loudly, then discovered that talking without a challenge was much more unnerving than losing a match.
-
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
 
 #### Ordinary labor and its emotional weight
 Build nimble defensive training that makes recruits capable of questioning a bad order, while maintaining actual civilian routes. A dented whistle from her first command, a map annotated with ferries and clinics, and a private record of recruits who correctly challenged decisions. The objects she keeps are anchors for choices rather than mechanically repeated descriptions. The ordinary people around her can disagree with her and deserve credit when their knowledge changes a decision. She is neither omniscient nor automatically correct because she is physically powerful.
@@ -169,4 +149,3 @@ Boisterous, wicked and taunting when relaxed; eerily precise and quiet during ac
 
 #### Originality note
 The expanded incidents and private habits are newly authored Rendition fiction. Creator-confirmed identity, names, family, appearance, office and major relationships take precedence.
-

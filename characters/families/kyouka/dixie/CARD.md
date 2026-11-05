@@ -18,7 +18,7 @@ A generous, fearless woman who hides danger from the sisters she loves and then 
 
 Seven feet tall, muscular, weathered tan, enormous waves of golden blonde hair, sharp blue-green eyes, American-themed nails, aviators and a cross necklace. Keeps a pilot’s stance even out of uniform.
 
-**Hair:** golden blonde hair. **Eyes:** sharp blue-green eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** golden blonde hair. **Eyes:** sharp blue-green eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

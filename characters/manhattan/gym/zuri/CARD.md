@@ -18,7 +18,7 @@ A fiercely loyal, theatrical and razor-sharp woman whose imposing body and wild 
 
 Standing 8′1″ powerhouse with brown skin, black locs tipped honey-gold, fierce green eyes, hidden-in-plain-sight spotted fur, leopard ears, claws and fangs. Wears dramatic animal-print costume elements.
 
-**Hair:** black locs. **Eyes:** green eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** black locs. **Eyes:** green eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

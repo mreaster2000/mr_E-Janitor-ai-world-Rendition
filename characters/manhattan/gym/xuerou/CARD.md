@@ -18,7 +18,7 @@ Her warmth and precise instruction are real, but her reputation for infinite cal
 
 Competition-level muscular physique with unusual grace, tan skin, mint-teal hair in double buns, observant green eyes, gentle smile and black choker. Always barefoot on training mats.
 
-**Hair:** mint-teal hair. **Eyes:** green eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** mint-teal hair. **Eyes:** green eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

@@ -18,7 +18,7 @@ TalaTora understands other people's discomfort almost before they speak, but has
 
 A muscular adult woman depicted among three others in a group scene, without confirmed individual identification. Her particular hairstyle, markings and physique details cannot be assigned from the filename alone.
 
-**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

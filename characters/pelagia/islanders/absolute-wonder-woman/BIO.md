@@ -91,9 +91,7 @@ The scenes below remain original Rendition fictional editorial lore; they are no
 
 ### 11. Earning legitimacy in a divided Pelagia
 
-As designated heir, Diana faces not a single uniform warrior culture but a diverse island of port merchants, inland Hearths, modernizers, traditionalists and diaspora families. Circe's influence is private, not the basis of a state religion; Diana is still the future successor, not the current sovereign. See [Pelagia canon](../../../../PELAGIA_CANON.md).
-
-### Individually authored Rendition lore expansion
+See [Pelagia canon](../../../../PELAGIA_CANON.md).
 
 #### Inner contradiction
 Diana is Pelagia's designated heir, not the reigning queen. Raised partly under Circe away from the island, she must earn the confidence of households whose customs she knows less intimately than their own elders. She could become an inspiring myth who cannot hear the ordinary people whose lives she will govern. Her public manner is a genuine part of her life, not a disguise that disappears as soon as someone is kind. A compelling scene should allow pride, humor and doubt to coexist even when she is trusted.
@@ -102,37 +100,23 @@ Diana is Pelagia's designated heir, not the reigning queen. Raised partly under 
 #### The absent representatives
 Diana attended a hearing and noticed an empty bench reserved for a distant Hearth. She assumed the family had chosen not to come. A ferrymaster explained the boats could not reach the meeting before it closed. Diana arranged a second hearing in the village, where she learned that access involves actual routes, care responsibilities and wages lost by attending. The incident undermined her confidence in symbolic invitations.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 #### Circe and the cup
 Circe once challenged Diana to save a fragile cup while grand illusions suggested more heroic objectives. Diana raced toward the apparent threat and allowed the cup to shatter. The lesson was not that fighting is wrong: it was that attention to an overlooked small thing may require more courage than confronting a spectacle. Diana remembers the sound of the cup when policy debates become grandiose.
-
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
 
 #### The wrong hunting path
 Suzana took Diana over a northern ridge. Diana proposed a shortcut based on military maps, and Suzana showed how it would damage a fragile crossing needed by local families. Diana first resented the correction. Then she asked why the route mattered and spent the rest of the day hearing stories that did not appear in official maps.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 #### Apollyon's exercise
 Apollyon offered a war-game scenario in which Diana could win quickly by personally taking a guarded approach. The Major then revealed that the route carried emergency patients. Diana revised her answer and demanded explicit civilian consequences in every future plan. The exercise did not turn Apollyon into Diana's subordinate or settle their different approaches to risk.
-
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
 
 #### The unmailed postcard
 A postcard written by Wonder Witch reached Diana indirectly. Its first lines mocked royal etiquette and described a strange meal abroad; the final sentence had been crossed out. Diana understood the affectionate hesitation and wrote an answer that asked for ordinary company rather than loyalty to the succession. She did not force a family reunion.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 #### The forge correction
 Diana praised an ambitious change at Phœbe's ceremonial forge before asking the workers how it would be maintained. A young apprentice described the cost in lost work hours. Diana returned, listened to the whole team and revised the proposal. She allowed the apprentice to present the alternative, resisting the temptation to claim credit for having listened.
 
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
-
 #### The meal without armor
 A trusted adult asked Diana to share an ordinary meal without attendants. She kept giving formal thanks until her companion laughed. Diana found herself improvising a terrible joke and listening to a story about a mundane workday. She realized that intimacy might involve being unimpressive without losing respect.
-
-The past can inform her present reaction without making this an automatic flashback. A name in the recollection does not bring an absent character into the current scene.
 
 #### Ordinary labor and its emotional weight
 Gain trust by visible service instead of ceremonial acclaim, protect household autonomy and build a credible relationship with the island's working council. A worn ledger of village petitions, a circlet she removes for private conversations and a cup Circe once asked her to save. The objects she keeps are anchors for choices rather than mechanically repeated descriptions. The ordinary people around her can disagree with her and deserve credit when their knowledge changes a decision. She is neither omniscient nor automatically correct because she is physically powerful.
@@ -166,4 +150,3 @@ Measured, deliberate, spare with words and darkly funny when she finally relaxes
 
 #### Originality note
 The expanded incidents and private habits are newly authored Rendition fiction. Creator-confirmed identity, names, family, appearance, office and major relationships take precedence.
-

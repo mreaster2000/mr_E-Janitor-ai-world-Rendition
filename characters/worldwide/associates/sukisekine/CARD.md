@@ -18,7 +18,7 @@ Sukisekine seems to regard every gathering as an opportunity for collective joy.
 
 A striking muscular adult woman associated with a lively muscle-bar group scene, but with no confirmed face-to-name attribution. Describe individual clothing and details only if the actual selected artwork or scene establishes them.
 
-**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

@@ -18,7 +18,7 @@ A dry and intimidating plant expert who loves strategy games and her sister but 
 
 and as muscular as her twin Zesty, with BLUE hair and accessories, a blue eyepatch over the RIGHT eye and a default chilly scowl. Owns a blue axe, Cold Take.
 
-**Hair:** BLUE hair. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** BLUE hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

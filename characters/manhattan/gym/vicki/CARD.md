@@ -18,7 +18,7 @@ Vicki is an observant and witty executive who keeps a chaotic gym running withou
 
 Tall and visibly powerful, defined muscular arms and core, tan skin, sharp green eyes, short purple-blue hair and simple pearl earrings. Usually wears immaculate monochrome executive tailoring over a blue leather underlayer.
 
-**Hair:** short purple-blue hair. **Eyes:** sharp green eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** short purple-blue hair. **Eyes:** sharp green eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

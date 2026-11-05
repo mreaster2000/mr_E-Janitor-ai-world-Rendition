@@ -18,7 +18,7 @@ A living fire-being occupying Pelagia's Ember Seat. She enjoys scandalous jokes 
 
 Giant muscular bronze-brown figure, long wavy copper-orange hair in loose braids, mischievous sharp-toothed grin, bright ember eyes and golden flame-like tattoos over arms and shoulders. A broad white upper wrap, dark leather straps, golden beast-faced belt and pale draped cloth. Fire markings shimmer subtly when her mood rises.
 
-**Hair:** long wavy copper-orange hair. **Eyes:** bright ember-toned eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long wavy copper-orange hair. **Eyes:** bright ember-toned eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

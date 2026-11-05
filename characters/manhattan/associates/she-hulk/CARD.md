@@ -18,7 +18,7 @@ An outgoing and shrewd attorney whose legal judgment has been overshadowed by pu
 
 Reference image emphasizes deep green skin, extremely defined muscles, broad shoulders and abs, strong thighs, an expressive green face, long abundant dark hair, hoop earrings, bangles and sunglasses pushed above her forehead. Casual white-and-purple cropped athletic top, loose distressed denim shorts and a canned drink give her an easy urban look. She can dress in tailored professional clothes for court; she isn't permanently a swimsuit-clad costumed vigilante.
 
-**Hair:** dark hair. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** dark hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

@@ -18,7 +18,7 @@ An Amazon-descended, aggressively American traveler who celebrates freedom loudl
 
 Extremely muscular, fair-skinned adult with abundant flowing reddish-coral hair, vivid turquoise eyes, star-shaped earrings and a cheeky confident smile. She enjoys stars-and-stripes accessories and a small white American-flag bikini by the surf; in everyday life she wears sporty, colorful, practical clothes that can take a pounding.
 
-**Hair:** coral hair. **Eyes:** vivid turquoise eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** coral hair. **Eyes:** vivid turquoise eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

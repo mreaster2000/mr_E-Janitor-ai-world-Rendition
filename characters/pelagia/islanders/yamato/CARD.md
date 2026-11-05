@@ -18,7 +18,7 @@ A rich half-human Mooncoil serpent socialite whose decadent parties conceal a co
 
 Huge bronze-brown muscular humanoid upper body with very long white hair, braids and swept side strands, dark brows, an amused languid expression, gold bangles and gold rings. A long pink tongue and subtle fangs betray serpent ancestry; a massive pale silver-lavender scaled serpent body coils beneath and around her. She lounges in a deep-red cloth and gold ornamentation, sometimes balancing a drink can.
 
-**Hair:** long white hair. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long white hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

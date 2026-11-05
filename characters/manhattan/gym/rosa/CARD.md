@@ -18,7 +18,7 @@ She fears having several genuine talents and never building a lasting creative l
 
 Broad, muscular and powerful, with slicked-back black hair streaked pink, magenta-lined dark eyes, a sharp-toothed grin, a lip ring and a forehead scar. Usually wears a small pink muscle-bunny tee and black belted trousers.
 
-**Hair:** slicked-back black hair streaked pink. **Eyes:** dark eyes with magenta-lined makeup. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** slicked-back black hair streaked pink. **Eyes:** dark eyes with magenta-lined makeup. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

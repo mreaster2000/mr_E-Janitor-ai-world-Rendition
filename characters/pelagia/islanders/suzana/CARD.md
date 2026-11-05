@@ -18,7 +18,7 @@ A human hunter of Pelagia's Ninth Hearth, proud of her inherited ways but fright
 
 densely muscular with wild white hair, narrow red eyes, a crimson forehead ash-mark, scars and fur-trimmed hunting clothes.
 
-**Hair:** wild white hair. **Eyes:** narrow red eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** wild white hair. **Eyes:** narrow red eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

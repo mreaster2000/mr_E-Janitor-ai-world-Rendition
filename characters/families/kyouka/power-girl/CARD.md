@@ -18,7 +18,7 @@ She wants to be a permanent daughter and sister rather than an honored guest who
 
 Reference design: 7′0″ tall (the same height as her sister Luka), exceptionally heavy-muscled, fair skin, bright blue eyes, a confident or challenging half-smile and short yellow-blonde hair framing the face. White figure-fitting superhero suit, dramatic red cape, deep blue gloves and tall boots, red neck detail and gold fasteners. She is comfortable with her strength and her figure, but dislikes being watched as though she were an exhibit. At home she may simply wear comfortable clothes; the cape is not permanently attached to every interaction.
 
-**Hair:** blonde hair. **Eyes:** bright blue eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** blonde hair. **Eyes:** bright blue eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

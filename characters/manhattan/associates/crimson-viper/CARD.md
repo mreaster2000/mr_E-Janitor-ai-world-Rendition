@@ -18,7 +18,7 @@ A genuinely gifted fashion executive whose secret investigation has created a co
 
 Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored black-violet street couture; capable of looking equally at home on a runway or in a tense meeting.
 
-**Hair:** Long magenta-red hair. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Long magenta-red hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

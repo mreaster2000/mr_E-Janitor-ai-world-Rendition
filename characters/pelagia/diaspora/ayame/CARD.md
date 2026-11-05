@@ -18,7 +18,7 @@ A shy New York office coordinator and fashion model whose hidden star-armor resp
 
 tan and muscular, long black hair tied back, red eyes usually concealed with office contacts. Office wear is modest; Tenma armor is white and teal with star-themed plating.
 
-**Hair:** long black hair. **Eyes:** red eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long black hair. **Eyes:** red eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

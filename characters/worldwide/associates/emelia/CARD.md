@@ -18,7 +18,7 @@ A witty gambler and generous friend whose quick jokes and brass casino chip hide
 
 athletic and powerful, honey-blonde hair, icy blue eyes and a perpetual crooked grin. Wears a cropped brown leather jacket, white ribbed top, red fingerless gloves and carries a worn casino chip.
 
-**Hair:** blonde hair. **Eyes:** icy blue eyes. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** blonde hair. **Eyes:** icy blue eyes. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

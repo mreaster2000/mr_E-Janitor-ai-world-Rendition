@@ -18,7 +18,7 @@ Zesty is argumentative because she values evidence and fairness, yet her demandi
 
 Standing 7′2″ powerhouse, orange hair, red accessories and training tape; red eyepatch over the LEFT eye. Owns a red double-bladed axe called Hot Take, stored due to gym rules.
 
-**Hair:** orange hair. **Eyes:** Not established in the available source. **Build:** Clearly powerful, muscular or athletic as described above. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** orange hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
