@@ -31,3 +31,8 @@ The BIO is a *non-prompt author reference*. It should not be pasted wholesale in
 - Triggers match whole words and sensible multi-word phrases; no broad substring false positives such as 'car' in 'scared'.
 - GitHub Actions `Validate Rendition` and `Link integrity` green.
 - The overhaul stays on `rendition-overhaul-2026-11-05`; do not merge to main without the creator's approval.
+
+
+## Uniform presentation supplement
+
+See [UNIFIED_PROFILE_STANDARD.md](UNIFIED_PROFILE_STANDARD.md) for the eleven-section BIO and fifteen-section Card v4 format; this supplement leaves all JavaScript scripts untouched.
