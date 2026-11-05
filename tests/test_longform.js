@@ -48,7 +48,13 @@ const completed={
   ashkaya:'den',
   batu:'motorcycle',
   dunkle:'sea',
-  'zirkala-tatanka':'history'
+  'zirkala-tatanka':'history',
+  apollo:'sun',
+  emelia:'dixie',
+  reagin:'navy',
+  dixie:'pilot',
+  'power-girl':'kryptonite',
+  shiraishi:'cosplay'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}
