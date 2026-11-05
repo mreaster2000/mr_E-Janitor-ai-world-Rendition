@@ -1,28 +1,26 @@
-# Overhaul checkpoint — November 5, 2026
+# Rendition overhaul — durable checkpoint (November 5, 2026)
 
-Branch: `rendition-overhaul-2026-11-05`. Starting point: main commit `a7c00029309b20d7d3429310f1633b54b6141cb7`. Do not restart or overwrite main.
+**Branch:** `rendition-overhaul-2026-11-05`
+**Base main commit:** `a7c00029309b20d7d3429310f1633b54b6141cb7`. Keep main untouched until final creator approval.
 
-## Completed
-- Audited 443 tracked files and 41 existing character profiles.
-- Moved 186 files to organized groups: manhattan/gym, manhattan/associates, families/kyouka, pelagia/islanders, pelagia/diaspora, pelagia/dragonblood, anima, worldwide/associates.
-- Removed 227 generated/duplicate documents, obsolete exports, and config copies. All old materials remain in main's Git history.
-- Standardized prior opening filenames as OPENING.md and OPENING_ALT.md; some scenes are alternatives, not replacements.
-- Updated characters/manifest.json to the moved paths.
+## Completed in this chat
+1. **Cleanup:** Inventoried 443 starting files, removed 227 redundant or legacy artifacts, and relocated 186 files to a coherent story-world grouping. All old commits remain recoverable.
+2. **Roster:** Expanded from 41 existing profiles to **61** with 20 artwork-derived additions. New characters are in their own distinct folders; source-supported details are kept separate from editorial reconstruction.
+3. **Names and canon:** Canonical folder renames **Mudryk → Rosa** and **Nandi → Besterta-san**, preserving older recorded height/age. Emèlia portrait redesigned. Runa/Roux partnership and Seraphine/Vera nightclub partnership recorded. Distinct Kara/Karren and Saint Diana/Absolute Diana. 
+4. **Retcons:** All goddess-titled figures except Kronii are Pelagian by birth. The contemporary title is **Council Member**, old goddess titles are historical. `Zentreya Corp` remains a temporary label for a creator collective, distinct from the dragon-descended people. Mirko and her unnamed sister are Yugo's cousins and she loathes them.
+5. **Cards:** Standardized the 41 inherited character cards using a compact v4-inspired structure without discarding their prior personality descriptions. The 20 new characters also have cards.
+6. **Bios:** Strengthened 29 older biographies, preserving creator history while adding strengths, weaknesses, fears, goals and emotional nuances. Detailed bios are creator-facing and not added to every prompt.
+7. **Scripts:** Converted all 41 legacy scripts to conditional-only lore: no repeated permanent persona, clocks, random triggers, automatic NPC arrivals or message-count gates. All 20 new profiles also have lean conditional scripts.
+8. **Quality:** Verified 61 character entries and 183 mandatory card/bio/script files. GitHub Actions `Validate Rendition` passed; separate `Link integrity` check found **zero broken links** after repairs.
+9. **Artwork prep:** All 57 source PNG images are preserved in the original upload, with an optimized WebP import ZIP and a JSON manifest containing unedited lore-bearing filenames. `tools/import_artwork.py` and `ARTWORK_IMPORT.md` explain a safe local import.
 
-## Unfinished and important
-- New image ZIP contains 57 PNGs with substantial lore notes in filenames. Keep the source ZIP unchanged; do not discard notes. Some images show multiple people, some are alternate portraits, and Avan / Drak / Kaia are reported missing from the latest pack. The repo already has Aveline Drakk and Kaia profiles and older reference JPGs.
-- Integrate and reconcile new characters and redesigns: Balaika is Luka and Shiraishi's mother; Techy and Gluco are Shiraishi sidekicks; Palkia owns the not-yet-named creator collective; Crimson Viper is Yugo's fashion co-owner and investigator; Rosa replaces the name Mudryk; Besterta replaces Nandi; Emila has a redesign; Kara Yoric Denvers Kyouka is Supergirl, separate from Power Girl; Wonder Witch, Kronii and unnamed Council Members need distinctive cards.
-- All goddess-titled characters except Kronii are Pelagian; 'goddess' is an old honorific, modern office is Council Member. Do not erase already established supernatural traits, such as Phoebe's fire nature.
-- Zentreya is a dragon-descended lineage. Zentreya Corp is a PLACEHOLDER for a talent/creator agency, **not** the lineage or a finalized name.
-- Mirko and the unnamed Mirko sibling are BOTH Yugo's cousins; she genuinely loathes them.
-- Continue in requested order: finish folder cleanup and repairs -> world-bible retcons/new cast -> CARD v4-informed standardization -> detailed non-prompt BIO -> scripts conditional v14, remove clock/time gating -> upload correctly named art, missing references flagged rather than fabricated.
-- Manifest paths were repaired, but legacy cross-links and old tests still need updating. Do not claim validation complete before testing.
+## What remains
+- **Artwork binaries are not yet in GitHub.** The GitHub connector can update text but has no direct local-archive binary upload bridge here. Download `rendition_artwork_import_ready.zip` from the conversation and run the importer in a local checkout, then commit only after the composite images are reviewed.
+- **Unassigned group-art faces:** Beauty/Technology council sisters share a portrait, and the muscle-bar scene shows Sukisekine, TalaTora and an unnamed Zentreya; identities within these pictures are not individually labeled. Don't invent a face-to-name assignment.
+- **Missing new art:** Aveline Drakk and Kaia Solenne are identified as missing from the latest pack, though older JPG references exist in the repo.
+- **Literary review:** Spot-check all 61 profiles for subtle contradictions and clarity; the v4 structure is a flexible adaptation, not an exact field-by-field port.
+- **Opening messages:** Existing 41 retain old or alternate openings; newly created character profiles are not all equipped with fully bespoke first messages.
+- **Deployment:** Nothing has been merged to main or published beyond the private review branch. Final creator review needed.
 
-All 41 existing BIO.md / CARD.md / SCRIPT.js retained. Main branch is the recovery reference. Do not invent automatically present NPCs or control {{user}}.
-
-## Update after initial checkpoint
-
-- Repository tree checked: 218 tracked files, 41 manifest characters, and all 123 required BIO/CARD/SCRIPT files present.
-- First v4-inspired cards completed for Yugo, Phœbe and Vera. Remaining 38 character cards still use their earlier layout and need individual revision.
-- A local optimized import-ready artwork ZIP was prepared from all 57 supplied PNGs with original filename lore notes preserved in ARTWORK_IMPORT_MANIFEST.json. It has **not been uploaded to GitHub**; use it to complete the artwork phase, checking composite scenes and alias mappings before import.
-- Tests were rewritten as initial smoke checks for new paths, but were **not executed** against a checkout. Legacy links in individual BIOs and other canon files may still need correction.
+## Resumption instruction
+Continue on this branch and consult `characters/manifest.json`, `CANON_OVERRIDES_2026-11-05.md`, `ARTWORK_IMPORT.md`, then the user-supplied advanced script and card v4 templates. Do not recreate the 61 profiles from scratch. The current remaining hard dependency is pushing the 57 art files and checking ambiguous image associations.

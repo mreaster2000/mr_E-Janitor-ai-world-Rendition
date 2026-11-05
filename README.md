@@ -1,7 +1,19 @@
 # Rendition — Janitor AI character world
 
-Work in progress on a protected overhaul branch. Original `main` retains all legacy material.
+A creator-led roleplay world with **61 character profiles**, indexed by story-world groups. Work continues safely on branch `rendition-overhaul-2026-11-05`; the original `main` remains unchanged and preserves all earlier exports.
 
-[Character roster](CHARACTERS.md) · [manifest](characters/manifest.json) · [world bible](WORLD_BIBLE.md) · [new canon overrides](CANON_OVERRIDES_2026-11-05.md) · [checkpoint / continuation](OVERHAUL_CHECKPOINT.md)
+## Browse
+- [Character roster](CHARACTERS.md) and [machine-readable manifest](characters/manifest.json)
+- [World bible](WORLD_BIBLE.md), [Pelagia](PELAGIA_CANON.md), [Zentreya lineage](ZENTREYA_CANON.md), [crossovers](CROSSOVER_CANON.md), [heights](HEIGHT_REFERENCE.md)
+- [Creator overrides](CANON_OVERRIDES_2026-11-05.md) and [overhaul checkpoint](OVERHAUL_CHECKPOINT.md)
+- [Artwork import guide](ARTWORK_IMPORT.md)
 
-**41 retained base characters**, reorganized by story context. Each has `CARD.md`, `BIO.md`, `SCRIPT.js`, plus optional `OPENING.md` or `OPENING_ALT.md`. Expanded duplicate editions and stale configs were removed in the cleanup phase. This branch is not yet ready to merge: links, tests, new cards, scripts, artwork and character-name corrections require subsequent passes.
+Each character has one `CARD.md`, `BIO.md`, and `SCRIPT.js` in their canonical folder. Existing openings are preserved as `OPENING.md` or `OPENING_ALT.md`. New cast additions do not necessarily have a written opening.
+
+**Prompt strategy:** Paste a character card's useful identity/personality content into Janitor AI, not the entire creator-facing biography. The advanced script supplies situational lore only; it does not repeatedly append the character's basic persona, spawn NPCs, or trigger clock events.
+
+**Quality checks:** GitHub Actions runs the 61-profile structural tests, script syntax/execution checks and continuity tests. A separate Markdown link audit has passed with zero broken relative links. These are technical checks, not proof of final literary consistency or live Janitor AI token usage.
+
+**Artwork status:** 57 images are optimized and mapped in a separate import-ready ZIP, but the pictures have **not** yet been pushed to this branch. Existing GitHub reference JPGs have been preserved. See [import guide](ARTWORK_IMPORT.md).
+
+The branch is a reviewable overhaul, not merged to main.

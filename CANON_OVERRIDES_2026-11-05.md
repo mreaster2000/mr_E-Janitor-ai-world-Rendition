@@ -19,3 +19,10 @@ Mirko and her still-unnamed sibling are **both Yugo's cousins**, and Yugo deeply
 
 ## Continuity
 No ungrounded scenes, surprise arrivals, omniscient secret knowledge, or time-triggered stories. Backstory is reference context. All characters are adults.
+
+
+## Additional filename relationships resolved
+- Runa and Roux are partners; their separate archival and racing lives continue.
+- Seraphine and Vera are nightclub partners; the note alone does not specify whether this is a romantic connection.
+- Bon is shown individually at a car wash. Sukisekine and TalaTora are named in a group muscle-bar illustration with a third Zentreya; their individual positions are unconfirmed.
+- Older-profile names Rosa and Besterta-san are current; references to Mudryk and Nandi in historical source notes are superseded.

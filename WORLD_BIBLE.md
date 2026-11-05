@@ -2,7 +2,7 @@
 
 This fictional setting resembles present-day New York, especially Astoria, Brooklyn and Manhattan. The Gym Gals share a private loft gym. Yugo, 35, co-owns it with Vicki, 34: Yugo draws people in, while Vicki runs the practical side. They are longtime best friends who love teasing each other and sharing jokes. Vicki is capable and firm when required, but socially warm, competitive, and playful—not a rigid military officer like Reagin. Relationships take priority over spectacle.
 
-**Anima:** Some people have authentic animal ancestry, fur, ears, tails and other traits. In New York these are often assumed to be costume parts; in some Mongolian and South African communities lineage is openly recognized. Zuri conceals her real leopard lineage in plain sight; Mudryk and some relatives know. Batu, Nandi, Ashkaya and Dunkle are also anima.
+**Anima:** Some people have authentic animal ancestry, fur, ears, tails and other traits. In New York these are often assumed to be costume parts; in some Mongolian and South African communities lineage is openly recognized. Zuri conceals her real leopard lineage in plain sight; Rosa and some relatives know. Batu, Besterta-san, Ashkaya and Dunkle are also anima.
 
 **Incident-class threats:** Rare supervillains and kaiju exist off the public stage. Authorities obscure events as accidents or storms. Apollo is a human-built countermeasure associated with the opaque group Management, and Aya is another hidden responder. Most people, including many other characters, do not know their true roles.
 
@@ -16,7 +16,7 @@ This fictional setting resembles present-day New York, especially Astoria, Brook
 
 These are adaptations to the Rendition original-character setting; their comic inspirations do **not** imply that the full DC or Marvel worlds exist here.
 
-**Kyouka family addition — Karren Yoric "Star" Kyouka (Power Girl; birth name Kara Zor-L):** Adopted by the Kyouka parents after arriving on Earth in adolescence. Karren grew up closest to Luka and Shiraishi and counts Dixie as an older adoptive half-sister. **The entire Kyouka family and the core Gym Gals (Luka, Yugo, Vicki, Xuerou, Mudryk, Zuri, Zesty) know she is Kryptonian and Power Girl and actively keep both identities secret from the public.** Karren chooses to wear **non-radioactive kryptonite accessories** to weaken herself enough for comfortable everyday life; these accessories are safe for bystanders and removable to recover full powers. This does not change Dixie's cover, Luka and Shiraishi's family conflict or anybody else's secret.
+**Kyouka family addition — Karren Yoric "Star" Kyouka (Power Girl; birth name Kara Zor-L):** Adopted by the Kyouka parents after arriving on Earth in adolescence. Karren grew up closest to Luka and Shiraishi and counts Dixie as an older adoptive half-sister. **The entire Kyouka family and the core Gym Gals (Luka, Yugo, Vicki, Xuerou, Rosa, Zuri, Zesty) know she is Kryptonian and Power Girl and actively keep both identities secret from the public.** Karren chooses to wear **non-radioactive kryptonite accessories** to weaken herself enough for comfortable everyday life; these accessories are safe for bystanders and removable to recover full powers. This does not change Dixie's cover, Luka and Shiraishi's family conflict or anybody else's secret.
 
 **New York gym connection — Jennifer Walters (She-Hulk):** Adult lawyer and gamma-powered New Yorker. Legal counsel and occasional guest at Yugo and Vicki's gym, not a formal Gym Gal founder. She knows their public affairs, not every private secret; Bruce Banner is an offstage family connection, not the arrival of an Avengers cast.
 
@@ -54,12 +54,12 @@ See [PELAGIA_CANON.md](PELAGIA_CANON.md) for the creator's newer account of cult
 
 ## Where the cast belongs
 
-The 41 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `manhattan/gym/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
+The 61 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `manhattan/gym/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
 
 
 ## Size and height continuity
 
-Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 28 revised character heights. Animal-anima characters generally stand much taller than the gym residents, with Zuri intentionally staying 7′5″. Yamato's coils, Nandi's horns, and Apollo's multiple bodies need special treatment. Older approximate sizes in biographies are superseded where inconsistent.
+Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 28 revised character heights. Animal-anima characters generally stand much taller than the gym residents, with Zuri intentionally staying 7′5″. Yamato's coils, Besterta-san's horns, and Apollo's multiple bodies need special treatment. Older approximate sizes in biographies are superseded where inconsistent.
 
 
 ## Zirkala Tatanka — New bison-anima associate

@@ -4,7 +4,7 @@ These are current card heights. They supersede earlier approximate measurements 
 
 | Character | Height |
 |---|---|
-| Mudryk | 7′3″ |
+| Rosa | 7′3″ |
 | Luka | 7′0″ |
 | Vicki | 7′1″ |
 | Yugo | 7′0″ |
@@ -30,11 +30,11 @@ These are current card heights. They supersede earlier approximate measurements 
 | Batu | 8′2″ |
 | Dunkle | 8′6″ |
 | Emèlia | 7′1″ |
-| Nandi | 8′5″ to head, 8′8″ with horns |
+| Besterta-san | 8′5″ to head, 8′8″ with horns |
 | Reagin | 7′1″ |
 | Zirkala Tatanka | 7′5″ |
 
-Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
+Zuri intentionally stays 7′5″. Apollo has distinct bodies; Besterta-san's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
 
 
 ## Twelve reconstructed Zentreya heights (proposed)
@@ -55,3 +55,8 @@ Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and
 | General Aveline Drakk | 8′2″ |
 
 All measurements above are editorial defaults for the reconstructed new cast; do not override the established 29 characters with them.
+
+
+## New artwork-led characters
+
+For Balaika, Kara/Supergirl, Techy, Gluco, Palkia, Crimson Viper, Mirko and her unnamed sibling, Kronii, the other new council members, Wonder Witch, Saint Diana, Bon, Sukisekine and TalaTora, the creator has not supplied an authoritative height. Do not invent numbers or use proportions from illustrations as measurement. Rosa and Besterta retain their previous canon heights.
