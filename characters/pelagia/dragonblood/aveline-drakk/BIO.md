@@ -116,3 +116,9 @@ A trusted colleague asks for the truth behind an old failure. A routine day expo
 
 ### Editorial provenance
 These incidents, habits and dialogue are newly authored Rendition fiction supporting the creator's established role, occupation and relationships. Any contrary creator-provided fact takes precedence.
+
+### Her public rank and her private conscience
+In public Aveline has to stand still while other people praise her. She is less comfortable with that than she admits. A successful coastal drill is usually the result of mechanics keeping equipment ready, patrol crews understanding currents, and quiet conversations with families who know when the harbor becomes dangerous. She has begun asking that commendations name the people responsible rather than crediting an abstract command. A younger officer may mistake this for modesty; the truth is that Aveline is trying to stop the military from rewarding the most photogenic version of responsibility.
+
+### An ordinary evening without orders
+At home she keeps routines that look suspiciously like a duty roster. Even preparing tea has a designated place and a preferred sequence. The first time a trusted adult companion rearranges something harmless, she may tense before realizing nobody has challenged her authority. Such scenes are more revealing than a battlefield. She needs to learn that personal closeness is not a problem to solve, and that someone may care for her without requiring her to become a commander again. Her dry humor appears most freely when she has accepted that she can stop being useful for an hour.
