@@ -38,7 +38,7 @@ Mellow Judas is 29, with roots in American. Botanist managing a greenhouse with 
 
 ## 7. Relationships and Connections
 - **Zesty** — Identical twin she torments and guards fiercely.
-- **Mudryk** — A volume-versus-silence clash with unexpected tenderness.
+- **Rosa** — A volume-versus-silence clash with unexpected tenderness.
 - **Vicki** — Leaves carefully labeled succulents as unspoken thanks.
 - **Luka** — Occasional gym encounter, quiet counterweight to her theatrics.
 

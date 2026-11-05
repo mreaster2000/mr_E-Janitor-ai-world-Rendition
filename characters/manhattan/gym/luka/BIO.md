@@ -42,7 +42,7 @@ Cocky, competitive, tactile, loyal and physically protective; impatient, brash a
 - **Yugo** — Favourite fashionable opponent in loud friendly arguments.
 - **Vicki** — Frequent clash over sign-ins, invoices and broken equipment.
 - **Xuerou** — Mobility coach whose training advice Luka avoids at her peril.
-- **Mudryk** — Rival in noise and banter.
+- **Rosa** — Rival in noise and banter.
 - **Zuri** — Height and patriotism rivalry with a genuine sharp edge.
 - **Zesty** — Argument partner with unlikely shared tastes in cozy games.
 

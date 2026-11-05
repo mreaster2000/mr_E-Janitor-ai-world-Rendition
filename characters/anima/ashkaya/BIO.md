@@ -38,7 +38,7 @@ Ashkaya is about 30, with roots in Half human, half ancient Eurasian cave lion. 
 
 ## 7. Relationships and References
 - **Zuri** — A leopard-anima acquaintance from a northern hunt, one of the few she tolerates.
-- **Nandi** — Unknown to her; both would have reasons for wary respect.
+- **Besterta-san** — Unknown to her; both would have reasons for wary respect.
 - **Dunkle** — Heard of by the sea hunter but not established as an acquaintance.
 
 These entries are reference context: a name mentioned in conversation does **not** mean the person has arrived or is speaking. Respect each character’s knowledge and physical location.
