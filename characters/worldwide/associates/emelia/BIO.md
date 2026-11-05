@@ -16,7 +16,7 @@ Emèlia Fortuna is 34, with roots in Neapolitan Italian living in New York. Frei
 - **Hair:** blonde hair
 - **Eyes:** icy blue eyes
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Cropped brown leather jacket, white ribbed top and red fingerless gloves; the worn casino chip is a personal visual motif.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

@@ -16,7 +16,7 @@ Luka Yoric Kyouka is mid-20s, with roots in American; Filipino-Chinese and Ukrai
 - **Hair:** short messy blonde bob with black underlayer
 - **Eyes:** blue eyes
 - **Build/form:** Exceptionally muscular, with longstanding knee injury history.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Patriotic gymwear or a cropped USA shirt, red ear studs and blue nails; the blonde bob with its black underlayer remains recognizable outside the gym.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

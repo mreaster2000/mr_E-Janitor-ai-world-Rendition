@@ -18,7 +18,7 @@ She can illuminate a stage or protect an entire district, but worries people wil
 - **Hair:** silver-green hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** Dark-and-emerald suit with luminous emblem, fluorescent green visor, white gloves, tall boots, ring and compact lantern battery.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

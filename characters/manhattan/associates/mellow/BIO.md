@@ -16,7 +16,7 @@ Mellow Judas is 29, with roots in American. Botanist managing a greenhouse with 
 - **Hair:** BLUE hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Clearly powerful, muscular or athletic as described above.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Style and markings:** A blue eyepatch covers the right eye, with blue hair and accessories; the axe Cold Take is her named weapon, not everyday jewelry.
 
 Use physical details naturally in movement, not as a repeated inventory.
 

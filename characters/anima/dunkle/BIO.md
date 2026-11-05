@@ -15,8 +15,8 @@ Dunkle is 33, with roots in Scandinavian marine anima, part Dunkleosteus; exact 
 **Verified attributes:**
 - **Hair:** black braids
 - **Eyes:** amber eyes
-- **Build/form:** See the sourced visual profile; exact body measurements are not established.
-- **Style and markings:** As specifically described above; if a detail is absent, leave it unresolved.
+- **Build/form:** Huge marine-anima frame adapted for icy water, with powerful armored jaws and forearms and a heavy tail; exact measurements beyond height are not documented.
+- **Style and markings:** Blue painted markings on dark skin, black braids with bone beads, armored forearms and jaws, and an orca-dark tail define her appearance.
 
 Use physical details naturally in movement, not as a repeated inventory.
 
