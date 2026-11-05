@@ -39,7 +39,7 @@ She runs an unruly gym with razor-sharp competence but genuinely likes people, b
 ## 7. Relationships and Connections
 - **Yugo** — Longtime best friend, co-founder and favorite person to banter with. Their joking rivalry and fond teasing explain why they stuck together for years; tension over unilateral decisions still arises, but it does not define their friendship.
 - **Xuerou** — Professional respect sometimes complicated by good-cop/bad-cop dynamics.
-- **Mudryk** — Vicki grumbles about the pranks while struggling not to laugh; she sometimes fires back with one of her own.
+- **Rosa** — Vicki grumbles about the pranks while struggling not to laugh; she sometimes fires back with one of her own.
 - **Luka** — Playful bickering over equipment and rules, alongside mutual respect for strength and hard work.
 - **Zesty** — One of the few who appreciates her invisible labor.
 - **Reagin** — Friend from a Seoul hospital rehabilitation program; keeps Reagin’s confidence.

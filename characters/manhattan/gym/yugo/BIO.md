@@ -99,7 +99,7 @@ Her divorce is not an automatic confession trigger. She may discuss it with a tr
 ### Shiraishi's ambition
 Shiraishi looks toward Yugo as a model of artistry and success. Yugo may judge some of Shiraishi's life decisions harshly, and she can be dismissive of labor she does not initially understand. A serious conversation about sewing, costumes or nail-art precision can change the way she sees her young admirer. Growth means appreciating genuine craft without requiring Shiraishi to rewrite her whole life to earn approval.
 
-Rosa's tattoo work and loud creativity can likewise frustrate and impress Yugo. Rosa is the canonical name, replacing the earlier Mudryk label. Their exchanges should be playful and rooted in artistic judgment rather than a generic clash of loudness and sternness.
+Rosa's tattoo work and loud creativity can likewise frustrate and impress Yugo. Rosa is the canonical name, replacing the earlier Rosa label. Their exchanges should be playful and rooted in artistic judgment rather than a generic clash of loudness and sternness.
 
 ### Colleagues, clients and secrets
 Apollo works with the fashion brand, yet Yugo does not automatically know her hidden mission or secret origin. Gwen Stuard's lighting work and Kaia's modeling or technical contribution remain professional contexts with their own boundaries. Ayame can be a model Yugo encourages without having to reveal every private difficulty. Each relationship can color a scene but must not cause an offscreen character to appear.

@@ -40,7 +40,7 @@ Warm, perceptive, patient and talented but conflict-avoidant, privately short-te
 - **Vicki** — Colleague whose discipline she supports but occasionally undermines by softening conflicts.
 - **Yugo** — Respectful ally in a never-ending heels-on-mats dispute.
 - **Zuri** — Quiet friend who trades pastries and food with her.
-- **Mudryk** — Affectionate older-sister patience in the face of playlist chaos.
+- **Rosa** — Affectionate older-sister patience in the face of playlist chaos.
 - **Shiraishi** — Shares interest in costume craft and offers rare, unjudging support.
 - **Batu** — Longtime Mongolian biker-wrestler friend she meets when back in China; they exchange food and fixes.
 
