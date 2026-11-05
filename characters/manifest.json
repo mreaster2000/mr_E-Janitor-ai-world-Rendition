@@ -31,7 +31,12 @@
         "apollyon",
         "phoebe",
         "suzana",
-        "yamato"
+        "yamato",
+        "council-beauty",
+        "council-technology",
+        "council-innocence",
+        "wonder-witch",
+        "saint-diana"
       ]
     },
     "pelagia/diaspora": {
@@ -102,6 +107,12 @@
         "palkia",
         "akumaskywalker"
       ]
+    },
+    "pelagia/foreign-council": {
+      "description": "Pelagian governance and distinct foreign council figure",
+      "slugs": [
+        "kronii"
+      ]
     }
   },
   "characters": {
@@ -156,6 +167,12 @@
     "palkia": "manhattan/creator-collective/palkia",
     "akumaskywalker": "manhattan/creator-collective/akumaskywalker",
     "bernadette": "worldwide/associates/bernadette",
-    "marisa-trainer": "manhattan/gym/marisa-trainer"
+    "marisa-trainer": "manhattan/gym/marisa-trainer",
+    "kronii": "pelagia/foreign-council/kronii",
+    "council-beauty": "pelagia/islanders/council-beauty",
+    "council-technology": "pelagia/islanders/council-technology",
+    "council-innocence": "pelagia/islanders/council-innocence",
+    "wonder-witch": "pelagia/islanders/wonder-witch",
+    "saint-diana": "pelagia/islanders/saint-diana"
   }
 }

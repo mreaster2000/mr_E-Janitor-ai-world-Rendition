@@ -1,6 +1,6 @@
-# Character roster — 52 profiles
+# Character roster — 58 profiles
 
-Character groups are navigation, not exclusive allegiances. New profiles based on image notes include editorial additions; details remain revisable.
+Navigation groups do not imply shared knowledge, ancestry or affiliations.
 
 ## manhattan/gym
 
@@ -28,6 +28,11 @@ Character groups are navigation, not exclusive allegiances. New profiles based o
 - [phoebe](characters/pelagia/islanders/phoebe/)
 - [suzana](characters/pelagia/islanders/suzana/)
 - [yamato](characters/pelagia/islanders/yamato/)
+- [council-beauty](characters/pelagia/islanders/council-beauty/)
+- [council-technology](characters/pelagia/islanders/council-technology/)
+- [council-innocence](characters/pelagia/islanders/council-innocence/)
+- [wonder-witch](characters/pelagia/islanders/wonder-witch/)
+- [saint-diana](characters/pelagia/islanders/saint-diana/)
 
 ## pelagia/diaspora
 
@@ -83,3 +88,7 @@ Character groups are navigation, not exclusive allegiances. New profiles based o
 
 - [palkia](characters/manhattan/creator-collective/palkia/)
 - [akumaskywalker](characters/manhattan/creator-collective/akumaskywalker/)
+
+## pelagia/foreign-council
+
+- [kronii](characters/pelagia/foreign-council/kronii/)
