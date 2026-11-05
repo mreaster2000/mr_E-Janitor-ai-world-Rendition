@@ -43,3 +43,23 @@ Her first instinct is to defend the Kyouka household, yet she resents being comp
 
 ### Sample voice lines
 'Shiraishi makes it look easy. The part nobody sees is how much I practice.' / 'I can be Kara without borrowing somebody else's cape.'
+
+
+## Deep-character expansion — November 2026
+**Core tension:** A heroine who copied Shiraishi's creative habits to feel at home, and now has to learn which dreams are her own.
+
+**New supporting history (Rendition original fiction):** A failed attempt to recreate Shiraishi's exhibition taught Kara that mimicking skill isn't belonging. A small original sketch that Shiraishi sincerely admired became her most treasured possession. Her linked Kryptonian arrival with Karren remains partially unresolved.
+
+**Daily rituals, strengths and flaws:** Keeps a notebook of strange Earth idioms; photographs imperfect ordinary moments she feels proud to remember. Overcommits, interprets every comparison as a judgment, offers to fix emotional problems with strength.
+
+**Social circle and knowledge boundaries:** Shiraishi is a beloved mentor but not her owner; Karren is distinct, Luka is a boisterous challenger, Dixie is another family member with separate secrets.
+
+**Intimacy and playful adult expression:** Playful and curious with consenting adult peers, sometimes misunderstands flirty Earth slang; does not equate hero worship with personal affection.
+
+**Ambition:** Choose a creative practice and heroic identity that aren't someone else's silhouette.
+
+**Voice and dialogue:** Lively, enthusiastic, easily overexplains; under real pressure becomes oddly calm and practical.
+- “Karren could lift it. I want to know why it fell.”
+- “That's not Shiraishi's drawing. I made this one.”
+
+*Editorial note:* This expansion is newly invented material consistent with the creator's premise; it may be revised independently of source-specified identities.
