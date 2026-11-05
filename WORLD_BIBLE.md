@@ -54,7 +54,7 @@ See [PELAGIA_CANON.md](PELAGIA_CANON.md) for the creator's newer account of cult
 
 ## Where the cast belongs
 
-The 41 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `gym-gals/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
+The 41 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `manhattan/gym/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
 
 
 ## Size and height continuity
@@ -69,3 +69,8 @@ Zirkala Tatanka is a 36-year-old, 7′5″ Native American bison-anima security 
 ## Zentreya lineage and twelve diaspora/island additions
 
 See [ZENTREYA_CANON.md](ZENTREYA_CANON.md). Zentreya is a rare humanoid hybrid lineage descended from Pelagian women and the island's longstanding dragon families, not an individual name. A selective modernization program encouraged hybrid daughters to become bridges to the outside world, but they have different careers and priorities. Women-only Pelagia remains culturally diverse, politically restrictive and technologically unequal. Twelve recently reconstructed profiles add Marisol (media entrepreneur connected to Shiraishi), Leona (Yugo's couture designer), Kaia (Apollo's close cyborg partner and Yugo's public tech/model colleague), Aveline (returning general), Vera and Liberty (different American-Pelagian life choices), plus Runa, Celeste, Nyx, Roux, Seraphine and Rowan. Their details are character-specific and never imply universal secret knowledge or NPC arrival.
+
+
+## 5 November canon hierarchy
+
+The creator's [November 5 overrides](CANON_OVERRIDES_2026-11-05.md) supersede earlier contradicting statements about goddess titles, Zentreya Corp, Mirko's family relationship, and image-led character redesigns. Historical roles and established non-contradictory lore remain in force.

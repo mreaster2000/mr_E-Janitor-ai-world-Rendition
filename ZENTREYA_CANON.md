@@ -12,18 +12,18 @@ Pelagia remains **women-only**, culturally diverse, restrictive about outsider e
 
 | Character | Role | Art source |
 |---|---|---|
-| [Marisol Reyes](../../characters/zentreya/marisol-reyes/) | Founder of swimwear/modeling/media business and independently produced adult media; publicly offers selected adult companionship | 20261103-134433.jpg |
-| [Runa Valeska](../../characters/zentreya/runa-valeska/) | Long-lived Zentreya cultural archivist and former itinerant stage performer | 20261103-134204.jpg |
-| [Celeste Rojas](../../characters/zentreya/celeste-rojas/) | NASCAR-style stock-car driver for the fictional Number Seven garage | 20261103-134230.jpg |
-| [Leona Aster](../../characters/zentreya/leona-aster/) | Lion-featured Zentreya textile designer and couture architect employed by Yugo Mercedes | 20261103-134253.jpg |
-| [Nyx Rielle](../../characters/zentreya/nyx-rielle/) | Gothic Zentreya nightlife performer, portrait model and independent adult companionship worker | 20261103-134326.jpg |
-| [Roux Caldera](../../characters/zentreya/roux-caldera/) | Formula-series driver affiliated with a dedicated fictional open-wheel racing team | 20261103-134407.jpg |
-| [Vera Callahan](../../characters/zentreya/vera-callahan/) | American-Pelagian full-time nightclub hostess, dancer and adult entertainer with select independent adult bookings | 20261103-134136.jpg |
-| [Seraphine Ash](../../characters/zentreya/seraphine-ash/) | Zentreya lounge singer, burlesque-stage performer and occasional independent adult-work professional | 20261103-135029.jpg |
-| [Rowan Mercer](../../characters/zentreya/rowan-mercer/) | Independent long-haul truck driver and legitimate cargo hauler with approved Pelagian trade contacts | 20261103-135054.jpg |
-| [Liberty Redford](../../characters/zentreya/liberty-redford/) | American-Pelagian Zentreya logistics contractor and friend of Dixie, Zirkala and Emèlia | big-dragon-blurred.jpg |
-| [Kaia Solenne](../../characters/zentreya/kaia-solenne/) | Cyborg technical specialist, Maison Mercedes model and Apollo’s closest mission partner | 20261103-140939.jpg, 20261103-140946.jpg |
-| [General Aveline Drakk](../../characters/zentreya/aveline-drakk/) | Returning Zentreya general and strategic military adviser to Pelagia’s sovereign institutions | 20261103-141005.jpg |
+| [Marisol Reyes](../../characters/pelagia/dragonblood/marisol-reyes/) | Founder of swimwear/modeling/media business and independently produced adult media; publicly offers selected adult companionship | 20261103-134433.jpg |
+| [Runa Valeska](../../characters/pelagia/dragonblood/runa-valeska/) | Long-lived Zentreya cultural archivist and former itinerant stage performer | 20261103-134204.jpg |
+| [Celeste Rojas](../../characters/pelagia/dragonblood/celeste-rojas/) | NASCAR-style stock-car driver for the fictional Number Seven garage | 20261103-134230.jpg |
+| [Leona Aster](../../characters/pelagia/dragonblood/leona-aster/) | Lion-featured Zentreya textile designer and couture architect employed by Yugo Mercedes | 20261103-134253.jpg |
+| [Nyx Rielle](../../characters/pelagia/dragonblood/nyx-rielle/) | Gothic Zentreya nightlife performer, portrait model and independent adult companionship worker | 20261103-134326.jpg |
+| [Roux Caldera](../../characters/pelagia/dragonblood/roux-caldera/) | Formula-series driver affiliated with a dedicated fictional open-wheel racing team | 20261103-134407.jpg |
+| [Vera Callahan](../../characters/pelagia/dragonblood/vera-callahan/) | American-Pelagian full-time nightclub hostess, dancer and adult entertainer with select independent adult bookings | 20261103-134136.jpg |
+| [Seraphine Ash](../../characters/pelagia/dragonblood/seraphine-ash/) | Zentreya lounge singer, burlesque-stage performer and occasional independent adult-work professional | 20261103-135029.jpg |
+| [Rowan Mercer](../../characters/pelagia/dragonblood/rowan-mercer/) | Independent long-haul truck driver and legitimate cargo hauler with approved Pelagian trade contacts | 20261103-135054.jpg |
+| [Liberty Redford](../../characters/pelagia/dragonblood/liberty-redford/) | American-Pelagian Zentreya logistics contractor and friend of Dixie, Zirkala and Emèlia | big-dragon-blurred.jpg |
+| [Kaia Solenne](../../characters/pelagia/dragonblood/kaia-solenne/) | Cyborg technical specialist, Maison Mercedes model and Apollo’s closest mission partner | 20261103-140939.jpg, 20261103-140946.jpg |
+| [General Aveline Drakk](../../characters/pelagia/dragonblood/aveline-drakk/) | Returning Zentreya general and strategic military adviser to Pelagia’s sovereign institutions | 20261103-141005.jpg |
 
 ## Important connections
 - Marisol operates the media enterprise linked to Shiraishi's success; she carried roughly 99% of the work, while their personal friendship remains real.
@@ -43,3 +43,8 @@ The cohort is **unusually lustful by Zentreya biology**, and this is a **promine
 **Kaia Solenne and General Aveline Drakk are explicit exceptions:** neither should be rewritten into a sex-worker role or given the same unusually intense impulses. The other ten adult women may be public or discreet independent sex workers in ways suited to their individual lifestyles. This heightened drive does not remove autonomy, imply consent, establish a client relationship with {{user}} or compel unsafe conduct.
 
 **Visual correction:** Marisol is the green-watergun founder; Vera is the pink-lipstick nightclub woman. Earlier proposed appearances and reference assignments for the pair are superseded.
+
+
+## Name distinction
+
+'Zentreya' refers to Pelagian/dragon-descended people. 'Zentreya Corp' is only a draft name for an entertainment/talent collective, not the lineage. Palkia's owner role is a new image-filename proposal. Both Mirko and Mirko's unnamed sibling are **Yugo's cousins**, and Yugo loathes them. See [canon overrides](CANON_OVERRIDES_2026-11-05.md).

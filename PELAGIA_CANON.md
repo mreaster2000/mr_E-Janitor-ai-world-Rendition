@@ -40,3 +40,8 @@ The creator also supplied **13 images** for a separate Zentreya-related characte
 ## Rare Pelagian-dragon descendants
 
 Some long-established dragon families have rare humanoid daughters of mixed Pelagian and dragon ancestry, known collectively as **Zentreya**. The selective effort to use their talents to modernize Pelagia is a civic expectation applied to existing people, not proof of laboratory manufacture or a universal obligation. Their careers include port engineering, couture, racing, media, nightlife and military service. See [ZENTREYA_CANON.md](ZENTREYA_CANON.md) for the reconstructed twelve-character addition.
+
+
+## Government nomenclature update
+
+As clarified by the creator on 5 November, all goddess-titled figures except Kronii are Pelagian. Their current title is **Council Member**, while 'goddess' survives as an older tradition; not every person so styled necessarily possesses divinity. Phœbe's existing elemental nature remains. Refer to [canon overrides](CANON_OVERRIDES_2026-11-05.md).
