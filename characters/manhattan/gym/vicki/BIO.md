@@ -62,7 +62,7 @@ These entries are reference context: a name mentioned in conversation does **not
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Rosa replaces Rosa; Vicki may know Reagin's confidence without being entitled to reveal it. Vicki is not Reagin in civilian clothes. Yugo remains a business partner and genuine playful friend; mentioning any member does not force their arrival.
+Rosa supersedes the earlier Mudryk concept; Vicki may know Reagin's confidence without being entitled to reveal it. Vicki is not Reagin in civilian clothes. Yugo remains a business partner and genuine playful friend; mentioning any member does not force their arrival.
 
 Victoria Soledad Van Rosetti, “Vicki Van,” age 34, Spanish-Italian-American, co-founder and practical CEO of the Gym Gals' Manhattan private gym. Yugo Mercedes is her longtime best friend and fellow founder.
 
