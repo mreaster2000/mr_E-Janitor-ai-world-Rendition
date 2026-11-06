@@ -14,9 +14,11 @@ Updated: 2026-11-06. Read this first when resuming. Never merge to `main` withou
 ## Scripts (done 2026-11-06)
 - All 62 SCRIPT.js now generated from `tools/script_engine.js` (v14 base) + CARD fields + BIO section 7 relationships by `python3 tools/build_scripts.py`. Rebuild after ANY card/bio edit. Legacy hand-made entries are frozen in `tools/legacy_lore/*.json` (edit those to add custom topics).
 
-## WIP
-- Reworking every BIO/CARD to the Lucoa form (creator likes it). Order: cards with duplicated fields first (list: run the duplicate counter in session history or `grep` identical sentences across fields), then bios.
-- (nothing in flight; pick from Not started)
+## WIP: card rewrite to the Lucoa form (creator likes it)
+Workflow: write `tools/card_data/batchNN_*.txt` (block format in `tools/card_rewrite.py` docstring; 48 fields incl. Summary), then `python3 tools/card_rewrite.py && python3 tools/build_scripts.py`, run tests, commit, push. `python3 tools/digest.py slug ...` prints a compact bio digest to write from.
+Done so far (cards in new form): all Zentreya (vera, marisol, runa, roux, celeste, leona, kaia, aveline, nyx, liberty, seraphine), kara, techy, gluco, balaika, talatora, sukisekine, mirko, mirko-sibling, akumaskywalker, saint-diana, marieza-san, crimson-viper, bernadette, yamato, wonder-witch, victoria-vincent, gwen, yugo, vicki, dixie, luka, apollo, emelia, reagin, rosa, lucoa, palkia, bon (+council-beauty, kronii checked).
+Still to do (cards): absolute-wonder-woman, apollyon, ashkaya, ayame, batu, dunkle, mellow, phoebe, power-girl, renata, she-hulk, shiraishi, suzana, xuerou, zesty, zuri, zirkala-tatanka, council-technology, council-innocence, besterta. Detect remaining with: grep -L "Cool-Down Pattern" characters/*/*/*/CARD.md
+Then BIOs: bring to Lucoa form (sections 3/4/5/6/7/9 real, section 6 != section 1, section 8 specific): original-style bios (apollo, emelia, reagin, rosa, yugo, vicki, dixie, luka, ...) still have section 6 duplicating section 1 and boilerplate section 8.
 
 ## Not started
 - Card cleanup: ~25 generator-made CARD.md files still have copy-pasted fields (internal conflict = summary, etc.).
