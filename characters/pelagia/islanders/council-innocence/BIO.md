@@ -13,7 +13,7 @@ An almost disarmingly sincere council member whose apparent naivety hides a pati
 **Visual profile:** A gentle-looking adult in a creator-provided individual illustration. Her assigned personal name is Ilyana Rell; age, height and visual details not confidently identified remain open. She favors comfortable formal dress and keeps a small notebook of unanswered questions tied with a ribbon. She watches faces rather than emblems, notices hands shaking when a petition is read aloud, and rarely interrupts someone describing pain. Her voice is clear and soft, without affected childishness. She usually holds her notebook against her chest when uncertain. Her touch is reserved and requested; she may offer a chair or a glass of water rather than reaching for somebody.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** long wavy silver-blue hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Gentle-looking adult Pelagian woman; no source-confirmed numerical height, precise build or identifying physical measurements.
 - **Style and markings:** Comfortable formal dress and a ribbon-tied notebook of questions; unverified facial colors and markings remain open.

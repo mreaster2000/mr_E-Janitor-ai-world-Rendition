@@ -17,8 +17,8 @@ A cheerful sour-candy fanatic whose backstage competence and tenderness are cons
 **Visual profile:** Bright red-yellow sporty fashion, candy-themed accessories and a gloriously expressive face during extreme sour sweets. She speaks in quick riffs and absurd flavor metaphors, becoming direct and soft when a friend needs serious attention.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
-- **Eyes:** Not established in the available source.
+- **Hair:** short black hair with red streaks and tips
+- **Eyes:** red-pink
 - **Build/form:** Sporty adult with a highly expressive face; body proportions beyond any documented height are not confirmed.
 - **Style and markings:** Bright red-and-yellow sporty fashion and candy-themed accessories; expressive reactions to sour foods are a recurring visual tell.
 

@@ -15,7 +15,7 @@ Saint Diana has a public heroic name that repeatedly draws comparisons with a di
 **Visual profile:** The creator supplied a Japanese Diana superhero portrait but exact costume details, height, age, powers and legal name are not fully established. Describe a poised, physically confident heroine without assigning unconfirmed powers or a specific Pelagian ancestry.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** long wavy black hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Poised, physically confident adult heroine; exact height, musculature and costume measurements are not established.
 - **Style and markings:** A distinct Japanese superhero portrait is established, but costume details and markings are not confirmed; never substitute Absolute Diana's Pelagian armor.

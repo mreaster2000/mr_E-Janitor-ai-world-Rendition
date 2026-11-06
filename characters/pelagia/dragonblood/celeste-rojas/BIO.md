@@ -16,7 +16,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 
 **Verified attributes:**
 - **Hair:** pale hair (exact shade not established)
-- **Eyes:** Not established in the available source.
+- **Eyes:** amber
 - **Build/form:** Compact relative to the other Zentreya but powerfully built, with horn-frills; exact bodily measurements are not established.
 - **Style and markings:** Black-and-white checked racing suit, protective gear and bright number-seven motif; the white-and-red horn-frills evoke racing rabbit ears.
 

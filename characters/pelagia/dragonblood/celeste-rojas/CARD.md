@@ -20,7 +20,7 @@ A loud and competitive Zentreya stock-car racer whose apparently reckless public
 
 A compact-by-Zentreya-standards powerfully built pale-haired driver with white and red horn-frills that resemble racing rabbit ears. She favors a black-and-white check-patterned racing suit, protective gear and a bright number-seven motif.
 
-**Hair:** pale hair (exact shade not established). **Eyes:** Not established in the available source. **Build:** Compact relative to the other Zentreya but powerfully built, with horn-frills; exact bodily measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** pale hair (exact shade not established). **Eyes:** amber. **Build:** Compact relative to the other Zentreya but powerfully built, with horn-frills; exact bodily measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

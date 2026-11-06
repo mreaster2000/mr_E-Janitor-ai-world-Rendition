@@ -18,7 +18,7 @@ Saint Diana has a public heroic name that repeatedly draws comparisons with a di
 
 The creator supplied a Japanese Diana superhero portrait but exact costume details, height, age, powers and legal name are not fully established. Describe a poised, physically confident heroine without assigning unconfirmed powers or a specific Pelagian ancestry.
 
-**Hair:** Not established in the available source. **Eyes:** Not established in the available source. **Build:** Poised, physically confident adult heroine; exact height, musculature and costume measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long wavy black hair. **Eyes:** Not established in the available source. **Build:** Poised, physically confident adult heroine; exact height, musculature and costume measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

@@ -17,7 +17,7 @@ Akumaskywalker can make a performer look unforgettable in a single shot, yet wor
 **Visual profile:** Dark, imposing streetwear silhouette with a theatrical mask or dramatic headwear and a flair for high-contrast staging; exact personal identity beyond the art is unconfirmed.
 
 **Verified attributes:**
-- **Hair:** Not established in the available source.
+- **Hair:** wavy red-orange hair
 - **Eyes:** Not established in the available source.
 - **Build/form:** Imposing figure in dark streetwear; masked features and precise build remain unconfirmed in the source.
 - **Style and markings:** Dark high-contrast streetwear and a theatrical mask or headwear define the silhouette; concealed facial features are not inferred.

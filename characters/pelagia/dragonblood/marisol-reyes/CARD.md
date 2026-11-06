@@ -20,7 +20,7 @@ A self-made founder who treats glamour as a craft and a commercial instrument; h
 
 A powerful red-haired, horned half-dragon with russet scales, muscular curves and a long expressive tail. Her playful poolside reference has an unmistakable neon-green water blaster; at work she also favors sharp executive tailoring.
 
-**Hair:** red hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** red hair. **Eyes:** amber-yellow. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

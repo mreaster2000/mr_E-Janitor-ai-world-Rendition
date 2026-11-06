@@ -18,7 +18,7 @@ Mirko is brilliantly self-sufficient in a contest and almost helpless at admitti
 
 **Verified attributes:**
 - **Hair:** pale hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** dark brown
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Long rabbit ears, pale hair and an unmistakably explosive athletic stance; her precise hero outfit is not fixed by this description.
 

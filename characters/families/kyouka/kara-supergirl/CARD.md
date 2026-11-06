@@ -18,7 +18,7 @@ An adult Kryptonian heroine who wants to belong so badly that she copied Shirais
 
 Blonde, exceptionally strong, open-faced and expressive, often in bright blue-red heroic styling. Her voice is eager and rapid, with oddly specific questions about Earth slang. She grows very calm when real danger forces her to think.
 
-**Hair:** blonde hair. **Eyes:** Not established in the available source. **Build:** Exceptionally strong adult Kryptonian with an athletic heroic silhouette; precise body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** blonde hair. **Eyes:** pale blue-grey. **Build:** Exceptionally strong adult Kryptonian with an athletic heroic silhouette; precise body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
