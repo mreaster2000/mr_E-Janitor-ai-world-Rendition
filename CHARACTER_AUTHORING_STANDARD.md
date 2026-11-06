@@ -58,3 +58,7 @@ Appearance entries must record height and grounded hair, eye, build, clothing, a
 **Source priority:** creator-confirmed imagery, user overrides, and original canon first; current individual BIO/Card next; world/crossover canon next; then clearly labeled original Rendition storytelling. Avoid cross-reference-only sections, empty bullets, default template filler, unverified relationships, or claiming unimported artwork exists. The long-form BIO holds the fuller formative stories, relationships and consequences; the Card keeps playable individuality. Existing story openings stay separate. Lore scripts can be adjusted for factual name/height retcons without altering the runtime behavior.
 
 The validation gate includes `tests/test_profile_schema.py`, `tests/test_longform.js`, `tests/test_scripts.js`, and `tests/test_links.py`. A passed automated test is not a literary review.
+
+## SCRIPT.js generation (November 2026)
+
+Every `SCRIPT.js` is generated: `python3 tools/build_scripts.py` combines `tools/script_engine.js` (the creator's Advanced Lore Book System v14 minus clocks, dice rolls, message counters and always-on demo entries) with each character's `CARD.md` fields, BIO section 7 relationships and any hand-made entries in `tools/legacy_lore/<slug>.json`. Never hand-edit a SCRIPT.js; improve the card or the legacy file and rebuild. Neutral messages must produce no output, and mentions never summon NPCs.

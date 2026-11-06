@@ -11,7 +11,11 @@ Updated: 2026-11-06. Read this first when resuming. Never merge to `main` withou
 - Lucoa added (pelagia/diaspora/lucoa): Vicki's roommate, ex-council member, runs Vicki's car wash, Bon's best friend. Bon and Vicki updated. Counts now 62.
 - All tests pass (`python3 tests/test_profile_schema.py`, `node tests/test_*.js`, `python3 tests/test_links.py`).
 
+## Scripts (done 2026-11-06)
+- All 62 SCRIPT.js now generated from `tools/script_engine.js` (v14 base) + CARD fields + BIO section 7 relationships by `python3 tools/build_scripts.py`. Rebuild after ANY card/bio edit. Legacy hand-made entries are frozen in `tools/legacy_lore/*.json` (edit those to add custom topics).
+
 ## WIP
+- Reworking every BIO/CARD to the Lucoa form (creator likes it). Order: cards with duplicated fields first (list: run the duplicate counter in session history or `grep` identical sentences across fields), then bios.
 - (nothing in flight; pick from Not started)
 
 ## Not started
