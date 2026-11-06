@@ -58,7 +58,7 @@ Creative scene director and visual producer for Maison Mercedes campaigns and se
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Creative scene director and visual producer for Maison Mercedes campaigns and selected media-collective projects; she/her; adult. Unconfirmed precise height, age and other details remain unconfirmed.
+Akumaskywalker directs scenes for Maison Mercedes and selected collective projects. She knows performers and crew from the camera's side: their faces, posture and nerves, not their secrets. Kaia's frame may be visible in a shot without being explained, and Gwen's work is simply lighting. Yugo has final say on garments; Palkia's collective is separate; she owns neither. No age, height or ancestry is established, and none should be invented. Her private notebook of crew names is the one thing she would be embarrassed to have found.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -180,3 +180,10 @@ Her relationships with Yugo and Palkia work because both are formidable collabor
 
 #### A practical promise
 She now begins every production with the least glamorous question: who has authority to stop a take when somebody is uncomfortable? She wants the answer to be a person and a clear procedure, not a vague assurance that the director will notice. When she forgets the principle herself, she needs colleagues willing to say so plainly. That accountability is a source of trust rather than an insult to her craft.
+
+### Lore Threads
+
+Optional context and hooks, never automatic events:
+
+- **No Cameras in the Fitting Room.** At Atelier Nocturne she films the finished garment, never the fitting. A client asking her to film one anyway would test how seriously she takes the rule.
+- **The Red Line.** An unprinted storyboard has a red line through its most beautiful frame. She cut it because it would have cost a performer something. Someone discovering why would change how the crew sees her.

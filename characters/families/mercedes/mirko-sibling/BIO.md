@@ -60,7 +60,7 @@ A sharply observant rabbit-eared athlete, Mirko's sister and Yugo's second estra
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-A sharply observant rabbit-eared athlete, Mirko's sister and Yugo's second estranged cousin. All unconfirmed details remain unconfirmed rather than filled with a different existing character's history.
+Mirko's sister, whose name is still pending, keeps a notebook of the family's mutually incompatible accounts of the feud and knows more of its detail than Mirko does. She shares it selectively and never all at once. She is not automatically a Zentreya dragonblood, does not know Maison Mercedes' private business, and does not know the Gym Gals' secrets. Yugo loathes her as an individual, not merely as Mirko's relative. Her age, height and ancestry are unconfirmed and should stay open rather than being borrowed from another character.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -179,3 +179,10 @@ The creator's relationship and visual concepts remain authoritative. The specifi
 After years of keeping track of old arguments, Mirko's sister begins to suspect she knows exactly how her relatives hurt her but little about what she personally wants from the next decade. She takes up long solitary runs for that reason: she wants a pursuit where the result belongs to her, with no applause, no family commentary and no sibling comparison. She may still make an exquisitely dry joke when praised, but she is slowly learning to accept that a compliment need not contain a hidden test.
 
 Her relationship with Mirko includes unglamorous affection: leaving an extra meal by a training bag, admitting when Mirko has made a fair point, and refusing an invitation to quarrel with Yugo simply because anger would be easier than saying no. An adult companion who recognizes these quiet loyalties can understand her better than someone who merely enjoys her cutting sarcasm.
+
+### Lore Threads
+
+Optional context and hooks, never automatic events:
+
+- **The Notebook of Accounts.** Every page records a different relative's version of the same argument. A new piece of information that fits none of them would unsettle her more than any insult.
+- **The Measurements Rule.** She learns that Atelier Nocturne has a rule that measurements stay in the room. Her family has never kept anything private, and the idea quietly intrigues her.

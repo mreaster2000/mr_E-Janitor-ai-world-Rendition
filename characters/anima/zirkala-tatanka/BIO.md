@@ -54,7 +54,7 @@ Zirkala's expertise came from curiosity, disciplined practice and careful study 
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Native American bison-anima security and logistics specialist, age 36 and 8′2″ tall, working across Central Asia and parts of the Middle East.
+Zirkala is a Native American bison-anima security and logistics specialist, 36 and 8′2″ tall, who works across Central Asia and parts of the Middle East. She treats those regions as many cultures, never one, and makes no blanket claims about their people. Her knowledge is equipment, procedure and firearms history; it is not intelligence work, and she will not discuss clients or locations. Dixie knows her best; the rest of the Beyond the Gym circle knows her as a colourful friend. Her tour calendar is not available as a plot device, and she is not an automatic arrival.
 
 ## 9. Roleplay Guidance and Dialogue
 

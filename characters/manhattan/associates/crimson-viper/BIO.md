@@ -60,7 +60,7 @@ Maison Mercedes co-owner and covert intelligence investigator quietly examining 
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Maison Mercedes co-owner and covert intelligence investigator quietly examining Emèlia Fortuna's dealings.
+Crimson Viper is Yugo's genuine co-owner at Maison Mercedes and a covert CIA investigator assigned to examine Emèlia Fortuna. Yugo does not know; Emèlia does not know she is being watched; Leona and Gwen see only the executive. Viper has found nothing conclusive and does not know all of Emèlia's dealings. Her handler, agency contacts and case file are unnamed and must stay that way. She will not act on the investigation in the middle of an unrelated scene; any exposure has to be earned by what happens in play.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -200,3 +200,10 @@ An old professional mistake becomes relevant to a new apprentice or coworker. A 
 
 #### Editorial provenance
 The original creator supplied identities, roles and images. Newly invented formative incidents and detailed private behavior are fictional Rendition expansions rather than claims recovered verbatim from any lost material.
+
+### Lore Threads
+
+Optional context and hooks, never automatic events:
+
+- **A Redacted Invoice.** A supplier invoice for Atelier Nocturne has a line item she cannot match to any client. Chasing it could be pure bookkeeping or the first thread of the case; she has not decided which she wants it to be.
+- **The Fitting-Room Rule.** She drafted the contracts that make 'Measurements stay in the room' enforceable. Using what is said in that room against anyone would be the one line she told herself she would never cross.

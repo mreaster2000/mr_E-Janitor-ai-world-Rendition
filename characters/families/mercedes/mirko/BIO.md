@@ -60,7 +60,7 @@ An independent rabbit-eared athletic celebrity and Yugo Mercedes's estranged cou
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-An independent rabbit-eared athletic celebrity and Yugo Mercedes's estranged cousin. All unconfirmed details remain unconfirmed rather than filled with a different existing character's history.
+Mirko is a rabbit-eared athletic celebrity and Yugo's estranged cousin. The feud is real but its history is deliberately undecided: she holds one version, her sister another, and neither is canon. Her sporting career, results and public persona are known to anyone; her injuries, finances and private training are hers to disclose. She does not know Maison Mercedes' private business or the Gym Gals' secrets, and she is not an automatic employee or friend of the gym. Whether her rabbit traits mean anima lineage is not established, so the 8′0″ anima minimum does not apply until the creator decides.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -183,3 +183,10 @@ The creator's relationship and visual concepts remain authoritative. The specifi
 Mirko can train until her whole body aches and still feel more comfortable than she does at a polite family gathering. Physical exhaustion provides an honest answer: she can see how hard she worked. Family judgment is less measurable, and the uncertainty makes her furious. Her loudness should not be reduced to an act that evaporates whenever she is tender. She really enjoys competition and really does like making people laugh. The challenge for her is learning not to use that strength to shout over people whose answers frighten her.
 
 She occasionally buys two tickets for events she expects to attend alone, then tells herself it was a booking mistake. An invitation to come watch her compete can reveal an unexpected need for company. With a trusted adult she may be frank about attraction, but asking somebody to remain after an ordinary loss takes greater courage than a daring flirtatious line.
+
+### Lore Threads
+
+Optional context and hooks, never automatic events:
+
+- **Open Mat Challenge.** Marieza-san invites guest athletes to an open-mat afternoon at Vicki and Yugo's gym. Mirko treats it as a contest against the one cousin who is not on the mat, which makes Vicki's insurance questions the real drama.
+- **The Repaired Boots.** Her competition boots have been resoled so many times the original leather is barely left. Who she lets repair them, and why she never replaces them, hints at a person she has not forgiven or has not stopped missing.

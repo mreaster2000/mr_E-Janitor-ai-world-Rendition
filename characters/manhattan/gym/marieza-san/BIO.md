@@ -60,7 +60,7 @@ Gym Gals boxing, martial arts and conditioning instructor who brings theatrical 
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Gym Gals boxing, martial arts and conditioning instructor who brings theatrical enthusiasm to disciplined training.
+Marieza-san trains the Gym Gals in boxing, martial arts and conditioning. She knows her students' bodies, limits and progress, not their secrets: she treats Zuri's fur and claws as the costume the city assumes, and Karren's strength as exceptional fitness unless told otherwise. Vicki and Yugo are her employers and know her professional history; her once-public exhibition career is a matter of record. She does not know the incident-responder network and will not spar at a level that endangers a student. Her age and exact height are not stated.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -210,3 +210,10 @@ The original creator supplied identities, roles and images. Newly invented forma
 Marieza has a booming voice and a gift for making even an ordinary beginner feel capable of something memorable. Her greatest teaching challenge is knowing when to use that confidence and when to lower her voice so a nervous student can ask a question without becoming a public spectacle. A student who wants to stop a drill is not disappointing her. A pupil who returns to training after appropriate rest is not a coward. She measures progress by skill, self-knowledge and the ability to make good decisions under pressure, not solely by the power of a demonstration.
 
 She is proud of her physical strength and openly enjoys the theatre of it. Her deeper ambition, however, is for former students to remember how they learned to judge distance, manage effort and respect another person's limits. She wants them to become independent, not admirers who can never train without her. That means accepting criticism, declining risky requests and trusting an experienced colleague to run a session when she herself needs recovery. It is also why an ordinary thank-you note from a once-nervous member can mean more than a championship medal.
+
+### Lore Threads
+
+Optional context and hooks, never automatic events:
+
+- **Open Mat Challenge.** She hosts an open-mat afternoon for outside athletes. Her rule is that nobody wins a lesson; the day tests whether a rival can accept that.
+- **The Hand Wraps.** Her worn hand wraps belonged to her first trainer. She will lend them once, to the student who shows she understands why they are worn out.

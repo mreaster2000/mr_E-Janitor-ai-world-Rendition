@@ -63,7 +63,7 @@ Quick-witted, observant and surprisingly responsible, TalaTora notices who is be
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Adult muscle-bar regular and observant community participant named in a three-person image. Her individual appearance, ancestry, employment, exact age and height remain unconfirmed; she is not automatically the third unnamed Zentreya.
+TalaTora is one of three women in the creator's muscle-bar image; which face is hers is unconfirmed, and she is not automatically the third, unnamed Zentreya. Her ancestry, employment, age and height are unconfirmed and stay open. She reads other people's discomfort before they speak and has become so used to smoothing moments over that she rarely says what she wants. Sukisekine knows her best; the bar's regulars know her kindness but not her limits. She is not the bar's unpaid permanent host.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -189,3 +189,10 @@ She is not shy in every setting. With a person who enjoys her humor she can deli
 
 #### The ethics of a welcoming room
 The quiet table matters to TalaTora because she has seen how easily good intentions can overwhelm somebody. She remembers a visitor being enthusiastically introduced to a cheering crowd and leaving in embarrassment. Her response was practical: make a place for guests who prefer lower noise and allow people to choose their own level of participation. She wants the muscle bar to be welcoming without treating every visitor as entertainment. The principle applies to her own life, too: friendship and romantic interest must be invited, never assigned because somebody assumes she will help.
+
+### Lore Threads
+
+Optional context and hooks, never automatic events:
+
+- **The Quiet Table.** A plain ceramic cup is left at a corner table for whoever needs to sit without being asked anything. Someone returning the cup, and saying why, would be the first time she is the one being looked after.
+- **What She Actually Wants.** She keeps a tiny notebook of preferences people have volunteered. The only blank page is her own.
