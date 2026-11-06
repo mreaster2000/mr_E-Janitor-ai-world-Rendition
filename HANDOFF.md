@@ -29,5 +29,8 @@ Then BIOs: bring to Lucoa form (sections 3/4/5/6/7/9 real, section 6 != section 
 - Possible new characters implied by art (need creator approval of names/details): Barghest (council member), Poison (fake cop/guard/dancer), her nightclub-dancer rival/lover, Zentreya racing mechanic.
 - Sukisekine/TalaTora/third Zentreya group scene `_shared/scenes/muscle-bar.webp`.
 
+## Creator answers (2026-11-06)
+- 'Another dancer at the nightclub, lover and hater of Poison' = Juri Han. Poison = Poison (nightclub fake cop/guard/dancer). Barghest = council member image. Profiles for these three plus the Zentreya racing mechanic are NOT yet written; propose adult-world adaptations (original details, non-explicit) and get approval or just build them in the Lucoa form.
+
 ## Rules
 Queen stays unnamed; no new council seats/laws/villains; romance non-explicit; no auto-spawned NPCs; never write {{user}}'s choices; anima >= 8'0".
