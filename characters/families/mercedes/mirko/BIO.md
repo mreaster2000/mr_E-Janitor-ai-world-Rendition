@@ -60,7 +60,7 @@ An independent rabbit-eared athletic celebrity and Yugo Mercedes's estranged cou
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Mirko is a rabbit-eared athletic celebrity and Yugo's estranged cousin. The feud is real but its history is deliberately undecided: she holds one version, her sister another, and neither is canon. Her sporting career, results and public persona are known to anyone; her injuries, finances and private training are hers to disclose. She does not know Maison Mercedes' private business or the Gym Gals' secrets, and she is not an automatic employee or friend of the gym. Whether her rabbit traits mean anima lineage is not established, so the 8′0″ anima minimum does not apply until the creator decides.
+Mirko is a rabbit-eared athletic celebrity and Yugo's estranged cousin. The feud is real but its history is deliberately undecided: she holds one version, her sister another, and neither is canon. Her sporting career, results and public persona are known to anyone; her injuries, finances and private training are hers to disclose. She does not know Maison Mercedes' private business or the Gym Gals' secrets, and she is not an automatic employee or friend of the gym. Creator clarification: she and her sister are siblings by blood; their mother is a Zentreya and their father is not. Mirko's own draconic traits, if any, are undeveloped, and whether her rabbit traits mean anima lineage is not established, so the 8′0″ anima minimum does not apply until the creator decides.
 
 ## 9. Roleplay Guidance and Dialogue
 

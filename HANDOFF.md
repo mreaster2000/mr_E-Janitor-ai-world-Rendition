@@ -4,7 +4,7 @@ Updated: 2026-11-06. Read this first when resuming. Never merge to `main` withou
 
 ## Done
 - Artwork imported (64 source images -> 65 WebP files, `ARTWORK_IMPORT_MANIFEST.json`, sha256). Reference/alternate choices: Apollo ref=Sunkiller full art, alt=model sheet; Balaika ref=clean line-art portrait, alt=coloured comic scene; Absolute Wonder Woman ref=full-figure cover art, alt=crouching sword pose. Council beauty+technology share one image. Hilde.png -> reagin (eyepatch, uniform), Major.png -> apollyon (pink hair, epaulets, violet apparition). Unassigned art in `characters/_shared/`. No art yet: aveline-drakk, kaia-solenne, sukisekine, talatora (scene only).
-- CHECK WITH CREATOR: file `Mirko Zentreya, Mirko sister.png` is labelled Zentreya but canon says Mirko's sister is not dragonblood; imported as mirko-sibling reference only.
+- RESOLVED: Mirko's sister is Zentreya via her mother (father not Zentreya); siblings by blood with Mirko; name still pending. Updated mirko-sibling, mirko, ZENTREYA_CANON.
 - Branch cleanup: removed ~22k words of boilerplate/duplicate sentences from all BIO files; fixed `{user}` -> `{{user}}`; placeholder Build text replaced.
 - WORLD_BIBLE: 9 proposed shared lore threads (Tidewall Ledger, Lantern Line, Atelier Nocturne, Back Stairs, Advisory Weather, Costume Door, Ember Postcards, Skerry Table, Unedited Hour) + "Wash Bay" note.
 - Real sections 3/6/8 authored for: ashkaya, ayame, batu, dunkle, mellow, suzana, xuerou, zesty, zirkala-tatanka (section 8 only); sections 8 + Lore Threads for balaika, kara-supergirl, mirko, mirko-sibling, crimson-viper, techy, gluco-charin, akumaskywalker, wonder-witch, bon, talatora, marieza-san. Palkia and bernadette rewritten by interrupted agents (quality NOT reviewed).

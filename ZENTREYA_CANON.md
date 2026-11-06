@@ -48,3 +48,7 @@ The cohort is **unusually lustful by Zentreya biology**, and this is a **promine
 ## Name distinction
 
 'Zentreya' refers to Pelagian/dragon-descended people. 'Zentreya Corp' is only a draft name for an entertainment/talent collective, not the lineage. Palkia's owner role is a new image-filename proposal. Both Mirko and Mirko's unnamed sibling are **Yugo's cousins**, and Yugo loathes them. See the [World Bible](WORLD_BIBLE.md) for consolidated creator corrections and identity distinctions.
+
+## Mirko's sister (creator clarification, 6 November 2026)
+
+Mirko's unnamed sister is Zentreya through her mother; their father is not. She and Mirko are blood siblings and Yugo's cousins. She sits outside the twelve-person dragonblood cast because she lives with the Mercedes-side family, and her personal name is pending. Mirko herself is not confirmed to manifest dragonblood traits.

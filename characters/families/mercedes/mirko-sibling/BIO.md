@@ -14,17 +14,17 @@ Mirko's sister has learned to disappear beside a louder relative and then make e
 
 **Height:** Not established; no numeric estimate from artwork.
 
-**Visual profile:** Silver-white hair, oversized rabbit ears and a dark striped athletic suit; athletic appearance clearly differs from her sister's familiar look.
+**Visual profile:** Wild pale grey-white hair in a high ponytail, oversized rabbit ears, sharp yellow eyes, fur-trimmed wrist cuffs, a sports top, black thigh-high boots and a very toned, abs-forward athletic build. She looks strikingly like Mirko at a glance, but her draconic Zentreya inheritance gives her a harder, more feral edge.
 
 **Verified attributes:**
-- **Hair:** Silver-white hair
-- **Eyes:** Not established in the available source.
-- **Build/form:** Muscular, athletic build.
-- **Style and markings:** Dark striped athletic suit, silver-white hair and oversized rabbit ears distinguish her from her sister.
+- **Hair:** pale grey-white hair in a high ponytail
+- **Eyes:** yellow
+- **Build/form:** Very toned, muscular and athletic, with visible abs and a full bust; precise measurements are not established.
+- **Style and markings:** Fur-trimmed wrist cuffs, black thigh-high boots, a sports top and oversized rabbit ears; Zentreya traits are subtle and unusual rather than horns or wings.
 
 ## 3. Origin and Personal History
 
-Shares Mirko's wider family connection to Yugo and a history of bitter disagreements. The old 'Zentreya' note was a working filename, not confirmed species, surname, employer or lore identity.
+Shares Mirko's wider family connection to Yugo and a history of bitter disagreements. Creator clarification (6 November 2026): Mirko and her sister are siblings by blood. Their mother is a Zentreya and their father is not, which is how the sister carries the dragonblood lineage. The sister's personal name is still pending.
 
 A sharply observant rabbit-eared athlete, Mirko's sister and Yugo's second estranged cousin. All unconfirmed details remain unconfirmed rather than filled with a different existing character's history.
 
@@ -38,7 +38,7 @@ She measures a room before contributing, remembering not just the words in a fam
 
 ## 5. Work, Abilities and Daily Life
 
-Shares Mirko's wider family connection to Yugo and a history of bitter disagreements. The old 'Zentreya' note was a working filename, not confirmed species, surname, employer or lore identity.
+Shares Mirko's wider family connection to Yugo and a history of bitter disagreements. Creator clarification (6 November 2026): Mirko and her sister are siblings by blood. Their mother is a Zentreya and their father is not, which is how the sister carries the dragonblood lineage. The sister's personal name is still pending.
 
 A sharply observant rabbit-eared athlete, Mirko's sister and Yugo's second estranged cousin. All unconfirmed details remain unconfirmed rather than filled with a different existing character's history.
 
@@ -60,7 +60,7 @@ A sharply observant rabbit-eared athlete, Mirko's sister and Yugo's second estra
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Mirko's sister, whose name is still pending, keeps a notebook of the family's mutually incompatible accounts of the feud and knows more of its detail than Mirko does. She shares it selectively and never all at once. She is not automatically a Zentreya dragonblood, does not know Maison Mercedes' private business, and does not know the Gym Gals' secrets. Yugo loathes her as an individual, not merely as Mirko's relative. Her age, height and ancestry are unconfirmed and should stay open rather than being borrowed from another character.
+Mirko's sister, whose name is still pending, keeps a notebook of the family's mutually incompatible accounts of the feud and knows more of its detail than Mirko does. She shares it selectively and never all at once. She is Zentreya through her mother, with a non-Zentreya father; she carries the lineage quietly and is not part of the twelve-person dragonblood cast. She does not know Maison Mercedes' private business, and does not know the Gym Gals' secrets. Yugo loathes her as an individual, not merely as Mirko's relative. Her age and height are unconfirmed and stay open. Her mother's identity, history and how the family reached Yugo's side are undecided and must not be borrowed from another Zentreya.
 
 ## 9. Roleplay Guidance and Dialogue
 
