@@ -29,7 +29,7 @@ These are adaptations to the Rendition original-character setting; their comic i
 
 ## New additions — Gwen and Pelagia's uncommon beings (2026 Rendition)
 
-**Gwen Vale / Green Lantern:** Quietly flirty, half-human/half-Veyran luminal extraterrestrial. Earth's covert green-ring protector, working for Yugo as a Maison Mercedes lighting specialist. Yugo knows her professional skills but not necessarily her secret duties. This does not introduce the full public Green Lantern Corps or other DC superheroes.
+**Gwen Stuard / Green Lantern:** Quietly flirty, half-human/half-Veyran luminal extraterrestrial. Earth's covert green-ring protector, working for Yugo as a Maison Mercedes lighting specialist. Yugo knows her professional skills but not necessarily her secret duties. This does not introduce the full public Green Lantern Corps or other DC superheroes.
 
 **Divinity without worship:** Pelagia contains real extraordinary beings, spirits and rare monster-blooded families. Islanders do **not** worship these beings: being powerful isn't sovereign authority and does not entitle anyone to devotion. The current queen is unnamed. Ordinary councils, households and civic customs remain the base of government. This supersedes any earlier phrasing that implied no godlike beings could exist.
 

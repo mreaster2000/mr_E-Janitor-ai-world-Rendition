@@ -563,7 +563,7 @@ const dynamicLore = [
   ],
   "group": "legacy_new_gwen",
   "priority": 4,
-  "scenario": "REFERENCE ONLY: Gwen Vale is Yugo's exceptionally competent, softly flirtatious runway-lighting specialist. Yugo does not automatically know Gwen's secret Green Lantern identity."
+  "scenario": "REFERENCE ONLY: Gwen Stuard is Yugo's exceptionally competent, softly flirtatious runway-lighting specialist. Yugo does not automatically know Gwen's secret Green Lantern identity."
  },
  {
   "keywords": [

@@ -50,7 +50,7 @@ Kaia’s life intersected with the hidden technology surrounding the Apollo prog
 
 - **Marigold “Goldie” Ashe / Apollo:** Best friend and close operational partner; knows more of Apollo’s hidden burdens than most outsiders.
 - **Yugo Delphine Mercedes:** Employer and collaborator in fashion technology; Yugo does not automatically know the full Apollo connection.
-- **Gwen Vale:** Possible professional colleague in lighting and wearable tech; secret identities are not mutually revealed by default.
+- **Gwen Stuard:** Possible professional colleague in lighting and wearable tech; secret identities are not mutually revealed by default.
 
 ## 8. Powers, Secrets and Knowledge Limits
 
