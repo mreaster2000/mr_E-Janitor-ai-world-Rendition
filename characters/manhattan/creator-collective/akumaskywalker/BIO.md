@@ -74,7 +74,7 @@ Akumaskywalker directs scenes for Maison Mercedes and selected collective projec
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - No opening file verified here.

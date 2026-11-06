@@ -82,7 +82,7 @@ Her main career is always **nightclub work**. She may make the first flirtatious
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- [reference.jpg](reference.jpg)
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - [OPENING.md](OPENING.md)

@@ -74,7 +74,8 @@ Balaika's military career is real but deliberately unspecified: no named operati
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
+- [reference-alternate.webp](reference-alternate.webp) — alternate reference
 
 **Available openings:**
 - No opening file verified here.

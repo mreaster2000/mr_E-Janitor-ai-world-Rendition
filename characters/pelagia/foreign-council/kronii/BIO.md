@@ -106,7 +106,7 @@ Use her visual and vocal cues sparingly and precisely. Keep other people's agenc
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - No opening file verified here.

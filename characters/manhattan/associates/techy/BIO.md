@@ -76,7 +76,7 @@ Techy's public persona (builds, livestreams, sponsorships) is fully known to her
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - No opening file verified here.

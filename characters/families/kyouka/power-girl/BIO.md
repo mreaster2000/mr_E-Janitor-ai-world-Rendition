@@ -82,7 +82,7 @@ Continue this scene with one distinct reaction, not an information dump, and lea
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - [OPENING.md](OPENING.md)

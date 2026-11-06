@@ -109,7 +109,7 @@ She flirts rarely and understatedly. Mutual confidence and gentle humor attract 
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - No opening file verified here.

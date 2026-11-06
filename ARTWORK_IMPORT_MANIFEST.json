@@ -1,0 +1,395 @@
+{
+  "source": "creator-supplied zips, November 2026",
+  "files": [
+    {
+      "original": "Barghest from fate grand order another concil member.png",
+      "path": "characters/_shared/concept-art/barghest-council-member.webp",
+      "sha256": "acc9367ced93003e96dc649e95bc36ab37c4eea560feadede1928c71592102a0",
+      "role": "concept"
+    },
+    {
+      "original": "Another dancer at the nightclub, lover, and hater of Poison.png",
+      "path": "characters/_shared/concept-art/nightclub-dancer-poison-rival.webp",
+      "sha256": "8bf6be368d84c72412378e1b6cb62da777c1eb74c13377832faf188bc6bbfca2",
+      "role": "concept"
+    },
+    {
+      "original": "Poison from final fight a fake cop,guard,dancer at the same nightclub as the other 2 Zentreya.png",
+      "path": "characters/_shared/concept-art/poison-nightclub-dancer.webp",
+      "sha256": "993e24189eea26dfa6d8d0e6d3f7212cd7f3aa23fdf195322b2cd2c802ec8acd",
+      "role": "concept"
+    },
+    {
+      "original": "Car mechanic for the one of the Zentrya racing car.png",
+      "path": "characters/_shared/concept-art/zentreya-racing-mechanic.webp",
+      "sha256": "1a46246849c069c847a9f91ca7d3fe246d25372cd59692fb8d7336ddcac8e2da",
+      "role": "concept"
+    },
+    {
+      "original": "muscle bar (a Zentreya, Sukisekine nad TalaTora).png",
+      "path": "characters/_shared/scenes/muscle-bar.webp",
+      "sha256": "e7c2de49ceb516220fb3c64d2a68814df5141fa5706c71f8fb39944c717b81b7",
+      "role": "concept"
+    },
+    {
+      "original": "Ashkaya.png",
+      "path": "characters/anima/ashkaya/reference.webp",
+      "sha256": "48c4f6d645bcd33a84999fe05f83194e34d5e171b80cb1f693e29f1053606396",
+      "role": "reference"
+    },
+    {
+      "original": "Batu.png",
+      "path": "characters/anima/batu/reference.webp",
+      "sha256": "bc88f6f23de34cd22902c6a48f05fae83e3e189042a434fce275f105f122f343",
+      "role": "reference"
+    },
+    {
+      "original": "Besterta-san (replacement name for Nandi).png",
+      "path": "characters/anima/besterta/reference.webp",
+      "sha256": "5f8e4e1533e4bb0233f4de6864308fdfa4dffb0646582e2f3a73c79b12acf17b",
+      "role": "reference"
+    },
+    {
+      "original": "Drunkleosteus.png",
+      "path": "characters/anima/dunkle/reference.webp",
+      "sha256": "302f4488d687ade48a20fba5e7e5fc9a3dd084cd95d59dafe15e6c26de26d411",
+      "role": "reference"
+    },
+    {
+      "original": "Zitkala.png",
+      "path": "characters/anima/zirkala-tatanka/reference.webp",
+      "sha256": "d0224c0c72ca413df7278b82d3160c09c197c1014e572c633f424b8c26b746a3",
+      "role": "reference"
+    },
+    {
+      "original": "Balaika the mother of Luka and Shiraishi, deadbeat wife, life her black lagoon lore try to retcon it to fit her in this world.png",
+      "path": "characters/families/kyouka/balaika/reference-alternate.webp",
+      "sha256": "12ecec2b5f8fa7ab14823ab9e583f041a240a577ccfc8866a0bee454d40df98e",
+      "role": "reference-alternate"
+    },
+    {
+      "original": "Balalaika2.png",
+      "path": "characters/families/kyouka/balaika/reference.webp",
+      "sha256": "4046e241b0917f63accba2f217e154ddb4c12bb3232d33d672694e6d1149d896",
+      "role": "reference"
+    },
+    {
+      "original": "Dixie.png",
+      "path": "characters/families/kyouka/dixie/reference.webp",
+      "sha256": "17c0251568cf592f3687c08459088b718c58d644bc08a77f44899f781b4eafab",
+      "role": "reference"
+    },
+    {
+      "original": "Kara Yoric Denvers Kyouka yes supergirl crash land with power in the pod, this one follow Shiraishi footstep instead of her own.png",
+      "path": "characters/families/kyouka/kara-supergirl/reference.webp",
+      "sha256": "856e7c6f14973a1a4d26d01e712ff9f8c33d548c82cdb60b8d920b2b887b94ca",
+      "role": "reference"
+    },
+    {
+      "original": "Powergirl.png",
+      "path": "characters/families/kyouka/power-girl/reference.webp",
+      "sha256": "f1598d0933cc140be0a04a1cadba37636ef2464f23190abd23ba31d5236993c8",
+      "role": "reference"
+    },
+    {
+      "original": "Shiraishi.png",
+      "path": "characters/families/kyouka/shiraishi/reference.webp",
+      "sha256": "7beac87be51369bed0356eb1407699e7c4d1e86999f5be903eff4b78b53aa85f",
+      "role": "reference"
+    },
+    {
+      "original": "Mirko Zentreya, Mirko sister.png",
+      "path": "characters/families/mercedes/mirko-sibling/reference.webp",
+      "sha256": "75f2bd43112ef21c56428fc3d4a9123c4a7a401befdc79ad61709bd1d2811abc",
+      "role": "reference"
+    },
+    {
+      "original": "Mirko, yeah just mirko from mha shes here.png",
+      "path": "characters/families/mercedes/mirko/reference.webp",
+      "sha256": "81035cea851123656d2d244764aa189727b12c52908cd76a01188443de682f95",
+      "role": "reference"
+    },
+    {
+      "original": "crimson viper aka Yugo co owner of the fashion brand and cia agent sent to investigate emila.png",
+      "path": "characters/manhattan/associates/crimson-viper/reference.webp",
+      "sha256": "9959b39fdd504259ceb13680f94d9185d1697227e0a0753b2b2ec54488b18477",
+      "role": "reference"
+    },
+    {
+      "original": "Gluco charin Shiraishi other side kick candy addict, specifically sour candy, at least she bring lots of treats to everone.png",
+      "path": "characters/manhattan/associates/gluco-charin/reference.webp",
+      "sha256": "9a80530345dd3a53b9b30e5f1482f53f5203756f55b270f9ebb1ad4f3e6eff91",
+      "role": "reference"
+    },
+    {
+      "original": "Gwen Stuard.png",
+      "path": "characters/manhattan/associates/gwen/reference.webp",
+      "sha256": "a3429ec59a9e735b44f30b0b64fcb79cffde5cd92b50d9148c4bc8d16ee344cc",
+      "role": "reference"
+    },
+    {
+      "original": "Mellow.png",
+      "path": "characters/manhattan/associates/mellow/reference.webp",
+      "sha256": "758ca0344a7b470722ac78c135fde374a6e070c2dbbb0554be30e5765828cf63",
+      "role": "reference"
+    },
+    {
+      "original": "Shehulk.png",
+      "path": "characters/manhattan/associates/she-hulk/reference.webp",
+      "sha256": "fbfa018361c8626ed96253088e1136c44a6f77430a69ad1cc25f691d64037a51",
+      "role": "reference"
+    },
+    {
+      "original": "Techy_aka Shiraishi much more famous sidekick.png",
+      "path": "characters/manhattan/associates/techy/reference.webp",
+      "sha256": "458a235de836774b3d0db26ebe036c985f7f4b75e5ea36c7c6b52233bd40555e",
+      "role": "reference"
+    },
+    {
+      "original": "Akumaskywalker Yugo scene director.png",
+      "path": "characters/manhattan/creator-collective/akumaskywalker/reference.webp",
+      "sha256": "7139479d3bee1b94b62c687582f322db017c0fbfada85b09d2c14d4b29e4e639",
+      "role": "reference"
+    },
+    {
+      "original": "palkia (human version of the pokemon) owner of the Zentreya corp and best friend with Shiraishi.png",
+      "path": "characters/manhattan/creator-collective/palkia/reference.webp",
+      "sha256": "be0b61f19e956bae891042c629694a8bf114e2c7927c4347f38d7128a684380f",
+      "role": "reference"
+    },
+    {
+      "original": "Luka.png",
+      "path": "characters/manhattan/gym/luka/reference.webp",
+      "sha256": "bc40f23b417e879feddf8316be5433cf7dd3a411ecd1fecb8d3094d83ed49922",
+      "role": "reference"
+    },
+    {
+      "original": "Marieza-san_Streetfighter 6 new trainer for the gym gal for physical activity like boxing and other martitial art.png",
+      "path": "characters/manhattan/gym/marieza-san/reference.webp",
+      "sha256": "4d5896e10f066920c214e9e450f036940bb6541ac98c32581c6c7341e2efe148",
+      "role": "reference"
+    },
+    {
+      "original": "Rosa (the replace name for Mudryk, ignore the age and height).png",
+      "path": "characters/manhattan/gym/rosa/reference.webp",
+      "sha256": "577b49590eafe9039767c31b2fc8db28401893e60af9644cd2a05bc3298b7bbd",
+      "role": "reference"
+    },
+    {
+      "original": "Vicki.png",
+      "path": "characters/manhattan/gym/vicki/reference.webp",
+      "sha256": "c22a5b08c697e76e08b84ef3e48cede3993514822358054c17f307b04dfd64a3",
+      "role": "reference"
+    },
+    {
+      "original": "Xue.png",
+      "path": "characters/manhattan/gym/xuerou/reference.webp",
+      "sha256": "946fad7c87951565530d1fc14bc240853a8a55974d1f4b2d7e39390307895da1",
+      "role": "reference"
+    },
+    {
+      "original": "Yugo.png",
+      "path": "characters/manhattan/gym/yugo/reference.webp",
+      "sha256": "362562c7df4e7fb8f27d1d486a85941df3533237f8e9fe37e5561ac697726da5",
+      "role": "reference"
+    },
+    {
+      "original": "Zesty2.jpg",
+      "path": "characters/manhattan/gym/zesty/reference.webp",
+      "sha256": "c1600d349483f89e263931a59a444fa395d2a01b96a03723e021237fde5f25f8",
+      "role": "reference"
+    },
+    {
+      "original": "Zuri.png",
+      "path": "characters/manhattan/gym/zuri/reference.webp",
+      "sha256": "cf5caefe8360e10f83d02d502a83b346c1b3f938e0e29ef1245dad788b1f03e4",
+      "role": "reference"
+    },
+    {
+      "original": "Lucoa former coucill member was kick out for being too incompetent and gotten too drunk.png",
+      "path": "characters/pelagia/diaspora/lucoa/reference.webp",
+      "sha256": "dc02f2f2bc9983bc44495dd05bacbb2368dec2db6a0ca307093cd444d0d0b416",
+      "role": "reference"
+    },
+    {
+      "original": "Reneta.png",
+      "path": "characters/pelagia/diaspora/renata/reference.webp",
+      "sha256": "c7b31dee7b8692be0286a60dd95af67029ce502b75d98de5cff1966f8e32f89f",
+      "role": "reference"
+    },
+    {
+      "original": "Vincent.png",
+      "path": "characters/pelagia/diaspora/victoria-vincent/reference.webp",
+      "sha256": "1f5fd495038995962d0eeb7b6bfb65cbc962e25a856d58a90d1d76e060aa73a1",
+      "role": "reference"
+    },
+    {
+      "original": "Celeste.png",
+      "path": "characters/pelagia/dragonblood/celeste-rojas/reference.webp",
+      "sha256": "9fe7a663751e4e7191683b85f5adebb638dc655a82f4bd6d51d2c4a9737a6bb9",
+      "role": "reference"
+    },
+    {
+      "original": "Leona.png",
+      "path": "characters/pelagia/dragonblood/leona-aster/reference.webp",
+      "sha256": "b3a029548c96fc9746e05cf95fdfe362111572d96e0bc8a614aef03ea726509b",
+      "role": "reference"
+    },
+    {
+      "original": "redford.png",
+      "path": "characters/pelagia/dragonblood/liberty-redford/reference.webp",
+      "sha256": "902e5cb7f9fab50a2fdc88aea366681706ee194bd7840880f225685ae3ca005e",
+      "role": "reference"
+    },
+    {
+      "original": "Marisol.png",
+      "path": "characters/pelagia/dragonblood/marisol-reyes/reference.webp",
+      "sha256": "cc58dfa1bd4e181a44b8b1d28a5b8ea4c409adb721a70d89f92ee1ccf3d0a9aa",
+      "role": "reference"
+    },
+    {
+      "original": "Nyx.png",
+      "path": "characters/pelagia/dragonblood/nyx-rielle/reference.webp",
+      "sha256": "15fb4ad41743386a1883a98d8f71dad6f265f4370ee9ed9b5ce02df4ba5c545c",
+      "role": "reference"
+    },
+    {
+      "original": "Roux partner wiht Runa.png",
+      "path": "characters/pelagia/dragonblood/roux-caldera/reference.webp",
+      "sha256": "e4ed5b466d1f83ea21bddb87a3a060263ea71f241e3e53ce4e10631e57bcd2f7",
+      "role": "reference"
+    },
+    {
+      "original": "Rowan.png",
+      "path": "characters/pelagia/dragonblood/rowan-mercer/reference.webp",
+      "sha256": "22efb7cd75885b63ff7bccc64b8fda474412fb756c79f802254d60b638857b2e",
+      "role": "reference"
+    },
+    {
+      "original": "Runa.png more like professional ancharist.png",
+      "path": "characters/pelagia/dragonblood/runa-valeska/reference.webp",
+      "sha256": "efa7c6852c5d372f9a964ce651305cb098678e8a642be3cbd1e6ab9fd1a598d1",
+      "role": "reference"
+    },
+    {
+      "original": "Seraphine aka Vera partner in the night club.png",
+      "path": "characters/pelagia/dragonblood/seraphine-ash/reference.webp",
+      "sha256": "df01a663ca547d9d3b4177b0e594901afb9ab23ed7e49b5e71e22129d77e857c",
+      "role": "reference"
+    },
+    {
+      "original": "Vera.png",
+      "path": "characters/pelagia/dragonblood/vera-callahan/reference.webp",
+      "sha256": "abda4df3cd3a8236a65c1c65f8be1d38bbb5b3e2e027bbdeacaf79dd08896581",
+      "role": "reference"
+    },
+    {
+      "original": "Kronii goddess time which is something she really REALLY like to waste, the only councils member to NOT be native to Pelagian.png",
+      "path": "characters/pelagia/foreign-council/kronii/reference.webp",
+      "sha256": "03c262650cf7815e9a7012421eed78f21068f1318a8378c0dc82006f4b969706",
+      "role": "reference"
+    },
+    {
+      "original": "Absolute WW.png",
+      "path": "characters/pelagia/islanders/absolute-wonder-woman/reference-alternate.webp",
+      "sha256": "94248a46bc6117502238c578ec158f0c0af125c7d474fb82bcaa8ddbbf758b0a",
+      "role": "reference-alternate"
+    },
+    {
+      "original": "more absolute wonder woman.png",
+      "path": "characters/pelagia/islanders/absolute-wonder-woman/reference.webp",
+      "sha256": "0af4d462899bd1ae1febccd12f250b6518656b34f67f61f398251f6fe14157f1",
+      "role": "reference"
+    },
+    {
+      "original": "Major.png",
+      "path": "characters/pelagia/islanders/apollyon/reference.webp",
+      "sha256": "a2f73434c0f9ffd0302be9eaf17af35f7e98718322aa486a9d690f175b289487",
+      "role": "reference"
+    },
+    {
+      "original": "Goddes of beauty debauchery, sex, an- wait... and her sister Goddes of technology (who really like the egyptian for some odd reason) both have monster energy drink addiction once the import came in.png",
+      "path": "characters/pelagia/islanders/council-beauty/reference.webp",
+      "sha256": "950781f76a2619bed3d77d800389d023f51e0c149b071c62e025d5c06abfc125",
+      "role": "reference"
+    },
+    {
+      "original": "goddes of something the most innoccent key word inoccent dont tell her what an orgasm is.png",
+      "path": "characters/pelagia/islanders/council-innocence/reference.webp",
+      "sha256": "e61573a74d01923113ba71aa8ccc8986795cedf459599684e0312aea5c59db7a",
+      "role": "reference"
+    },
+    {
+      "original": "Goddes of beauty debauchery, sex, an- wait... and her sister Goddes of technology (who really like the egyptian for some odd reason) both have monster energy drink addiction once the import came in.png",
+      "path": "characters/pelagia/islanders/council-technology/reference.webp",
+      "sha256": "950781f76a2619bed3d77d800389d023f51e0c149b071c62e025d5c06abfc125",
+      "role": "reference"
+    },
+    {
+      "original": "Phoebe goddess of flame and other things as well.png",
+      "path": "characters/pelagia/islanders/phoebe/reference.webp",
+      "sha256": "b74cd89ca3ad1bc88188daa2c26aae69e1e7692ce98d521c7c02e792c4e1312e",
+      "role": "reference"
+    },
+    {
+      "original": "Saint Diana (superhero name for the japanese Diana).png",
+      "path": "characters/pelagia/islanders/saint-diana/reference.webp",
+      "sha256": "524ff96114a8ce842592481363b63d7dfa7759a8c2f071367182d2e3524319df",
+      "role": "reference"
+    },
+    {
+      "original": "Suzuna.png",
+      "path": "characters/pelagia/islanders/suzana/reference.webp",
+      "sha256": "06ab51ad4483de755b29ee93bb558a736bb61148cc4b556e79b0eb0731b0bb35",
+      "role": "reference"
+    },
+    {
+      "original": "Wonder witch absolute WW sister the seductive witch that goes around the world now kiddaping and doing misfit.png",
+      "path": "characters/pelagia/islanders/wonder-witch/reference.webp",
+      "sha256": "ca6a71c283a22a485e02d8b05c87b8570515ab11da7c0b917d46491d08ba8bc4",
+      "role": "reference"
+    },
+    {
+      "original": "Yamato.png",
+      "path": "characters/pelagia/islanders/yamato/reference.webp",
+      "sha256": "cb7be2e8ea4c5b4759586665e34ae843dd623d4b9fd616654ed160a1aee28492",
+      "role": "reference"
+    },
+    {
+      "original": "Apollo1.png",
+      "path": "characters/worldwide/associates/apollo/reference-alternate.webp",
+      "sha256": "8d778ed6bf9ad504cfc65a1a90e51add61bad91eca406ab458eacec32d246fcf",
+      "role": "reference-alternate"
+    },
+    {
+      "original": "Apollo2.png",
+      "path": "characters/worldwide/associates/apollo/reference.webp",
+      "sha256": "23c7050eb7309621130b6e31d48ca2796766409cac55242129af1985b49a1c19",
+      "role": "reference"
+    },
+    {
+      "original": "Bernadette aka Emila personal assassin.png",
+      "path": "characters/worldwide/associates/bernadette/reference.webp",
+      "sha256": "d0765c0da970baeb0ca2306cedb2861161ea514fc23b50be11ae6e4ae16cf6f0",
+      "role": "reference"
+    },
+    {
+      "original": "Car wash Bon.png",
+      "path": "characters/worldwide/associates/bon/reference.webp",
+      "sha256": "58d6cd6f25c23aef60b80a88ecd7a9d024bf919cdfb62ad18e88290883d3a060",
+      "role": "reference"
+    },
+    {
+      "original": "Emila (redesign for Emila shes this now).png",
+      "path": "characters/worldwide/associates/emelia/reference.webp",
+      "sha256": "cc46f3f1ce6753d1cf406ad61ea59a65d67e731fe3b07c8720a1be79ac548488",
+      "role": "reference"
+    },
+    {
+      "original": "Hilde.png",
+      "path": "characters/worldwide/associates/reagin/reference.webp",
+      "sha256": "d47a4fbfb95a7321609aef763ffbb30f18e777b02ce7c30df24a81aa419292e1",
+      "role": "reference"
+    }
+  ]
+}

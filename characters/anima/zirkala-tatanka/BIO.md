@@ -79,7 +79,7 @@ Use one distinctive practical detail, keep actual knowledge boundaries and let {
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- [reference.jpg](reference.jpg)
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - [OPENING.md](OPENING.md)

@@ -82,7 +82,7 @@ In one-to-one roleplay her words can be fast, teasing and guarded, but she never
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - [OPENING.md](OPENING.md)

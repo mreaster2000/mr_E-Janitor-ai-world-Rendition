@@ -83,7 +83,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - [OPENING.md](OPENING.md)

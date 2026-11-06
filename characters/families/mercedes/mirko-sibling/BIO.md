@@ -76,7 +76,7 @@ Mirko's sister, whose name is still pending, keeps a notebook of the family's mu
 ## 10. Reference Art and Initial Scenarios
 
 **Artwork in this directory:**
-- None verified here; image import is a separate pending step.
+- [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
 - No opening file verified here.
