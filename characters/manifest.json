@@ -44,7 +44,8 @@
       "slugs": [
         "ayame",
         "renata",
-        "victoria-vincent"
+        "victoria-vincent",
+        "lucoa"
       ]
     },
     "manhattan/associates": {
@@ -179,6 +180,7 @@
     "bon": "worldwide/associates/bon",
     "sukisekine": "worldwide/associates/sukisekine",
     "talatora": "worldwide/associates/talatora",
-    "marieza-san": "manhattan/gym/marieza-san"
+    "marieza-san": "manhattan/gym/marieza-san",
+    "lucoa": "pelagia/diaspora/lucoa"
   }
 }

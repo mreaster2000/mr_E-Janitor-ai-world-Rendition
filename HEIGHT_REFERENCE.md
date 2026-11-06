@@ -59,4 +59,4 @@ All measurements above are editorial defaults for the reconstructed new cast; do
 
 ## New artwork-led characters
 
-For Balaika, Kara/Supergirl, Techy, Gluco, Palkia, Crimson Viper, Mirko and her unnamed sibling, Kronii, the newly named council members Zafira Marenne, Nahla Marenne and Ilyana Rell, Wonder Witch, Saint Diana, Bon, Sukisekine and TalaTora, the creator has not supplied an authoritative height. Do not invent numbers or use proportions from illustrations as measurement. Rosa and Besterta retain their previous canon heights.
+For Balaika, Kara/Supergirl, Techy, Gluco, Palkia, Crimson Viper, Mirko and her unnamed sibling, Kronii, the newly named council members Zafira Marenne, Nahla Marenne and Ilyana Rell, Wonder Witch, Saint Diana, Bon, Lucoa, Sukisekine and TalaTora, the creator has not supplied an authoritative height. Do not invent numbers or use proportions from illustrations as measurement. Rosa and Besterta retain their previous canon heights.

@@ -1,4 +1,4 @@
-# Character roster — 61 profiles
+# Character roster — 62 profiles
 
 ## manhattan/gym
 
@@ -35,6 +35,7 @@
 ## pelagia/diaspora
 
 - [ayame](characters/pelagia/diaspora/ayame/)
+- [lucoa](characters/pelagia/diaspora/lucoa/)
 - [renata](characters/pelagia/diaspora/renata/)
 - [victoria-vincent](characters/pelagia/diaspora/victoria-vincent/)
 

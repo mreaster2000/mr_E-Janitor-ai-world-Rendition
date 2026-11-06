@@ -54,12 +54,12 @@ See [PELAGIA_CANON.md](PELAGIA_CANON.md) for the creator's newer account of cult
 
 ## Where the cast belongs
 
-The 61 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `manhattan/gym/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
+The 62 character folders are organized by **primary story group** under `characters/`. The Gym Gals and Kyouka family overlap through Luka, but Luka has one canonical card and script in `manhattan/gym/luka`. Pelagia's residents and diaspora remain distinct: leaving the island does not revoke someone's ancestry. Group placement is a browsing convention, **not** a claim that every group member knows everyone else's secrets. Use `CHARACTERS.md` for paths, `CROSSOVER_CANON.md` for continuity restrictions, and individual biographies for depth.
 
 
 ## Size and height continuity
 
-Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 61 character heights. Confirmed anima characters now all stand at least 8′0″ under the creator's height retcon, including Gym Gal Zuri at 8′1″ and Zirkala Tatanka at 8′2″. This does not automatically classify animal-themed heroes or dragonblood Zentreya as anima. Yamato's coils, Besterta-san's horns, and Apollo's multiple bodies need special treatment. Older approximate sizes in biographies are superseded where inconsistent.
+Use [HEIGHT_REFERENCE.md](HEIGHT_REFERENCE.md) as the canonical source for all 62 character heights. Confirmed anima characters now all stand at least 8′0″ under the creator's height retcon, including Gym Gal Zuri at 8′1″ and Zirkala Tatanka at 8′2″. This does not automatically classify animal-themed heroes or dragonblood Zentreya as anima. Yamato's coils, Besterta-san's horns, and Apollo's multiple bodies need special treatment. Older approximate sizes in biographies are superseded where inconsistent.
 
 
 ## Zirkala Tatanka — New bison-anima associate
@@ -76,7 +76,7 @@ See [ZENTREYA_CANON.md](ZENTREYA_CANON.md). Zentreya is a rare humanoid hybrid l
 The [consolidated November 5 corrections](#consolidated-creator-corrections-and-relationship-index-november-2026) supersede earlier contradicting statements about goddess titles, Zentreya Corp, Mirko's family relationship, and image-led character redesigns. Historical roles and established non-contradictory lore remain in force.
 
 
-## Revised world structure — expanded 61-character era
+## Revised world structure — expanded 62-character era
 
 **Pelagia's political transition.** Several centuries of strictly controlled opening have created a divided island. Trading ports and council households may enjoy modern medicine, media, luxury fashion and imported energy drinks while many inland Hearths still rely on inherited tools and traditional methods. Technological differences do not imply differences in intelligence or cultural worth. The island's old 'goddess' honorifics survive as cultural language, but **Council Member** is the current political title. All goddess-titled members except foreign-born Kronii are Pelagian; authentic powers such as Phœbe's fire nature do not authorize worship or automatic sovereignty. The unnamed reigning queen, her heir Absolute Diana, Major Apollyon and General Aveline Drakk have distinct powers and responsibilities. Zafira Marenne (Beauty/Revelry Council Member) and her sister Nahla Marenne (Technology Council Member) can quarrel about festivals, infrastructure and imported Monster drinks while sharing concern about the island's inequality. Ilyana Rell is the independently minded councilor formerly called the 'Innocence' council member; her exact civic portfolio remains undecided. Zafira and Nahla share a portrait, but their face-to-name assignments in it remain unconfirmed.
 
@@ -123,3 +123,7 @@ This section replaces temporary override and relationship files. Specific establ
 **8. The Skerry Table (Dunkle's boathouse).** A long table in Dunkle's remote Scandinavian boathouse, its edge carved with a small mark for every guest who has eaten there. Custom: **no one eats standing.** It shows her hospitality and her ties to Yugo and friends without choosing a country, village or any Japanese-origin detail (see the Dunkle correction above).
 
 **9. The Unedited Hour (Palkia's collective).** A weekly livestream slot where the collective's creators post without edits, filters or sponsor reads. It began as a joke between Palkia and Shiraishi and now regularly outdraws scripted shows, which makes Techy's reach, Gluco Charin's generosity, Marisol's brand work and Akumaskywalker's directing all more complicated. It dramatises the standing theme of who controls a creator's public image: artist, employer, platform or financier.
+
+### The Wash Bay (added with Lucoa)
+
+Vicki owns and manages a car wash as a side business. She gave Lucoa, her roommate and a former Pelagian council member removed for incompetence and drinking, the daily running of it so that she would have something productive besides subscription content and match-day bottles. Bon, Lucoa's best friend, handles detailing. Match days at the wash are a neighbourhood fixture. Lucoa's removal predates the current council and adds no seat, law or sovereign; the queen stays unnamed. Status: proposed lore, creator-directed premise.
