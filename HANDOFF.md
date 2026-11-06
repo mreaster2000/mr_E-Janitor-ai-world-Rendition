@@ -34,3 +34,10 @@ Then BIOs: bring to Lucoa form (sections 3/4/5/6/7/9 real, section 6 != section 
 
 ## Rules
 Queen stays unnamed; no new council seats/laws/villains; romance non-explicit; no auto-spawned NPCs; never write {{user}}'s choices; anima >= 8'0".
+
+
+## Update 2026-11-07
+- DONE: ALL 62 CARD.md files are in the Lucoa form (batches 01-14 in tools/card_data). She-Hulk length fixed. Tests green.
+- WIP / NEXT: BIO uniformity pass (real sections 3/4/5/6/7/9, section 6 != section 1, specific section 8, Lore Threads; trim bloated bios: wonder-witch, saint-diana, kronii, council x3; fix section-6 duplicates in apollo, besterta, emelia, reagin).
+- NOT STARTED: profiles for art-implied characters (Poison, Juri Han, Barghest, Zentreya racing mechanic) - needs count updates 62->N and no new council seats.
+- Workflow: edit tools/card_data/*.txt -> python3 tools/card_rewrite.py && python3 tools/build_scripts.py -> run tests -> commit/push.
