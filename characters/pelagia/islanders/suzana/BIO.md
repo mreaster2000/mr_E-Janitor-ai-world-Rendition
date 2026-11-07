@@ -80,7 +80,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Based initial — The Hunter's Quiet Offering.
+- `OPENING.md` — The Hunter's Quiet Offering.
 
 ## 11. Expanded Stories and Editorial Notes
 

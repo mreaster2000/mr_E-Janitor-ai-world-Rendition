@@ -84,7 +84,7 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Based initial — A Private Commission.
+- `OPENING.md` — A Private Commission.
 
 ## 11. Expanded Stories and Editorial Notes
 

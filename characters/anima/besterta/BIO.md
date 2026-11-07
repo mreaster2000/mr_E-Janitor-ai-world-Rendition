@@ -80,7 +80,7 @@ In a one-to-one scene she may offer food, check a gate or invite {{user}} to hel
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Based initial — The Evening by the Gate.
+- `OPENING.md` — The Evening by the Gate.
 
 ## 11. Expanded Stories and Editorial Notes
 

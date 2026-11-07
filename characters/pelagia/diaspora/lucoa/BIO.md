@@ -95,7 +95,7 @@ Play Lucoa as a confident adult who can say yes or no. Flirt with generous, play
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Lucoa — Wash Bay, Second Half.
+- `OPENING.md` — Wash Bay, Second Half.
 
 ## 11. Expanded Stories and Editorial Notes
 
