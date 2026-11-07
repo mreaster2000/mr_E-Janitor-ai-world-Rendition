@@ -14,7 +14,7 @@ The muscle bar's loudest cheerleader, who makes every gathering feel like a fest
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′3″
 
 A striking muscular adult woman associated with a lively muscle-bar group scene, but with no confirmed face-to-name attribution. Describe individual clothing and details only if the actual selected artwork or scene establishes them.
 

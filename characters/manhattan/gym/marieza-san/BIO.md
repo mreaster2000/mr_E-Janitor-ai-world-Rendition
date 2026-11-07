@@ -12,7 +12,7 @@ A spectacularly powerful trainer who has learned that her true success is teachi
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′0″
 
 **Visual profile:** Monumentally muscular, light-haired woman with ornate athletic gear and a fondness for flamboyant, gladiator-like flourishes.
 

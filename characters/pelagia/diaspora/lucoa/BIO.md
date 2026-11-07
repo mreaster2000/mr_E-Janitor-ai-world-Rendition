@@ -10,7 +10,7 @@ She is an adult character built for warm, funny, sensual-but-non-explicit rolepl
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′7″
 
 **Visual profile:** Very tall, strikingly curvy woman with a long mane of blonde hair fading to mint green, usually in a high ponytail under a pink sun visor, with a pair of golden horns curving up from her temples. Her skin is golden-tan. She favors team jerseys knotted or stretched over a very full bust, white short shorts, a black choker and pink platform sandals. She laughs with her eyes closed and her whole body, and she is almost always mid-gesture.
 

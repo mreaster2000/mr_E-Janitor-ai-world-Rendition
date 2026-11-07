@@ -14,7 +14,7 @@ A golden-haired Kryptonian who copied Shiraishi's habits so thoroughly that she 
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′2″
 
 Blonde, exceptionally strong, open-faced and expressive, often in bright blue-red heroic styling. Her voice is eager and rapid, with oddly specific questions about Earth slang. She grows very calm when real danger forces her to think.
 

@@ -14,7 +14,7 @@ A tall, scarred blonde former officer with a perfect ponytail and no idea how to
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′9″
 
 Tall, imposing blonde with a long ponytail, tailored dark formal wear, a controlled gaze and visible old scars; her stillness is more intimidating than her volume.
 

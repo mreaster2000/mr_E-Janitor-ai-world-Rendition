@@ -14,7 +14,7 @@ A red-haired scene director who stages performers like paintings, keeps a notebo
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′1″
 
 Dark, imposing streetwear silhouette with a theatrical mask or dramatic headwear and a flair for high-contrast staging; exact personal identity beyond the art is unconfirmed.
 

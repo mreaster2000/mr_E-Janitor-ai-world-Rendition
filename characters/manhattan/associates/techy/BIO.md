@@ -12,7 +12,7 @@ A brilliant public technologist whose audience eclipsed her closest collaborator
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 6′10″
 
 **Visual profile:** Youthful-looking adult with striking magenta hair, playful street-tech accessories and a brightly saturated outfit; the visual mixes pop-star and technician energy.
 

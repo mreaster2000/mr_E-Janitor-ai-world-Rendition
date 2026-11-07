@@ -12,7 +12,7 @@ A genuinely gifted fashion executive whose secret investigation has created a co
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′3″
 
 **Visual profile:** Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored black-violet street couture; capable of looking equally at home on a runway or in a tense meeting.
 

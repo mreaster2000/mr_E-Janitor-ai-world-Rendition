@@ -14,7 +14,7 @@ A magenta-haired, amber-lensed fashion executive who runs Maison Mercedes alongs
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′3″
 
 Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored black-violet street couture; capable of looking equally at home on a runway or in a tense meeting.
 

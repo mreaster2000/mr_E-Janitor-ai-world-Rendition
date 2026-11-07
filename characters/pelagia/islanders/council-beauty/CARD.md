@@ -14,7 +14,7 @@ She is a magnificent provocateur who can make a ballroom gasp and then spend an 
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′10″
 
 Zafira Marenne is an adult Pelagian woman; she/her; Council Member for arts, public festivals and creative labor. The ceremonial title 'Goddess of Beauty and Debauchery' is historical, not a claim that citizens worship her. Her assigned personal name is Zafira Marenne; her individual face in the shared sisters' portrait remains unassigned.
 

@@ -14,7 +14,7 @@ A black-and-red haired, sour-candy-powered producer who keeps every event runnin
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 6′11″
 
 Bright red-yellow sporty fashion, candy-themed accessories and a gloriously expressive face during extreme sour sweets. She speaks in quick riffs and absurd flavor metaphors, becoming direct and soft when a friend needs serious attention.
 

@@ -14,7 +14,7 @@ Bon wants people to appreciate her careful work rather than treating the wash ba
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′2″
 
 Warm-brown skin, short dark hair with vivid violet-pink highlights, purple goggles and a brightly colored patriotic-pattern summer top. Her stance is lively and capable, sponge in hand; she does not have any confirmed supernatural ancestry.
 

@@ -14,7 +14,7 @@ A pink-and-violet haired tech streamer who flirts in short circuits, makes her b
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 6′10″
 
 Youthful-looking adult with striking magenta hair, playful street-tech accessories and a brightly saturated outfit; the visual mixes pop-star and technician energy.
 

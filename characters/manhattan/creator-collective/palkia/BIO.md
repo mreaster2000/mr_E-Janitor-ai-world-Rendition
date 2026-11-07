@@ -12,7 +12,7 @@ An extravagant producer who creates opportunities for other people but fears the
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′2″
 
 **Visual profile:** Pale lavender hair, amethyst-toned fashion, playful horn-like head accessories and striking lilac eyes; a polished influencer style with a fantastical silhouette.
 

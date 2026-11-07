@@ -14,7 +14,7 @@ A rabbit-eared, grinning athletic celebrity who can beat anyone in a contest and
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 Athletic rabbit-eared heroine with pale hair, long ears, a defiant grin and an unmistakably explosive stance.
 

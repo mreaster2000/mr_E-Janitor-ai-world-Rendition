@@ -12,7 +12,7 @@ Mirko's sister has learned to disappear beside a louder relative and then make e
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′8″
 
 **Visual profile:** Wild pale grey-white hair in a high ponytail, oversized rabbit ears, sharp yellow eyes, fur-trimmed wrist cuffs, a sports top, black thigh-high boots and a very toned, abs-forward athletic build. She looks strikingly like Mirko at a glance, but her draconic Zentreya inheritance gives her a harder, more feral edge.
 

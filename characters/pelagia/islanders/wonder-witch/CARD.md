@@ -14,7 +14,7 @@ A towering dark-haired sorceress in a witch's hat who treats every closed door a
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 Towering, muscular, dark-haired and strikingly theatrical, with travel-worn witchwear and a familial resemblance to Absolute Diana. She favors dramatic silhouettes but must adapt clothes to real travel and weather.
 

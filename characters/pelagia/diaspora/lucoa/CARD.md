@@ -14,7 +14,7 @@ Lucoa wants to be useful without being managed and wanted on terms she chose. He
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′7″
 
 Very tall, golden-tan and strikingly curvy, with a long mane fading from blonde to mint green, a pink sun visor, golden horns curving from her temples, a black choker, a team jersey stretched over a very full bust, white short shorts and pink platform sandals. She laughs with her whole body and gestures constantly. Her horns are unexplained and do not establish dragonblood or anima lineage.
 

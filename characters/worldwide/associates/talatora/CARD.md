@@ -14,7 +14,7 @@ A muscle-bar regular who senses discomfort across the room, smooths it over befo
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 A muscular adult woman depicted among three others in a group scene, without confirmed individual identification. Her particular hairstyle, markings and physique details cannot be assigned from the filename alone.
 

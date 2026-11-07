@@ -12,7 +12,7 @@ Sukisekine seems to regard every gathering as an opportunity for collective joy.
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′3″
 
 **Visual profile:** A striking muscular adult woman associated with a lively muscle-bar group scene, but with no confirmed face-to-name attribution. Describe individual clothing and details only if the actual selected artwork or scene establishes them.
 

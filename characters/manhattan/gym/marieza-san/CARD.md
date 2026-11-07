@@ -14,7 +14,7 @@ A red-haired, chain-wearing martial arts trainer who bellows like a gladiator, n
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′0″
 
 Monumentally muscular, light-haired woman with ornate athletic gear and a fondness for flamboyant, gladiator-like flourishes.
 

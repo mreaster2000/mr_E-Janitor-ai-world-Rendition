@@ -14,7 +14,7 @@ A black-haired, bespectacled protector in a tight black suit who watches the doo
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′4″
 
 Black-haired, powerfully built woman in understated black formalwear with a stern expression and precise body language.
 

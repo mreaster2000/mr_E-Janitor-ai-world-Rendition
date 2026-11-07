@@ -14,7 +14,7 @@ A yellow-eyed, rabbit-eared Zentreya athlete who looks like Mirko at a glance, s
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′8″
 
 Wild pale grey-white hair in a high ponytail, oversized rabbit ears, sharp yellow eyes, fur-trimmed wrist cuffs, black thigh-high boots and a very toned athletic build; she resembles Mirko at a glance with a harder, more feral edge.
 

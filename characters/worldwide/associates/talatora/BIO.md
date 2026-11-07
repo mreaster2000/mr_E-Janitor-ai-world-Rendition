@@ -12,7 +12,7 @@ TalaTora understands other people's discomfort almost before they speak, but has
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 **Visual profile:** A muscular adult woman depicted among three others in a group scene, without confirmed individual identification. Her particular hairstyle, markings and physique details cannot be assigned from the filename alone.
 

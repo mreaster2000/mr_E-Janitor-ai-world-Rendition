@@ -64,3 +64,26 @@ All measurements above are editorial defaults for the reconstructed new cast; do
 ## New artwork-led characters
 
 For Balaika, Kara/Supergirl, Techy, Gluco, Palkia, Crimson Viper, Mirko and her unnamed sibling, Kronii, the newly named council members Zafira Marenne, Nahla Marenne and Ilyana Rell, Wonder Witch, Saint Diana, Bon, Lucoa, Sukisekine and TalaTora, the creator has not supplied an authoritative height. Do not invent numbers or use proportions from illustrations as measurement. Rosa and Besterta retain their previous canon heights.
+| palkia | 7′2″ |
+| akumaskywalker | 7′1″ |
+| marieza-san | 7′0″ |
+| gluco-charin | 6′11″ |
+| crimson-viper | 7′3″ |
+| techy | 6′10″ |
+| bernadette | 7′4″ |
+| sukisekine | 7′3″ |
+| talatora | 7′6″ |
+| bon | 7′2″ |
+| kronii | 7′10″ |
+| council-technology | 7′8″ |
+| council-beauty | 7′10″ |
+| wonder-witch | 7′6″ |
+| council-innocence | 7′5″ |
+| saint-diana | 7′6″ |
+| lucoa | 7′7″ |
+| kara-supergirl | 7′2″ |
+| balaika | 7′9″ |
+| mirko | 7′6″ |
+| mirko-sibling | 7′8″ |
+
+Heights from `palkia` onward in this list were set editorially in November 2026 to replace "not established".

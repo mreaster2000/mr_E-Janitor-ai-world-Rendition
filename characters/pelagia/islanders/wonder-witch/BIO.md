@@ -10,7 +10,7 @@ Wonder Witch wants freedom from the responsibilities others expect of royal rela
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 **Visual profile:** Towering, muscular, dark-haired and strikingly theatrical, with travel-worn witchwear and a familial resemblance to Absolute Diana. She favors dramatic silhouettes but must adapt clothes to real travel and weather.
 

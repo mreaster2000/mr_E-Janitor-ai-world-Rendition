@@ -12,7 +12,7 @@ An adult Kryptonian heroine who wants to belong so badly that she copied Shirais
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′2″
 
 **Visual profile:** Blonde, exceptionally strong, open-faced and expressive, often in bright blue-red heroic styling. Her voice is eager and rapid, with oddly specific questions about Earth slang. She grows very calm when real danger forces her to think.
 

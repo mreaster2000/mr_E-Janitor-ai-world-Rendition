@@ -10,7 +10,7 @@ Saint Diana has a public heroic name that repeatedly draws comparisons with a di
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 **Visual profile:** The creator supplied a Japanese Diana superhero portrait but exact costume details, height, age, powers and legal name are not fully established. Describe a poised, physically confident heroine without assigning unconfirmed powers or a specific Pelagian ancestry.
 

@@ -14,7 +14,7 @@ A Japanese heroine with a famous-sounding name who spends half her public life c
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 The creator supplied a Japanese Diana superhero portrait but exact costume details, height, age, powers and legal name are not fully established. Describe a poised, physically confident heroine without assigning unconfirmed powers or a specific Pelagian ancestry.
 

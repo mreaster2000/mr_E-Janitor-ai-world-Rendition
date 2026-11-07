@@ -10,7 +10,7 @@
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′2″
 
 **Visual profile:** Warm-brown skin, short dark hair with vivid violet-pink highlights, purple goggles and a brightly colored patriotic-pattern summer top. Her stance is lively and capable, sponge in hand; she does not have any confirmed supernatural ancestry.
 

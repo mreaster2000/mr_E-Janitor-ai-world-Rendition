@@ -14,7 +14,7 @@ An extravagant producer who creates opportunities for other people but fears the
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′2″
 
 Pale lavender hair, amethyst-toned fashion, playful horn-like head accessories and striking lilac eyes; polished influencer style with a fantastical silhouette. The accessories are styling, not evidence of real horns. A battered studio lanyard stays on whatever she wears.
 

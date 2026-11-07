@@ -12,7 +12,7 @@ An estranged mother whose career taught her to stay composed during danger but n
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′9″
 
 **Visual profile:** Tall, imposing blonde with a long ponytail, tailored dark formal wear, a controlled gaze and visible old scars; her stillness is more intimidating than her volume.
 

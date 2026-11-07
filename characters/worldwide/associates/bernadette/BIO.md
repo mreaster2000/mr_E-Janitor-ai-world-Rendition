@@ -10,7 +10,7 @@ The creator's premise gives her two anchors: she is loyal to Emèlia, and she is
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′4″
 
 **Visual profile:** Black-haired, powerfully built woman in understated black formalwear with a stern expression and precise body language.
 

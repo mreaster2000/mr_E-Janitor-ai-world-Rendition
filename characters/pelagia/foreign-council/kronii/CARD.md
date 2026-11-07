@@ -14,7 +14,7 @@ Kronii makes an art of taking her time, regarding urgency as an affront to good 
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′10″
 
 Kronii makes an art of taking her time, regarding urgency as an affront to good taste. Beneath the serene vanity is a woman who once confused detachment with wisdom and now fears the mundane consequences of being absent when someone needs her. Blue and silver tailoring or ceremonial clothing with clocklike ornaments. Keeps a personal collection of beautiful but deliberately unsynchronized pocket clocks. None should be portrayed as a universal time-control device. Fine, carefully composed features, pale skin, a gaze that can make a speaker feel as if their sentence is being measured for worth. Her eyebrows seldom rise; a slow sideways glance can be more biting than open disgust. Long blue-white hair kept beautifully ordered, with a few loose strands when she has been genuinely occupied rather than posing at leisure. Cool blue eyes; she holds eye contact almost too long while teasing, then looks away first when an admission feels too intimate. Regal and poised, exact height intentionally unestablished. She treats sitting as a performance, occupying the same chair as if she were presiding over the room.
 

@@ -12,7 +12,7 @@ Mirko is brilliantly self-sufficient in a contest and almost helpless at admitti
 
 ## 2. Physical Appearance and Presentation
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′6″
 
 **Visual profile:** Athletic rabbit-eared heroine with pale hair, long ears, a defiant grin and an unmistakably explosive stance.
 

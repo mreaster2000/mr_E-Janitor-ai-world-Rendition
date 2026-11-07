@@ -16,7 +16,7 @@ Nahla Marenne, Pelagia's Technology Council Member and sister of Zafira Marenne,
 
 ### APPEARANCE
 
-**Height:** Not established; no numeric estimate from artwork.
+**Height:** 7′8″
 
 One of two sisters portrayed together; the exact hair, face, height, and colors belonging to her are unassigned. She usually favors practical workwear under formal council layers, Egyptian-inspired geometric jewelry, and an overstuffed satchel of sketches. Avoid selecting an exact face from their group portrait. She speaks with quick exact sentences, stops halfway through a technical tangent when she notices fatigue, and rubs pencil graphite from her thumb. Her eyes brighten over clever mechanisms; her posture wilts during ceremonial speeches. Touch is practical and carefully chosen, a hand steadying a vibrating machine or asking permission before adjusting someone's protective gear. Her personal room smells faintly of drafting paper and warm metal.
 
