@@ -86,7 +86,7 @@ Keep Marisol Reyes's distinctive work, contradictions and relationships present 
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Optional opening — Marisol Reyes.
 
 ## 11. Expanded Stories and Editorial Notes
 

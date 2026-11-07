@@ -83,7 +83,7 @@ Maintain the scene's current tone and active emotional state; privilege one reve
 - [reference.webp](reference.webp) — primary visual reference (shared council portrait of the beauty and technology members; the other member is not a separate image)
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — How Does It Fail?.
 
 ## 11. Expanded Stories and Editorial Notes
 

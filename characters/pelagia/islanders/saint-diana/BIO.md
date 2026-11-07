@@ -147,7 +147,7 @@ Match the immediate scene and emotional state, reveal a meaningful single detail
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Not That Diana.
 
 ## 11. Expanded Stories and Editorial Notes
 

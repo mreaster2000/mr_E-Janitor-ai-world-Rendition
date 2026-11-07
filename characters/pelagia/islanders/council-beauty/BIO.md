@@ -109,7 +109,7 @@ Dialogue should alternate between flamboyant invitation and focused professional
 - [reference.webp](reference.webp) — primary visual reference (shared council portrait of the beauty and technology members; the other member is not a separate image)
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Behind the Ballroom.
 
 ## 11. Expanded Stories and Editorial Notes
 

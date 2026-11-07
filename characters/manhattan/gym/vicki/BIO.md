@@ -85,8 +85,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
-- [OPENING_ALT.md](OPENING_ALT.md)
+- `OPENING.md` — # Vicki — Winner Picks Dinner.
 
 ## 11. Expanded Stories and Editorial Notes
 

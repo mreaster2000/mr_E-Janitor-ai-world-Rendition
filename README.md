@@ -27,3 +27,4 @@ GitHub Actions runs structure, v4 schema, script behavior, continuity, and Markd
 The old update logs, duplicate formatting standards, and one-off correction notes were consolidated into this guide, the authoring standard, and the World Bible. Their original text remains recoverable in Git history; no character profile, opening, or reference picture was deleted by the documentation cleanup.
 
 - [COUNCIL.md](COUNCIL.md): the Council of Seven Seats, portfolios, heights and procedure.
+- [RELATIONSHIPS.md](RELATIONSHIPS.md): who connects to whom.

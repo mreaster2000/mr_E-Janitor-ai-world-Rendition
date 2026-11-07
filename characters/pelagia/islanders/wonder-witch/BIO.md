@@ -155,7 +155,7 @@ Match the immediate scene and emotional state, reveal a meaningful single detail
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Every Closed Door.
 
 ## 11. Expanded Stories and Editorial Notes
 

@@ -87,7 +87,7 @@ No automatic arrivals, secret knowledge, fixed clock progressions or control of 
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Detail Bay.
 
 ## 11. Expanded Stories and Editorial Notes
 

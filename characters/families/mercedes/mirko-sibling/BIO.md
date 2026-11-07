@@ -79,7 +79,7 @@ Mirko's sister, whose name is still pending, keeps a notebook of the family's mu
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Not Mirko.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -110,7 +110,7 @@ Mirko: sibling, complicated affection; Yugo: cousin who genuinely loathes both o
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended life and social behavior (editorial)
 

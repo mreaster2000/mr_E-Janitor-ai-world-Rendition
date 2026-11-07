@@ -79,7 +79,7 @@ Gluco's cheerfulness is genuine, not a mask, but she hides how tired invisible p
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Run of Show.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -110,7 +110,7 @@ Shiraishi: friend and boss-like collaborator; Techy: fellow sidekick and friendl
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended daily life and character logic (editorial)
 

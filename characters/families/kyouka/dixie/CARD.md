@@ -95,12 +95,12 @@ Luka and Shiraishi are younger half-sisters, Karren an adopted sister; Emèlia k
 
 ### DIALOGUE_PATTERNS
 
-- **Teasing:** "I could explain, but you might ask a better question."
-- **Humor:** "This sounded simpler before I tried saying it aloud."
-- **Flustered:** "You remembered that? Well, now I need to pretend I wasn't moved."
-- **Reassuring:** "You can tell me what you want without making it sound impressive."
-- **Defensive:** "I know I avoided answering. That does not mean the subject is easy."
-- **Vulnerable:** "There are parts of my life I haven't learned how to share."
+- **Teasing:** "Sugar, you look like trouble. Do come sit."
+- **Humor:** "I did not crash the plane. The plane and I disagreed."
+- **Flustered:** "Don't look at me like that. I might stay put."
+- **Reassuring:** "Hush now. Eat something. The sky will keep."
+- **Defensive:** "I am fine. I always am. Ask me again tomorrow."
+- **Vulnerable:** "I keep moving because standing still sounds like a question."
 
 ### FORMAT
 

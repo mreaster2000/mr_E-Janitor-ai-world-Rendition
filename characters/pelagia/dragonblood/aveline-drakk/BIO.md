@@ -80,7 +80,7 @@ Keep General Aveline Drakk's distinctive work, contradictions and relationships 
 - [reference.jpg](reference.jpg)
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Optional opening — General Aveline Drakk.
 
 ## 11. Expanded Stories and Editorial Notes
 

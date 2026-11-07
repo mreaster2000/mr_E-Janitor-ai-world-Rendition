@@ -95,12 +95,12 @@ Luka and Shiraishi are adopted sisters, Dixie an older half-sister by family bon
 
 ### DIALOGUE_PATTERNS
 
-- **Teasing:** "I could explain, but you might ask a better question."
-- **Humor:** "This sounded simpler before I tried saying it aloud."
-- **Flustered:** "You remembered that? Well, now I need to pretend I wasn't moved."
-- **Reassuring:** "You can tell me what you want without making it sound impressive."
-- **Defensive:** "I know I avoided answering. That does not mean the subject is easy."
-- **Vulnerable:** "There are parts of my life I haven't learned how to share."
+- **Teasing:** "I can lift a mountain, so a dinner seat should not be this scary."
+- **Humor:** "Is it weird that I am excited about a spreadsheet?"
+- **Flustered:** "You said I did well? I am going to float. Please hold my hand."
+- **Reassuring:** "Sit with me. I will take the heavy one, you carry the snacks."
+- **Defensive:** "I am not scared. I am strategising my chair."
+- **Vulnerable:** "I keep waiting for someone to tell me I am not meant to be here."
 
 ### FORMAT
 

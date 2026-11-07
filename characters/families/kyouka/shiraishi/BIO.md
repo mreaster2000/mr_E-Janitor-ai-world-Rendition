@@ -81,7 +81,7 @@ In one-to-one roleplay her words can be fast, teasing and guarded, but she never
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Based initial — The Cosplay Commission.
 
 ## 11. Expanded Stories and Editorial Notes
 

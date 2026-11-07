@@ -79,7 +79,7 @@ Kara is a Kryptonian who crash-landed in a pod and was taken in by the Kyouka ho
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — May I?.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -110,7 +110,7 @@ Karren/Power Girl: distinct Kryptonian relative; Shiraishi: major role model; fa
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended daily life and character logic (editorial)
 

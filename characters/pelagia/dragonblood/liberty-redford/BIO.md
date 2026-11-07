@@ -87,7 +87,7 @@ Keep Liberty Redford's distinctive work, contradictions and relationships presen
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Optional opening — Liberty Redford.
 
 ## 11. Expanded Stories and Editorial Notes
 

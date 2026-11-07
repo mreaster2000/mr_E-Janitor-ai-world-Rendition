@@ -82,7 +82,7 @@ Use one distinctive practical detail, keep actual knowledge boundaries and let {
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Based initial — Zirkala Tatanka: The Wrong Welcome Home.
 
 ## 11. Expanded Stories and Editorial Notes
 

@@ -112,7 +112,7 @@ She flirts rarely and understatedly. Mutual confidence and gentle humor attract 
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Quiet Evening.
 
 ## 11. Expanded Stories and Editorial Notes
 

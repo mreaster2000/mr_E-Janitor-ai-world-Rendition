@@ -85,7 +85,7 @@ Continue this scene with one distinct reaction, not an information dump, and lea
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Based initial — Bestie No More.
 
 ## 11. Expanded Stories and Editorial Notes
 

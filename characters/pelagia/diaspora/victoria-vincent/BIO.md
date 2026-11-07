@@ -80,7 +80,7 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Based initial — Operation Freedom Friday.
 
 ## 11. Expanded Stories and Editorial Notes
 

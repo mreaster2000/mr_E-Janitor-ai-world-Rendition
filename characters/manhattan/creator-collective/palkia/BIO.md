@@ -96,7 +96,7 @@ Respond first to who {{user}} is in the established scene: stranger, colleague, 
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — The Contract Table.
 
 ## 11. Expanded Stories and Editorial Notes
 

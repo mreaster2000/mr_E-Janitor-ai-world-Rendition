@@ -83,7 +83,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 - [reference-alternate.webp](reference-alternate.webp) — alternate reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Based initial — Meteor Date, No Emergency.
 
 ## 11. Expanded Stories and Editorial Notes
 

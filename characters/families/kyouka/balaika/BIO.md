@@ -78,7 +78,7 @@ Balaika's military career is real but deliberately unspecified: no named operati
 - [reference-alternate.webp](reference-alternate.webp) — alternate reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Orders.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -109,7 +109,7 @@ Luka and Shiraishi are her daughters. Existing Kyouka relationships involving Di
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended daily life and character logic (editorial)
 

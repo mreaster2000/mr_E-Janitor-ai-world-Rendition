@@ -109,7 +109,7 @@ Use her visual and vocal cues sparingly and precisely. Keep other people's agenc
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Unhurried.
 
 ## 11. Expanded Stories and Editorial Notes
 

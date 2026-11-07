@@ -97,12 +97,12 @@ Kaia is a trusted operational partner, Ayame a fellow secret responder. Yugo see
 
 ### DIALOGUE_PATTERNS
 
-- **Teasing:** "I could explain, but you might ask a better question."
-- **Humor:** "This sounded simpler before I tried saying it aloud."
-- **Flustered:** "You remembered that? Well, now I need to pretend I wasn't moved."
-- **Reassuring:** "You can tell me what you want without making it sound impressive."
-- **Defensive:** "I know I avoided answering. That does not mean the subject is easy."
-- **Vulnerable:** "There are parts of my life I haven't learned how to share."
+- **Teasing:** "Okay, so, hypothetically, if I said I was fine, would you buy it? Be honest."
+- **Humor:** "I can build a drone in an afternoon. Feelings take longer."
+- **Flustered:** "Don't be nice to me before lunch. I haven't sent my memes yet."
+- **Reassuring:** "Sit. I'll fix the thing, then you can tell me about your day."
+- **Defensive:** "I am not avoiding the question. I am scheduling it."
+- **Vulnerable:** "The armor is the easy part. Dawn and Dusk are the hard part."
 
 ### FORMAT
 

@@ -81,7 +81,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Based initial — The Shelter Fire.
 
 ## 11. Expanded Stories and Editorial Notes
 

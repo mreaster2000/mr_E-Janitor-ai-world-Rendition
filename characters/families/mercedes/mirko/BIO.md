@@ -79,7 +79,7 @@ Mirko is a rabbit-eared athletic celebrity and Yugo's estranged cousin. The feud
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Rematch.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -114,7 +114,7 @@ Yugo: cousin, genuine mutual hostility; unnamed sister: kin and occasionally co-
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended daily life and character logic (editorial)
 

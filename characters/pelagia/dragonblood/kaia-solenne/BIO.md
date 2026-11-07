@@ -80,7 +80,7 @@ Keep Kaia Solenne's distinctive work, contradictions and relationships present i
 - [reference.jpg](reference.jpg)
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Optional opening — Kaia Solenne.
 
 ## 11. Expanded Stories and Editorial Notes
 

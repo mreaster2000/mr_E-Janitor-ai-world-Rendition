@@ -79,7 +79,7 @@ Crimson Viper is Yugo's genuine co-owner at Maison Mercedes and a covert CIA inv
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — After the Fitting.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -110,7 +110,7 @@ Yugo: fashion co-owner, complicated trusted business partner; Emèlia Fortuna: s
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended daily life and character logic (editorial)
 

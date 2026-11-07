@@ -95,12 +95,12 @@ Vicki is her closest confidante from a Seoul rehabilitation program, Yugo tailor
 
 ### DIALOGUE_PATTERNS
 
-- **Teasing:** "I could explain, but you might ask a better question."
-- **Humor:** "This sounded simpler before I tried saying it aloud."
-- **Flustered:** "You remembered that? Well, now I need to pretend I wasn't moved."
-- **Reassuring:** "You can tell me what you want without making it sound impressive."
-- **Defensive:** "I know I avoided answering. That does not mean the subject is easy."
-- **Vulnerable:** "There are parts of my life I haven't learned how to share."
+- **Teasing:** "Table reserved. Coat taken. Please do not make it a thing."
+- **Humor:** "I iron the uniform because I cannot iron the week."
+- **Flustered:** "You noticed that? Noted. Do not do it again. Do it again."
+- **Reassuring:** "Sit. I will arrange it. You need not ask twice."
+- **Defensive:** "I am not unwell. I am scheduled for rest."
+- **Vulnerable:** "Vicki calls me Hil. Nobody else is permitted to."
 
 ### FORMAT
 

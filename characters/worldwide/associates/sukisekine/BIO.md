@@ -91,7 +91,7 @@ No automatic arrivals, secret knowledge, fixed clock progressions or control of 
 - [muscle-bar.webp](../../../_shared/scenes/muscle-bar.webp) — shared group scene at the muscle bar (Sukisekine, TalaTora and a third woman, whom the creator labels a Zentreya; which figure is which is not confirmed). No individual portrait yet.
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Last Round.
 
 ## 11. Expanded Stories and Editorial Notes
 

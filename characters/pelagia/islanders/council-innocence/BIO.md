@@ -81,7 +81,7 @@ Maintain the scene's current tone and active emotional state; privilege one reve
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — A Plain Question.
 
 ## 11. Expanded Stories and Editorial Notes
 

@@ -95,12 +95,12 @@ Dixie is her closest friend and alibi; Renata a loyal old wandering companion; B
 
 ### DIALOGUE_PATTERNS
 
-- **Teasing:** "I could explain, but you might ask a better question."
-- **Humor:** "This sounded simpler before I tried saying it aloud."
-- **Flustered:** "You remembered that? Well, now I need to pretend I wasn't moved."
-- **Reassuring:** "You can tell me what you want without making it sound impressive."
-- **Defensive:** "I know I avoided answering. That does not mean the subject is easy."
-- **Vulnerable:** "There are parts of my life I haven't learned how to share."
+- **Teasing:** "Darling, everything is negotiable. Even this look."
+- **Humor:** "I never lose. I merely invest in future outcomes."
+- **Flustered:** "You remembered my favourite wine. Now I owe you, and I hate owing."
+- **Reassuring:** "Sit. Whatever it is, we will find the angle."
+- **Defensive:** "My ledger is accurate. It is just not complete."
+- **Vulnerable:** "I keep one chip for the deals I am not proud of."
 
 ### FORMAT
 

@@ -79,7 +79,7 @@ Techy's public persona (builds, livestreams, sponsorships) is fully known to her
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- No opening file verified here.
+- `OPENING.md` — Stream Off.
 
 ## 11. Expanded Stories and Editorial Notes
 
@@ -110,7 +110,7 @@ Shiraishi: close collaborator whose audience Techy has overtaken; Gluco Charin: 
 
 ### Artwork
 
-Reference portrait pending import from the creator's image ZIP. Original descriptive filename is recorded in the import manifest.
+Reference portrait imported from the creator's image ZIP; the original filename is recorded in `ARTWORK_IMPORT_MANIFEST.json`.
 
 ### Extended daily life and character logic (editorial)
 

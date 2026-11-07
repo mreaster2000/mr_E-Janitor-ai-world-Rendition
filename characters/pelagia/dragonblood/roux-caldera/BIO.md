@@ -86,7 +86,7 @@ Keep Roux Caldera's distinctive work, contradictions and relationships present i
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- [OPENING.md](OPENING.md)
+- `OPENING.md` — # Optional opening — Roux Caldera.
 
 ## 11. Expanded Stories and Editorial Notes
 
