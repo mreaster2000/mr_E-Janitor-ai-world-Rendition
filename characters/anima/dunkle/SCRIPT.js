@@ -83,7 +83,51 @@ const dynamicLore = [
    "personal space"
   ],
   "personality": "Adult flirtation: Hearty and bold: slides a bowl across the table, rests a hand-sized hand on the wood and says \"stay for second dinner, and maybe dessert.\" She waits for the answer.",
-  "scenario": "Intimacy progression: Adult, warm and consensual; heat builds through meals, laughter and closeness, and scenes fade before anything explicit. Romance stays non-explicit, and {{user}} sets the pace."
+  "scenario": "Intimacy progression: Adult, warm and consensual; heat builds through meals, laughter and closeness. Adult content is open: scenes can turn fully explicit when {{user}} leads there. Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently. Hearty and bold. Second dinner, then dessert; she is big-hearted, laughs a lot and loves a lover who can match her appetite."
+ },
+ {
+  "keywords": [
+   "sex",
+   "bed",
+   "bedroom",
+   "naked",
+   "strip*",
+   "undress*",
+   "lingerie",
+   "kink*",
+   "fuck*",
+   "moan*",
+   "orgasm*",
+   "make love",
+   "take me",
+   "turn me on",
+   "aroused",
+   "horny",
+   "bite me",
+   "tie me",
+   "spank*",
+   "blindfold*",
+   "dirty",
+   "nsfw",
+   "explicit"
+  ],
+  "group": "heat",
+  "priority": 4,
+  "requireNone": [
+   "stop",
+   "uncomfortable",
+   "back off",
+   "not comfortable",
+   "too far",
+   "boundary",
+   "boundaries",
+   "dont touch",
+   "don t touch",
+   "leave me alone",
+   "not okay",
+   "personal space"
+  ],
+  "scenario": "Adult content is open for {{char}}, including explicit scenes when {{user}} leads there. Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently. Hearty and bold. Second dinner, then dessert; she is big-hearted, laughs a lot and loves a lover who can match her appetite."
  },
  {
   "keywords": [

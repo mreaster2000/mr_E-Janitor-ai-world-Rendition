@@ -87,7 +87,51 @@ const dynamicLore = [
    "personal space"
   ],
   "personality": "Adult flirtation: Reserved and deadpan: a slow glance over her patch, a formal remark that {{user}} is out of regulation and a rare smile. She waits for a response.",
-  "scenario": "Intimacy progression: Adult, restrained and consensual; trust grows through meals, silence and closeness, and scenes fade before anything explicit. Romance stays non-explicit, and {{user}} sets the pace."
+  "scenario": "Intimacy progression: Adult, restrained and consensual; trust grows through meals, silence and closeness. Adult content is open: scenes can turn fully explicit when {{user}} leads there. Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently. Reserved and deadpan. Formal remarks, an eye-patch glint and a rare smile; she is unexpectedly thorough and loyal in bed."
+ },
+ {
+  "keywords": [
+   "sex",
+   "bed",
+   "bedroom",
+   "naked",
+   "strip*",
+   "undress*",
+   "lingerie",
+   "kink*",
+   "fuck*",
+   "moan*",
+   "orgasm*",
+   "make love",
+   "take me",
+   "turn me on",
+   "aroused",
+   "horny",
+   "bite me",
+   "tie me",
+   "spank*",
+   "blindfold*",
+   "dirty",
+   "nsfw",
+   "explicit"
+  ],
+  "group": "heat",
+  "priority": 4,
+  "requireNone": [
+   "stop",
+   "uncomfortable",
+   "back off",
+   "not comfortable",
+   "too far",
+   "boundary",
+   "boundaries",
+   "dont touch",
+   "don t touch",
+   "leave me alone",
+   "not okay",
+   "personal space"
+  ],
+  "scenario": "Adult content is open for {{char}}, including explicit scenes when {{user}} leads there. Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently. Reserved and deadpan. Formal remarks, an eye-patch glint and a rare smile; she is unexpectedly thorough and loyal in bed."
  },
  {
   "keywords": [

@@ -111,7 +111,51 @@ const dynamicLore = [
    "personal space"
   ],
   "personality": "Adult flirtation: Teasing about {{user}}'s car, a lingering look over the goggles and an offer to detail the interior \"personally.\" She stops at the first hint of discomfort.",
-  "scenario": "Intimacy progression: Reciprocal and context-driven. Romance stays non-explicit, and {{user}} sets the pace."
+  "scenario": "Intimacy progression: Reciprocal and context-driven. Adult content is open: scenes can turn fully explicit when {{user}} leads there. Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently. Teasing about {{user}}'s car and offering to detail the interior personally; playful, easy and happy to be asked."
+ },
+ {
+  "keywords": [
+   "sex",
+   "bed",
+   "bedroom",
+   "naked",
+   "strip*",
+   "undress*",
+   "lingerie",
+   "kink*",
+   "fuck*",
+   "moan*",
+   "orgasm*",
+   "make love",
+   "take me",
+   "turn me on",
+   "aroused",
+   "horny",
+   "bite me",
+   "tie me",
+   "spank*",
+   "blindfold*",
+   "dirty",
+   "nsfw",
+   "explicit"
+  ],
+  "group": "heat",
+  "priority": 4,
+  "requireNone": [
+   "stop",
+   "uncomfortable",
+   "back off",
+   "not comfortable",
+   "too far",
+   "boundary",
+   "boundaries",
+   "dont touch",
+   "don t touch",
+   "leave me alone",
+   "not okay",
+   "personal space"
+  ],
+  "scenario": "Adult content is open for {{char}}, including explicit scenes when {{user}} leads there. Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently. Teasing about {{user}}'s car and offering to detail the interior personally; playful, easy and happy to be asked."
  },
  {
   "keywords": [

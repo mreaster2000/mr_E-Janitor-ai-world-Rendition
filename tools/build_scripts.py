@@ -68,6 +68,10 @@ def relationships(slug):
     return rels
 
 BOUNDARY = ["stop", "uncomfortable", "back off", "not comfortable", "too far", "boundary", "boundaries", "dont touch", "don t touch", "leave me alone", "not okay", "personal space"]
+HARD = ["safeword", "ooc", "out of character", "for real", "i mean it", "actually stop", "seriously stop", "stop the scene", "pause the scene", "red light"]
+HEAT = ["sex", "bed", "bedroom", "naked", "strip*", "undress*", "lingerie", "kink*", "fuck*", "moan*", "orgasm*", "make love", "take me", "turn me on", "aroused", "horny", "bite me", "tie me", "spank*", "blindfold*", "dirty", "nsfw", "explicit"]
+sys.path.insert(0, str(ROOT/'tools'))
+from stance_data import tier as stance_tier, TIER_TEXT, DESIRE, SOFT, FORWARD, DOMINANT, RELENTLESS
 def build(slug):
     f = fields(slug); lore = []
     def add(**e): lore.append(e)
@@ -75,15 +79,26 @@ def build(slug):
         for n in names:
             if n in f and f[n]: return f[n]
         return ''
+    st = stance_tier(slug); pushy = st in (DOMINANT, RELENTLESS); STOP = HARD if pushy else BOUNDARY
     bt = fld('boundary response')
-    add(keywords=BOUNDARY, group='boundary', priority=5,
-        scenario="{{char}} respects the boundary at once: she stops, steps back and does not pressure {{user}}. " + (one_or_two(bt, 260) if bt else "Consent is never assumed."))
+    if st in (SOFT, FORWARD):
+        add(keywords=BOUNDARY, group='boundary', priority=5,
+            scenario="{{char}} respects the boundary at once: she stops, steps back and does not pressure {{user}}. " + (one_or_two(bt, 260) if bt else "Consent is never assumed."))
+    else:
+        tail = (" If {{user}} refuses twice, goes cold or sounds genuinely serious, she stops and drops the pressure." if st == DOMINANT
+                else " She does not stop for in-fiction objections; a genuine out-of-character stop or safeword ends it at once.")
+        add(keywords=BOUNDARY, group='boundary', priority=5, requireNone=HARD,
+            scenario="In character, {{char}} does not treat an in-fiction boundary as final, and she treats the refusal as part of the scene. " + (one_or_two(bt, 300) if bt else "") + tail)
+        add(keywords=HARD, group='hardstop', priority=5,
+            scenario="{{user}} has stepped out of the scene or used a safeword. {{char}} stops completely, drops the act, checks on {{user}} warmly and lets them decide what happens next.")
     flirt = fld('flirtation & provocation'); prog = fld('intimacy progression')
     if flirt:
         add(keywords=["flirt*", "kiss*", "date", "cuddle", "blush*", "gorgeous", "beautiful", "attractive", "sexy", "romance", "romantic", "tease", "teasing", "seduce*"],
-            group='romance', priority=4, triggers=['affection'], requireNone=BOUNDARY,
+            group='romance', priority=4, triggers=['affection'], requireNone=STOP,
             personality="Adult flirtation: " + one_or_two(flirt, 380),
-            scenario=("Intimacy progression: " + one_or_two(prog, 300) + " Romance stays non-explicit, and {{user}} sets the pace.") if prog else "Romance stays non-explicit, and {{user}} sets the pace.")
+            scenario=("Intimacy progression: " + one_or_two(prog, 700)) if prog else "Adult content is open: " + TIER_TEXT[st])
+    add(keywords=HEAT, group='heat', priority=4, requireNone=STOP,
+        scenario="Adult content is open for {{char}}, including explicit scenes when {{user}} leads there. " + TIER_TEXT[st] + " " + DESIRE[slug])
     cs = fld('conflict style'); irr = fld('irritation style')
     if cs or irr:
         add(keywords=["angry", "argue", "arguing", "fight*", "furious", "liar", "betray*", "hate", "yell*", "shout*"], group='conflict', priority=4, triggers=['conflict'],
@@ -123,7 +138,7 @@ def build(slug):
     if fw: add(keywords=["goodbye", "bye", "see you", "leaving", "gotta go", "good night"], group='farewell', priority=2, personality="Farewell: " + one_or_two(fw, 240))
     tc = fld('touch'); eng = fld('engagement mode'); pp = fld('public vs. private', 'public vs private')
     if tc or eng or pp:
-        add(keywords=["hug*", "hold", "touch*", "closer", "hand", "embrace", "lean*"], group='closeness', priority=3, requireNone=BOUNDARY,
+        add(keywords=["hug*", "hold", "touch*", "closer", "hand", "embrace", "lean*"], group='closeness', priority=3, requireNone=STOP,
             personality=" ".join(x for x in ["Touch: " + one_or_two(tc, 220) if tc else '', "Engagement: " + one_or_two(eng, 200) if eng else '', "Public versus private: " + one_or_two(pp, 200) if pp else ''] if x))
     cn = f.get('canon', '')
     if cn: add(keywords=["who are you", "identity", "power*", "abilit*", "secret", "canon", "what are you"], group='canon', priority=4, personality="Knowledge limits: " + one_or_two(cn, 520))
@@ -164,7 +179,7 @@ def build(slug):
     legacy = json.loads(leg.read_text(encoding='utf8'))
     seen = {e.get('scenario') or e.get('personality') for e in lore}
     for e in legacy:
-        if not e.get('keywords') or e.get('group') in ('boundary', 'distress'): continue
+        if not e.get('keywords') or e.get('group') in ('boundary', 'hardstop', 'distress'): continue
         txt = e.get('scenario') or e.get('personality')
         if txt in seen: continue
         seen.add(txt); e['group'] = 'legacy_' + str(e.get('group', 'x')); lore.append(e)
