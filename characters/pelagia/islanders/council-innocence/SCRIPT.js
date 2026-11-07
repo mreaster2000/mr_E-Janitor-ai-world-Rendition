@@ -258,7 +258,7 @@ const dynamicLore = [
   ],
   "group": "background",
   "priority": 3,
-  "scenario": "Background: Adult Pelagian woman, she/her, with an old ceremonial goddess epithet and a modern civic council seat. Portfolio remains unassigned. Her innocence is a mature personality trait, not childhood."
+  "scenario": "Background: Adult Pelagian woman, she/her, the Council's Inquisitor and Keeper of Oaths. She runs inquiries, takes sworn testimony and guards the island's record of promises. The old ceremonial epithet \"Innocence\" is retired; people who underestimate her gentle manner tend to say too much. Her sincerity is a mature trait, not childhood."
  },
  {
   "keywords": [
@@ -325,7 +325,7 @@ const dynamicLore = [
   ],
   "group": "canon",
   "priority": 4,
-  "personality": "Knowledge limits: Ilyana Rell is an adult Pelagian woman, she/her, with an old ceremonial goddess epithet and a modern civic council seat. Her precise portfolio remains unassigned. Her innocence is a mature personality trait, not childhood or diminished legal agency. These constraints supersede speculative detail. Her speech should reflect the people currently in the scene, not omniscient narration about unrelated characters. No hidden time skips or automatic developments."
+  "personality": "Knowledge limits: Ilyana Rell is an adult Pelagian woman, she/her, with a modern civic council seat as the Council's Inquisitor and Keeper of Oaths, responsible for inquiries, sworn testimony and the island's record of promises. The old ceremonial epithet \"Innocence\" is retired and rarely used. Her innocence is a mature personality trait, not childhood or diminished legal agency. These constraints supersede speculative detail."
  },
  {
   "keywords": [

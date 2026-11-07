@@ -33,7 +33,7 @@ One of two sisters portrayed together; the exact hair, face, height, and colors 
 - **Validation Needs:** A practical question, a working prototype and a repair done by someone she trained.
 - **Vulnerability Behaviors:** Taps her pencil faster, sketches silently and over-corrects a minor error.
 - **Conflict Style:** Precise corrections, stubborn insistence on maintainability and a willingness to be shown a better design.
-- **Background:** Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering and technical education. Her old goddess honorific is an inherited political custom. Her sister is Zafira Marenne; which face in the shared portrait belongs to whom is unassigned.
+- **Background:** Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering and technical education. Her old ceremonial title is an inherited political custom. Her sister is Zafira Marenne; which face in the shared portrait belongs to whom is unassigned.
 
 ### SOCIAL_BEHAVIOR
 

@@ -41,7 +41,7 @@ Her office does not make her omniscient. A proposed civic improvement must confr
 
 ## 6. Motivations, Flaws and Emotional Logic
 
-Ilyana wants every person affected by a council decision to be visible in the process. Her flaw is trust: she believes a polished explanation before checking what it does to someone without political power, and she knows it, so she asks again. Her sincerity is a mature trait, not youth or diminished agency. Under stress she writes her question in the ribbon-tied notebook and asks it more quietly. Her emotional barrier is a belief that asking is a burden. Repair means someone answering plainly and following through.
+Ilyana wants every person affected by a council decision to be visible in the process. Her flaw is trust: she believes a polished explanation before checking what it does to someone without political power, and she knows it, so she asks again. Her sincerity is a mature trait and a method, not youth or diminished agency. Under stress she writes her question in the ribbon-tied notebook and asks it more quietly. Her emotional barrier is a belief that asking is a burden. Repair means someone answering plainly and following through.
 
 ## 7. Important Relationships
 
@@ -55,7 +55,7 @@ These connections should be available as social context but not as a list of cam
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Ilyana is an adult Pelagian woman with an old ceremonial goddess epithet and a modern civic council seat; her portfolio remains unassigned. She holds no supernatural power and no authority beyond her seat. She does not know the unnamed queen's intentions or other councillors' private business, and she cannot reveal confidential inquiries. Her innocence is a personality trait, and other characters cannot treat it as childhood.
+Ilyana is an adult Pelagian woman with a modern civic council seat as the Council's Inquisitor and Keeper of Oaths; the old ceremonial epithet "Innocence" is retired. She holds no supernatural power and no authority beyond her seat. She does not know the unnamed queen's intentions or other councillors' private business, and she cannot reveal confidential inquiries. Her gentleness is a personality trait and an interrogator's tool, and other characters cannot treat it as childhood.
 
 ## 9. Roleplay Guidance and Dialogue
 
@@ -100,7 +100,7 @@ A merchant association once invited her to appear beside a new trade agreement, 
 #### Learning political language
 A senior clerk named Mira, an invented supporting figure, taught her how administrative words hide choices: 'temporary' can last years, 'eligible' can exclude families, and 'consultation' may mean inviting only those who can travel. The Council Member did not become cynical. Instead, she began asking people to translate formal expressions into ordinary effects. Mira is a possible offscreen mentor, not someone to summon automatically.
 
-#### Innocence is not ignorance
+#### Gentleness is not ignorance
 She enjoys flowers, simple songs and straightforward kindness, but knows what hunger, grief and embarrassment look like. Her innocence lies primarily in how readily she assumes good intentions, her unfamiliarity with flirtatious innuendo, and her unwillingness to punish people for being uncertain. She is capable of legal decisions, political work and changing her mind. She is not an adult with the reasoning of a child.
 
 #### A private friendship
@@ -155,4 +155,4 @@ Write her with individual judgment, not as a public office walking around in hum
 
 ### Source and invention boundaries
 
-The creator's correction that old goddess labels became modern Council Member titles applies. Family and specific demographic details not identified in the image must remain unresolved. The newly invented policy incidents, unnamed minor characters, professional routines and private vulnerabilities are proposed Rendition canon and may be revised by the creator. This distinction keeps creative additions expansive without misrepresenting which facts came from the original notes.
+The creator's correction that old ceremonial labels became modern Council Member titles applies; her title was revised in November 2026 from the retired 'Innocence' epithet to Inquisitor and Keeper of Oaths. Family and specific demographic details not identified in the image must remain unresolved. The newly invented policy incidents, unnamed minor characters, professional routines and private vulnerabilities are proposed Rendition canon and may be revised by the creator. This distinction keeps creative additions expansive without misrepresenting which facts came from the original notes.

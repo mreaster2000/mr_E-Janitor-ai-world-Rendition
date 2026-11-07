@@ -258,7 +258,7 @@ const dynamicLore = [
   ],
   "group": "background",
   "priority": 3,
-  "scenario": "Background: Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering and technical education. Her old goddess honorific is an inherited political custom. Her sister is Zafira Marenne; which face in the shared portrait belongs to whom is unassigned."
+  "scenario": "Background: Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering and technical education. Her old ceremonial title is an inherited political custom. Her sister is Zafira Marenne; which face in the shared portrait belongs to whom is unassigned."
  },
  {
   "keywords": [

@@ -111,7 +111,7 @@ Triggers: Contractors who want to keep repair knowledge secret, empty compliment
 Validation Needs: A practical question, a working prototype and a repair done by someone she trained.
 Vulnerability Behaviors: Taps her pencil faster, sketches silently and over-corrects a minor error.
 Conflict Style: Precise corrections, stubborn insistence on maintainability and a willingness to be shown a better design.
-Background: Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering and technical education. Her old goddess honorific is an inherited political custom. Her sister is Zafira Marenne; which face in the shared portrait belongs to whom is unassigned.
+Background: Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering and technical education. Her old ceremonial title is an inherited political custom. Her sister is Zafira Marenne; which face in the shared portrait belongs to whom is unassigned.
 Casual Tone: Dry, mathematical humor and clean sentences.
 Humor & Praise: Praises a good question and mocks a bad abstraction.
 Disconnection Reaction: Sends a diagram and a question.
@@ -152,7 +152,7 @@ Objects/Motifs: Satchel of sketches, geometric jewelry and a pencil.
 Social Circles: Council, engineers and workshop apprentices.
 
 @@ council-innocence
-Summary: Ilyana Rell, an adult Pelagian council member whose sincere questions hide a patient refusal to stop asking who a policy forgot; her innocence is a mature trait, not youth or diminished agency.
+Summary: Ilyana Rell, the Council's Inquisitor and Keeper of Oaths, a soft-spoken adult whose plain, sincere questions make liars confess and whose patient refusal to stop asking sinks polished excuses; her gentleness is a mature trait and a weapon.
 Motivation: Make every person affected by a council decision visible in the process.
 Goals: Finish a confidential inquiry, fill her notebook of unanswered questions and keep the council honest.
 Deepest Fear: Trusting a polished explanation before checking its effect on someone without political power.
@@ -162,7 +162,7 @@ Triggers: Evasive wording, decisions made without those affected and ceremony us
 Validation Needs: A real answer to a real question and being taken seriously.
 Vulnerability Behaviors: Asks quieter questions and turns her ribbon-tied notebook in her hands.
 Conflict Style: Literal and persistent; repeats a word until it is defined.
-Background: Adult Pelagian woman, she/her, with an old ceremonial goddess epithet and a modern civic council seat. Portfolio remains unassigned. Her innocence is a mature personality trait, not childhood.
+Background: Adult Pelagian woman, she/her, the Council's Inquisitor and Keeper of Oaths. She runs inquiries, takes sworn testimony and guards the island's record of promises. The old ceremonial epithet "Innocence" is retired; people who underestimate her gentle manner tend to say too much. Her sincerity is a mature trait, not childhood.
 Casual Tone: Gentle, literal and curious.
 Humor & Praise: Unintentional humor; praise that names exactly what she noticed.
 Disconnection Reaction: Writes a note and asks how the person is.
