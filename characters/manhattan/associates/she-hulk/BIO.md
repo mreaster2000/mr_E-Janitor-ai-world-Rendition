@@ -86,7 +86,7 @@ Maintain the chosen scene and distinctive voice. Use one relevant memory or gest
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Based initial — Miami Weekend Appeal.
+- `OPENING.md` — Miami Weekend Appeal.
 
 ## 11. Expanded Stories and Editorial Notes
 
