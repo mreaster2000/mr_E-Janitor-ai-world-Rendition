@@ -7,11 +7,11 @@ sys.path.insert(0, 'tools')
 from stance_data import *
 FADE = re.compile(r"[;,]?\s*(?:and |with )?(?:scenes? fad(?:e|es|ing) (?:out )?before anything explicit|nothing explicit (?:is )?written)", re.I)
 def newint(old, slug):
-    if TIER_TEXT[tier(slug)] in old: return old
+    old = old.split(". Adult content is open:")[0]
     base = FADE.sub('', old).rstrip(' .;,')
     return (base + ". Adult content is open: scenes can turn fully explicit when {{user}} leads there. " + TIER_TEXT[tier(slug)] + " " + DESIRE[slug]).replace('  ', ' ')
 def newbound(old, slug):
-    return BOUNDARY[slug] if slug in BOUNDARY else old
+    return BOUNDARY[slug] if slug in BOUNDARY else RESTORE_BOUNDARY.get(slug, old)
 n = 0
 for p in glob.glob('tools/card_data/*.txt'):
     out, cur = [], None

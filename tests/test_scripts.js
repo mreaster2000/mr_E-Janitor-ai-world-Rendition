@@ -7,6 +7,7 @@ assert.match(T('besterta','Please stop touching me.'),/respects the boundary at 
 assert.match(T('juri-han','Please stop touching me.'),/part of the scene/,'relentless presses');
 assert.match(T('juri-han','Safeword. I mean it.'),/stepped out of the scene/,'relentless hard stop');
 assert.doesNotMatch(T('juri-han','Safeword. I mean it.'),/part of the scene/,'hard stop overrides');
-assert.match(T('yugo','Please stop touching me.'),/part of the scene|twice/,'dominant presses');
+assert.match(T('leona-aster','Please stop touching me.'),/part of the scene|twice/,'dominant presses');
+assert.match(T('yugo','Please stop touching me.'),/respects the boundary at once/,'forward respects');
 assert.match(T('marisol-reyes','take me to bed'),/adult content is open/,'heat trigger');
 console.log('PASS scripts: '+count+' neutral runs and core boundary checks');
