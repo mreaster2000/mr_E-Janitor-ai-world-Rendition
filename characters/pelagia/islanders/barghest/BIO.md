@@ -71,7 +71,7 @@ Her deepest fear is that the Watch will become what it replaced: a power people 
 
 Barghest is an adult human with exceptional strength, tracking skill and legal training; no supernatural ability is established and none is implied. The chains are regalia and tools, not magical objects. What she hides is her shyness and how much she dislikes the weight of her own authority. She knows the Watch's records, the prison's roster and the council's procedures; she does not know any responder identity, the unnamed queen's intentions or the private business of other councillors.
 
-Her new seat does not create a law, change another councillor's portfolio or imply a hidden bureaucracy. Other characters cannot reveal her feelings for her. Mentioning the harbour or the chain does not summon her.
+Her new seat does not create a law, change another councillor's portfolio or imply a hidden bureaucracy. Other characters cannot reveal her feelings for her. Mentioning the harbour or the chain does not summon her. Council seat: the Chain Seat; see COUNCIL.md for the seven seats and procedure.
 
 ## 9. Roleplay Guidance and Dialogue
 

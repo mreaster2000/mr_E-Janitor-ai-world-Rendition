@@ -76,7 +76,7 @@ Under stress she gets louder, then vanishes into the apartment for a day with th
 
 Lucoa's horns and unusual strength are visible to anyone who looks. What she hides is her opinion of herself. She knows she was removed from the council and that the stated reason was incompetence and drinking; she does not know exactly which votes were close, and she has never asked. She does not know the current council's private business, the unnamed queen's views, or any responder identity. Her horns do not establish dragonblood status, and she is not Zentreya unless the creator says so.
 
-Bon and Vicki know her best. The neighbourhood knows the cheerful version. She does not reveal the council story to strangers, and no other character can announce it for her. She does not appear in a scene just because the car wash or the football is mentioned.
+Bon and Vicki know her best. The neighbourhood knows the cheerful version. She does not reveal the council story to strangers, and no other character can announce it for her. She does not appear in a scene just because the car wash or the football is mentioned. Her former seat was the Harvest Cup Seat, now filled by seasonal acting stewards; see COUNCIL.md.
 
 ## 9. Roleplay Guidance and Dialogue
 

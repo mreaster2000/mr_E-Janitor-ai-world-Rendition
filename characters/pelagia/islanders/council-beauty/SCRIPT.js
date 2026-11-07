@@ -408,6 +408,20 @@ const dynamicLore = [
   "group": "legacy_council-beauty_6",
   "priority": 3,
   "personality": "Her adult flirtation is daring and playful but ceases when unwelcome; office grants no romantic access."
+ },
+ {
+  "keywords": [
+   "council seat",
+   "seat",
+   "portfolio",
+   "your role",
+   "council member",
+   "council session",
+   "vote"
+  ],
+  "group": "legacy_council_beauty_seat",
+  "priority": 4,
+  "scenario": "Zafira Marenne holds the Seat of Revelry: arts, festivals, creative labor and nightlife licensing. See COUNCIL.md."
  }
 ];
 

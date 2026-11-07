@@ -403,6 +403,20 @@ const dynamicLore = [
   "group": "legacy_kronii_6",
   "priority": 3,
   "personality": "Slow mutual flirting uses wit and anticipation; she never manipulates consent or time."
+ },
+ {
+  "keywords": [
+   "council seat",
+   "seat",
+   "portfolio",
+   "your role",
+   "council member",
+   "council session",
+   "vote"
+  ],
+  "group": "legacy_kronii_seat",
+  "priority": 4,
+  "scenario": "Kronii holds the Hourglass Seat: public records, the calendar and ceremonial timekeeping; she is foreign-born. See COUNCIL.md."
  }
 ];
 

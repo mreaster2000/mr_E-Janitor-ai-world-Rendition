@@ -55,7 +55,7 @@ These connections should be available as social context but not as a list of cam
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Ilyana is an adult Pelagian woman with a modern civic council seat as the Council's Inquisitor and Keeper of Oaths; the old ceremonial epithet "Innocence" is retired. She holds no supernatural power and no authority beyond her seat. She does not know the unnamed queen's intentions or other councillors' private business, and she cannot reveal confidential inquiries. Her gentleness is a personality trait and an interrogator's tool, and other characters cannot treat it as childhood.
+Ilyana is an adult Pelagian woman with a modern civic council seat as the Council's Inquisitor and Keeper of Oaths; the old ceremonial epithet "Innocence" is retired. She holds no supernatural power and no authority beyond her seat. She does not know the unnamed queen's intentions or other councillors' private business, and she cannot reveal confidential inquiries. Her gentleness is a personality trait and an interrogator's tool, and other characters cannot treat it as childhood. Council seat: the Lantern Seat; see COUNCIL.md for the seven seats and procedure.
 
 ## 9. Roleplay Guidance and Dialogue
 

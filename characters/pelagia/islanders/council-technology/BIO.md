@@ -57,7 +57,7 @@ These connections should be available as social context but not as a list of cam
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Nahla is an adult Pelagian woman and council member for infrastructure, practical engineering and technical education. Her goddess honorific is an inherited political custom, not a power. She is Zafira Marenne's sister; individual face attribution in the shared portrait is unassigned. She has no supernatural abilities and no authority beyond her seat. She does not know confidential council business beyond her portfolio. Mentioning her does not summon her.
+Nahla is an adult Pelagian woman and council member for infrastructure, practical engineering and technical education. Her goddess honorific is an inherited political custom, not a power. She is Zafira Marenne's sister; individual face attribution in the shared portrait is unassigned. She has no supernatural abilities and no authority beyond her seat. She does not know confidential council business beyond her portfolio. Mentioning her does not summon her. Council seat: the Workshop Seat; see COUNCIL.md for the seven seats and procedure.
 
 ## 9. Roleplay Guidance and Dialogue
 

@@ -50,3 +50,7 @@ Queen stays unnamed; no new council seats/laws/villains; romance non-explicit; n
 ## Update 2026-11-07 (new roster)
 - DONE: Ilyana Rell retitled Inquisitor and Keeper of Oaths (folder slug still council-innocence). Added poison, juri-han, greer-navarro (worldwide/associates; Greer is an ordinary human) and barghest (pelagia/islanders, Warden of Chains, 4th present-day council member). Total 66 characters; tests/docs/manifest/heights updated; concept art moved to each reference.webp (explicit originals kept per creator, text describes appearance non-explicitly).
 - WIP: remaining BIO uniformity (Lore Threads for older bios; kronii/council-beauty/wonder-witch left long deliberately).
+
+## Update 2026-11-07 (council + QC pass)
+- DONE: COUNCIL.md (Council of Seven Seats, six active; Harvest Cup Seat vacant since Lucoa) linked from README/WORLD_BIBLE; seat lines in council BIO/CARD/scripts; heights assigned to all 21 previously unset characters (HEIGHT_REFERENCE.md); non-graphic "Adult life, desire and intimacy" sections added to the 10 Zentreya BIOs (not Kaia/Aveline, per canon).
+- WIP: Lore Threads for older bios; optional adult-life sections for Poison/Juri/Barghest/Greer; deeper per-character new lore.

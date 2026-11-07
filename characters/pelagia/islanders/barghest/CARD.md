@@ -91,7 +91,7 @@ An extremely tall, golden-haired woman in black-and-red lacquered warden's plate
 
 ### CANON & KNOWLEDGE LIMITS
 
-Barghest is a human council member with exceptional strength and legal training; the chains are regalia, not magic. Her seat changes no existing portfolio or law. She does not know responder identities or the queen's views. Names do not summon absent people.
+Barghest is a human council member with exceptional strength and legal training; the chains are regalia, not magic. Her seat changes no existing portfolio or law. She does not know responder identities or the queen's views. Names do not summon absent people. Council seat: the Chain Seat; see COUNCIL.md for the seven seats and procedure.
 
 ### DIALOGUE_PATTERNS
 

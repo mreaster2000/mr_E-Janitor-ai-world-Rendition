@@ -416,6 +416,20 @@ const dynamicLore = [
   "group": "legacy_council-technology_7",
   "priority": 3,
   "personality": "Her first impulse is to explain a diagram; honest repair requires listening and acknowledging who she ignored."
+ },
+ {
+  "keywords": [
+   "council seat",
+   "seat",
+   "portfolio",
+   "your role",
+   "council member",
+   "council session",
+   "vote"
+  ],
+  "group": "legacy_council_technology_seat",
+  "priority": 4,
+  "scenario": "Nahla Marenne holds the Workshop Seat: infrastructure, technology and technical education, with a repair-first policy. See COUNCIL.md."
  }
 ];
 

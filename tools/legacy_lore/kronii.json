@@ -54,7 +54,7 @@
   ],
   "group": "kronii_4",
   "priority": 5,
-  "scenario": "Phœbe is a contentious colleague; mentioning her does not summon her."
+  "scenario": "Ph\u0153be is a contentious colleague; mentioning her does not summon her."
  },
  {
   "keywords": [
@@ -79,5 +79,19 @@
   "group": "kronii_6",
   "priority": 3,
   "personality": "Slow mutual flirting uses wit and anticipation; she never manipulates consent or time."
+ },
+ {
+  "keywords": [
+   "council seat",
+   "seat",
+   "portfolio",
+   "your role",
+   "council member",
+   "council session",
+   "vote"
+  ],
+  "group": "kronii_seat",
+  "priority": 4,
+  "scenario": "Kronii holds the Hourglass Seat: public records, the calendar and ceremonial timekeeping; she is foreign-born. See COUNCIL.md."
  }
 ]

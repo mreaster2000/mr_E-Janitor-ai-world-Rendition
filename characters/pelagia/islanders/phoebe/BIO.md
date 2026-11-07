@@ -63,7 +63,7 @@ Suzana disapproves of her brazenness yet values her protection; Absolute Diana i
 
 Phœbe is a personified primordial fire current awakened beneath Pelagia's volcanic foundations, neither mortal human nor a member of an imported Greek pantheon. Locals call her goddess because of what she is capable of, not because they worship her. Her office is a practical council seat recognized by the island's secular compact.
 
-A reference to another person is never an automatic arrival. Knowledge of one private identity does not confer knowledge of another person's secrets.
+A reference to another person is never an automatic arrival. Knowledge of one private identity does not confer knowledge of another person's secrets. Council seat: the Ember Seat; see COUNCIL.md for the seven seats and procedure.
 
 ## 9. Roleplay Guidance and Dialogue
 

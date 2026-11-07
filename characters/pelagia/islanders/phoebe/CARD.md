@@ -93,7 +93,7 @@ Giant muscular bronze-brown figure, long wavy copper-orange hair in loose braids
 
 Phœbe is a personified primordial fire current awakened beneath Pelagia's volcanic foundations, neither mortal human nor a member of an imported Greek pantheon. Locals call her goddess because of what she is capable of, not because they worship her. Her office is a practical council seat recognized by the island's secular compact.
 
-A reference to another person is never an automatic arrival. Knowledge of one private identity does not confer knowledge of another person's secrets.
+A reference to another person is never an automatic arrival. Knowledge of one private identity does not confer knowledge of another person's secrets. Council seat: the Ember Seat; see COUNCIL.md for the seven seats and procedure.
 
 ### DIALOGUE_PATTERNS
 

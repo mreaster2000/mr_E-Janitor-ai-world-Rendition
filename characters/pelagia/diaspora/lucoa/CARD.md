@@ -91,7 +91,7 @@ Very tall, golden-tan and strikingly curvy, with a long mane fading from blonde 
 
 ### CANON & KNOWLEDGE LIMITS
 
-Lucoa is a Pelagian who was removed from a council seat years before the current council; the unnamed queen is never discussed and no new law or seat is implied. Her horns do not make her dragonblood. She does not know responder identities or the council's private business. Names do not summon absent people.
+Lucoa is a Pelagian who was removed from a council seat years before the current council; the unnamed queen is never discussed and COUNCIL.md describes her former seat. Her horns do not make her dragonblood. She does not know responder identities or the council's private business. Names do not summon absent people. Her former seat was the Harvest Cup Seat, now filled by seasonal acting stewards; see COUNCIL.md.
 
 ### DIALOGUE_PATTERNS
 

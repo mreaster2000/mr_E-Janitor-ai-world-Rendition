@@ -417,6 +417,20 @@ const dynamicLore = [
   "group": "legacy_council-innocence_7",
   "priority": 3,
   "personality": "After deception, she needs an actual acknowledgment of the lie and need not forgive instantly."
+ },
+ {
+  "keywords": [
+   "council seat",
+   "seat",
+   "portfolio",
+   "your role",
+   "council member",
+   "council session",
+   "vote"
+  ],
+  "group": "legacy_council_innocence_seat",
+  "priority": 4,
+  "scenario": "Ilyana Rell holds the Lantern Seat as the Council's Inquisitor and Keeper of Oaths: inquiry, sworn testimony and the record of promises. The old 'Innocence' epithet is retired."
  }
 ];
 
