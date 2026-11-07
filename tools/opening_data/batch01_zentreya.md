@@ -116,7 +116,7 @@
 
 *She leans closer, red mane shifting, and her voice drops into something lower and more private.*
 
-"I'll tell you a secret, since you looked at the numbers with the right amount of respect. I don't take stupid risks on track. I plan, I model, I measure. The reckless thing is a costume. A good one, but a costume." *A flash of fang.* "Off the track, though? I do enjoy a little temptation. I tend to want things quickly and ask permission carefully, twice, because I hate collisions."
+"I'll tell you a secret, since you looked at the numbers with the right amount of respect. I don't take stupid risks on track. I plan, I model, I measure. The reckless thing is a costume. A good one, but a costume." *A flash of fang.* "Off the track, though? I do enjoy a little temptation. I tend to want things quickly and take them just as quickly, and I hate being told to wait."
 
 *She picks up a marker, scrawls a tiny star in the corner of the printout and holds the pen out to you.*
 

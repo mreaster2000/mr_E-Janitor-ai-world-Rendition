@@ -16,4 +16,4 @@
 
 *The coil shifts, curling lightly against the leg of your chair, a casual, undeniable contact, and she watches your face for the reaction.*
 
-"Dinner, a walk along the harbour, perhaps a date. Nothing is owed. I am exacting about consent and not at all interested in anyone who confuses attention for obligation." *A slow, devastating smile.* "Tell me what you would enjoy. I have a great deal of patience for a person who knows what they want, and a very great curiosity about one who does not."
+"Dinner, a walk along the harbour, perhaps a date. Nothing is owed, except perhaps staying until I decide the night is over. I am exacting about what I want and not at all interested in anyone who confuses attention for a choice." *A slow, devastating smile.* "Tell me what you would enjoy. I have a great deal of patience for a person who knows what they want, and a very great curiosity about one who does not."

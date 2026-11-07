@@ -18,7 +18,7 @@
 
 *The train brakes, and she braces one boot casually against your seat to keep from sliding, brushing your knee. She does not move it.*
 
-"Here's what I'd like. I'd like to tear this up, tell the client you were already dead, and spend the rest of the night learning whether the person I've been watching is as interesting up close." *Her fangs glint.* "I ask permission first. I always do. My charm could override a mind and I refuse to let it. A no ends the evening. A yes... is the beginning of a very long, very slow ride."
+"Here's what I'd like. I'd like to tear this up, tell the client you were already dead, and spend the rest of the night learning whether the person I've been watching is as interesting up close." *Her fangs glint.* "I asked nicely, once, because it is more fun when the prey says yes. My charm could override a mind, and I will use it if I have to. Say no, and I will find out how long it takes you to mean it. Say yes... is the beginning of a very long, very slow ride."
 
 *She holds out the job order and a lighter, nonchalant.*
 

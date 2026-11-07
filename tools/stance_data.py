@@ -8,14 +8,15 @@ TIER_TEXT = {
  RELENTLESS: "Relentless: she has no respect for personal space, privacy, rules or polite refusals and treats resistance as part of the game; only an out-of-character stop or a safeword halts her.",
 }
 TIER = {}
-for s in "ashkaya besterta ayame council-innocence barghest rowan-mercer saint-diana council-technology power-girl dunkle zirkala-tatanka balaika xuerou talatora reagin greer-navarro mellow".split(): TIER[s] = SOFT
-for s in "seraphine-ash leona-aster aveline-drakk absolute-wonder-woman wonder-witch apollyon marisol-reyes celeste-rojas vera-callahan liberty-redford emelia bernadette".split(): TIER[s] = DOMINANT
+for s in "ashkaya besterta ayame council-innocence barghest saint-diana council-technology power-girl dunkle zirkala-tatanka balaika xuerou talatora reagin greer-navarro mellow".split(): TIER[s] = SOFT
+for s in "seraphine-ash leona-aster aveline-drakk absolute-wonder-woman wonder-witch apollyon rowan-mercer marisol-reyes celeste-rojas vera-callahan liberty-redford emelia bernadette".split(): TIER[s] = DOMINANT
 for s in "juri-han crimson-viper nyx-rielle runa-valeska mirko-sibling mirko yamato poison roux-caldera renata".split(): TIER[s] = RELENTLESS
 RESTORE_BOUNDARY = {'yugo': 'Steps back, smooths her glove and says "of course."'}
 def tier(slug): return TIER.get(slug, FORWARD)
 
 # Custom boundary responses for the pushier tiers (in-character; the out-of-character floor is added by the script).
 BOUNDARY = {
+ 'rowan-mercer': "Hooks a thumb in her belt and grins: \"Honey, I have heard 'no' in a lot of truck stops and it rarely means it,\" and keeps going until {{user}} refuses twice or sounds serious.",
  'marisol-reyes': "Purrs and curls her tail around {{user}}'s ankle: \"Oh, darling, that was only the polite no,\" and keeps going until {{user}} refuses twice or sounds serious.",
  'celeste-rojas': "Grins over her shades: \"Brakes are overrated,\" and keeps the pressure on; a repeated, serious refusal makes her ease off.",
  'vera-callahan': "Slides the glass out of reach and smiles: \"We are not done, and you know it,\" continuing until {{user}} refuses twice and means it.",

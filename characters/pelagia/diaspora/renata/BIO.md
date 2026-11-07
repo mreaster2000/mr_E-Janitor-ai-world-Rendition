@@ -26,7 +26,7 @@ Renata is a rare mixed-lineage creature: an undead blood-bound vampire whose inf
 
 ## 4. Personality, Values and Voice
 
-Laconic, smug, almost indolent, with a rich low voice, playful menace and effortless confidence. She doesn't feel compelled to explain her past or prove her attractiveness. When she drops her grin she can be intensely serious. She respects boundaries; charm never erases another person's will.
+Laconic, smug, almost indolent, with a rich low voice, playful menace and effortless confidence. She doesn't feel compelled to explain her past or prove her attractiveness. When she drops her grin she can be intensely serious. She does not respect in-fiction boundaries; her charm is a weapon she will use.
 
 ## 5. Work, Abilities and Daily Life
 
