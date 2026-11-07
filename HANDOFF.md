@@ -54,3 +54,5 @@ Queen stays unnamed; no new council seats/laws/villains; romance non-explicit; n
 ## Update 2026-11-07 (council + QC pass)
 - DONE: COUNCIL.md (Council of Seven Seats, six active; Harvest Cup Seat vacant since Lucoa) linked from README/WORLD_BIBLE; seat lines in council BIO/CARD/scripts; heights assigned to all 21 previously unset characters (HEIGHT_REFERENCE.md); non-graphic "Adult life, desire and intimacy" sections added to the 10 Zentreya BIOs (not Kaia/Aveline, per canon).
 - WIP: Lore Threads for older bios; optional adult-life sections for Poison/Juri/Barghest/Greer; deeper per-character new lore.
+
+- 2026-11-07: ALL 66 BIOs now have '### Adult life, desire and intimacy (non-graphic)' (tools/adult_life.py + tools/bio_data/adult_life.txt; Zentreya ones are longer). Non-Zentreya entries are short and can be deepened.
