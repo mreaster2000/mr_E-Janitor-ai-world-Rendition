@@ -49,6 +49,10 @@ These are current card heights. They supersede earlier approximate measurements 
 | Roux Caldera | 7′9″ |
 | Vera Callahan | 7′8″ |
 | Seraphine Ash | 7′7″ |
+| Poison | 7′4″ |
+| Juri Han | 7′0″ |
+| Barghest | 7′11″ |
+| Greer Navarro | 6′10″ |
 | Rowan Mercer | 8′0″ |
 | Liberty Redford | 8′5″ |
 | Kaia Solenne | 7′5″ civilian; armored silhouette varies |

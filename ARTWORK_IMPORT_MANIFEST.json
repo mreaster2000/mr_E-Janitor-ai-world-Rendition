@@ -3,27 +3,27 @@
   "files": [
     {
       "original": "Barghest from fate grand order another concil member.png",
-      "path": "characters/_shared/concept-art/barghest-council-member.webp",
+      "path": "characters/pelagia/islanders/barghest/reference.webp",
       "sha256": "acc9367ced93003e96dc649e95bc36ab37c4eea560feadede1928c71592102a0",
-      "role": "concept"
+      "role": "reference"
     },
     {
       "original": "Another dancer at the nightclub, lover, and hater of Poison.png",
-      "path": "characters/_shared/concept-art/nightclub-dancer-poison-rival.webp",
+      "path": "characters/worldwide/associates/juri-han/reference.webp",
       "sha256": "8bf6be368d84c72412378e1b6cb62da777c1eb74c13377832faf188bc6bbfca2",
-      "role": "concept"
+      "role": "reference"
     },
     {
       "original": "Poison from final fight a fake cop,guard,dancer at the same nightclub as the other 2 Zentreya.png",
-      "path": "characters/_shared/concept-art/poison-nightclub-dancer.webp",
+      "path": "characters/worldwide/associates/poison/reference.webp",
       "sha256": "993e24189eea26dfa6d8d0e6d3f7212cd7f3aa23fdf195322b2cd2c802ec8acd",
-      "role": "concept"
+      "role": "reference"
     },
     {
       "original": "Car mechanic for the one of the Zentrya racing car.png",
-      "path": "characters/_shared/concept-art/zentreya-racing-mechanic.webp",
+      "path": "characters/worldwide/associates/greer-navarro/reference.webp",
       "sha256": "1a46246849c069c847a9f91ca7d3fe246d25372cd59692fb8d7336ddcac8e2da",
-      "role": "concept"
+      "role": "reference"
     },
     {
       "original": "muscle bar (a Zentreya, Sukisekine nad TalaTora).png",

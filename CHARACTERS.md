@@ -1,4 +1,4 @@
-# Character roster — 62 profiles
+# Character roster — 66 profiles
 
 ## manhattan/gym
 
@@ -28,7 +28,8 @@
 - [yamato](characters/pelagia/islanders/yamato/)
 - [Zafira Marenne — Beauty Council Member](characters/pelagia/islanders/council-beauty/)
 - [Nahla Marenne — Technology Council Member](characters/pelagia/islanders/council-technology/)
-- [Ilyana Rell — Council Member](characters/pelagia/islanders/council-innocence/)
+- [Ilyana Rell — Inquisitor and Keeper of Oaths](characters/pelagia/islanders/council-innocence/)
+- [Barghest — Warden of Chains](characters/pelagia/islanders/barghest/)
 - [wonder-witch](characters/pelagia/islanders/wonder-witch/)
 - [saint-diana](characters/pelagia/islanders/saint-diana/)
 
@@ -80,6 +81,9 @@
 - [bon](characters/worldwide/associates/bon/)
 - [sukisekine](characters/worldwide/associates/sukisekine/)
 - [talatora](characters/worldwide/associates/talatora/)
+- [poison](characters/worldwide/associates/poison/)
+- [juri-han](characters/worldwide/associates/juri-han/)
+- [greer-navarro](characters/worldwide/associates/greer-navarro/)
 
 ## families/mercedes
 

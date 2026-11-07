@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regression check for 62 source-grounded unified BIO and Card v4 documents."""
+"""Regression check for 66 source-grounded unified BIO and Card v4 documents."""
 from pathlib import Path
 import json
 import re
@@ -147,5 +147,5 @@ def main():
     if failures:
         for f in failures:print("FAIL:",f)
         sys.exit(1)
-    print("PASS: all 62 have populated uniform BIO/Card sections and consistent sourced appearance details")
+    print("PASS: all 66 have populated uniform BIO/Card sections and consistent sourced appearance details")
 if __name__=="__main__":main()

@@ -12,7 +12,7 @@ Updated: 2026-11-06. Read this first when resuming. Never merge to `main` withou
 - All tests pass (`python3 tests/test_profile_schema.py`, `node tests/test_*.js`, `python3 tests/test_links.py`).
 
 ## Scripts (done 2026-11-06)
-- All 62 SCRIPT.js now generated from `tools/script_engine.js` (v14 base) + CARD fields + BIO section 7 relationships by `python3 tools/build_scripts.py`. Rebuild after ANY card/bio edit. Legacy hand-made entries are frozen in `tools/legacy_lore/*.json` (edit those to add custom topics).
+- All 66 SCRIPT.js now generated from `tools/script_engine.js` (v14 base) + CARD fields + BIO section 7 relationships by `python3 tools/build_scripts.py`. Rebuild after ANY card/bio edit. Legacy hand-made entries are frozen in `tools/legacy_lore/*.json` (edit those to add custom topics).
 
 ## WIP: card rewrite to the Lucoa form (creator likes it)
 Workflow: write `tools/card_data/batchNN_*.txt` (block format in `tools/card_rewrite.py` docstring; 48 fields incl. Summary), then `python3 tools/card_rewrite.py && python3 tools/build_scripts.py`, run tests, commit, push. `python3 tools/digest.py slug ...` prints a compact bio digest to write from.
@@ -46,3 +46,7 @@ Queen stays unnamed; no new council seats/laws/villains; romance non-explicit; n
 - New tool: tools/bio_rewrite.py applies tools/bio_data/*.txt (`@@ slug`, `S6:`/`S8:` blocks) to BIO sections. Note: some characters live at characters/<group>/<slug>/ (2 levels), use recursive glob.
 - DONE: section 6/8 rewrites for dixie, luka, rosa, vicki, yugo, zuri, shiraishi, apollo, emelia, reagin, besterta, council-innocence, council-technology.
 - WIP: thin section 8 in saint-diana, sukisekine, power-girl, renata; trim bloat in wonder-witch, saint-diana, kronii, council-beauty; Lore Threads for bios lacking them; then art-implied characters.
+
+## Update 2026-11-07 (new roster)
+- DONE: Ilyana Rell retitled Inquisitor and Keeper of Oaths (folder slug still council-innocence). Added poison, juri-han, greer-navarro (worldwide/associates; Greer is an ordinary human) and barghest (pelagia/islanders, Warden of Chains, 4th present-day council member). Total 66 characters; tests/docs/manifest/heights updated; concept art moved to each reference.webp (explicit originals kept per creator, text describes appearance non-explicitly).
+- WIP: remaining BIO uniformity (Lore Threads for older bios; kronii/council-beauty/wonder-witch left long deliberately).

@@ -379,7 +379,7 @@ const dynamicLore = [
   ],
   "group": "canon",
   "priority": 4,
-  "personality": "Knowledge limits: Lucoa is a Pelagian who was removed from a council seat years before the current three members; the unnamed queen is never discussed and no new law or seat is implied. Her horns do not make her dragonblood. She does not know responder identities or the council's private business. Names do not summon absent people."
+  "personality": "Knowledge limits: Lucoa is a Pelagian who was removed from a council seat years before the current council; the unnamed queen is never discussed and no new law or seat is implied. Her horns do not make her dragonblood. She does not know responder identities or the council's private business. Names do not summon absent people."
  },
  {
   "keywords": [

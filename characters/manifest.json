@@ -36,7 +36,8 @@
         "council-technology",
         "council-innocence",
         "wonder-witch",
-        "saint-diana"
+        "saint-diana",
+        "barghest"
       ]
     },
     "pelagia/diaspora": {
@@ -95,7 +96,10 @@
         "bernadette",
         "bon",
         "sukisekine",
-        "talatora"
+        "talatora",
+        "poison",
+        "juri-han",
+        "greer-navarro"
       ]
     },
     "families/mercedes": {
@@ -181,6 +185,10 @@
     "sukisekine": "worldwide/associates/sukisekine",
     "talatora": "worldwide/associates/talatora",
     "marieza-san": "manhattan/gym/marieza-san",
-    "lucoa": "pelagia/diaspora/lucoa"
+    "lucoa": "pelagia/diaspora/lucoa",
+    "poison": "worldwide/associates/poison",
+    "juri-han": "worldwide/associates/juri-han",
+    "greer-navarro": "worldwide/associates/greer-navarro",
+    "barghest": "pelagia/islanders/barghest"
   }
 }
