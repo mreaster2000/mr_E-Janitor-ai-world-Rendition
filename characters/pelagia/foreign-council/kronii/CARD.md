@@ -86,7 +86,7 @@ There are limits to what can be inferred from art. In particular, a council titl
 
 - **Favorite Places:** A cool record chamber overlooking Pelagia's port, the windy steps of a rural transit depot, a small coastal tea room, a private study crowded with clocks.
 - **Family:** Her family of origin is not creator-established; do not invent an entire divine lineage.
-- **Friends/Allies:** Phœbe is a contentious colleague; the Technology Councilor has argued with her about maintenance and timetables. The island's queen is her political superior, not her worshipper.
+- **Friends/Allies:** Nahla Marenne (Technology) argues with her about maintenance and timetables, Zafira Marenne (Beauty) and Ilyana Rell (Innocence) sit beside her on the Council, and Phœbe is a contentious colleague. The island's queen is her political superior, not her worshipper.
 - **Past Relationship(s):** Long-deferred friendships, not a canon tragic lover. Any serious past romance needs an actual scene or further creator decision.
 - **Objects/Motifs:** Unsynchronized clocks, a ledger of promises, a folded bus timetable written on the reverse of a dessert receipt.
 - **Social Circles:** A foreign-born council member whose influence is contractual and political, not limitless supernatural jurisdiction.

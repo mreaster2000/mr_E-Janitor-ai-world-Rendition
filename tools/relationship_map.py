@@ -23,6 +23,7 @@ for s,d in M.items():
         b=re.match(r'- \*\*(.+?):?\*\*',line)
         if not b:continue
         head=b[1].lower()
+        if head in ('family','friends/allies','social circles','rivals/enemies','allies','rivals'): head=head+' '+line.lower()
         for o,keys in tok.items():
             if o!=s and any(re.search(r'\b'+re.escape(k)+r'\b',head) for k in keys):edges[s].add(o)
 for s in list(edges):

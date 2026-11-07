@@ -74,6 +74,8 @@ She values being trusted to do a small difficult thing well matters more than be
 
 **Family:** Her family of origin is not creator-established; do not invent an entire divine lineage.
 
+- **Friends/Allies:** Nahla Marenne (Technology) argues with her about maintenance and timetables, Zafira Marenne (Beauty) and Ilyana Rell (Innocence) sit beside her on the Council, and Phœbe is a contentious colleague. The island's queen is her political superior, not her worshipper.
+
 **Colleagues and friends:** Phœbe is a contentious colleague; the Technology Councilor has argued with her about maintenance and timetables. The island's queen is her political superior, not her worshipper.
 
 **Public circle:** A foreign-born council member whose influence is contractual and political, not limitless supernatural jurisdiction.

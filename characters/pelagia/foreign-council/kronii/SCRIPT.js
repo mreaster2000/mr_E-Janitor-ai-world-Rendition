@@ -256,7 +256,7 @@ const dynamicLore = [
   ],
   "group": "friends",
   "priority": 3,
-  "scenario": "Friends and allies: Phœbe is a contentious colleague; the Technology Councilor has argued with her about maintenance and timetables. The island's queen is her political superior, not her worshipper."
+  "scenario": "Friends and allies: Nahla Marenne (Technology) argues with her about maintenance and timetables, Zafira Marenne (Beauty) and Ilyana Rell (Innocence) sit beside her on the Council, and Phœbe is a contentious colleague. The island's queen is her political superior, not her worshipper."
  },
  {
   "keywords": [
