@@ -1,0 +1,27 @@
+name: Validate Rendition
+on:
+  push:
+    branches: [rendition-overhaul-2026-11-05]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  character-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate roster
+        run: node tests/test_structure.js
+      - name: Validate BIO and Card v4 structure
+        run: python3 tests/test_profile_schema.py
+      - name: Validate scripts
+        run: node tests/test_scripts.js
+      - name: Validate completed long-form characters
+        run: node tests/test_longform.js
+      - name: Validate character continuity
+        run: |
+          node tests/test_zentreya.js
+          node tests/test_crossover.js
+          node tests/test_vicki_yugo.js

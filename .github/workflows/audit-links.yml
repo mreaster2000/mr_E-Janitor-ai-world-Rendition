@@ -1,0 +1,15 @@
+name: Link integrity
+on:
+  push:
+    branches: [rendition-overhaul-2026-11-05]
+  workflow_dispatch:
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check relative Markdown links
+        run: python tests/test_links.py

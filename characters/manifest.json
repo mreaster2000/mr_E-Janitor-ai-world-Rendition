@@ -1,53 +1,66 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "groups": {
-    "gym-gals": {
+    "manhattan/gym": {
       "description": "Founders and core members of the Manhattan private gym; Luka also belongs to the Kyouka family.",
       "slugs": [
-        "mudryk",
+        "rosa",
         "luka",
         "vicki",
         "yugo",
         "zesty",
         "xuerou",
-        "zuri"
+        "zuri",
+        "marieza-san"
       ]
     },
-    "kyouka-family": {
+    "families/kyouka": {
       "description": "Kyouka family beyond Luka, whose primary working group is Gym Gals. Includes the adopted Kryptonian Karren.",
       "slugs": [
         "dixie",
         "shiraishi",
-        "power-girl"
+        "power-girl",
+        "balaika",
+        "kara-supergirl"
       ]
     },
-    "pelagia": {
+    "pelagia/islanders": {
       "description": "Residents and leaders of the hidden Aegean Amazon island: secular council, military, heir and civilian houses.",
       "slugs": [
         "absolute-wonder-woman",
         "apollyon",
         "phoebe",
         "suzana",
-        "yamato"
+        "yamato",
+        "council-beauty",
+        "council-technology",
+        "council-innocence",
+        "wonder-witch",
+        "saint-diana",
+        "barghest"
       ]
     },
-    "pelagian-diaspora": {
+    "pelagia/diaspora": {
       "description": "Characters with Pelagian lineage or ties now living or roaming outside the island.",
       "slugs": [
         "ayame",
         "renata",
-        "victoria-vincent"
+        "victoria-vincent",
+        "lucoa"
       ]
     },
-    "new-york-associates": {
+    "manhattan/associates": {
       "description": "Close urban associates of the gym and Maison Mercedes who are not core gym members.",
       "slugs": [
         "gwen",
         "mellow",
-        "she-hulk"
+        "she-hulk",
+        "crimson-viper",
+        "techy",
+        "gluco-charin"
       ]
     },
-    "zentreya": {
+    "pelagia/dragonblood": {
       "description": "Rare Pelagian-dragon hybrid women: a reconstructed twelve-person cast spanning the island and the diaspora.",
       "slugs": [
         "aveline-drakk",
@@ -64,66 +77,118 @@
         "vera-callahan"
       ]
     },
-    "anima-lineages": {
+    "anima": {
       "description": "Characters of distinct animal-anima lineages, cultures and walks of life.",
       "slugs": [
         "ashkaya",
         "batu",
         "dunkle",
-        "nandi",
+        "besterta",
         "zirkala-tatanka"
       ]
     },
-    "independent-associates": {
+    "worldwide/associates": {
       "description": "Independent responders, veterans and internationally connected allies beyond the gym.",
       "slugs": [
         "apollo",
         "emelia",
-        "reagin"
+        "reagin",
+        "bernadette",
+        "bon",
+        "sukisekine",
+        "talatora",
+        "poison",
+        "juri-han",
+        "greer-navarro"
+      ]
+    },
+    "families/mercedes": {
+      "description": "families / mercedes",
+      "slugs": [
+        "mirko",
+        "mirko-sibling"
+      ]
+    },
+    "manhattan/creator-collective": {
+      "description": "manhattan / creator-collective",
+      "slugs": [
+        "palkia",
+        "akumaskywalker"
+      ]
+    },
+    "pelagia/foreign-council": {
+      "description": "Pelagian governance and distinct foreign council figure",
+      "slugs": [
+        "kronii"
       ]
     }
   },
   "characters": {
-    "absolute-wonder-woman": "pelagia/absolute-wonder-woman",
-    "apollo": "independent-associates/apollo",
-    "apollyon": "pelagia/apollyon",
-    "ashkaya": "anima-lineages/ashkaya",
-    "ayame": "pelagian-diaspora/ayame",
-    "batu": "anima-lineages/batu",
-    "dixie": "kyouka-family/dixie",
-    "dunkle": "anima-lineages/dunkle",
-    "emelia": "independent-associates/emelia",
-    "gwen": "new-york-associates/gwen",
-    "luka": "gym-gals/luka",
-    "mellow": "new-york-associates/mellow",
-    "mudryk": "gym-gals/mudryk",
-    "nandi": "anima-lineages/nandi",
-    "phoebe": "pelagia/phoebe",
-    "power-girl": "kyouka-family/power-girl",
-    "reagin": "independent-associates/reagin",
-    "renata": "pelagian-diaspora/renata",
-    "she-hulk": "new-york-associates/she-hulk",
-    "shiraishi": "kyouka-family/shiraishi",
-    "suzana": "pelagia/suzana",
-    "vicki": "gym-gals/vicki",
-    "victoria-vincent": "pelagian-diaspora/victoria-vincent",
-    "xuerou": "gym-gals/xuerou",
-    "yamato": "pelagia/yamato",
-    "yugo": "gym-gals/yugo",
-    "zesty": "gym-gals/zesty",
-    "zuri": "gym-gals/zuri",
-    "zirkala-tatanka": "anima-lineages/zirkala-tatanka",
-    "aveline-drakk": "zentreya/aveline-drakk",
-    "celeste-rojas": "zentreya/celeste-rojas",
-    "kaia-solenne": "zentreya/kaia-solenne",
-    "leona-aster": "zentreya/leona-aster",
-    "liberty-redford": "zentreya/liberty-redford",
-    "marisol-reyes": "zentreya/marisol-reyes",
-    "nyx-rielle": "zentreya/nyx-rielle",
-    "roux-caldera": "zentreya/roux-caldera",
-    "rowan-mercer": "zentreya/rowan-mercer",
-    "runa-valeska": "zentreya/runa-valeska",
-    "seraphine-ash": "zentreya/seraphine-ash",
-    "vera-callahan": "zentreya/vera-callahan"
+    "absolute-wonder-woman": "pelagia/islanders/absolute-wonder-woman",
+    "apollo": "worldwide/associates/apollo",
+    "apollyon": "pelagia/islanders/apollyon",
+    "ashkaya": "anima/ashkaya",
+    "ayame": "pelagia/diaspora/ayame",
+    "batu": "anima/batu",
+    "dixie": "families/kyouka/dixie",
+    "dunkle": "anima/dunkle",
+    "emelia": "worldwide/associates/emelia",
+    "gwen": "manhattan/associates/gwen",
+    "luka": "manhattan/gym/luka",
+    "mellow": "manhattan/associates/mellow",
+    "phoebe": "pelagia/islanders/phoebe",
+    "power-girl": "families/kyouka/power-girl",
+    "reagin": "worldwide/associates/reagin",
+    "renata": "pelagia/diaspora/renata",
+    "she-hulk": "manhattan/associates/she-hulk",
+    "shiraishi": "families/kyouka/shiraishi",
+    "suzana": "pelagia/islanders/suzana",
+    "vicki": "manhattan/gym/vicki",
+    "victoria-vincent": "pelagia/diaspora/victoria-vincent",
+    "xuerou": "manhattan/gym/xuerou",
+    "yamato": "pelagia/islanders/yamato",
+    "yugo": "manhattan/gym/yugo",
+    "zesty": "manhattan/gym/zesty",
+    "zuri": "manhattan/gym/zuri",
+    "zirkala-tatanka": "anima/zirkala-tatanka",
+    "aveline-drakk": "pelagia/dragonblood/aveline-drakk",
+    "celeste-rojas": "pelagia/dragonblood/celeste-rojas",
+    "kaia-solenne": "pelagia/dragonblood/kaia-solenne",
+    "leona-aster": "pelagia/dragonblood/leona-aster",
+    "liberty-redford": "pelagia/dragonblood/liberty-redford",
+    "marisol-reyes": "pelagia/dragonblood/marisol-reyes",
+    "nyx-rielle": "pelagia/dragonblood/nyx-rielle",
+    "roux-caldera": "pelagia/dragonblood/roux-caldera",
+    "rowan-mercer": "pelagia/dragonblood/rowan-mercer",
+    "runa-valeska": "pelagia/dragonblood/runa-valeska",
+    "seraphine-ash": "pelagia/dragonblood/seraphine-ash",
+    "vera-callahan": "pelagia/dragonblood/vera-callahan",
+    "balaika": "families/kyouka/balaika",
+    "kara-supergirl": "families/kyouka/kara-supergirl",
+    "mirko": "families/mercedes/mirko",
+    "mirko-sibling": "families/mercedes/mirko-sibling",
+    "crimson-viper": "manhattan/associates/crimson-viper",
+    "techy": "manhattan/associates/techy",
+    "gluco-charin": "manhattan/associates/gluco-charin",
+    "palkia": "manhattan/creator-collective/palkia",
+    "akumaskywalker": "manhattan/creator-collective/akumaskywalker",
+    "bernadette": "worldwide/associates/bernadette",
+    "kronii": "pelagia/foreign-council/kronii",
+    "council-beauty": "pelagia/islanders/council-beauty",
+    "council-technology": "pelagia/islanders/council-technology",
+    "council-innocence": "pelagia/islanders/council-innocence",
+    "wonder-witch": "pelagia/islanders/wonder-witch",
+    "saint-diana": "pelagia/islanders/saint-diana",
+    "rosa": "manhattan/gym/rosa",
+    "besterta": "anima/besterta",
+    "bon": "worldwide/associates/bon",
+    "sukisekine": "worldwide/associates/sukisekine",
+    "talatora": "worldwide/associates/talatora",
+    "marieza-san": "manhattan/gym/marieza-san",
+    "lucoa": "pelagia/diaspora/lucoa",
+    "poison": "worldwide/associates/poison",
+    "juri-han": "worldwide/associates/juri-han",
+    "greer-navarro": "worldwide/associates/greer-navarro",
+    "barghest": "pelagia/islanders/barghest"
   }
 }

@@ -1,0 +1,39 @@
+[
+ {
+  "keywords": [
+   "wrench",
+   "engine",
+   "garage",
+   "car",
+   "tools",
+   "pit"
+  ],
+  "group": "greer_garage",
+  "priority": 5,
+  "scenario": "Greer diagnoses by sound, runs the pit crew of eleven and trusts her ears over sensors; she fixes small problems unasked as a way of caring."
+ },
+ {
+  "keywords": [
+   "roux",
+   "race",
+   "track",
+   "driver",
+   "sponsor"
+  ],
+  "group": "greer_roux",
+  "priority": 5,
+  "scenario": "Greer is Roux Caldera's crew chief; they argue constantly, tap the roof twice before every start and have never missed one. Greer refuses livery changes on race morning."
+ },
+ {
+  "keywords": [
+   "rest",
+   "tired",
+   "eat",
+   "sandwich",
+   "sleep"
+  ],
+  "group": "greer_rest",
+  "priority": 5,
+  "scenario": "Greer treats rest as a design flaw; if she snaps she buys the person a sandwich, and the crew calls it the Gee Treaty."
+ }
+]

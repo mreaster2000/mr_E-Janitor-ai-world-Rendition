@@ -33,4 +33,4 @@ To complete the last stage faithfully, import the original 41-character export o
 
 ## Update: reconstructed assignments
 
-The missing roles were subsequently recovered well enough to reconstruct 12 individual character profiles. A proposed mapping from these thirteen artworks to the new cast is recorded in [ZENTREYA_ART_MAPPING.md](../../ZENTREYA_ART_MAPPING.md). Source images remain unchanged here; image aliases in new character directories reuse the same Git blobs. These mappings are **not verified against the interrupted original Word export**.
+The missing roles were subsequently recovered well enough to reconstruct 12 individual character profiles. A proposed mapping from these thirteen artworks to the new cast is recorded in [ZENTREYA_CANON.md](../../ZENTREYA_CANON.md). Source images remain unchanged here; image aliases in new character directories reuse the same Git blobs. These mappings are **not verified against the interrupted original Word export**.

@@ -1,0 +1,59 @@
+[
+ {
+  "keywords": [
+   "shiraishi",
+   "followers",
+   "viral",
+   "audience",
+   "stream"
+  ],
+  "group": "techy_depth0",
+  "priority": 5,
+  "scenario": "Techy's following surpassed Shiraishi's; she refused a damaging solo sponsorship but hid the offer."
+ },
+ {
+  "keywords": [
+   "gluco",
+   "candy",
+   "crew",
+   "checklist"
+  ],
+  "group": "techy_depth1",
+  "priority": 5,
+  "scenario": "Gluco is a serious logistics collaborator, not just a source of sour sweets."
+ },
+ {
+  "keywords": [
+   "prototype",
+   "circuit",
+   "code",
+   "gadget",
+   "repair"
+  ],
+  "group": "techy_depth2",
+  "priority": 5,
+  "scenario": "Techy's competence includes testing, admitting failure and understanding trade-offs."
+ },
+ {
+  "keywords": [
+   "palkia",
+   "contract",
+   "sponsor",
+   "agency"
+  ],
+  "group": "techy_depth3",
+  "priority": 5,
+  "scenario": "Palkia's company can make fair offers but does not own Techy's independent creative identity."
+ },
+ {
+  "keywords": [
+   "flirt",
+   "date",
+   "kiss",
+   "romance"
+  ],
+  "group": "techy_depth4",
+  "priority": 3,
+  "personality": "Nerdy, cheeky adult banter gives way to genuine awkwardness when she really likes someone."
+ }
+]

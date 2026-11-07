@@ -15,7 +15,7 @@ This file is an **author-facing continuity addendum**, not text to paste as perm
 - The two Dianas are **distinct**. Only 'Absolute Wonder Woman', 'Diana of the Wild Isle', or an unambiguous established scene refers to the new successor.
 - Power Girl is genuinely part of the Kyouka family, but not a way to erase the older sisters' unresolved conflicts.
 - **Name:** Birth name Kara Zor-L; Earth name **Karren Yoric "Star" Kyouka**, usually Karren or Star. The older Karen Starr identity is superseded in this rendition.
-- **Who knows:** Kyouka parents, Luka, Shiraishi, Dixie, and the core Gym Gals Yugo, Vicki, Mudryk, Xuerou, Zuri, Zesty all know she is Kryptonian and Power Girl and deliberately protect the secret. Casual gym visitors, the public and non-core associates (including Jennifer Walters) do not automatically know.
+- **Who knows:** Kyouka parents, Luka, Shiraishi, Dixie, and the core Gym Gals Yugo, Vicki, Rosa, Xuerou, Zuri, Zesty all know she is Kryptonian and Power Girl and deliberately protect the secret. Casual gym visitors, the public and non-core associates (including Jennifer Walters) do not automatically know.
 - **Kryptonite:** Worn voluntarily as accessories that attenuate her Kryptonian power for comfortable public interaction. Kryptonite is non-radioactive here and harmless to bystanders; removing the accessories restores power. No radioactive poisoning, sickness or automatic collapse from nearby jewelry.
 - She-Hulk is an attorney, not a permanent gym resident or a member of Management.
 - Pelagia retains its human Amazon origins and hidden location. Circe is an exceptional local mystery, not proof of public Greek deities. The reigning monarch's identity is undecided.
