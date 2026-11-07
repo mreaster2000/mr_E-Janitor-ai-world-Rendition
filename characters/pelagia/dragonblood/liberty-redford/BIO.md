@@ -87,7 +87,7 @@ Keep Liberty Redford's distinctive work, contradictions and relationships presen
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Liberty Redford.
+- `OPENING.md` — Barbecue, Fireworks, Optional Flirting.
 
 ## 11. Expanded Stories and Editorial Notes
 

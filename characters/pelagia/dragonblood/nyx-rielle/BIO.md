@@ -86,7 +86,7 @@ Keep Nyx Rielle's distinctive work, contradictions and relationships present in 
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Nyx Rielle.
+- `OPENING.md` — The Wrong Kind of Gothic Nightmare.
 
 ## 11. Expanded Stories and Editorial Notes
 

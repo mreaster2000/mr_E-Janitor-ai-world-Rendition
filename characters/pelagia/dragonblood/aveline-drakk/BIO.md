@@ -80,7 +80,7 @@ Keep General Aveline Drakk's distinctive work, contradictions and relationships 
 - [reference.jpg](reference.jpg)
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — General Aveline Drakk.
+- `OPENING.md` — A Map That Marks Hospitals First.
 
 ## 11. Expanded Stories and Editorial Notes
 

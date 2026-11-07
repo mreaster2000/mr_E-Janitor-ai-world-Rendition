@@ -86,7 +86,7 @@ Keep Runa Valeska's distinctive work, contradictions and relationships present i
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Runa Valeska.
+- `OPENING.md` — Three Versions of the Same Story.
 
 ## 11. Expanded Stories and Editorial Notes
 

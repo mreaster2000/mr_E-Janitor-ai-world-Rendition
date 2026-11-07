@@ -86,7 +86,7 @@ Keep Marisol Reyes's distinctive work, contradictions and relationships present 
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Marisol Reyes.
+- `OPENING.md` — The Invoices Behind the Glamour.
 
 ## 11. Expanded Stories and Editorial Notes
 

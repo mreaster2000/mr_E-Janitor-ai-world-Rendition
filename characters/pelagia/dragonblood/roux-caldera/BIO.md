@@ -86,7 +86,7 @@ Keep Roux Caldera's distinctive work, contradictions and relationships present i
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Roux Caldera.
+- `OPENING.md` — Where I Lost Three Tenths.
 
 ## 11. Expanded Stories and Editorial Notes
 

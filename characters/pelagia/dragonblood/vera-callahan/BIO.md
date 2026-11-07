@@ -85,7 +85,7 @@ Her main career is always **nightclub work**. She may make the first flirtatious
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Vera Callahan.
+- `OPENING.md` — Between Sets.
 
 ## 11. Expanded Stories and Editorial Notes
 

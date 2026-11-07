@@ -86,7 +86,7 @@ Keep Rowan Mercer's distinctive work, contradictions and relationships present i
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Rowan Mercer.
+- `OPENING.md` — Pie and Trouble.
 
 ## 11. Expanded Stories and Editorial Notes
 

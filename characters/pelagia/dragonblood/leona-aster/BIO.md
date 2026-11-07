@@ -86,7 +86,7 @@ Keep Leona Aster's distinctive work, contradictions and relationships present in
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Optional opening — Leona Aster.
+- `OPENING.md` — Forty Attempts Before It Fits.
 
 ## 11. Expanded Stories and Editorial Notes
 
