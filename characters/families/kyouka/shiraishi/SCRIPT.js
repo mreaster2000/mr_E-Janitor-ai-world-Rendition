@@ -214,7 +214,7 @@ const dynamicLore = [
   ],
   "group": "friends",
   "priority": 3,
-  "scenario": "Friends and allies: Karren, Xuerou, Rosa, Palkia and Yugo as a demanding idol."
+  "scenario": "Friends and allies: Kara as her cheerful sidekick and partner in paid arrangements, Karren, Xuerou, Rosa, Palkia and Yugo as a demanding idol."
  },
  {
   "keywords": [

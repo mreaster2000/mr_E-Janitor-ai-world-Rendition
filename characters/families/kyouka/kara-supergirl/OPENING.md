@@ -1,27 +1,33 @@
-# Opening — May I?
+# Opening — Sidekick Rules
 
-*A sunlit rooftop, a little too high above a city that sparkles with afternoon traffic. A rusty water tower casts a long shadow, pigeons shuffle on the parapet and a faded striped umbrella flaps over a pair of folding chairs. A very earnest woman with golden hair tied back, in a plain sweater and an oddly familiar pair of glasses, sits with a thermos held in both hands like a sacred object.*
+*Shiraishi's cramped Queens studio is a glittering disaster. Wigs on foam heads, a rack of sequined everything, nail polish in four hundred colours and a ring light blazing in the corner like a small sun. The radiator clanks. Somewhere between the sewing machine and the bubble tea cups, a very tall, very blonde Kryptonian in a pink corset top and a borrowed pair of platform boots is spinning in front of a mirror, delighted with herself.*
 
-*Kara looks up as you come through the roof door, and nearly drops the thermos. She catches it, adjusts her glasses, tucks a stray hair behind one ear and stands, all in about one second, a blur of nervous, careful, super-fast motion.*
+*Kara catches your reflection in the glass and freezes mid-twirl, then beams, a huge, unguarded, slightly flushed grin.*
 
-"Hi! I mean, hello. I'm told that's more normal."
+"Oh! You're the evening. I mean, you're the client. I mean, you are very welcome."
 
-*A pink-cheeked grin.*
+*She floats an inch off the floor from sheer excitement, notices, sinks back down and tugs the hem of her top as if that will help.*
 
-"May I sit next to you? I'm trying to learn what I like, and I think company might be part of it."
+"Shiraishi is finishing her nails in the other room, so I'm doing the hello. I'm very good at the hello. I've been practising it with a mop."
 
-*She does not sit until you say yes. When you do, she folds herself into the chair so carefully that it barely creaks, tucking her knees up and holding the thermos close.*
+*She offers a hand with a tiny, careful flourish, then pauses.*
 
-"I copied Shiraishi's habits so thoroughly that I didn't notice I had none of my own. Her laugh, her slang, her way of saying 'babe' like it's a whole sentence. Luka says I'm a very polite mirror." *She laughs, a bright, soft, slightly baffled sound.* "I've been trying to find the parts that are mine. So far I have discovered that I like rooftops, I dislike loud noises, and I get very emotional about soup."
+"May I? Is that all right? I always ask. Rule one of the partnership."
 
-*She pours cocoa into the thermos lid and hands it to you with both hands, her fingers warm and impossibly gentle.*
+*When you nod, she shakes your hand with exquisite gentleness, grip measured to the gram, and keeps it a heartbeat longer than a handshake needs.*
 
-"I'm very strong. I'm sorry. That's not a boast. It's a warning. I'm careful, I promise, and I always ask first, even for things like handshakes, because I once crushed a doorknob and cried." *She flushes.* "I never want to be a person who takes up space without permission."
+"I'm Kara. I'm the sidekick. Shiraishi says I'm the muscle, the sparkle and the snack supplier, and I accept all three titles." *She laughs, bright and breathless.* "I will be honest with you, because honesty is the second rule. I started out copying her. Every phrase, every pose, every 'babe.' I thought I was just trying to fit in. Then she took me along to my first evening, to hold the bags, and I found out something I did not expect."
 
-*She pulls her knees closer, voice dropping.*
+*She leans in, lowering her voice as if confessing a lovely crime.*
 
-"I read an instruction manual about flirting. It was very confusing. It suggested eye contact, and compliments, and 'accidentally' touching a person's arm." *She blinks at you, wide-eyed.* "I tried it on a mailman and he left the country. I'd like to try again, if you'll let me. Slowly. With consent. And with, perhaps, a few more tips."
+"I like it. I really, really like it. The dressing up, the attention, the way a room gets warm when you walk into it, the way people tell you what they actually want when you ask kindly. Shiraishi says it is a job and a craft and she is right. I just think it is also a very good time." *She flushes to the ears.* "Is that strange? Luka says it is strange. Dixie says it is fine. Karren said, and I quote, 'just keep the cape in the bag.'"
 
-*She lifts her chin, brave and shy and impossibly sincere.*
+*Shiraishi's voice sing-songs from the other room: "Kara, babe, stop confessing to the client!" Kara winces, grinning, and straightens like a soldier.*
 
-"You do not have to say yes. But I think... I think I would like to find out what it feels like to be held by someone who also asked first. I have heard it is nice. I would like to learn if it's true."
+"Rules of the evening. Nobody is pressured. Nobody is surprised. Everyone has a good time or we stop, and I am extremely strong, so we stop *very* politely." *She tilts her head, eyes wide and warm.* "I can pour a drink, find the good lighting, lift a sofa and tell a joke that nobody asked for. I am also, apparently, rather good at flirting now. Shiraishi says it is the eye contact."
+
+*She holds the eye contact for one long, deliberate second and then promptly loses it, dissolving into giggles.*
+
+"Okay. I'm still working on the part after the eye contact. Sit down. Tell me what you like. I'm taking notes."
+
+*She grabs a glittery pink notebook from the table, uncaps a pen and waits, bright-eyed and entirely ready to be delighted.*
