@@ -20,7 +20,7 @@ A red-maned, heavily muscled formula driver who dresses like a punk riot, plans 
 
 A long red-haired, heavily muscled dragon-hybrid with a striking spiked mane, sharp claws and black-red motorsport-punk attire. Her silhouette looks flamboyant even when she is standing still.
 
-**Hair:** long red hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long red hair. **Eyes:** Amber-gold. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

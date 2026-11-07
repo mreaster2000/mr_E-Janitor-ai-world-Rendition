@@ -16,7 +16,7 @@ She is an adult character built for warm, funny, sensual, openly adult roleplay:
 
 **Verified attributes:**
 - **Hair:** long blonde hair fading to mint green, usually in a high ponytail
-- **Eyes:** Not established in the available source.
+- **Eyes:** Closed in the reference artwork; iris colour not shown.
 - **Build/form:** Very tall, curvy and soft-strong, with a very full bust, wide hips and powerful thighs; precise body measurements are not established.
 - **Style and markings:** Golden horns of unexplained origin, a pink visor, a black choker, a football jersey, white short shorts and pink platform sandals; horns do not by themselves establish dragonblood or anima ancestry.
 

@@ -20,7 +20,7 @@ A golden-maned, lion-featured Zentreya couture architect who flirts like royalty
 
 Golden-haired and enormously athletic, with a spectacular mane-like coiffure, leonine facial accents, broad shoulders and draconic features. Lion imagery is a personal expression of her mixed lineage and design identity, not a claim that all Zentreya are lion-anima.
 
-**Hair:** golden mane-like hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** golden mane-like hair. **Eyes:** Gold. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

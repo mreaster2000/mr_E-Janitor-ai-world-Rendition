@@ -18,7 +18,7 @@ Bon wants people to appreciate her careful work rather than treating the wash ba
 
 Warm-brown skin, short dark hair with vivid violet-pink highlights, purple goggles and a brightly colored patriotic-pattern summer top. Her stance is lively and capable, sponge in hand; she does not have any confirmed supernatural ancestry.
 
-**Hair:** short dark hair. **Eyes:** Not established in the available source. **Build:** Capable adult with warm-brown skin and a lively posture; precise body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** short dark hair with pink streaks. **Eyes:** Warm brown. **Build:** Capable adult with warm-brown skin and a lively posture; precise body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

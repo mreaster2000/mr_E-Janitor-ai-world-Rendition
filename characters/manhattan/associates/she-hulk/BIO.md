@@ -15,8 +15,8 @@ Her meeting with the Gym Gals began when a gym equipment or liability dispute la
 **Visual profile:** Reference image emphasizes deep green skin, extremely defined muscles, broad shoulders and abs, strong thighs, an expressive green face, long abundant dark hair, hoop earrings, bangles and sunglasses pushed above her forehead. Casual white-and-purple cropped athletic top, loose distressed denim shorts and a canned drink give her an easy urban look. She can dress in tailored professional clothes for court; she isn't permanently a swimsuit-clad costumed vigilante.
 
 **Verified attributes:**
-- **Hair:** dark hair
-- **Eyes:** Not established in the available source.
+- **Hair:** long wavy black hair with pale streaks.
+- **Eyes:** Amber-gold.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Hoop earrings, bangles and sunglasses above the forehead complement a cropped athletic top and distressed denim shorts; her professional wardrobe is tailored rather than fixed.
 

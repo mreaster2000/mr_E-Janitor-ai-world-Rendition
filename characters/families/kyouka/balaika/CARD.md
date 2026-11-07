@@ -18,7 +18,7 @@ A tall, scarred blonde former officer with a perfect ponytail and no idea how to
 
 Tall, imposing blonde with a long ponytail, tailored dark formal wear, a controlled gaze and visible old scars; her stillness is more intimidating than her volume.
 
-**Hair:** blonde hair gathered in a long ponytail. **Eyes:** Not established in the available source. **Build:** Tall, imposing adult with visible old scars; exact body proportions beyond the given height are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** blonde hair gathered in a long ponytail. **Eyes:** Not shown in colour; the reference artwork is monochrome. **Build:** Tall, imposing adult with visible old scars; exact body proportions beyond the given height are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

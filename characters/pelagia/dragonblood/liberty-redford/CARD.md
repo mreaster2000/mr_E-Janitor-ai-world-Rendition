@@ -20,7 +20,7 @@ A huge red-haired cowgirl half-dragon who flirts at full volume, drives the long
 
 A huge red-haired, horned and scaly half-dragon with an expansive western wardrobe, cowboy hat and broad powerful tail. The reference art is a blurred, partly obscured celebration scene with fireworks; details beneath the blur are not assumed.
 
-**Hair:** red hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** red hair. **Eyes:** Hidden behind round blue-lensed sunglasses; iris colour not shown. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

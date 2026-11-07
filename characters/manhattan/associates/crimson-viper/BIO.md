@@ -18,7 +18,7 @@ A genuinely gifted fashion executive whose secret investigation has created a co
 
 **Verified attributes:**
 - **Hair:** Long magenta-red hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Hidden behind amber-tinted glasses; iris colour not shown.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Tailored black-and-violet street couture, sharp cosmetics and magenta-red hair give her a polished but confrontational appearance.
 

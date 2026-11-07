@@ -20,7 +20,7 @@ A 118-year-old shaggy-maned Zentreya archivist and former stage performer who co
 
 A broad and imposing pale-haired woman with a great shaggy mane, animal-like draconic ears, a substantial tail and a taste for minimal black clothing. Her light-colored hair and relaxed posture make her seem indolent until she moves.
 
-**Hair:** pale/light-colored shaggy mane (exact shade not established). **Eyes:** Not established in the available source. **Build:** Broad, imposing dragon-descended form with draconic ears and substantial tail. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** silver-white shaggy mane. **Eyes:** Hidden behind round blue-and-violet gradient sunglasses; iris colour not shown. **Build:** Broad, imposing dragon-descended form with draconic ears and substantial tail. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

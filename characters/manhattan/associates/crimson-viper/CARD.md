@@ -18,7 +18,7 @@ A magenta-haired, amber-lensed fashion executive who runs Maison Mercedes alongs
 
 Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored black-violet street couture; capable of looking equally at home on a runway or in a tense meeting.
 
-**Hair:** Long magenta-red hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** Long magenta-red hair. **Eyes:** Hidden behind amber-tinted glasses; iris colour not shown. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

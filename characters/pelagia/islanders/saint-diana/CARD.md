@@ -18,7 +18,7 @@ A Japanese heroine with a famous-sounding name who spends half her public life c
 
 The creator supplied a Japanese Diana superhero portrait but exact costume details, height, age, powers and legal name are not fully established. Describe a poised, physically confident heroine without assigning unconfirmed powers or a specific Pelagian ancestry.
 
-**Hair:** long wavy black hair. **Eyes:** Not established in the available source. **Build:** Poised, physically confident adult heroine; exact height, musculature and costume measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long wavy black hair. **Eyes:** Deep red. **Build:** Poised, physically confident adult heroine; exact height, musculature and costume measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

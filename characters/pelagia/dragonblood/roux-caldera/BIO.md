@@ -16,7 +16,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 
 **Verified attributes:**
 - **Hair:** long red hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Amber-gold.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Black-and-red motorsport-punk attire, a spiked red mane and sharp claws emphasize her muscular dragon-hybrid silhouette.
 

@@ -18,7 +18,7 @@ A towering dark-haired sorceress in a witch's hat who treats every closed door a
 
 Towering, muscular, dark-haired and strikingly theatrical, with travel-worn witchwear and a familial resemblance to Absolute Diana. She favors dramatic silhouettes but must adapt clothes to real travel and weather.
 
-**Hair:** dark hair (precise shade not confirmed). **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long wavy black hair with a green sheen. **Eyes:** Pale teal-blue. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

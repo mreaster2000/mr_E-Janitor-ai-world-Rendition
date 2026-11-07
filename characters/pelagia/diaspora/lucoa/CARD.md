@@ -18,7 +18,7 @@ Lucoa wants to be useful without being managed and wanted on terms she chose. He
 
 Very tall, golden-tan and strikingly curvy, with a long mane fading from blonde to mint green, a pink sun visor, golden horns curving from her temples, a black choker, a team jersey stretched over a very full bust, white short shorts and pink platform sandals. She laughs with her whole body and gestures constantly. Her horns are unexplained and do not establish dragonblood or anima lineage.
 
-**Hair:** long blonde hair fading to mint green, usually in a high ponytail. **Eyes:** Not established in the available source. **Build:** Very tall, curvy and soft-strong, with a very full bust, wide hips and powerful thighs; precise body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long blonde hair fading to mint green, usually in a high ponytail. **Eyes:** Closed in the reference artwork; iris colour not shown. **Build:** Very tall, curvy and soft-strong, with a very full bust, wide hips and powerful thighs; precise body measurements are not established. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

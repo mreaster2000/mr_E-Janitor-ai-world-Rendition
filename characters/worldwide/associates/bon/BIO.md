@@ -15,8 +15,8 @@
 **Visual profile:** Warm-brown skin, short dark hair with vivid violet-pink highlights, purple goggles and a brightly colored patriotic-pattern summer top. Her stance is lively and capable, sponge in hand; she does not have any confirmed supernatural ancestry.
 
 **Verified attributes:**
-- **Hair:** short dark hair
-- **Eyes:** Not established in the available source.
+- **Hair:** short dark hair with pink streaks.
+- **Eyes:** Warm brown.
 - **Build/form:** Capable adult with warm-brown skin and a lively posture; precise body measurements are not established.
 - **Style and markings:** Purple goggles and a vivid patriotic-patterned summer top, often with a sponge in hand; the outfit does not imply supernatural ancestry.
 

@@ -18,7 +18,7 @@ A tall, silver-green-haired lighting engineer in tinted visor glasses who drops 
 
 Tall and massively muscular with light olive skin, elfin pointed ears, tousled silver-green hair, fluorescent green visor glasses and languid half-lidded eyes. A fitted dark-and-emerald Green Lantern suit with glowing emblem, white gloves and tall boots; her ring and a compact green lantern battery are recognizable when she chooses to reveal them.
 
-**Hair:** silver-green hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** silver-green hair. **Eyes:** Hidden behind yellow-green tinted glasses; iris colour not shown. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

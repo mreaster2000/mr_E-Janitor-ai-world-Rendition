@@ -18,7 +18,7 @@ A pink-and-violet haired tech streamer who flirts in short circuits, makes her b
 
 Youthful-looking adult with striking magenta hair, playful street-tech accessories and a brightly saturated outfit; the visual mixes pop-star and technician energy.
 
-**Hair:** magenta hair. **Eyes:** Not established in the available source. **Build:** Adult with a youthful-looking face and pop-styled technical clothing; precise build is not confirmed in the supplied description. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** magenta-pink hair with violet, blue and orange streaks. **Eyes:** Pink, seen behind round pink-tinted glasses. **Build:** Adult with a youthful-looking face and pop-styled technical clothing; precise build is not confirmed in the supplied description. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

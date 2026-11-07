@@ -16,7 +16,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 
 **Verified attributes:**
 - **Hair:** red hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Hidden behind round blue-lensed sunglasses; iris colour not shown.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Broad western wardrobe and cowboy hat, large horns and scaled tail; the blurred fireworks portrait does not establish features hidden by the blur.
 

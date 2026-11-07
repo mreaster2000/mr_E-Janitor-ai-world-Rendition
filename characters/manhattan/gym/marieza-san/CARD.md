@@ -18,7 +18,7 @@ A red-haired, chain-wearing martial arts trainer who bellows like a gladiator, n
 
 Monumentally muscular, light-haired woman with ornate athletic gear and a fondness for flamboyant, gladiator-like flourishes.
 
-**Hair:** light-colored hair (specific shade not confirmed). **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** rose-red blunt bob with straight bangs. **Eyes:** Green. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

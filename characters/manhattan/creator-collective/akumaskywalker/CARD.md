@@ -18,7 +18,7 @@ A red-haired scene director who stages performers like paintings, keeps a notebo
 
 Dark, imposing streetwear silhouette with a theatrical mask or dramatic headwear and a flair for high-contrast staging; exact personal identity beyond the art is unconfirmed.
 
-**Hair:** wavy red-orange hair. **Eyes:** Not established in the available source. **Build:** Imposing figure in dark streetwear; masked features and precise build remain unconfirmed in the source. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** wavy red-orange hair. **Eyes:** Violet, one behind a small round monocle. **Build:** Imposing figure in dark streetwear; masked features and precise build remain unconfirmed in the source. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

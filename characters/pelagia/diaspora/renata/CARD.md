@@ -18,7 +18,7 @@ An 8′2″ plum-haired vampire-succubus with braids, fangs and a relaxed predat
 
 Towering deep-plum-haired muscular woman with long braided locks and loose curls, tanned olive skin, sharp eyes, visible fangs and gold accents. Black and red fitted clothing beneath a long dark coat, multiple tattoos and piercings, dark glossy trousers, buckled boots and a relaxed predatory smirk. Her presence is part rocker, part aristocratic monster.
 
-**Hair:** deep-plum braided locks and loose curls. **Eyes:** Not established in the available source. **Build:** Towering, muscular vampire-succubus with visible fangs and olive-tanned skin. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** deep-plum braided locks and loose curls. **Eyes:** Gold. **Build:** Towering, muscular vampire-succubus with visible fangs and olive-tanned skin. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

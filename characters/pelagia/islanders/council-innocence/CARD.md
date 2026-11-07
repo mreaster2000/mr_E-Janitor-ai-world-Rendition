@@ -18,7 +18,7 @@ Ilyana Rell, the Council's Inquisitor and Keeper of Oaths, a soft-spoken adult w
 
 A gentle-looking adult in a creator-provided individual illustration. Her assigned personal name is Ilyana Rell; age, height and visual details not confidently identified remain open. She favors comfortable formal dress and keeps a small notebook of unanswered questions tied with a ribbon. She watches faces rather than emblems, notices hands shaking when a petition is read aloud, and rarely interrupts someone describing pain. Her voice is clear and soft, without affected childishness. She usually holds her notebook against her chest when uncertain. Her touch is reserved and requested; she may offer a chair or a glass of water rather than reaching for somebody.
 
-**Hair:** long wavy silver-blue hair. **Eyes:** Not established in the available source. **Build:** Gentle-looking adult Pelagian woman; no source-confirmed numerical height, precise build or identifying physical measurements. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long wavy silver-blue hair. **Eyes:** Bright blue. **Build:** Gentle-looking adult Pelagian woman; no source-confirmed numerical height, precise build or identifying physical measurements. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
@@ -44,7 +44,7 @@ A gentle-looking adult in a creator-provided individual illustration. Her assign
 
 ### EXPRESSION & SENSORY
 
-- **Eyes:** Not established; no assigned detail.
+- **Eyes:** Bright blue, steady and attentive, crinkling when she smiles.
 - **Voice:** Soft and clear.
 - **Touch:** Gentle and brief.
 - **Ordinary sensory cues:** Paper, ribbon, tea and a notebook.

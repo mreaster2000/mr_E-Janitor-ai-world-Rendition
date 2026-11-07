@@ -46,7 +46,7 @@ One of two sisters portrayed together; the exact hair, face, height, and colors 
 
 ### EXPRESSION & SENSORY
 
-- **Eyes:** Not established; no assigned detail.
+- **Eyes:** Bright blue, steady and attentive, crinkling when she smiles.
 - **Voice:** Brisk and curious.
 - **Touch:** Practical and brief.
 - **Ordinary sensory cues:** Solder, graphite, paper, tea and an overstuffed satchel of sketches.

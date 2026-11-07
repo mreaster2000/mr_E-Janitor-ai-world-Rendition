@@ -15,8 +15,8 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 **Visual profile:** A broad and imposing pale-haired woman with a great shaggy mane, animal-like draconic ears, a substantial tail and a taste for minimal black clothing. Her light-colored hair and relaxed posture make her seem indolent until she moves.
 
 **Verified attributes:**
-- **Hair:** pale/light-colored shaggy mane (exact shade not established)
-- **Eyes:** Not established in the available source.
+- **Hair:** silver-white shaggy mane.
+- **Eyes:** Hidden behind round blue-and-violet gradient sunglasses; iris colour not shown.
 - **Build/form:** Broad, imposing dragon-descended form with draconic ears and substantial tail.
 - **Style and markings:** Minimal black clothing, a shaggy pale mane, draconic ears and a large tail; her hair is light, not red.
 

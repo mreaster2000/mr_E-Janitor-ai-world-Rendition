@@ -16,7 +16,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 
 **Verified attributes:**
 - **Hair:** long red hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Yellow-green.
 - **Build/form:** Powerful dragon-descended adult with prominent horns and a substantial tail; precise body measurements are not documented.
 - **Style and markings:** Practical shorts and work gear beside her red pickup truck; prominent horns and a substantial tail affect even how she fits into vehicles.
 

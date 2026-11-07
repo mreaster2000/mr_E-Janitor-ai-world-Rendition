@@ -18,7 +18,7 @@ An estranged mother whose career taught her to stay composed during danger but n
 
 **Verified attributes:**
 - **Hair:** blonde hair gathered in a long ponytail
-- **Eyes:** Not established in the available source.
+- **Eyes:** Not shown in colour; the reference artwork is monochrome.
 - **Build/form:** Tall, imposing adult with visible old scars; exact body proportions beyond the given height are not established.
 - **Style and markings:** Tailored dark formalwear, a long blonde ponytail and visible old scars; stillness and disciplined posture make her intimidating.
 

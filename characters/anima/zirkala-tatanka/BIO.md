@@ -14,7 +14,7 @@ Zirkala is a bison-anima security specialist and astonishingly knowledgeable col
 
 **Verified attributes:**
 - **Hair:** tousled short dark brown hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Hidden behind a red face-paint band; iris colour not shown.
 - **Build/form:** Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin.
 - **Style and markings:** Red facial and forearm markings and a geometric upper-arm tattoo accompany bison horns and ears; field gear includes a headset, gloves, tan shirt and camouflage vest. The tattoo meanings and Tribal Nation are not assigned.
 

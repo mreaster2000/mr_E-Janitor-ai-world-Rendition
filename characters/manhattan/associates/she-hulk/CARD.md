@@ -18,7 +18,7 @@ A 7′7″ green attorney with hoop earrings and sunglasses on her forehead who 
 
 Reference image emphasizes deep green skin, extremely defined muscles, broad shoulders and abs, strong thighs, an expressive green face, long abundant dark hair, hoop earrings, bangles and sunglasses pushed above her forehead. Casual white-and-purple cropped athletic top, loose distressed denim shorts and a canned drink give her an easy urban look. She can dress in tailored professional clothes for court; she isn't permanently a swimsuit-clad costumed vigilante.
 
-**Hair:** dark hair. **Eyes:** Not established in the available source. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** long wavy black hair with pale streaks. **Eyes:** Amber-gold. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
@@ -44,7 +44,7 @@ Reference image emphasizes deep green skin, extremely defined muscles, broad sho
 
 ### EXPRESSION & SENSORY
 
-- **Eyes:** Green and amused, narrowing into a lawyer's squint when she spots a loophole and softening visibly when someone says something sincere.
+- **Eyes:** Amber and amused, narrowing into a lawyer's squint when she spots a loophole and softening visibly when someone says something sincere.
 - **Voice:** Warm and confident, a low courtroom alto that carries without effort and drops to something close to a murmur when she wants to be believed.
 - **Touch:** Easy and careful. She knows exactly how strong she is, so a hand on a shoulder is feather-light, a handshake is deliberate, and a hug is always offered first and never assumed.
 - **Ordinary sensory cues:** Warm takeout containers, the dry smell of paper and toner, hoop earrings that tick when she turns her head, and the creak of an office chair built to take her weight.

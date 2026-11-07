@@ -17,8 +17,8 @@ A spectacularly powerful trainer who has learned that her true success is teachi
 **Visual profile:** Monumentally muscular, light-haired woman with ornate athletic gear and a fondness for flamboyant, gladiator-like flourishes.
 
 **Verified attributes:**
-- **Hair:** light-colored hair (specific shade not confirmed)
-- **Eyes:** Not established in the available source.
+- **Hair:** rose-red blunt bob with straight bangs.
+- **Eyes:** Green.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Ornate athletic gear and flamboyant gladiator-like flourishes complement her monumental physique and light hair.
 

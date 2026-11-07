@@ -16,7 +16,7 @@ A wandering vampire-succubus of Pelagian origins whose provocative confidence co
 
 **Verified attributes:**
 - **Hair:** deep-plum braided locks and loose curls
-- **Eyes:** Not established in the available source.
+- **Eyes:** Gold.
 - **Build/form:** Towering, muscular vampire-succubus with visible fangs and olive-tanned skin.
 - **Style and markings:** Black-and-red fitted clothing under a dark coat, tattoos, piercings, gold accents, glossy trousers and buckled boots.
 

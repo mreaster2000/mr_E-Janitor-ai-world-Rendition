@@ -16,7 +16,7 @@ The creator's premise gives her two anchors: she is loyal to Emèlia, and she is
 
 **Verified attributes:**
 - **Hair:** black hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Dark brown, behind clear-rimmed glasses.
 - **Build/form:** Powerfully built woman with a formal, tightly controlled bearing; no additional exact measurements documented.
 - **Style and markings:** Understated black formalwear, black hair, stern expression and exacting body language; no specific jewelry or additional markings are confirmed.
 

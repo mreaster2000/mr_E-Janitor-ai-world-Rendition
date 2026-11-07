@@ -16,7 +16,7 @@ She can illuminate a stage or protect an entire district, but worries people wil
 
 **Verified attributes:**
 - **Hair:** silver-green hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Hidden behind yellow-green tinted glasses; iris colour not shown.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Dark-and-emerald suit with luminous emblem, fluorescent green visor, white gloves, tall boots, ring and compact lantern battery.
 

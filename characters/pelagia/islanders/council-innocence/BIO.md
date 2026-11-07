@@ -14,7 +14,7 @@ An almost disarmingly sincere council member whose apparent naivety hides a pati
 
 **Verified attributes:**
 - **Hair:** long wavy silver-blue hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Bright blue.
 - **Build/form:** Gentle-looking adult Pelagian woman; no source-confirmed numerical height, precise build or identifying physical measurements.
 - **Style and markings:** Comfortable formal dress and a ribbon-tied notebook of questions; unverified facial colors and markings remain open.
 

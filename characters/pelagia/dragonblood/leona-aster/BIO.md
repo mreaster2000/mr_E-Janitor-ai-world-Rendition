@@ -16,7 +16,7 @@ The Zentreya bloodline gives her a particularly intense and persistent sexual ap
 
 **Verified attributes:**
 - **Hair:** golden mane-like hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Gold.
 - **Build/form:** Muscular, athletic build.
 - **Style and markings:** Spectacular golden mane-like hair, leonine facial accents and draconic features; the lion symbolism is her design identity, not an attribute of all Zentreya.
 

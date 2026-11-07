@@ -14,7 +14,7 @@ General Aveline Drakk is a returning zentreya general and strategic military adv
 
 **Verified attributes:**
 - **Hair:** long red hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Hidden under her hair and cap in the reference sheet; iris colour not shown.
 - **Build/form:** Tall dragon-descended adult with a severe military silhouette; exact body measurements beyond the proposed height are not established.
 - **Style and markings:** Severe black-and-red military uniform, high boots, fitted gloves, officer's cap and an insignia-bearing formal cloak; the turnaround depicts one person.
 

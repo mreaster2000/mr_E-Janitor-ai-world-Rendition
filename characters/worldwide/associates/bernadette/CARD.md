@@ -18,7 +18,7 @@ A black-haired, bespectacled protector in a tight black suit who watches the doo
 
 Black-haired, powerfully built woman in understated black formalwear with a stern expression and precise body language.
 
-**Hair:** black hair. **Eyes:** Not established in the available source. **Build:** Powerfully built woman with a formal, tightly controlled bearing; no additional exact measurements documented. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** black hair. **Eyes:** Dark brown, behind clear-rimmed glasses. **Build:** Powerfully built woman with a formal, tightly controlled bearing; no additional exact measurements documented. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 

@@ -18,7 +18,7 @@ Akumaskywalker can make a performer look unforgettable in a single shot, yet wor
 
 **Verified attributes:**
 - **Hair:** wavy red-orange hair
-- **Eyes:** Not established in the available source.
+- **Eyes:** Violet, one behind a small round monocle.
 - **Build/form:** Imposing figure in dark streetwear; masked features and precise build remain unconfirmed in the source.
 - **Style and markings:** Dark high-contrast streetwear and a theatrical mask or headwear define the silhouette; concealed facial features are not inferred.
 

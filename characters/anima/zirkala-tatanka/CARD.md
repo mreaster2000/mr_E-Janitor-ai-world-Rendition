@@ -18,7 +18,7 @@ An 8′2″ bison-anima security specialist and firearms-history nerd who domina
 
 Zirkala is extraordinarily broad and heavily muscled, with warm brown skin, tousled short dark brown hair, horns rising from the sides of her head, bison ears and a serious gaze. The supplied reference shows red markings across her upper face and forearm, alongside a dark geometric upper-arm tattoo. Her field gear includes a headset, dark gloves, tan shirt and organized camouflage vest. The tattoos' specific cultural meanings and her Tribal Nation remain unassigned; do not invent them.
 
-**Hair:** tousled short dark brown hair. **Eyes:** Not established in the available source. **Build:** Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
+**Hair:** tousled short dark brown hair. **Eyes:** Hidden behind a red face-paint band; iris colour not shown. **Build:** Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
 ### PSYCHOLOGICAL_PROFILE
 
