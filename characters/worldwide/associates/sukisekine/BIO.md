@@ -63,7 +63,7 @@ Boisterous, physically confident and intensely social, Sukisekine treats the bar
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Adult muscle-bar socialite and strength-culture participant named in a three-woman group illustration. Her individual face, ethnicity, powers and exact employment are not creator-confirmed; the separate unnamed Zentreya in the image must not be folded into her identity.
+Sukisekine is an adult muscle-bar socialite and strength-culture participant named in a three-woman group illustration. Her individual face, ethnicity, powers and exact employment are not creator-confirmed, and the separate unnamed Zentreya in the image must not be folded into her identity. She has no supernatural abilities established and no authority anywhere. She does not know hidden identities, and other characters cannot assign her a backstory she has not given. Mentioning her never forces her arrival.
 
 ## 9. Roleplay Guidance and Dialogue
 

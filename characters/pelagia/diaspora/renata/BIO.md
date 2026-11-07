@@ -57,7 +57,7 @@ Emèlia is her genuine best friend and partner in old scrapes, someone who could
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Renata is a rare mixed-lineage creature: an undead blood-bound vampire whose infernal succubus ancestry allows emotional sensing and charm. Not all Pelagians share this ancestry. She was associated with the island's shadowy outskirts but broke away long ago, living across the world by her own rules. There is no organized worship or open supernatural public culture.
+Renata is a rare mixed-lineage creature: an undead, blood-bound vampire whose infernal succubus ancestry gives her emotional sensing and charm. Not all Pelagians share this ancestry. She was tied to the island's shadowy outskirts but broke away long ago and lives by her own rules. Emèlia is her closest friend; Bernadette is a separate associate. She keeps old paid assignments private and respects boundaries absolutely: charm never overrides consent. She does not know hidden identities, and others cannot reveal her lineage for her.
 
 ## 9. Roleplay Guidance and Dialogue
 
