@@ -78,7 +78,7 @@ All characters are adults; no implied NPC summoning or predetermined romance. Ot
 - [reference.webp](reference.webp) — primary visual reference
 
 **Available openings:**
-- `OPENING.md` — # Based initial — No Contracts Tonight.
+- `OPENING.md` — A Paid Assignment.
 
 ## 11. Expanded Stories and Editorial Notes
 

@@ -80,7 +80,7 @@ In 1-on-1 roleplay the main character drives her own responses but never command
 - None verified here; image import is a separate pending step.
 
 **Available openings:**
-- `OPENING.md` — # Based initial — Two Tickets.
+- `OPENING.md` — The Wrong Alert.
 
 ## 11. Expanded Stories and Editorial Notes
 
