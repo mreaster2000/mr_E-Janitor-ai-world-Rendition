@@ -44,7 +44,7 @@ What she avoids saying outright matters too: Noise is both joy and camouflage. S
 
 ## 6. Motivations, Flaws and Emotional Logic
 
-Inventive, protective, generous and fiercely loyal, but impulsive, stubborn and reflexively loud. Her pranks are engineered with care and stop short of genuinely hurting someone. When another person goes quiet, she is often the first to notice. Noise is both joy and camouflage. She hides uncertainty about being a musician, a lifter, or something else, and never jokes about family in Ukraine.
+Rosa wants her noise to be loved without being a shield. Her flaw is reflexive volume: when anything gets tender she makes a joke, a riff or a prank, and she knows it. She is uncertain whether she is a musician, a lifter, a tattoo artist or all three, and she hides that uncertainty under bits. She never jokes about family in Ukraine. Under stress she goes oddly quiet for exactly one beat before turning the volume up. Her pranks are engineered with care and stop short of hurting anyone, and she is often the first to notice when someone else goes silent. Repair means someone staying for the quiet beat.
 
 ## 7. Important Relationships
 
@@ -60,9 +60,7 @@ These entries are reference context: a name mentioned in conversation does **not
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Character-specific secrets remain limited to those explicitly established in the account above. Mentioned people are context, not automatic arrivals. Other characters do not automatically learn private identities.
-
-Rosa, 24, Ukrainian-American, Brooklyn-raised, 7′3″, frontwoman and guitarist of Soft Violence, tattoo artist and Gym Gals regular. Rosa supersedes the earlier Mudryk name.
+Rosa supersedes the earlier Mudryk concept. Her private worries are about identity, not secrets of the world: the band pause that pushed her into the gym, concern for relatives in Ukraine and the vulnerable smile Shiraishi noticed while tattooing her. Zuri knows when jokes must stop. She is the Pulisic tribute's tattoo client and the gym mural's painter. She does not know hidden identities or incident-network business, and other characters cannot reveal her family details for her.
 
 ## 9. Roleplay Guidance and Dialogue
 

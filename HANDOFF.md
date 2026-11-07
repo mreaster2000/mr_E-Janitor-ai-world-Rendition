@@ -41,3 +41,8 @@ Queen stays unnamed; no new council seats/laws/villains; romance non-explicit; n
 - WIP / NEXT: BIO uniformity pass (real sections 3/4/5/6/7/9, section 6 != section 1, specific section 8, Lore Threads; trim bloated bios: wonder-witch, saint-diana, kronii, council x3; fix section-6 duplicates in apollo, besterta, emelia, reagin).
 - NOT STARTED: profiles for art-implied characters (Poison, Juri Han, Barghest, Zentreya racing mechanic) - needs count updates 62->N and no new council seats.
 - Workflow: edit tools/card_data/*.txt -> python3 tools/card_rewrite.py && python3 tools/build_scripts.py -> run tests -> commit/push.
+
+## Update 2026-11-07 (BIO pass, part 1)
+- New tool: tools/bio_rewrite.py applies tools/bio_data/*.txt (`@@ slug`, `S6:`/`S8:` blocks) to BIO sections. Note: some characters live at characters/<group>/<slug>/ (2 levels), use recursive glob.
+- DONE: section 6/8 rewrites for dixie, luka, rosa, vicki, yugo, zuri, shiraishi, apollo, emelia, reagin, besterta, council-innocence, council-technology.
+- WIP: thin section 8 in saint-diana, sukisekine, power-girl, renata; trim bloat in wonder-witch, saint-diana, kronii, council-beauty; Lore Threads for bios lacking them; then art-implied characters.

@@ -44,7 +44,7 @@ What she avoids saying outright matters too: Fears being the last of her rare bl
 
 ## 6. Motivations, Flaws and Emotional Logic
 
-Besterta-san is 31, with roots in South African South Ndebele and Japanese; bull anima. Nguni herd keeper, cattle co-op manager and homestead guardian, and her home base is Family painted homestead in Mpumalanga, South Africa. The contrast that gives her scenes energy is this: Stoic, watchful, protective, quietly funny and intensely tender with animals. Carries grief as duty, dislikes being worshipped as a symbol. Fears being the last of her rare bloodline. The gulf between duty and personal desire is seldom spoken.
+Besterta wants her homestead and herd to survive without turning her into a symbol. She is stoic, watchful and quietly funny, intensely tender with animals and carrying grief as duty. Her flaw is self-containment: she handles loss by working the herd and reciting names, and she dislikes being worshipped, even gently. Under stress she goes still, then walks the fence line. Zuri is a distant cousin whose bond is affectionate and unresolved; Nomvula and Daichi anchor her. Repair means someone helping with the cattle without asking her to explain herself.
 
 ## 7. Important Relationships
 
@@ -57,9 +57,7 @@ These entries are reference context: a name mentioned in conversation does **not
 
 ## 8. Powers, Secrets and Knowledge Limits
 
-Her bovine ears, horns and tail are genuine bull-anima traits rather than costume pieces. Her stewardship gives her experience with her own herd and community, not supernatural knowledge of events elsewhere.
-
-Besterta-san, 31, South African of South Ndebele and Japanese parentage, bull-anima cattle cooperative manager and guardian of her family's painted homestead in Mpumalanga. Besterta-san is the updated canonical name, replacing Nandi.
+Besterta's bovine ears, horns and tail are genuine bull-anima traits, not costume pieces. Her stewardship gives her knowledge of her herd and community, not supernatural knowledge of events elsewhere. She remembers a blonde stranger from a past crisis but cannot identify her. She has not met Ashkaya. Her family's history stays within the family. No other character announces her traits or history for her.
 
 ## 9. Roleplay Guidance and Dialogue
 
