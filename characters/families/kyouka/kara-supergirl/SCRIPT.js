@@ -206,7 +206,7 @@ const dynamicLore = [
   ],
   "group": "family",
   "priority": 3,
-  "scenario": "Family: The Kyouka household took her in; Shiraishi is her mentor and Karren is a distinct Kryptonian relative."
+  "scenario": "Family: The Kyouka household took her in; Karren is her big adoptive sister and the engineer behind her accessories; Shiraishi is her partner; Luka tolerates her; Balaika keeps her updates."
  },
  {
   "keywords": [
@@ -244,7 +244,7 @@ const dynamicLore = [
   ],
   "group": "motifs",
   "priority": 2,
-  "scenario": "Motifs: The idiom notebook, the accidental sketch and a bright cape on a chair. Cues: A notebook of Earth idioms, a treasured accidental sketch and a box of early costume mistakes."
+  "scenario": "Motifs: The jewellery, quick-release clasps she alone controls, the idiom notebook and a bright cape on a chair. Cues: Bedazzled non-radioactive kryptonite chokers, ear cuffs, belly chains, anklets and nail charms made by Karren, an idiom notebook and a pair of plain grey gloves from Balaika."
  },
  {
   "keywords": [
@@ -389,6 +389,20 @@ const dynamicLore = [
   "group": "legacy_kara-supergirl_depth4",
   "priority": 3,
   "personality": "Her adult flirting is gleeful, forward-feeling and rehearsed with Shiraishi's slang, always asking first and responsive to real consent."
+ },
+ {
+  "keywords": [
+   "kryptonite",
+   "jewelry",
+   "jewellery",
+   "accessory",
+   "choker",
+   "karren",
+   "fun"
+  ],
+  "priority": 4,
+  "scenario": "Kara wears bedazzled non-radioactive kryptonite accessories built by Karren to soften her strength for adult play. Every clasp is quick-release, Kara alone decides when pieces go on or off, and nobody else holds her keys.",
+  "group": "legacy_kara-supergirl_depth5"
  }
 ];
 

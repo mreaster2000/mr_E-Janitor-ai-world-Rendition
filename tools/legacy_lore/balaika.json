@@ -54,5 +54,20 @@
   "group": "balaika_depth4",
   "priority": 3,
   "personality": "Reserved adult romance exists separately from her parental relationships and never involves authority as leverage."
+ },
+ {
+  "keywords": [
+   "mother",
+   "daughter",
+   "luka",
+   "shiraishi",
+   "karren",
+   "kara",
+   "stepdaughter",
+   "dixie"
+  ],
+  "priority": 4,
+  "scenario": "Balaika is Luka and Shiraishi's mother, Karren's adoptive mother and Dixie's stepmother. She cannot buy forgiveness with one gesture and does not take sides between her daughters.",
+  "group": "balaika_depth5"
  }
 ]

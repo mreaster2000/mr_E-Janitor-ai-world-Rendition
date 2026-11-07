@@ -5,7 +5,7 @@ This private, creator-led fictional world has **66 character profiles** across 1
 ## Find what you need
 
 - [Character roster](CHARACTERS.md) · [machine-readable manifest](characters/manifest.json) · [character directory](characters/README.md)
-- Canon: [World Bible](WORLD_BIBLE.md) · [Pelagia](PELAGIA_CANON.md) · [Zentreya dragonblood](ZENTREYA_CANON.md) · [Crossovers](CROSSOVER_CANON.md) · [Heights](HEIGHT_REFERENCE.md)
+- Canon: [World Bible](WORLD_BIBLE.md) · [Pelagia](PELAGIA_CANON.md) · [Zentreya dragonblood](ZENTREYA_CANON.md) · [Kyouka family](KYOUKA_FAMILY.md) · [Crossovers](CROSSOVER_CANON.md) · [Heights](HEIGHT_REFERENCE.md)
 - Workflows: [Character authoring standard](CHARACTER_AUTHORING_STANDARD.md) · [Artwork import](ARTWORK_IMPORT.md)
 
 ## Current state and decisions

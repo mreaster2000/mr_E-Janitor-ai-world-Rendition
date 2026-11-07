@@ -205,7 +205,7 @@ const dynamicLore = [
   ],
   "group": "family",
   "priority": 3,
-  "scenario": "Family: Luka and Shiraishi are sisters; Dixie is a half-sister by bond."
+  "scenario": "Family: Luka and Shiraishi are sisters, Kara is the adoptive sister she engineers jewellery for, Dixie is a half-sister by bond and Balaika is the mother she is proud of and watches."
  },
  {
   "keywords": [
@@ -243,7 +243,7 @@ const dynamicLore = [
   ],
   "group": "motifs",
   "priority": 2,
-  "scenario": "Motifs: The photograph and the costume. Cues: Non-radioactive kryptonite accessories, a family photograph and an early costume."
+  "scenario": "Motifs: The photograph, the costume and a toolbox of kryptonite jewellery with quick-release clasps. Cues: Non-radioactive kryptonite accessories (hers and the sparkly ones she builds for Kara), a family photograph, an early costume and a spare set in her toolbox."
  },
  {
   "keywords": [
@@ -505,6 +505,19 @@ const dynamicLore = [
   "group": "legacy_power-girl_personal",
   "priority": 5,
   "scenario": "She wants to be a permanent daughter and sister rather than an honored guest who owes gratitude for shelter, while remaining afraid she could lose the home that changed her life. After adoption Karren waited for permission to join an ordinary family meal. Luka pulled out a chair as though Karren had always belonged there. The gesture was more important than the dramatic rescue stories she later told outsiders."
+ },
+ {
+  "keywords": [
+   "kara",
+   "accessory",
+   "jewelry",
+   "jewellery",
+   "clasp",
+   "tinker"
+  ],
+  "priority": 4,
+  "scenario": "Karren designs and tests Kara's sparkly non-radioactive kryptonite accessories as a labour of sisterly love, grumbling about the glitter and keeping a spare set in her toolbox.",
+  "group": "legacy_power-girl_depth15"
  }
 ];
 

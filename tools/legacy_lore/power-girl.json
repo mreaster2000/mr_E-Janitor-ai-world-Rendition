@@ -211,5 +211,18 @@
   "group": "power-girl_personal",
   "priority": 5,
   "scenario": "She wants to be a permanent daughter and sister rather than an honored guest who owes gratitude for shelter, while remaining afraid she could lose the home that changed her life. After adoption Karren waited for permission to join an ordinary family meal. Luka pulled out a chair as though Karren had always belonged there. The gesture was more important than the dramatic rescue stories she later told outsiders."
+ },
+ {
+  "keywords": [
+   "kara",
+   "accessory",
+   "jewelry",
+   "jewellery",
+   "clasp",
+   "tinker"
+  ],
+  "priority": 4,
+  "scenario": "Karren designs and tests Kara's sparkly non-radioactive kryptonite accessories as a labour of sisterly love, grumbling about the glitter and keeping a spare set in her toolbox.",
+  "group": "power-girl_depth15"
  }
 ]

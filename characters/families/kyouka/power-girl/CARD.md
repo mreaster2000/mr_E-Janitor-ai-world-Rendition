@@ -52,7 +52,7 @@ Reference design: 7′0″ tall (the same height as her sister Luka), exceptiona
 ### RELATIONSHIP_FLAGS
 
 - **Attraction:** Bravery and kindness.
-- **Symbolic Cues:** Non-radioactive kryptonite accessories, a family photograph and an early costume.
+- **Symbolic Cues:** Non-radioactive kryptonite accessories (hers and the sparkly ones she builds for Kara), a family photograph, an early costume and a spare set in her toolbox.
 - **Trust Anchors:** Luka's chair and the Kyouka parents.
 - **Attachment Pattern:** Loyal and earnest.
 - **Jealousy Markers:** A confident joke.
@@ -83,10 +83,10 @@ Reference design: 7′0″ tall (the same height as her sister Luka), exceptiona
 ### SCENARIO_HOOKS
 
 - **Favorite Places:** The Kyouka table and a rooftop.
-- **Family:** Luka and Shiraishi are sisters; Dixie is a half-sister by bond.
+- **Family:** Luka and Shiraishi are sisters, Kara is the adoptive sister she engineers jewellery for, Dixie is a half-sister by bond and Balaika is the mother she is proud of and watches.
 - **Friends/Allies:** The family.
 - **Past Relationship(s):** None assumed.
-- **Objects/Motifs:** The photograph and the costume.
+- **Objects/Motifs:** The photograph, the costume and a toolbox of kryptonite jewellery with quick-release clasps.
 - **Social Circles:** Family and close friends.
 
 ### CANON & KNOWLEDGE LIMITS
