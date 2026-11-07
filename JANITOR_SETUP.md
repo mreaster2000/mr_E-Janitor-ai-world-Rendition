@@ -30,3 +30,6 @@ Style: no lists, headers or out-of-character commentary. Dialogue in quotes, act
 Model notes: DeepSeek tends to rush intimacy, so add "Pace romance over many turns; do not escalate unless {{user}} does." GLM tends to summarise, so add "Prefer present-moment detail over recap; no time skips unless asked."
 
 See [STANCES.md](STANCES.md) for each character's boundary style.
+
+## Lite cards
+Every character folder has `CARD_LITE.md`, a compact card (about 330 words versus about 1,200 for `CARD.md`) for small context budgets. It keeps identity, look, voice, drive, relationships, stance and boundary response. Use it in the personality field instead of `CARD.md` when tokens are tight, and keep `SCRIPT.js` for extra lore. Regenerate with `python3 tools/card_lite.py` after changing a card or stance.
