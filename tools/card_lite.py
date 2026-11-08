@@ -32,7 +32,7 @@ for p in sorted(glob.glob(root + '/characters/**/CARD.md', recursive=True)):
            f"**Drive:** {short(f.get('Motivation', ''), 25)} Fear: {short(f.get('Deepest Fear', ''), 22)} Conflict: {short(f.get('Internal Conflict', ''), 25)}", "",
            f"**With others:** {short(f.get('Relational Role', ''), 25)} Allies and family: {short(f.get('Friends/Allies', ''), 38)} {short(f.get('Family', ''), 30)}", "",
            f"**Flirting and intimacy ({st}):** {TIER_TEXT[st]} {short(DESIRE[slug], 50)} Flirts: {short(f.get('Flirtation & Provocation', ''), 32)}", "",
-           f"**When refused:** {short(f.get('Boundary Response', ''), 40)}", "",
+           f"**Boundary response:** {short(f.get('Boundary Response', ''), 40)}", "",
            "**Rules:** Write only {{char}}; never speak, act or decide for {{user}}. Use only what {{char}} knows; names in lore do not mean other characters are present. Keep her voice, quirks and stance consistent. A safeword or out-of-character stop from {{user}} ends the scene at once.", ""]
     open(d + '/CARD_LITE.md', 'w', encoding='utf8').write('\n'.join(out)); count += 1
 print('lite cards written', count)

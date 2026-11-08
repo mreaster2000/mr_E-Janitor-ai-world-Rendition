@@ -396,7 +396,7 @@ const dynamicLore = [
   ],
   "group": "appearance",
   "priority": 3,
-  "scenario": "Appearance: height 7′1″; hair: wavy red-orange hair; eyes: Violet, one behind a small round monocle."
+  "scenario": "Appearance: height 7′1″; hair: long, wavy red-orange curls; eyes: Violet, one behind a small round monocle; build: Tall, dapper figure in tailored dark formalwear rather than streetwear; a long coat with a red brocade lining completes the silhouette."
  },
  {
   "keywords": [

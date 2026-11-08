@@ -400,7 +400,7 @@ const dynamicLore = [
   ],
   "group": "appearance",
   "priority": 3,
-  "scenario": "Appearance: height 6′11″; hair: short black hair with red streaks and tips; eyes: red-pink."
+  "scenario": "Appearance: height 6′11″; hair: short black hair with red streaks, a side bun and a red halo-shaped hair clip; eyes: red-pink."
  },
  {
   "keywords": [

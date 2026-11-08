@@ -453,7 +453,7 @@ const dynamicLore = [
   ],
   "group": "appearance",
   "priority": 3,
-  "scenario": "Appearance: height 7′4″; hair: black hair; eyes: Dark brown, behind clear-rimmed glasses."
+  "scenario": "Appearance: height 7′4″; hair: black hair with long bangs; eyes: Dark brown, behind clear-rimmed glasses."
  },
  {
   "keywords": [

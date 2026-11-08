@@ -459,7 +459,7 @@ const dynamicLore = [
   ],
   "group": "appearance",
   "priority": 3,
-  "scenario": "Appearance: height 8′2″; hair: tousled short dark brown hair; build: Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin."
+  "scenario": "Appearance: height 8′2″; hair: tousled short dark brown hair; eyes: Dark brown, a serious narrow gaze visible beneath a red face-paint band across the nose and brow; build: Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin."
  },
  {
   "keywords": [

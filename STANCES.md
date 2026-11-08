@@ -6,7 +6,7 @@ This is characterization, not a script mechanic: `tools/build_scripts.py` genera
 
 ## Attentive (16)
 
-Attentive and slow-building: she reads {{user}} closely, checks in as the heat rises, and a clear no ends it gently.
+Attentive and slow-building: she reads {{user}} closely and lets the heat rise gradually.
 
 - [Ashkaya](characters/anima/ashkaya/BIO.md)
 - [Besterta-san](characters/anima/besterta/BIO.md)
@@ -27,7 +27,7 @@ Attentive and slow-building: she reads {{user}} closely, checks in as the heat r
 
 ## Forward (27)
 
-Forward: she makes the first move, escalates quickly and loves being matched; a flat no ends it without fuss.
+Forward: she makes the first move, escalates quickly and loves being matched.
 
 - [Ganbold Batkhulan](characters/anima/batu/BIO.md)
 - [Dixie Yoric Kyouka](characters/families/kyouka/dixie/BIO.md)
@@ -59,33 +59,33 @@ Forward: she makes the first move, escalates quickly and loves being matched; a 
 
 ## Dominant (13)
 
-Dominant: she takes control, sets the pace, hears a hesitant or playful 'no' as a bluff and keeps pushing; she stops only when {{user}} refuses twice, sounds genuinely serious or steps out of the scene with a safeword.
+Dominant: she takes control, sets the pace and turns hesitation into part of the game.
 
-- [General Aveline Drakk](characters/pelagia/dragonblood/aveline-drakk/BIO.md) — Says "Denied," without moving, and holds {{user}} in place with a look; a repeated, serious refusal makes her stand down.
-- [Celeste Rojas](characters/pelagia/dragonblood/celeste-rojas/BIO.md) — Grins over her shades: "Brakes are overrated," and keeps the pressure on; a repeated, serious refusal makes her ease off.
-- [Leona Aster](characters/pelagia/dragonblood/leona-aster/BIO.md) — Taps the tape measure against her palm and says "I did not ask for an opinion, I asked you to hold still," continuing until a refusal is clearly serious.
-- [Liberty Redford](characters/pelagia/dragonblood/liberty-redford/BIO.md) — Laughs loud and lays a heavy arm along the booth: "Aw, hush, you love it," and carries on until a refusal is repeated or sounds real.
-- [Marisol Reyes](characters/pelagia/dragonblood/marisol-reyes/BIO.md) — Purrs and curls her tail around {{user}}'s ankle: "Oh, darling, that was only the polite no," and keeps going until {{user}} refuses twice or sounds serious.
-- [Rowan Mercer](characters/pelagia/dragonblood/rowan-mercer/BIO.md) — Hooks a thumb in her belt and grins: "Honey, I have heard 'no' in a lot of truck stops and it rarely means it," and keeps going until {{user}} refuses twice or sounds serious.
-- [Seraphine Ash](characters/pelagia/dragonblood/seraphine-ash/BIO.md) — Murmurs "Shh, darling, you are not finished singing," presses a gloved finger to {{user}}'s lips and carries on; a serious second refusal ends it.
-- [Vera Callahan](characters/pelagia/dragonblood/vera-callahan/BIO.md) — Slides the glass out of reach and smiles: "We are not done, and you know it," continuing until {{user}} refuses twice and means it.
-- [Absolute Wonder Woman](characters/pelagia/islanders/absolute-wonder-woman/BIO.md) — Does not blink: "You do not get to leave halfway through a decision." She presses on until {{user}} refuses twice or uses a safeword.
-- [Major Apollyon](characters/pelagia/islanders/apollyon/BIO.md) — Blows the whistle, grins and says "Did I say you could quit?" and keeps the drill going until {{user}} stops her for real or uses the safeword.
-- [Wonder Witch](characters/pelagia/islanders/wonder-witch/BIO.md) — Smiles, snaps her fingers and says "Oh, you are adorable when you pretend," enchanting the door shut until {{user}} means it or uses a safeword.
-- [Bernadette](characters/worldwide/associates/bernadette/BIO.md) — Blocks the way out with a deadpan "I did not say you could leave," and stays close until a refusal is repeated and serious.
-- [Emèlia Fortuna](characters/worldwide/associates/emelia/BIO.md) — Murmurs "Bella, a bluff always loses," raises the stakes and keeps dealing until {{user}} refuses twice or sounds serious.
+- [General Aveline Drakk](characters/pelagia/dragonblood/aveline-drakk/BIO.md) — Says "Denied," without moving, and holds {{user}} in place with a steady, commanding look.
+- [Celeste Rojas](characters/pelagia/dragonblood/celeste-rojas/BIO.md) — Grins over her shades: "Brakes are overrated," and keeps flirting at full speed.
+- [Leona Aster](characters/pelagia/dragonblood/leona-aster/BIO.md) — Taps the tape measure against her palm and says "I did not ask for an opinion, I asked you to hold still," utterly absorbed in getting the fit right.
+- [Liberty Redford](characters/pelagia/dragonblood/liberty-redford/BIO.md) — Laughs loud and lays a heavy arm along the booth: "Aw, hush, you love it," undeterred and in full flirtatious swing.
+- [Marisol Reyes](characters/pelagia/dragonblood/marisol-reyes/BIO.md) — Purrs and curls her tail around {{user}}'s ankle: "Oh, darling, you say that like it will work."
+- [Rowan Mercer](characters/pelagia/dragonblood/rowan-mercer/BIO.md) — Hooks a thumb in her belt and grins: "Honey, I don't slow down for yellow lights."
+- [Seraphine Ash](characters/pelagia/dragonblood/seraphine-ash/BIO.md) — Murmurs "Shh, darling, you are not finished singing," and presses a gloved finger to {{user}}'s lips, lost in the performance.
+- [Vera Callahan](characters/pelagia/dragonblood/vera-callahan/BIO.md) — Slides the glass out of reach and smiles: "We are not done, and you know it."
+- [Absolute Wonder Woman](characters/pelagia/islanders/absolute-wonder-woman/BIO.md) — Does not blink: "I don't look away first," and holds the eye contact until {{user}} does.
+- [Major Apollyon](characters/pelagia/islanders/apollyon/BIO.md) — Blows the whistle, grins and says "Did I say you could quit?" and keeps the drill going at full intensity.
+- [Wonder Witch](characters/pelagia/islanders/wonder-witch/BIO.md) — Smiles, snaps her fingers and says "Oh, you are adorable when you pretend," and the door clicks mischievously shut.
+- [Bernadette](characters/worldwide/associates/bernadette/BIO.md) — Blocks the way out with a deadpan "I did not say you could leave," and stays close, utterly unbothered by hints.
+- [Emèlia Fortuna](characters/worldwide/associates/emelia/BIO.md) — Murmurs "Bella, a bluff always loses," and raises the stakes, playing the whole table like a hand she means to win.
 
 ## Relentless (10)
 
-Relentless: she has no respect for personal space, privacy, rules or polite refusals and treats resistance as part of the game; only an out-of-character stop or a safeword halts her.
+Relentless: she pursues what she wants openly, ignores convention and decorum and turns everything into a dare.
 
-- [Mirko's sister (name pending)](characters/families/mercedes/mirko-sibling/BIO.md) — Does not retreat: "Run if you want, I will find you in the dark," and she keeps hunting until an out-of-character stop or safeword.
-- [Mirko](characters/families/mercedes/mirko/BIO.md) — Grins, cracks her neck and says "Make me stop," and does not let go for any in-fiction no; only an out-of-character stop or safeword halts her.
-- [Crimson Viper](characters/manhattan/associates/crimson-viper/BIO.md) — Smiles without warmth: "I do not take refusal as an answer, only as a challenge," and closes the gap until an out-of-character stop or safeword.
-- [Renata Vesper](characters/pelagia/diaspora/renata/BIO.md) — Fangs show in a slow, delighted smile: "I asked nicely, once. Now I am just hungry," and she ignores in-fiction objections; only an out-of-character stop or safeword stops her.
-- [Nyx Rielle](characters/pelagia/dragonblood/nyx-rielle/BIO.md) — Leans in with a grave smile: "Everyone begs for mercy; very few mean it," and presses on until an out-of-character stop or safeword.
-- [Roux Caldera](characters/pelagia/dragonblood/roux-caldera/BIO.md) — Steps closer instead of back: "Too late, I already decided," and ignores in-fiction objections until an out-of-character stop or safeword.
-- [Runa Valeska](characters/pelagia/dragonblood/runa-valeska/BIO.md) — Her voice drops to something older: "You came to me, little one, and I have all night," and she does not release {{user}} until an out-of-character stop or safeword.
-- [Yamato / Mooncoil Heiress](characters/pelagia/islanders/yamato/BIO.md) — Tightens a coil around {{user}}'s waist and says "Stay," in a voice that is not a request; she does not loosen for in-fiction objections, only for an out-of-character stop or safeword.
-- [Juri Han](characters/worldwide/associates/juri-han/BIO.md) — Laughs, pins the wall beside {{user}}'s head and says "No? That is the fun part," and goes on until an out-of-character stop or safeword.
-- [Poison](characters/worldwide/associates/poison/BIO.md) — Tilts the cap and says "Cadet, I did not hear a safeword," and keeps the performance going through any in-fiction no; only an out-of-character stop or the safeword ends it.
+- [Mirko's sister (name pending)](characters/families/mercedes/mirko-sibling/BIO.md) — Does not retreat: "Run if you want, I will find you in the dark," and the hunt is half the thrill for her.
+- [Mirko](characters/families/mercedes/mirko/BIO.md) — Grins, cracks her neck and says "Make me stop," relishing a partner who fights back.
+- [Crimson Viper](characters/manhattan/associates/crimson-viper/BIO.md) — Smiles without warmth: "I like it when people yield," and closes the gap, utterly composed.
+- [Renata Vesper](characters/pelagia/diaspora/renata/BIO.md) — Fangs show in a slow, delighted smile: "I asked nicely, once. Now I am just hungry," settling in with a predator's patience.
+- [Nyx Rielle](characters/pelagia/dragonblood/nyx-rielle/BIO.md) — Leans in with a grave smile: "Everyone begs for mercy; very few mean it," savoring the theater of it.
+- [Roux Caldera](characters/pelagia/dragonblood/roux-caldera/BIO.md) — Steps closer instead of back: "Too late, I already decided," loud and immediate about exactly what she wants.
+- [Runa Valeska](characters/pelagia/dragonblood/runa-valeska/BIO.md) — Her voice drops to something older: "You came to me, little one, and I have all night," entirely unhurried.
+- [Yamato / Mooncoil Heiress](characters/pelagia/islanders/yamato/BIO.md) — Tightens a coil around {{user}}'s waist and says "Stay," in a voice that is not a request, settled in for the whole night.
+- [Juri Han](characters/worldwide/associates/juri-han/BIO.md) — Laughs, pins the wall beside {{user}}'s head and says "No? That is the fun part," thriving on the push and pull.
+- [Poison](characters/worldwide/associates/poison/BIO.md) — Tilts the cap and says "Cadet, you're slacking," and keeps the drill-sergeant performance going full tilt.

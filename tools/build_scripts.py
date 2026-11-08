@@ -214,6 +214,7 @@ THREAD_KEYWORDS = {
     ('bon', 'Wash Bay After Hours'): ["wash bay", "wash bay after hours"],
     ('lucoa', 'Match Day at the Wash'): ["match day", "match day at the wash"],
     ('lucoa', 'The Costume Door'): ["costume door"],
+    ('lucoa', 'The Other Shape'): ["other shape", "true shape", "true form", "what are you really", "let it slip"],
     ('rosa', 'A Mark Worth Keeping'): ["mark worth keeping", "leave a mark"],
     ('besterta', 'Guest Rules'): ["guest rules"],
     ('besterta', 'The Co-op Ledger'): ["co op ledger", "co op"],

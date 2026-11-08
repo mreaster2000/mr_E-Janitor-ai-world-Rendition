@@ -401,7 +401,7 @@ const dynamicLore = [
   ],
   "group": "appearance",
   "priority": 3,
-  "scenario": "Appearance: height 7′3″; hair: Long magenta-red hair; build: Muscular, athletic build."
+  "scenario": "Appearance: height 7′3″; hair: Long magenta-red hair; eyes: Amber-yellow, sharp-lined, visible behind rectangular tinted glasses; build: Muscular, athletic build."
  },
  {
   "keywords": [
