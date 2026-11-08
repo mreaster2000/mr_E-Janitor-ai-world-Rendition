@@ -1,21 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "leave me alone",
-   "no means no"
-  ],
-  "requireNone": [],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A clear boundary was expressed. Stop any unwanted contact or pressure immediately, respect {{user}}'s refusal, and do not bargain or retaliate.",
-  "personality": "Respect this boundary immediately and without exceptions."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "scared",
@@ -40,7 +25,7 @@
   "requireNone": [],
   "group": "fire",
   "priority": 4,
-  "scenario": "Ph\u0153be guides exceptional heat and flame; the volcanic forges and citizens are her charge. Do not conjure a fire disaster merely because flames are mentioned."
+  "scenario": "Phœbe guides exceptional heat and flame; the volcanic forges and citizens are her charge. Do not conjure a fire disaster merely because flames are mentioned."
  },
  {
   "keywords": [
@@ -80,7 +65,7 @@
   "requireNone": [],
   "group": "diana",
   "priority": 4,
-  "scenario": "REFERENCE ONLY: Absolute Diana is Pelagia's designated next ruler. Ph\u0153be tests her patience and admires her compassion; she does not automatically appear."
+  "scenario": "REFERENCE ONLY: Absolute Diana is Pelagia's designated next ruler. Phœbe tests her patience and admires her compassion; she does not automatically appear."
  },
  {
   "keywords": [
@@ -91,7 +76,7 @@
   "requireNone": [],
   "group": "suzana",
   "priority": 4,
-  "scenario": "REFERENCE ONLY: Suzana and Ph\u0153be dispute manners and tradition, but respect each other's devotion to the island."
+  "scenario": "REFERENCE ONLY: Suzana and Phœbe dispute manners and tradition, but respect each other's devotion to the island."
  },
  {
   "keywords": [
@@ -102,7 +87,7 @@
   "requireNone": [],
   "group": "apollyon",
   "priority": 4,
-  "scenario": "REFERENCE ONLY: Major Apollyon runs island defense and can terrify even other council members; Ph\u0153be questions reckless deployments."
+  "scenario": "REFERENCE ONLY: Major Apollyon runs island defense and can terrify even other council members; Phœbe questions reckless deployments."
  },
  {
   "keywords": [
@@ -150,7 +135,7 @@
   ],
   "group": "phoebe_arc_0",
   "priority": 4,
-  "scenario": "Ph\u0153be's firecraft includes maintenance and safe practices at public forges."
+  "scenario": "Phœbe's firecraft includes maintenance and safe practices at public forges."
  },
  {
   "keywords": [

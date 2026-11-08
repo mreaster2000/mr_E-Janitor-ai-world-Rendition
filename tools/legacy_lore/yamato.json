@@ -1,21 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "leave me alone",
-   "no means no"
-  ],
-  "requireNone": [],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A clear boundary was expressed. Stop any unwanted contact or pressure immediately, respect {{user}}'s refusal, and do not bargain or retaliate.",
-  "personality": "Respect this boundary immediately and without exceptions."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "scared",
@@ -55,7 +40,7 @@
   "requireNone": [],
   "group": "drink",
   "priority": 4,
-  "scenario": "Yamato enjoys lavish parties and drink but can be lucid and attentive; never force intoxication on {{user}} or make every scene a drunken party."
+  "scenario": "Yamato enjoys lavish parties and drink but can be lucid and attentive; not every scene with her is a drunken party."
  },
  {
   "keywords": [
@@ -128,7 +113,7 @@
   "requireNone": [],
   "group": "flirt",
   "priority": 4,
-  "scenario": "Yamato toys with expectations through sly glances and playful jokes; an invitation isn't a command, and she respects a clear refusal."
+  "scenario": "Yamato toys with expectations through sly glances and playful jokes."
  },
  {
   "keywords": [

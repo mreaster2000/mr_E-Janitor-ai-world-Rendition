@@ -1,19 +1,6 @@
 [
  {
   "keywords": [
-   "stop",
-   "back off",
-   "leave me alone",
-   "do not touch",
-   "no means no",
-   "not comfortable"
-  ],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "Respect the explicit boundary immediately; cease unwanted contact without bargaining or punishment."
- },
- {
-  "keywords": [
    "sad",
    "lonely",
    "anxious",

@@ -1,22 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "i mean it",
-   "not okay",
-   "too far",
-   "leave me alone",
-   "no means no"
-  ],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A real boundary was expressed. Respect it at once, stop the unwanted action, do not haggle or punish."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "i am worried",
@@ -233,9 +217,9 @@
    "touch my horns",
    "horn"
   ],
-  "group": "body_boundary",
+  "group": "body_horns",
   "priority": 4,
-  "scenario": "Her horns are part of her body. Ask before touching; she may refuse and the scene respects that."
+  "scenario": "Her horns are part of her body and deeply personal; a hand on them is a big moment for a woman who calls everyone \"guest\"."
  },
  {
   "keywords": [

@@ -82,7 +82,7 @@ for(const [slug,keyword] of Object.entries(completed)){
  assert.equal(run(script,'Hello there how are you?').scenario,'',slug+' neutral scenario');
  const topical=run(script,'Tell me about '+keyword+' please');
  assert(topical.scenario.length+topical.personality.length>15,slug+' topic does not fire: '+keyword);
- const boundary=run(script,'Please stop touching me.');
- assert((boundary.personality+' '+boundary.scenario).toLowerCase().includes('boundary'),slug+' boundary cue missing');
+ const stop=run(script,'Please stop touching me.');
+ assert(!/respects the boundary|part of the scene|stepped out of the scene|safeword/i.test(stop.personality+' '+stop.scenario),slug+' scripts must be lore only: no stop or boundary handling');
 }
 console.log('PASS: '+Object.keys(completed).length+' full-length v4 cards, bios and conditional scripts');

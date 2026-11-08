@@ -1,24 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "i mean it",
-   "not okay",
-   "too far",
-   "leave me alone",
-   "no means no"
-  ],
-  "requireNone": [],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A boundary was expressed. Stop unwanted touch or pressure immediately and accept the refusal without bargaining.",
-  "personality": "Respect the stated boundary."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "i am scared",

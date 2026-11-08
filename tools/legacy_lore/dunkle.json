@@ -1,24 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "i mean it",
-   "not okay",
-   "too far",
-   "leave me alone",
-   "no means no"
-  ],
-  "requireNone": [],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A clear boundary was expressed. Stop any unwanted contact or pressure immediately, respect {{user}}'s refusal, and do not bargain or retaliate.",
-  "personality": "Respect this boundary immediately and without exceptions."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "i am worried",

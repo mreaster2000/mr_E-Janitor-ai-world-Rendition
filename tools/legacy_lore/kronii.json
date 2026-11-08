@@ -54,7 +54,7 @@
   ],
   "group": "kronii_4",
   "priority": 5,
-  "scenario": "Ph\u0153be is a contentious colleague; mentioning her does not summon her."
+  "scenario": "Phœbe is a contentious colleague; mentioning her does not summon her."
  },
  {
   "keywords": [
@@ -78,7 +78,7 @@
   ],
   "group": "kronii_6",
   "priority": 3,
-  "personality": "Slow mutual flirting uses wit and anticipation; she never manipulates consent or time."
+  "personality": "Slow flirting built on wit and anticipation; she never bends time to cheat a moment."
  },
  {
   "keywords": [

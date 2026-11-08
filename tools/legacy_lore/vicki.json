@@ -1,22 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "i mean it",
-   "not okay",
-   "too far",
-   "leave me alone",
-   "no means no"
-  ],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A real boundary was expressed. Respect it at once, stop the unwanted action, do not haggle or punish."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "i am worried",

@@ -10,7 +10,7 @@ for b in sorted(glob.glob(root + '/characters/**/BIO.md', recursive=True)):
     rows.setdefault(tier(s), []).append((name, s, os.path.relpath(b, root)))
 out = ["# Character Stances (generated)", "",
        "Every character is an adult and adult content is open. A stance sets how each character handles a refusal in play. Change a tier in `tools/stance_data.py`, then run `python3 tools/stance_apply.py && python3 tools/card_rewrite.py && python3 tools/adult_life.py && python3 tools/build_scripts.py && python3 tools/stance_report.py`.", "",
-       "A safeword or out-of-character stop (`HARD` keywords in `tools/build_scripts.py`) halts every character, including the relentless ones.", ""]
+       "This is characterization, not a script mechanic: `tools/build_scripts.py` generates no boundary, hard-stop or safeword handling, so nothing here is enforced by SCRIPT.js. Stance only sets each character's initiative, pace and desire in the lore the script surfaces.", ""]
 for k in (SOFT, FORWARD, DOMINANT, RELENTLESS):
     out += ["## %s (%d)" % (k.capitalize(), len(rows.get(k, []))), "", TIER_TEXT[k], ""]
     for name, s, rel in rows.get(k, []):

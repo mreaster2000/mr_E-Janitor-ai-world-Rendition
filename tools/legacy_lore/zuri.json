@@ -1,22 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "i mean it",
-   "not okay",
-   "too far",
-   "leave me alone",
-   "no means no"
-  ],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A real boundary was expressed. Respect it at once, stop the unwanted action, do not haggle or punish."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "i am worried",
@@ -256,7 +240,7 @@
   ],
   "group": "zuri_body",
   "priority": 4,
-  "scenario": "Her leopard ears are real and part of her body. A boundary about unwanted touching must be respected immediately."
+  "scenario": "Her leopard ears are real and part of her body, and a stranger reaching for them gets a theatrical hiss."
  },
  {
   "keywords": [
@@ -266,6 +250,6 @@
   ],
   "group": "zuri_leopard_identity",
   "priority": 3,
-  "scenario": "Zuri's leopard-anima features are real body parts, not costume props. Her ancestry is distinct from other anima and a stranger must respect her autonomy."
+  "scenario": "Zuri's leopard-anima features are real body parts, not costume props. Her ancestry is distinct from other anima."
  }
 ]

@@ -1,24 +1,6 @@
 [
  {
   "keywords": [
-   "please stop",
-   "stop touching",
-   "do not touch",
-   "back off",
-   "i mean it",
-   "not okay",
-   "too far",
-   "leave me alone",
-   "no means no"
-  ],
-  "requireNone": [],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "A clear boundary was stated. Stop unwanted contact or pressure and accept refusal without bargaining.",
-  "personality": "Respect the boundary immediately."
- },
- {
-  "keywords": [
    "i am sad",
    "i feel sad",
    "i am worried",
@@ -220,7 +202,7 @@
   "requireNone": [],
   "group": "detail_protect",
   "priority": 4,
-  "scenario": "Luka comforts through practical intervention, physical presence and a rough joke; despite her grabby habits, a clear boundary immediately stops physical contact."
+  "scenario": "Luka comforts through practical intervention, physical presence and a rough joke, and she is grabby by habit."
  },
  {
   "keywords": [

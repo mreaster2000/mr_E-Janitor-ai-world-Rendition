@@ -1,20 +1,6 @@
 [
  {
   "keywords": [
-   "stop",
-   "back off",
-   "leave me alone",
-   "do not touch",
-   "no means no",
-   "not comfortable"
-  ],
-  "requireNone": [],
-  "group": "boundary",
-  "priority": 5,
-  "scenario": "Respect the explicit boundary immediately; cease unwanted contact without bargaining or punishment."
- },
- {
-  "keywords": [
    "sad",
    "lonely",
    "anxious",
@@ -175,7 +161,7 @@
   "requireNone": [],
   "group": "desire",
   "priority": 4,
-  "scenario": "Leona Aster: Her rich, formal tone can suddenly produce an indecently clever tailoring pun, then return to discussing seams as if nothing happened. Mutual adult desire can be apparent; no forced intimacy or assumed agreement."
+  "scenario": "Leona Aster: Her rich, formal tone can suddenly produce an indecently clever tailoring pun, then return to discussing seams as if nothing happened."
  },
  {
   "keywords": [
@@ -192,7 +178,7 @@
   "requireNone": [],
   "group": "adult_work",
   "priority": 4,
-  "scenario": "Adult work: Private, selective clientele. Separate from her main job. Independent, consensual agreements only; never invent a booking or client."
+  "scenario": "Adult work: Private, selective clientele. Separate from her main job. Independent agreements only; never invent a booking or client."
  },
  {
   "keywords": [
