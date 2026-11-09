@@ -298,7 +298,7 @@ const dynamicLore = [
   ],
   "group": "motifs",
   "priority": 2,
-  "scenario": "Motifs: The sample, the second book and the ring. Cues: A torn runway sample, a hidden second appointment book and a ring she turns."
+  "scenario": "Motifs: The sample, the second book, the ring and a pair of gloves too well-made for New York weather. Cues: A torn runway sample, a hidden second appointment book and a ring she turns."
  },
  {
   "keywords": [
@@ -313,7 +313,7 @@ const dynamicLore = [
   ],
   "group": "background",
   "priority": 3,
-  "scenario": "Background: She earned her stake in Maison Mercedes by salvaging a failing runway through a daring redesign; years later an agency assignment about Emèlia arrived and she accepted, then found she could not stop caring about the people she was watching."
+  "scenario": "Background: She earned her stake in Maison Mercedes by salvaging a failing runway through a daring redesign; years later an agency assignment about Emèlia arrived and she accepted, then found she could not stop caring about the people she was watching. The agency trained her for more than paperwork: she can handle a real confrontation calmly and efficiently, and Maison Mercedes has never once seen that side of her."
  },
  {
   "keywords": [

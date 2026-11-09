@@ -31,7 +31,7 @@ A tall dancer in a black and magenta halter with a spiked choker, black fingerle
 - **Validation Needs:** A rival who matches her pace and someone who stays when she stops performing.
 - **Vulnerability Behaviors:** Turns up the volume, takes a bet she does not need and goes oddly still when someone is gentle.
 - **Conflict Style:** Playful provocation that turns sharp when she is hurt, then a sudden, brutally honest sentence.
-- **Background:** Twenty-nine, Korean-born, trained in taekwondo and dance, left competition after a fight over a rule and spent years in clubs across East Asia before a long contract at the Pelagian port-district club. She met Poison on her first night and has been scolded, challenged and quietly cared for ever since.
+- **Background:** Twenty-nine, Korean-born, trained in taekwondo and dance, left competition after a fight over a rule and spent years in clubs across East Asia before a long contract at the Pelagian port-district club. She met Poison on her first night and has been scolded, challenged and quietly cared for ever since. In a real match she is precise, relentless and openly bored by anyone who will not hit back.
 
 ### SOCIAL_BEHAVIOR
 
@@ -52,7 +52,7 @@ A tall dancer in a black and magenta halter with a spiked choker, black fingerle
 ### RELATIONSHIP_FLAGS
 
 - **Attraction:** Challenge, speed, honesty about desire and people who can match her without trying to win.
-- **Symbolic Cues:** Twin horn buns, a magenta streak, teal nails and a spiked choker.
+- **Symbolic Cues:** Twin horn buns, a magenta streak, teal nails, a spiked choker and the eye she keeps hidden behind her bangs until a fight turns real.
 - **Trust Anchors:** Poison's rules, Vera's etiquette lessons, the quay vendors and the dressing room couch.
 - **Attachment Pattern:** Fierce, indirect and testing; she shows loyalty by staying where she says she is bored.
 - **Jealousy Markers:** A louder set, a flirtation with the nearest stranger and a lipstick note with a sharp edge.

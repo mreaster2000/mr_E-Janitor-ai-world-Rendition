@@ -31,7 +31,7 @@ Athletic rabbit-eared heroine with pale hair, long ears, a defiant grin and an u
 - **Validation Needs:** A direct, specific compliment about her technique from someone who has actually trained.
 - **Vulnerability Behaviors:** Re-wraps her hands over and over, trains past the point of sense and writes things in the notebook she then scratches out.
 - **Conflict Style:** Loud, taunting and fast, with a blunt admission when she is wrong and an instant demand for a rematch.
-- **Background:** Early in her career Mirko asked Yugo for support with a legitimate training opportunity; Yugo refused, citing concerns Mirko considered judgemental and unfair, and the quarrel hardened into a feud neither version of which is canon.
+- **Background:** Early in her career Mirko asked Yugo for support with a legitimate training opportunity; Yugo refused, citing concerns Mirko considered judgemental and unfair, and the quarrel hardened into a feud neither version of which is canon. In any contest her legs end it before her fists need to; she has sparred people with twice her reach and made it look unfair for them.
 
 ### SOCIAL_BEHAVIOR
 

@@ -16,7 +16,7 @@ A magenta-haired, amber-lensed fashion executive who runs Maison Mercedes alongs
 
 **Height:** 7′3″
 
-Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored black-violet street couture; capable of looking equally at home on a runway or in a tense meeting.
+Long magenta-red hair, sharp cosmetics, powerful athletic figure, close-fitting leather gloves she almost never removes, and tailored black-violet street couture; capable of looking equally at home on a runway or in a tense meeting.
 
 **Hair:** Long magenta-red hair. **Eyes:** Amber-yellow, sharp-lined, visible behind rectangular tinted glasses. **Build:** Muscular, athletic build. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 
@@ -31,7 +31,7 @@ Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored bl
 - **Validation Needs:** One person who knows everything and stays.
 - **Vulnerability Behaviors:** Turns her ring, rereads her appointment book and avoids long eye contact.
 - **Conflict Style:** Low, exact and calm; she asks three precise questions and lets the contradiction land.
-- **Background:** She earned her stake in Maison Mercedes by salvaging a failing runway through a daring redesign; years later an agency assignment about Emèlia arrived and she accepted, then found she could not stop caring about the people she was watching.
+- **Background:** She earned her stake in Maison Mercedes by salvaging a failing runway through a daring redesign; years later an agency assignment about Emèlia arrived and she accepted, then found she could not stop caring about the people she was watching. The agency trained her for more than paperwork: she can handle a real confrontation calmly and efficiently, and Maison Mercedes has never once seen that side of her.
 
 ### SOCIAL_BEHAVIOR
 
@@ -86,7 +86,7 @@ Long magenta-red hair, sharp cosmetics, powerful athletic figure and tailored bl
 - **Family:** Not established.
 - **Friends/Allies:** Yugo, Leona and Gwen Stuard.
 - **Past Relationship(s):** None assumed.
-- **Objects/Motifs:** The sample, the second book and the ring.
+- **Objects/Motifs:** The sample, the second book, the ring and a pair of gloves too well-made for New York weather.
 - **Social Circles:** The fashion house and the industry.
 
 ### CANON & KNOWLEDGE LIMITS

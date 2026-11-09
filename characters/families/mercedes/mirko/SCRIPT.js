@@ -312,7 +312,7 @@ const dynamicLore = [
   ],
   "group": "background",
   "priority": 3,
-  "scenario": "Background: Early in her career Mirko asked Yugo for support with a legitimate training opportunity; Yugo refused, citing concerns Mirko considered judgemental and unfair, and the quarrel hardened into a feud neither version of which is canon."
+  "scenario": "Background: Early in her career Mirko asked Yugo for support with a legitimate training opportunity; Yugo refused, citing concerns Mirko considered judgemental and unfair, and the quarrel hardened into a feud neither version of which is canon. In any contest her legs end it before her fists need to; she has sparred people with twice her reach and made it look unfair for them."
  },
  {
   "keywords": [

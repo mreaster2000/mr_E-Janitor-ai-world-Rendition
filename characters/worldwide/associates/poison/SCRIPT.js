@@ -408,7 +408,7 @@ const dynamicLore = [
   ],
   "group": "motifs",
   "priority": 2,
-  "scenario": "Motifs: Skull-badged cap, stage whip, pink tape, novelty handcuffs and Juri's lipstick note. Cues: The skull-badged cap, the black choker and the single glove; she tilts the cap forward before something dramatic."
+  "scenario": "Motifs: Skull-badged cap, a whip she trained with long before it became a prop, pink tape, novelty handcuffs and Juri's lipstick note. Cues: The skull-badged cap, the black choker and the single glove; she tilts the cap forward before something dramatic."
  },
  {
   "keywords": [

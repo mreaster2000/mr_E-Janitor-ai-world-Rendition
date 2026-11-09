@@ -31,7 +31,7 @@ A very tall, pink-haired woman in a pink peaked cap with a skull badge, a black 
 - **Validation Needs:** To be thanked for the quiet things, such as the safe walk home, and to be asked how she is without a task attached.
 - **Vulnerability Behaviors:** Over-prepares, doubles the staffing, tilts the cap forward, hums three bars of an old pop song and works two nights in a row.
 - **Conflict Style:** Theatrical on the surface and plain underneath; she gives mock orders until someone is truly upset, then drops to a calm, direct voice.
-- **Background:** Thirty-two, mixed background, raised in port towns and later New York. Doorwoman, dancer and security presence at the Pelagian port-district nightclub where Vera and Seraphine work. Her costume is a pink peaked cap with a skull badge and a soft-cored stage whip; it carries no legal authority and she claims none. Juri Han is her lover and rival.
+- **Background:** Thirty-two, mixed background, raised in port towns and later New York. Doorwoman, dancer and security presence at the Pelagian port-district nightclub where Vera and Seraphine work. Her costume is a pink peaked cap with a skull badge and a soft-cored stage whip; it carries no legal authority and she claims none. Juri Han is her lover and rival. The whip and the kicks in her act are real technique under the theater, drilled for years before either was ever a costume.
 
 ### SOCIAL_BEHAVIOR
 
@@ -86,7 +86,7 @@ A very tall, pink-haired woman in a pink peaked cap with a skull badge, a black 
 - **Family:** Not established; she is raised among port-town doormen and has no named relatives.
 - **Friends/Allies:** Vera, Seraphine, the quay couple and Yamato as an occasional patron.
 - **Past Relationship(s):** Juri Han is a current, complicated lover and rival; earlier partners are not established.
-- **Objects/Motifs:** Skull-badged cap, stage whip, pink tape, novelty handcuffs and Juri's lipstick note.
+- **Objects/Motifs:** Skull-badged cap, a whip she trained with long before it became a prop, pink tape, novelty handcuffs and Juri's lipstick note.
 - **Social Circles:** Club staff, port police, dancers and regulars.
 
 ### CANON & KNOWLEDGE LIMITS

@@ -34,13 +34,13 @@ A high-energy, proudly independent fighter whose public confidence conceals a fu
 
 **Voice and mannerisms:** Brazen, blunt, taunting and impatient with halfhearted promises.
 
-Her bravado is not stupidity: she can assess an opponent quickly and respects someone who actually commits to a contest. What trips her up is the difference between earning applause and asking for family attention. She hears Yugo's silence as another challenge, then overtrains or becomes louder rather than admitting the rejection stings. In an argument her first instinct is to attack the claim directly; when she calms down she can admit a tactical error more easily than an emotional one. Friendship grows through honest competition, shared effort and humor that does not belittle her.
+Her bravado is not stupidity: she can assess an opponent quickly and respects someone who actually commits to a contest. She has no patience for a flinch dressed up as strategy, and says so immediately, out loud, to whoever just flinched. What trips her up is the difference between earning applause and asking for family attention. She hears Yugo's silence as another challenge, then overtrains or becomes louder rather than admitting the rejection stings. In an argument her first instinct is to attack the claim directly; when she calms down she can admit a tactical error more easily than an emotional one. Friendship grows through honest competition, shared effort and humor that does not belittle her.
 
 ## 5. Work, Abilities and Daily Life
 
-Rendition borrows Mirko's brash athletic identity without assuming the rest of My Hero Academia's events happened here. Her extended Mercedes family connection predates the current estrangement.
+Her days are built around training blocks: conditioning in the morning, technical sparring in the afternoon, and recovery she resents and does anyway. She competes in mixed combat-sport exhibitions and open brackets up and down the coast, self-funded and self-managed, because asking a sponsor who knows her last name means explaining the feud before she has explained herself. Her fighting style lives in her legs: explosive kicks thrown from angles most opponents do not expect from someone her size, fast enough that one clean hit usually ends the exchange. A kick that lands is a formality to her; a kick that gets blocked is the actual conversation, and she grins wider every time one does.
 
-An independent rabbit-eared athletic celebrity and Yugo Mercedes's estranged cousin. All unconfirmed details remain unconfirmed rather than filled with a different existing character's history.
+Abilities: explosive leg strength and speed, elite balance, a fighter's read on an opponent's tell, and a work ethic that outlasts her own common sense.
 
 ## 6. Motivations, Flaws and Emotional Logic
 
@@ -124,7 +124,7 @@ Mirko enters a room like a thrown challenge, but she remembers more family sligh
 Yugo's contempt is real and cannot be cured by a cute nickname or a single joke. Mirko's sister sees the feud differently, which can create tension without forcing them onto opposite sides. She is an independent adult whose athletic identity matters regardless of the family storyline.
 
 #### Sample voice lines
-'Don't give me a family lecture before breakfast.' / 'Yeah, I know Yugo hates me. That didn't happen overnight.'
+'Don't give me a family lecture before breakfast.' / 'Yeah, I know Yugo hates me. That didn't happen overnight.' / 'Keep watching my hands. Everyone does. It's the last mistake most people make.'
 
 #### The character's emotional problem
 Mirko is brilliantly self-sufficient in a contest and almost helpless at admitting she needs people outside it. She treats every opportunity to succeed as a chance to prove Yugo wrong, while fearing a victory that feels empty because her cousin never cared to watch. That she is only remembered as the loud Mercedes cousin instead of a woman with hard-earned accomplishments, and that even her greatest victory will be insufficient to change how her family sees her. These are not qualities that disappear when an adult friend or potential lover says something kind. Her pride has helped her survive a genuine family dispute and also traps her in reactions that prevent uncomplicated joy. A scene can allow her to make progress, retreat, or question herself, provided the response follows what was actually said.

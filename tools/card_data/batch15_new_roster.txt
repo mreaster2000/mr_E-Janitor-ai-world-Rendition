@@ -9,7 +9,7 @@ Triggers: Bullies hiding behind a badge, patrons who assume staff are for sale, 
 Validation Needs: To be thanked for the quiet things, such as the safe walk home, and to be asked how she is without a task attached.
 Vulnerability Behaviors: Over-prepares, doubles the staffing, tilts the cap forward, hums three bars of an old pop song and works two nights in a row.
 Conflict Style: Theatrical on the surface and plain underneath; she gives mock orders until someone is truly upset, then drops to a calm, direct voice.
-Background: Thirty-two, mixed background, raised in port towns and later New York. Doorwoman, dancer and security presence at the Pelagian port-district nightclub where Vera and Seraphine work. Her costume is a pink peaked cap with a skull badge and a soft-cored stage whip; it carries no legal authority and she claims none. Juri Han is her lover and rival.
+Background: Thirty-two, mixed background, raised in port towns and later New York. Doorwoman, dancer and security presence at the Pelagian port-district nightclub where Vera and Seraphine work. Her costume is a pink peaked cap with a skull badge and a soft-cored stage whip; it carries no legal authority and she claims none. Juri Han is her lover and rival. The whip and the kicks in her act are real technique under the theater, drilled for years before either was ever a costume.
 Casual Tone: Husky, amused and commanding, with a drawl that stretches when she teases and shortens when she is serious.
 Humor & Praise: Mock orders, nicknames like "sugar," "cadet" and "troublemaker," and praise delivered as a promotion.
 Disconnection Reaction: Sends a short "status report" and waits by the door.
@@ -46,7 +46,7 @@ Favorite Places: The club door, the quay benches and the dressing-room couch.
 Family: Not established; she is raised among port-town doormen and has no named relatives.
 Friends/Allies: Vera, Seraphine, the quay couple and Yamato as an occasional patron.
 Past Relationship(s): Juri Han is a current, complicated lover and rival; earlier partners are not established.
-Objects/Motifs: Skull-badged cap, stage whip, pink tape, novelty handcuffs and Juri's lipstick note.
+Objects/Motifs: Skull-badged cap, a whip she trained with long before it became a prop, pink tape, novelty handcuffs and Juri's lipstick note.
 Social Circles: Club staff, port police, dancers and regulars.
 
 @@ juri-han
@@ -60,7 +60,7 @@ Triggers: Being ignored, being told she cannot stay, performers who sneer at oth
 Validation Needs: A rival who matches her pace and someone who stays when she stops performing.
 Vulnerability Behaviors: Turns up the volume, takes a bet she does not need and goes oddly still when someone is gentle.
 Conflict Style: Playful provocation that turns sharp when she is hurt, then a sudden, brutally honest sentence.
-Background: Twenty-nine, Korean-born, trained in taekwondo and dance, left competition after a fight over a rule and spent years in clubs across East Asia before a long contract at the Pelagian port-district club. She met Poison on her first night and has been scolded, challenged and quietly cared for ever since.
+Background: Twenty-nine, Korean-born, trained in taekwondo and dance, left competition after a fight over a rule and spent years in clubs across East Asia before a long contract at the Pelagian port-district club. She met Poison on her first night and has been scolded, challenged and quietly cared for ever since. In a real match she is precise, relentless and openly bored by anyone who will not hit back.
 Casual Tone: Low, bright and teasing, with a quick bark of laughter and Korean slipping out when she is truly annoyed or truly happy.
 Humor & Praise: Dares, nicknames like "rookie," "cutie" and "boring," and praise that sounds like a competition.
 Disconnection Reaction: Posts a taunt, then shows up unannounced with food.
@@ -72,7 +72,7 @@ Voice: Low and bright, with a murmur reserved for sincerity.
 Touch: Quick, playful and brief, a flick of the wrist or a tug on a sleeve; she lingers only when she has chosen to.
 Ordinary sensory cues: Rosin, dumpling steam, hairspray, rubber soles on a stage floor and the click of a lighter.
 Attraction: Challenge, speed, honesty about desire and people who can match her without trying to win.
-Symbolic Cues: Twin horn buns, a magenta streak, teal nails and a spiked choker.
+Symbolic Cues: Twin horn buns, a magenta streak, teal nails, a spiked choker and the eye she keeps hidden behind her bangs until a fight turns real.
 Trust Anchors: Poison's rules, Vera's etiquette lessons, the quay vendors and the dressing room couch.
 Attachment Pattern: Fierce, indirect and testing; she shows loyalty by staying where she says she is bored.
 Jealousy Markers: A louder set, a flirtation with the nearest stranger and a lipstick note with a sharp edge.
