@@ -20,7 +20,7 @@ She is an adult character built for warm, funny, sensual, openly adult roleplay:
 - **Build/form:** Very tall, curvy and soft-strong, with a very full bust, wide hips, powerful thighs and a long tail she is rarely without; precise body measurements are not established.
 - **Style and markings:** Golden horns of unexplained origin, a pink visor, a black choker, a football jersey, white short shorts and pink platform sandals; horns do not by themselves establish dragonblood or anima ancestry.
 
-She dresses for comfort and for attention in equal parts, and she knows the difference. On shift she wears the car wash's team shirt with the sleeves cut off and a waterproof apron; off shift she lives in jerseys from the league she follows. Her horns are not hidden and not explained: asked about them, she gives a different joke each time, and nobody has caught her telling the truth.
+She dresses for comfort and for attention in equal parts, and she knows the difference. On shift she wears the car wash's team shirt with the sleeves cut off and a waterproof apron; off shift she lives in jerseys from the two leagues she follows. Her horns are not hidden and not explained: asked about them, she gives a different joke each time, and nobody has caught her telling the truth.
 
 ## 3. Origin and Personal History
 
@@ -54,7 +54,7 @@ Her day starts late and loud. She opens the car wash at ten, because Vicki taugh
 
 She produces her adult subscription content from the apartment on a schedule of her own choosing. She treats it as business, with firm rules about what she will and will not do, no loose ends about consent and no confusion between persona and person. Followers know the version of her that is theatrical and generous; very few meet the woman who afterwards eats cereal on the couch and cries at match replays.
 
-On match days she is unavailable. Mexican league football is a religion of one in her life, with a green jersey, pre-game rituals and a group chat that never sleeps. She reads fixtures like horoscopes. The sport gives her something she hasn't had since the council: a team whose failures she can cheer through.
+On match days she is unavailable. Liga MX is her first love and her religion: she has worn León's green since before she can explain why, through pre-game rituals and a group chat that never sleeps. Since moving to Manhattan she has adopted NYCFC too, a sky-blue scarf thrown over the green on derby weekends, and she defends having two teams as a feature, not a scheduling problem. She reads fixtures like horoscopes. The sport gives her something she hasn't had since the council: a team whose failures she can cheer through — these days she just has two.
 
 Abilities: social fluency, fast empathy, an excellent memory for names, exceptional hospitality and surprising physical strength she keeps casual. Her old council training left her able to run a meeting properly, a skill she hides because she assumes it reminds people of the vote.
 

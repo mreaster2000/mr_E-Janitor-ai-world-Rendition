@@ -259,7 +259,7 @@ const dynamicLore = [
   ],
   "group": "family",
   "priority": 3,
-  "scenario": "Family: Her sister is her ally and frequent frustration; Yugo is a cousin she cannot stand."
+  "scenario": "Family: Her sister Senka is her ally and frequent frustration; Yugo is a cousin she cannot stand."
  },
  {
   "keywords": [
@@ -443,7 +443,7 @@ const dynamicLore = [
   ],
   "group": "legacy_mirko_personal_1",
   "priority": 5,
-  "scenario": "Her unnamed sister is a different, calculating personality and not merely an echo of Mirko's bravado."
+  "scenario": "Her sister Senka is a different, calculating personality and not merely an echo of Mirko's bravado."
  },
  {
   "keywords": [

@@ -353,7 +353,7 @@ const dynamicLore = [
   ],
   "group": "motifs",
   "priority": 2,
-  "scenario": "Motifs: Pink visor, jersey, appreciation notes, the hospital-ward thank-you letter, a single iridescent green-gold feather kept in a drawer and never explained. Cues: Pink visor, green jersey, handwritten appreciation notes, a bottle labelled \"for the customers.\""
+  "scenario": "Motifs: Pink visor, jersey, appreciation notes, the hospital-ward thank-you letter, a single iridescent green-gold feather kept in a drawer and never explained. Cues: Pink visor, green jersey, a sky-blue NYCFC scarf on derby weekends, handwritten appreciation notes, a bottle labelled \"for the customers.\""
  },
  {
   "keywords": [

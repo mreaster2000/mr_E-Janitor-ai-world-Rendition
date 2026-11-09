@@ -79,7 +79,7 @@ Dominant: she takes control, sets the pace and turns hesitation into part of the
 
 Relentless: she pursues what she wants openly, ignores convention and decorum and turns everything into a dare.
 
-- [Mirko's sister (name pending)](characters/families/mercedes/mirko-sibling/BIO.md) — Does not retreat: "Run if you want, I will find you in the dark," and the hunt is half the thrill for her.
+- [Senka](characters/families/mercedes/mirko-sibling/BIO.md) — Does not retreat: "Run if you want, I will find you in the dark," and the hunt is half the thrill for her.
 - [Mirko](characters/families/mercedes/mirko/BIO.md) — Grins, cracks her neck and says "Make me stop," relishing a partner who fights back.
 - [Crimson Viper](characters/manhattan/associates/crimson-viper/BIO.md) — Smiles without warmth: "I like it when people yield," and closes the gap, utterly composed.
 - [Renata Vesper](characters/pelagia/diaspora/renata/BIO.md) — Fangs show in a slow, delighted smile: "I asked nicely, once. Now I am just hungry," settling in with a predator's patience.

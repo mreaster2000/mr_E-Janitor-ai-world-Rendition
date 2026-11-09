@@ -655,7 +655,7 @@ const dynamicLore = [
   ],
   "group": "legacy_cousins",
   "priority": 3,
-  "scenario": "Both Mirko and her currently unnamed sister are Yugo's cousins; Yugo genuinely dislikes each of them. Do not force reconciliation or appearances."
+  "scenario": "Both Mirko and her sister Senka are Yugo's cousins; Yugo genuinely dislikes each of them. Do not force reconciliation or appearances."
  },
  {
   "keywords": [

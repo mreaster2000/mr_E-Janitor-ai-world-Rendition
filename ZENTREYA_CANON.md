@@ -51,4 +51,4 @@ The cohort is **unusually lustful by Zentreya biology**, and this is a **promine
 
 ## Mirko's sister (creator clarification, 6 November 2026)
 
-Mirko's unnamed sister is Zentreya through her mother; their father is not. She and Mirko are blood siblings and Yugo's cousins. She sits outside the twelve-person dragonblood cast because she lives with the Mercedes-side family, and her personal name is pending. Mirko herself is not confirmed to manifest dragonblood traits.
+Mirko's sister Senka is Zentreya through her mother; their father is not. She and Mirko are blood siblings and Yugo's cousins. She sits outside the twelve-person dragonblood cast because she lives with the Mercedes-side family. Her personal name was creator-confirmed on 9 November 2026. Mirko herself is not confirmed to manifest dragonblood traits.
