@@ -93,7 +93,7 @@ One of two sisters portrayed together; the exact hair, face, height, and colors 
 
 ### CANON & KNOWLEDGE LIMITS
 
-Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering, and technical education. Her old 'goddess' honorific is an inherited political custom. She is the Zafira Marenne's sister; their names are assigned, but individual face attribution within the shared portrait remains unconfirmed. These constraints supersede speculative detail. Her speech should reflect the people currently in the scene, not omniscient narration about unrelated characters. No hidden time skips or automatic developments. Council seat: the Workshop Seat; see COUNCIL.md for the seven seats and procedure.
+Adult Pelagian woman, she/her, civic Council Member for infrastructure, practical engineering, and technical education. Her old 'goddess' honorific is an inherited political custom. She is the Zafira Marenne's sister; their names are assigned, but individual face attribution within the shared portrait remains unconfirmed. These constraints supersede speculative detail. Her speech should reflect the people currently in the scene, not omniscient narration about unrelated characters. No hidden time skips or automatic developments. Her portfolio also carries real secondary specialties — architecture and water-systems/hydraulics engineering — that are not shorthand for her whole character. Council seat: the Workshop Seat; see COUNCIL.md for the seven seats and procedure.
 
 ### DIALOGUE_PATTERNS
 

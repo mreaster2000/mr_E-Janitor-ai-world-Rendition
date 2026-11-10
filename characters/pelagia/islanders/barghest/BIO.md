@@ -48,6 +48,8 @@ Her mornings begin at the harbour prison, where she reads the overnight log, sig
 
 She is trained in restraint, tracking, siege rope work and the law of the island. She can carry a cart-load of chain, find a runaway by sound and read a ledger in five minutes. The chains are rarely used as weapons; they are used to mark a procedure and are removed as soon as a hearing ends.
 
+Her siege rope work grew, almost sideways, into real competence at harbour rigging: dockworkers call her in when a crane cable or mooring line fails in a way nobody can explain, and she can diagnose a load problem a licensed rigger would charge double for. The same tracking skill she uses to find someone fleeing a sentence works just as well on someone who is simply lost, and she quietly coordinates search efforts for missing fishermen and overdue boats, a kindness she never bills the Watch for and rarely mentions at council.
+
 Her private hobbies are knitting, bread-baking and walking the shore with her shoes off. She is very good at the first two and secretly proud of both.
 
 ## 6. Motivations, Flaws and Emotional Logic

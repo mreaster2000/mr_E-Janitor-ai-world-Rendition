@@ -32,7 +32,7 @@ Fearless, generous, magnetic and startlingly casual about danger; fiercely indep
 
 ## 5. Work, Abilities and Daily Life
 
-Eldest Kyouka daughter from her father’s first marriage, raised mostly away from Luka and Shiraishi. Left at eighteen for a nomadic career among conflicts and dangerous contracts. Her sisters believe a cheerful airshow-pilot cover story.
+Eldest Kyouka daughter from her father’s first marriage, raised mostly away from Luka and Shiraishi. Left at eighteen for a nomadic career among conflicts and dangerous contracts, including a long stretch flying and fixing through the Azuma Strait conflict, where she met Emèlia. Her sisters believe a cheerful airshow-pilot cover story.
 
 What she avoids saying outright matters too: She has spent her life between families and countries and fears being forced to belong nowhere. Her easy grin changes only when stories turn toward harmed civilians.
 
@@ -50,7 +50,7 @@ Dixie wants freedom with a place to land. She has spent her life between familie
 
 - **Luka** — Younger half-sister who idolizes an inaccurate airshow career.
 - **Shiraishi** — Younger half-sister inspired by her confidence, unaware of much of the real work.
-- **Emelia** — Best friend and alibi; knows Dixie’s real work.
+- **Emelia** — Best friend and alibi since the Azuma Strait years; knows Dixie’s real work.
 - **Zuri** — No confirmed relationship; Zuri has an unresolved childhood suspicion about her.
 - **Xuerou** — Rare coach who notices her disregard for pain.
 - **Zesty** — Shared dislike of empty corporate language.

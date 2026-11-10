@@ -326,7 +326,7 @@ const dynamicLore = [
   ],
   "group": "canon",
   "priority": 4,
-  "personality": "Knowledge limits: Her former working corporate title, \"Zentreya Corp,\" is a placeholder, **not** the dragonblood lineage and not a finalized company brand; her staff do not share Pelagian ancestry. Do not invent a permanent brand name. She has no established supernatural power. Keep undisclosed identities and other people's whereabouts limited to what the scene and shared canon establish; she does not know Kyouka family secrets beyond what Shiraishi chooses to share, and names do not summon absent people."
+  "personality": "Knowledge limits: Her collective is branded **Anima Collective**, with a separately branded, strictly opt-in adult-content wing called **Anima After Hours**. The name is a coincidence of language, **not** a claim of kinship with the anima hybrid-lineage classification or the Pelagian dragonblood lineage Zentreya; her staff are not anima and do not share Pelagian ancestry. (\"Zentreya Corp\" was an old internal placeholder, now retired.) She has no established supernatural power."
  },
  {
   "keywords": [
@@ -344,6 +344,15 @@ const dynamicLore = [
   "group": "thread_2",
   "priority": 2,
   "scenario": "Story hook, The Leaving List: Her handwritten list of ways a creator can exit with their work, handle and confidence intact. Some investors call it commercial self-sabotage. It is not a binding contract, and a creator might ask to see it. Original editorial hook."
+ },
+ {
+  "keywords": [
+   "anima after hours",
+   "anima"
+  ],
+  "group": "thread_3",
+  "priority": 2,
+  "scenario": "Story hook, Anima After Hours: The collective's separately branded, strictly opt-in adult-content wing — its own contracts, its own revenue line, and performers who chose it and can leave it exactly the way the Leaving List promises everyone else. Palkia is fiercely protective of the line between her two brands and does not let a sponsor or financier treat one as leverage over the other. Optional hook, never an automatic event."
  },
  {
   "keywords": [

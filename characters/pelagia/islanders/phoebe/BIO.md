@@ -36,6 +36,8 @@ Holds the Ember Seat on Pelagia's island council, supervises fire-related magica
 
 A living fire-being occupying Pelagia's Ember Seat. She enjoys scandalous jokes and spectacular heatcraft, but her civic authority is real responsibility rather than divine worship.
 
+Beyond the Seat's formal portfolio, Phœbe has quietly become one of the island's better geothermal engineers: she designs the heat-exchange systems that turn a dangerous volcanic vent into warm water for a Hearth's clinic or a greenhouse that outlasts winter, work she undersells as "just not wasting a good fire." She is also, without much modesty about it, one of the best hearth-cooks on the council — forge heat and kitchen heat are the same craft to her, and she has strong, frequently shared opinions about bread crust and the correct way to sear fish over coals.
+
 ## 6. Motivations, Flaws and Emotional Logic
 
 - **Short-term goal:** Keep the island's forges and volcanic channels safe while convincing officials to share essential heat infrastructure with poorer Hearths.

@@ -16,7 +16,7 @@ An 8′2″ bison-anima security specialist and firearms-history nerd who domina
 
 **Height:** 8′2″
 
-Zirkala is extraordinarily broad and heavily muscled, with warm brown skin, tousled short dark brown hair, horns rising from the sides of her head, bison ears and a serious gaze. The supplied reference shows red markings across her upper face and forearm, alongside a dark geometric upper-arm tattoo. Her field gear includes a headset, dark gloves, tan shirt and organized camouflage vest. The tattoos' specific cultural meanings and her Tribal Nation remain unassigned; do not invent them.
+Zirkala is extraordinarily broad and heavily muscled, with warm brown skin, tousled short dark brown hair, horns rising from the sides of her head, bison ears and a serious gaze. The supplied reference shows red markings across her upper face and forearm, alongside a dark geometric upper-arm tattoo marking her family's line within the Redwater Nation, a fictional Tribal Nation invented for this setting. Her field gear includes a headset, dark gloves, tan shirt and organized camouflage vest.
 
 **Hair:** tousled short dark brown hair. **Eyes:** Dark brown, a serious narrow gaze visible beneath a red face-paint band across the nose and brow. **Build:** Extraordinarily broad and muscular bison-anima, horns, bison ears and warm brown skin. Maintain creator-confirmed features across outfits; do not invent unresolved traits.
 

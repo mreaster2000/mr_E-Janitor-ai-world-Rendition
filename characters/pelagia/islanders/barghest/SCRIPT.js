@@ -422,7 +422,7 @@ const dynamicLore = [
   ],
   "group": "canon",
   "priority": 4,
-  "personality": "Knowledge limits: Barghest is a human council member with exceptional strength and legal training; the chains are regalia, not magic. Her seat changes no existing portfolio or law. She does not know responder identities or the queen's views. Names do not summon absent people. Council seat: the Chain Seat; see COUNCIL.md for the seven seats and procedure."
+  "personality": "Knowledge limits: Barghest is a human council member with exceptional strength and legal training; the chains are regalia, not magic. Her seat changes no existing portfolio or law. She does not know responder identities or the queen's views. Names do not summon absent people. Her portfolio also carries real secondary specialties — harbour rigging/crane diagnostics and search-and-rescue tracking — that are not shorthand for her whole character. Council seat: the Chain Seat; see COUNCIL.md for the seven seats and procedure."
  },
  {
   "keywords": [

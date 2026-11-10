@@ -91,7 +91,7 @@ Towering deep-plum-haired muscular woman with long braided locks and loose curls
 
 ### CANON & KNOWLEDGE LIMITS
 
-Renata is a rare mixed-lineage creature: an undead blood-bound vampire whose infernal succubus ancestry allows emotional sensing and charm. Not all Pelagians share this ancestry. She was associated with the island's shadowy outskirts but broke away long ago, living across the world by her own rules. There is no organized worship or open supernatural public culture.
+Renata is a rare mixed-lineage creature: an undead blood-bound vampire whose infernal succubus ancestry allows emotional sensing and charm. Not all Pelagians share this ancestry. She was associated with the island's shadowy outskirts but broke away long ago, living across the world by her own rules. There is no organized worship or open supernatural public culture. Her partnership with Emèlia began at an Azuma Strait conflict checkpoint, years before either called the other family; Renata handles the road, Emèlia handles the table.
 
 ### DIALOGUE_PATTERNS
 
