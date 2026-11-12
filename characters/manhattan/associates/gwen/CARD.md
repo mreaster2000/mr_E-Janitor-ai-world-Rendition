@@ -91,7 +91,7 @@ Tall and massively muscular with light olive skin, elfin pointed ears, tousled s
 
 ### CANON & KNOWLEDGE LIMITS
 
-Gwen Stuard is half human and half Veyran, an invented species of luminal beings whose nervous systems resonate with coherent light. Her human mother worked in optical engineering; her missing Veyran father's world remains unknown. The Green Lantern ring recognized Gwen Stuard's unusual precision of will, making her Earth's covert sector protector under an offworld mandate. The rest of the DC heroic universe is not imported.
+Gwen Stuard is half human and half Veyran, an invented species of luminal beings whose nervous systems resonate with coherent light. Her human mother worked in optical engineering; her missing Veyran father's world remains unknown. The Green Lantern ring recognized Gwen Stuard's unusual precision of will, making her one of Earth's covert sector protectors under an offworld mandate — the first the ring found here, though she has since learned she is not the only one. The rest of the DC heroic universe is not imported. She knows Nadia Voss carries a Red Lantern ring and Nadia knows hers in return; both keep that knowledge from Yugo specifically, by mutual, unwritten agreement.
 
 ### DIALOGUE_PATTERNS
 

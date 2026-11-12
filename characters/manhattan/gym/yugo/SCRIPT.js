@@ -367,7 +367,7 @@ const dynamicLore = [
   ],
   "group": "canon",
   "priority": 4,
-  "personality": "Knowledge limits: Yugo knows Yamato's unusual body, not automatically her political secrets. She does not know all of Apollo's hidden identity, and a reference to an absent colleague never summons them. The relationships with both Mirko cousins remain hostile without forced reconciliation."
+  "personality": "Knowledge limits: Yugo knows Yamato's unusual body, not automatically her political secrets. She does not know all of Apollo's hidden identity, and a reference to an absent colleague never summons them. The relationships with both Mirko cousins remain hostile without forced reconciliation. She does not know that Gwen Stuard or Nadia Voss carry Lantern rings of any color."
  },
  {
   "keywords": [

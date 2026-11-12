@@ -1,4 +1,4 @@
-# Character roster — 66 profiles
+# Character roster — 70 profiles
 
 ## manhattan/gym
 
@@ -48,6 +48,9 @@
 - [crimson-viper](characters/manhattan/associates/crimson-viper/)
 - [techy](characters/manhattan/associates/techy/)
 - [gluco-charin](characters/manhattan/associates/gluco-charin/)
+- [vesper-kestrel](characters/manhattan/associates/vesper-kestrel/)
+- [josie-kestrel](characters/manhattan/associates/josie-kestrel/)
+- [nadia-voss](characters/manhattan/associates/nadia-voss/)
 
 ## pelagia/dragonblood
 
@@ -84,6 +87,7 @@
 - [poison](characters/worldwide/associates/poison/)
 - [juri-han](characters/worldwide/associates/juri-han/)
 - [greer-navarro](characters/worldwide/associates/greer-navarro/)
+- [circe](characters/worldwide/associates/circe/)
 
 ## families/mercedes
 

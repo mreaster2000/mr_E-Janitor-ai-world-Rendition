@@ -57,7 +57,10 @@
         "she-hulk",
         "crimson-viper",
         "techy",
-        "gluco-charin"
+        "gluco-charin",
+        "vesper-kestrel",
+        "josie-kestrel",
+        "nadia-voss"
       ]
     },
     "pelagia/dragonblood": {
@@ -99,7 +102,8 @@
         "talatora",
         "poison",
         "juri-han",
-        "greer-navarro"
+        "greer-navarro",
+        "circe"
       ]
     },
     "families/mercedes": {
@@ -189,6 +193,10 @@
     "poison": "worldwide/associates/poison",
     "juri-han": "worldwide/associates/juri-han",
     "greer-navarro": "worldwide/associates/greer-navarro",
-    "barghest": "pelagia/islanders/barghest"
+    "barghest": "pelagia/islanders/barghest",
+    "circe": "worldwide/associates/circe",
+    "vesper-kestrel": "manhattan/associates/vesper-kestrel",
+    "josie-kestrel": "manhattan/associates/josie-kestrel",
+    "nadia-voss": "manhattan/associates/nadia-voss"
   }
 }

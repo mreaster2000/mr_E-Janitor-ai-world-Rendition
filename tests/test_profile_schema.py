@@ -147,5 +147,5 @@ def main():
     if failures:
         for f in failures:print("FAIL:",f)
         sys.exit(1)
-    print("PASS: all 66 have populated uniform BIO/Card sections and consistent sourced appearance details")
+    print("PASS: all",len(MANIFEST),"have populated uniform BIO/Card sections and consistent sourced appearance details")
 if __name__=="__main__":main()

@@ -1,6 +1,6 @@
 # Rendition — Janitor AI character world
 
-This private, creator-led fictional world has **66 character profiles** across 11 story-world groups. The active review branch is `rendition-overhaul-2026-11-05`; `main` remains untouched until the creator approves a merge.
+This private, creator-led fictional world has **70 character profiles** across 11 story-world groups. The active review branch is `rendition-overhaul-2026-11-05`; `main` remains untouched until the creator approves a merge.
 
 ## Find what you need
 
@@ -10,7 +10,7 @@ This private, creator-led fictional world has **66 character profiles** across 1
  · [Stances](STANCES.md) · [Janitor setup](JANITOR_SETUP.md) · [Lite cards](JANITOR_SETUP.md#lite-cards)
 ## Current state and decisions
 
-- **66/66 profiles:** each has `CARD.md` (15-section v4 playable persona), `BIO.md` (11-section long-form creator reference), and conditional-only `SCRIPT.js`. Earlier openings remain separate. The card is the roleplay prompt; the BIO is *not* pasted every turn.
+- **70/70 profiles:** each has `CARD.md` (15-section v4 playable persona), `BIO.md` (11-section long-form creator reference), and conditional-only `SCRIPT.js`. Earlier openings remain separate. The card is the roleplay prompt; the BIO is *not* pasted every turn.
 - **Names:** the Beauty/Revelry and Technology Council Members are sisters **Zafira** and **Nahla Marenne**; the Inquisitor and Keeper of Oaths (formerly styled 'Innocence') is **Ilyana Rell**. Their names are editorial Rendition choices. The sisters' individual faces in the shared portrait are **not** assigned, Ilyana's portfolio is undecided, and Pelagia's incumbent queen is still unnamed.
 - **Anima height retcon:** every established anima in the active roster stands at least **8′0″**. Zuri is **8′1″**, Zirkala Tatanka **8′2″**; see the canonical [height table](HEIGHT_REFERENCE.md). Unconfirmed animal-themed people are not automatically classified as anima.
 - **Identity distinctions:** Rosa supersedes Mudryk; Besterta-san supersedes Nandi. Kara/Supergirl is not Karren/Power Girl. Saint Diana is not Absolute Diana. 'Zentreya' is an inherited dragon-descended lineage, unrelated to Palkia's creator collective, Anima Collective (formerly the temporary working name `Zentreya Corp`), or its opt-in adult-content wing, Anima After Hours — the 'Anima' naming is also coincidental, unrelated to the anima hybrid-lineage classification. Mirko and her sister are Yugo's estranged cousins. Vera works in nightlife, not engineering.

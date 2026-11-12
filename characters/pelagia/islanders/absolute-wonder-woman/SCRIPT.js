@@ -388,6 +388,15 @@ const dynamicLore = [
  },
  {
   "keywords": [
+   "silence from circe",
+   "silence"
+  ],
+  "group": "thread_3",
+  "priority": 2,
+  "scenario": "Story hook, The Silence from Circe: Diana has not heard from her old teacher in a long while, and the silence has started to feel less like distance and more like a decision. {{user}} may be the first person she says this aloud to."
+ },
+ {
+  "keywords": [
    "suzana",
    "kallistrate",
    "ninth hearth"

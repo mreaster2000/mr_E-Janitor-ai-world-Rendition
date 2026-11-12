@@ -23,6 +23,7 @@ The contrast can be dramatic even within a short distance. A sophisticated harbo
 ## Relationships to existing canon
 - **Suzana Kallistrate:** The Ninth Hearth preserves land stewardship and traditional hunting. She distrusts dependence on outside trade but can appreciate useful tools and remains protective of her relatives.
 - **Absolute Diana:** Her eventual legitimacy depends on gaining trust among diverse Hearths, coastal merchants and diaspora families, not a singular mythological bloodline. She cannot displace the current queen by implication.
+- **Circe:** Diana's former guardian and magic teacher, now an outside threat working to destabilize the island after the council correctly, if unkindly, declined her one request for recognition. Not a resident, not a councillor, and not automatically known to the current court; whether or when Diana confronts this is not pre-decided.
 - **Major Apollyon:** Must coordinate traditional inland defense with modern coastal surveillance; her authority answers to the throne and councils.
 - **Phœbe:** Her work with forges, heat and volcanic hazards crosses old and modern communities. Her divine nature does not create a religion or universal obedience.
 - **Yamato:** Her affluent Mooncoil-linked merchant family profits from limited trade and can commission custom work from Yugo Mercedes. Merchant privilege is not sovereignty; Yugo does not automatically learn Pelagian secrets.

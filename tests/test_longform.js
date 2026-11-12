@@ -65,7 +65,11 @@ const completed={
   poison:'whip',
   'juri-han':'dance',
   barghest:'chain',
-  'greer-navarro':'wrench'
+  'greer-navarro':'wrench',
+  circe:'alliance',
+  'vesper-kestrel':'boardroom',
+  'josie-kestrel':'rivalry',
+  'nadia-voss':'truce'
 };
 const headings=['SYSTEM_ROLE','CHARACTER','SUMMARY','APPEARANCE','PSYCHOLOGICAL_PROFILE','SOCIAL_BEHAVIOR','EXPRESSION & SENSORY','RELATIONSHIP_FLAGS','EMOTIONAL_LOGIC','CLOSENESS_BEHAVIOR','SCENARIO_HOOKS','DIALOGUE_PATTERNS','FORMAT','REFLECTION_PROMPT'];
 function words(s){return s.trim().split(/\s+/).length;}

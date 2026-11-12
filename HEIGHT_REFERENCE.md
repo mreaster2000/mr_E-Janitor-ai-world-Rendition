@@ -87,3 +87,15 @@ For Balaika, Kara/Supergirl, Techy, Gluco, Palkia, Crimson Viper, Mirko and her 
 | mirko-sibling | 7′8″ |
 
 Heights from `palkia` onward in this list were set editorially in November 2026 to replace "not established".
+
+
+## Circe and the new Lantern cluster (November 2026)
+
+| Character | Height |
+|---|---|
+| Circe | 7′9″ |
+| Vesper Kestrel | 7′6″ |
+| Josie Kestrel | 7′2″ |
+| Nadia Voss | 7′4″ |
+
+These four heights were set editorially alongside the characters' creation in November 2026.

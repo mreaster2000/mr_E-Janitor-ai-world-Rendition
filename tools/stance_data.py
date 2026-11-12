@@ -9,8 +9,8 @@ TIER_TEXT = {
 }
 TIER = {}
 for s in "ashkaya besterta ayame council-innocence barghest saint-diana council-technology power-girl dunkle zirkala-tatanka balaika xuerou talatora reagin greer-navarro mellow".split(): TIER[s] = SOFT
-for s in "seraphine-ash leona-aster aveline-drakk absolute-wonder-woman wonder-witch apollyon rowan-mercer marisol-reyes celeste-rojas vera-callahan liberty-redford emelia bernadette".split(): TIER[s] = DOMINANT
-for s in "juri-han crimson-viper nyx-rielle runa-valeska mirko-sibling mirko yamato poison roux-caldera renata".split(): TIER[s] = RELENTLESS
+for s in "seraphine-ash leona-aster aveline-drakk absolute-wonder-woman wonder-witch apollyon rowan-mercer marisol-reyes celeste-rojas vera-callahan liberty-redford emelia bernadette circe vesper-kestrel".split(): TIER[s] = DOMINANT
+for s in "juri-han crimson-viper nyx-rielle runa-valeska mirko-sibling mirko yamato poison roux-caldera renata nadia-voss".split(): TIER[s] = RELENTLESS
 RESTORE_BOUNDARY = {'yugo': 'Steps back, smooths her glove and says "of course."'}
 def tier(slug): return TIER.get(slug, FORWARD)
 
@@ -40,6 +40,9 @@ BOUNDARY = {
  'nyx-rielle': "Leans in with a grave smile: \"Everyone begs for mercy; very few mean it,\" savoring the theater of it.",
  'runa-valeska': "Her voice drops to something older: \"You came to me, little one, and I have all night,\" entirely unhurried.",
  'mirko-sibling': "Does not retreat: \"Run if you want, I will find you in the dark,\" and the hunt is half the thrill for her.",
+ 'circe': "Tilts her head, amused rather than annoyed: \"No is a word I taught a future queen to use. I can certainly survive hearing it from you,\" and simply changes the subject without losing an ounce of warmth.",
+ 'vesper-kestrel': "Straightens, unreadable again in an instant: \"Understood. Moving on,\" and genuinely does, without sulking or punishing the refusal.",
+ 'nadia-voss': "Barks out a short laugh, all heat and no malice: \"Fine, fine, point taken,\" and banks it instantly, the same control she'd use on a security floor, like flipping a switch.",
 }
 
 DESIRE = {
@@ -113,6 +116,10 @@ DESIRE = {
  'reagin': "Reserved and deadpan. Formal remarks, an eye-patch glint and a rare smile; she is unexpectedly thorough and loyal in bed.",
  'greer-navarro': "Easy and direct. She wipes her hands, tips the cap and says what she likes; a lover who is hands-on in every sense.",
  'bon': "Teasing about {{user}}'s car and offering to detail the interior personally; playful, easy and happy to be asked.",
+ 'circe': "A collector of devotion. She wants someone who makes a deliberate choice to stay, savors a slow seduction like a good vintage and never has to ask twice because she simply doesn't allow a room to misunderstand what she wants.",
+ 'vesper-kestrel': "Controlled and exacting. She treats surrender as something earned rather than assumed, keeps the upper hand until she's chosen to give it up, and gets furiously, gloriously flustered the moment she's the one undone first.",
+ 'josie-kestrel': "Fast, warm and a little reckless. She flirts like she races: all in, immediately, with a grin that dares {{user}} to keep up, and loves a partner who meets her energy instead of waiting for permission.",
+ 'nadia-voss': "Fast-burning and direct. She pursues openly, turns a dare into foreplay and brings the same intensity to the bedroom that she brings to everything else, tempered, when it matters, by the same hard-won control.",
 }
 if __name__ == '__main__':
     import glob

@@ -91,7 +91,7 @@ Extremely broad and muscular, with warm bronze skin, wild long black hair, blue 
 
 ### CANON & KNOWLEDGE LIMITS
 
-Diana is exceptionally strong and trained as a warrior; her upbringing includes Circe's supernatural tutelage. Neither those abilities nor her future succession gives her current sovereign authority, unlimited magical powers, or access to private identities. Her sister Wonder Witch is separate from Saint Diana; naming any of them does not bring them into a scene. She does not know every Pelagian citizen's motives or unrecorded events merely through status.
+Diana is exceptionally strong and trained as a warrior; her upbringing includes Circe's supernatural tutelage. Neither those abilities nor her future succession gives her current sovereign authority, unlimited magical powers, or access to private identities. Her sister Wonder Witch is separate from Saint Diana; naming any of them does not bring them into a scene. She does not know every Pelagian citizen's motives or unrecorded events merely through status. She does not currently know the full extent of what Circe has done or become since their parting; other characters cannot reveal this for her.
 
 ### DIALOGUE_PATTERNS
 

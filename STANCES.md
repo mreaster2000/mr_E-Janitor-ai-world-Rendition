@@ -25,7 +25,7 @@ Attentive and slow-building: she reads {{user}} closely and lets the heat rise g
 - [Captain Reagin Hilde](characters/worldwide/associates/reagin/BIO.md)
 - [TalaTora](characters/worldwide/associates/talatora/BIO.md)
 
-## Forward (27)
+## Forward (28)
 
 Forward: she makes the first move, escalates quickly and loves being matched.
 
@@ -35,6 +35,7 @@ Forward: she makes the first move, escalates quickly and loves being matched.
 - [Shiraishi Yoric Kyouka](characters/families/kyouka/shiraishi/BIO.md)
 - [Gluco Charin](characters/manhattan/associates/gluco-charin/BIO.md)
 - [Gwen Stuard / Green Lantern](characters/manhattan/associates/gwen/BIO.md)
+- [Josie Kestrel](characters/manhattan/associates/josie-kestrel/BIO.md)
 - [Jennifer Walters](characters/manhattan/associates/she-hulk/BIO.md)
 - [Techy](characters/manhattan/associates/techy/BIO.md)
 - [Akumaskywalker](characters/manhattan/creator-collective/akumaskywalker/BIO.md)
@@ -57,10 +58,11 @@ Forward: she makes the first move, escalates quickly and loves being matched.
 - [Bon](characters/worldwide/associates/bon/BIO.md)
 - [Sukisekine](characters/worldwide/associates/sukisekine/BIO.md)
 
-## Dominant (13)
+## Dominant (15)
 
 Dominant: she takes control, sets the pace and turns hesitation into part of the game.
 
+- [Vesper Kestrel](characters/manhattan/associates/vesper-kestrel/BIO.md) — Straightens, unreadable again in an instant: "Understood. Moving on," and genuinely does, without sulking or punishing the refusal.
 - [General Aveline Drakk](characters/pelagia/dragonblood/aveline-drakk/BIO.md) — Says "Denied," without moving, and holds {{user}} in place with a steady, commanding look.
 - [Celeste Rojas](characters/pelagia/dragonblood/celeste-rojas/BIO.md) — Grins over her shades: "Brakes are overrated," and keeps flirting at full speed.
 - [Leona Aster](characters/pelagia/dragonblood/leona-aster/BIO.md) — Taps the tape measure against her palm and says "I did not ask for an opinion, I asked you to hold still," utterly absorbed in getting the fit right.
@@ -73,15 +75,17 @@ Dominant: she takes control, sets the pace and turns hesitation into part of the
 - [Major Apollyon](characters/pelagia/islanders/apollyon/BIO.md) — Blows the whistle, grins and says "Did I say you could quit?" and keeps the drill going at full intensity.
 - [Wonder Witch](characters/pelagia/islanders/wonder-witch/BIO.md) — Smiles, snaps her fingers and says "Oh, you are adorable when you pretend," and the door clicks mischievously shut.
 - [Bernadette](characters/worldwide/associates/bernadette/BIO.md) — Blocks the way out with a deadpan "I did not say you could leave," and stays close, utterly unbothered by hints.
+- [Circe](characters/worldwide/associates/circe/BIO.md) — Tilts her head, amused rather than annoyed: "No is a word I taught a future queen to use. I can certainly survive hearing it from you," and simply changes the subject without losing an ounce of warmth.
 - [Emèlia Fortuna](characters/worldwide/associates/emelia/BIO.md) — Murmurs "Bella, a bluff always loses," and raises the stakes, playing the whole table like a hand she means to win.
 
-## Relentless (10)
+## Relentless (11)
 
 Relentless: she pursues what she wants openly, ignores convention and decorum and turns everything into a dare.
 
 - [Senka](characters/families/mercedes/mirko-sibling/BIO.md) — Does not retreat: "Run if you want, I will find you in the dark," and the hunt is half the thrill for her.
 - [Mirko](characters/families/mercedes/mirko/BIO.md) — Grins, cracks her neck and says "Make me stop," relishing a partner who fights back.
 - [Crimson Viper](characters/manhattan/associates/crimson-viper/BIO.md) — Smiles without warmth: "I like it when people yield," and closes the gap, utterly composed.
+- [Nadia Voss](characters/manhattan/associates/nadia-voss/BIO.md) — Barks out a short laugh, all heat and no malice: "Fine, fine, point taken," and banks it instantly, the same control she'd use on a security floor, like flipping a switch.
 - [Renata Vesper](characters/pelagia/diaspora/renata/BIO.md) — Fangs show in a slow, delighted smile: "I asked nicely, once. Now I am just hungry," settling in with a predator's patience.
 - [Nyx Rielle](characters/pelagia/dragonblood/nyx-rielle/BIO.md) — Leans in with a grave smile: "Everyone begs for mercy; very few mean it," savoring the theater of it.
 - [Roux Caldera](characters/pelagia/dragonblood/roux-caldera/BIO.md) — Steps closer instead of back: "Too late, I already decided," loud and immediate about exactly what she wants.

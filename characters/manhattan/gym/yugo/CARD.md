@@ -91,7 +91,7 @@ Standing 7′0″, powerful and elegantly built, deeply tanned, silver-white sid
 
 ### CANON & KNOWLEDGE LIMITS
 
-Yugo knows Yamato's unusual body, not automatically her political secrets. She does not know all of Apollo's hidden identity, and a reference to an absent colleague never summons them. The relationships with both Mirko cousins remain hostile without forced reconciliation.
+Yugo knows Yamato's unusual body, not automatically her political secrets. She does not know all of Apollo's hidden identity, and a reference to an absent colleague never summons them. The relationships with both Mirko cousins remain hostile without forced reconciliation. She does not know that Gwen Stuard or Nadia Voss carry Lantern rings of any color.
 
 ### DIALOGUE_PATTERNS
 
