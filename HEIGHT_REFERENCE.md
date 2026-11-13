@@ -4,13 +4,13 @@ These are current card heights. They supersede earlier approximate measurements 
 
 | Character | Height |
 |---|---|
-| Mudryk | 7′3″ |
+| Rosa | 7′3″ |
 | Luka | 7′0″ |
 | Vicki | 7′1″ |
 | Yugo | 7′0″ |
 | Zesty | 7′2″ |
 | Xuerou | 7′1″ |
-| Zuri | 7′5″ |
+| Zuri | 8′1″ |
 | Dixie | 7′0″ |
 | Shiraishi | 7′2″ |
 | Power Girl / Karren | 7′0″ (same as Luka) |
@@ -30,11 +30,11 @@ These are current card heights. They supersede earlier approximate measurements 
 | Batu | 8′2″ |
 | Dunkle | 8′6″ |
 | Emèlia | 7′1″ |
-| Nandi | 8′5″ to head, 8′8″ with horns |
+| Besterta-san | 8′5″ to head, 8′8″ with horns |
 | Reagin | 7′1″ |
-| Zirkala Tatanka | 7′5″ |
+| Zirkala Tatanka | 8′2″ |
 
-Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and Yamato's long serpent coils require special measurements. Heights should inform physical staging rather than being recited in every reply.
+**Creator height retcon (5 November 2026):** Every confirmed anima character in the present roster stands at least 8′0″. Zuri is now 8′1″ and Zirkala Tatanka 8′2″; previously documented 7′5″ values are superseded. Ashkaya (8′11″), Batu (8′2″), Dunkle (8′6″), and Besterta-san (8′5″ head / 8′8″ with horns) already meet the minimum. This rule does not automatically classify animal-themed costumes, the Mirko sisters, Zentreya dragonblood, or unrelated extraterrestrials as anima. Apollo has distinct bodies; Besterta-san's horns and Yamato's long serpent coils require special measurements. Heights inform physical staging rather than being recited in every reply.
 
 
 ## Twelve reconstructed Zentreya heights (proposed)
@@ -49,9 +49,53 @@ Zuri intentionally stays 7′5″. Apollo has distinct bodies; Nandi's horns and
 | Roux Caldera | 7′9″ |
 | Vera Callahan | 7′8″ |
 | Seraphine Ash | 7′7″ |
+| Poison | 7′4″ |
+| Juri Han | 7′0″ |
+| Barghest | 7′11″ |
+| Greer Navarro | 6′10″ |
 | Rowan Mercer | 8′0″ |
 | Liberty Redford | 8′5″ |
 | Kaia Solenne | 7′5″ civilian; armored silhouette varies |
 | General Aveline Drakk | 8′2″ |
 
 All measurements above are editorial defaults for the reconstructed new cast; do not override the established 29 characters with them.
+
+
+## New artwork-led characters
+
+For Balaika, Kara/Supergirl, Techy, Gluco, Palkia, Crimson Viper, Mirko and her unnamed sibling, Kronii, the newly named council members Zafira Marenne, Nahla Marenne and Ilyana Rell, Wonder Witch, Saint Diana, Bon, Lucoa, Sukisekine and TalaTora, the creator has not supplied an authoritative height. Do not invent numbers or use proportions from illustrations as measurement. Rosa and Besterta retain their previous canon heights.
+| palkia | 7′2″ |
+| akumaskywalker | 7′1″ |
+| marieza-san | 7′0″ |
+| gluco-charin | 6′11″ |
+| crimson-viper | 7′3″ |
+| techy | 6′10″ |
+| bernadette | 7′4″ |
+| sukisekine | 7′3″ |
+| talatora | 7′6″ |
+| bon | 7′2″ |
+| kronii | 7′10″ |
+| council-technology | 7′8″ |
+| council-beauty | 7′10″ |
+| wonder-witch | 7′6″ |
+| council-innocence | 7′5″ |
+| saint-diana | 7′6″ |
+| lucoa | 7′7″ |
+| kara-supergirl | 7′2″ |
+| balaika | 7′9″ |
+| mirko | 7′6″ |
+| mirko-sibling | 7′8″ |
+
+Heights from `palkia` onward in this list were set editorially in November 2026 to replace "not established".
+
+
+## Circe and the new Lantern cluster (November 2026)
+
+| Character | Height |
+|---|---|
+| Circe | 7′9″ |
+| Vesper Kestrel | 7′6″ |
+| Josie Kestrel | 7′2″ |
+| Nadia Voss | 7′4″ |
+
+These four heights were set editorially alongside the characters' creation in November 2026.

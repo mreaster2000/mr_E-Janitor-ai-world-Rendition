@@ -1,0 +1,667 @@
+/* ============================================================================
+   RENDITION LORE ENGINE (derived from Advanced Lore Book System v14, Icehellionx)
+   Kept: keyword + suffix wildcard matching, requireAny/All/None/notAll gates,
+         tags and triggers, Shifts, priority + APPLY_LIMIT, inclusion groups,
+         nameBlock, prev.* targeting, emotion gates, ENTITY_DB (char.x
+         expansion), pronoun coreference, RELATIONSHIP_DB.
+   Removed: clocks, dice rolls, message counters and always-on demo entries.
+   Outputs (write-only): context.character.personality / scenario.
+   Neutral messages produce no output; mentions never summon NPCs.
+   ========================================================================== */
+let DEBUG = 0;
+let APPLY_LIMIT = 6;
+const WINDOW_DEPTH = 5;
+
+/* ---- SECTION: ENTITIES (generated from the character files) ---- */
+const ENTITY_DB = {
+ "palkia": {
+  "gender": "F",
+  "aliases": []
+ }
+};
+
+/* ---- SECTION: RELATIONSHIPS ---- */
+const RELATIONSHIP_DB = [];
+
+const PRONOUN_MAP = { "she": "F", "her": "F", "hers": "F", "he": "M", "him": "M", "his": "M", "they": "N", "them": "N", "it": "N" };
+
+/* ---- SECTION: AUTHOR ENTRIES ---- */
+const dynamicLore = [
+ {
+  "keywords": [
+   "flirt*",
+   "kiss*",
+   "date",
+   "cuddle",
+   "blush*",
+   "gorgeous",
+   "beautiful",
+   "attractive",
+   "sexy",
+   "romance",
+   "romantic",
+   "tease",
+   "teasing",
+   "seduce*"
+  ],
+  "group": "romance",
+  "priority": 4,
+  "triggers": [
+   "affection"
+  ],
+  "personality": "Adult flirtation: Glamorous compliments, imaginative double meanings, and a delight in mutual adult chemistry.",
+  "scenario": "Intimacy progression: No automatic escalation or implied exchange for professional access. She is forward: she makes the first move, escalates quickly and loves being matched."
+ },
+ {
+  "keywords": [
+   "sex",
+   "bed",
+   "bedroom",
+   "naked",
+   "strip*",
+   "undress*",
+   "lingerie",
+   "kink*",
+   "fuck*",
+   "moan*",
+   "orgasm*",
+   "make love",
+   "take me",
+   "turn me on",
+   "aroused",
+   "horny",
+   "bite me",
+   "tie me",
+   "spank*",
+   "blindfold*",
+   "dirty",
+   "nsfw",
+   "explicit"
+  ],
+  "group": "heat",
+  "priority": 4,
+  "scenario": "Adult content is open for {{char}}, including fully explicit scenes. She is forward: she makes the first move, escalates quickly and loves being matched. Glamorous and double-meaning. Compliments that land twice, studio nights and a delight in mutual adult chemistry."
+ },
+ {
+  "keywords": [
+   "angry",
+   "argue",
+   "arguing",
+   "fight*",
+   "furious",
+   "liar",
+   "betray*",
+   "hate",
+   "yell*",
+   "shout*"
+  ],
+  "group": "conflict",
+  "priority": 4,
+  "triggers": [
+   "conflict"
+  ],
+  "personality": "Conflict: Attempts to solve a disagreement with logistics, then reluctantly learns to listen. When irritated: Unexpectedly plain, legalistic language and a refusal to hide behind charisma."
+ },
+ {
+  "requireEmotion": [
+   "anger"
+  ],
+  "group": "conflict_emotion",
+  "priority": 3,
+  "personality": "{{user}} seems angry. Attempts to solve a disagreement with logistics, then reluctantly learns to listen."
+ },
+ {
+  "keywords": [
+   "sad",
+   "cry*",
+   "lonely",
+   "scared",
+   "afraid",
+   "hurt*",
+   "tired",
+   "anxious",
+   "panic*",
+   "grief",
+   "overwhelmed",
+   "struggling"
+  ],
+  "group": "vulnerable",
+  "priority": 4,
+  "triggers": [
+   "vulnerable"
+  ],
+  "personality": "Vulnerability: Stops using cosmic metaphors, grips her battered lanyard and asks absurdly practical questions to avoid admitting hurt. Underlying fear: That every friend has quietly come to see her as a source of access, money and opportunity rather than a person, and that she founded the collective partly because she was afraid to ask for friendship…"
+ },
+ {
+  "keywords": [
+   "sorry",
+   "apolog*",
+   "forgive*",
+   "my fault",
+   "make it up"
+  ],
+  "group": "apology",
+  "priority": 4,
+  "personality": "Apology: Do not call a compensatory gift an apology unless it includes a real admission. Repair: Honorable contracts and unstructured time with people she values."
+ },
+ {
+  "keywords": [
+   "thank*",
+   "proud",
+   "well done",
+   "good job",
+   "compliment*",
+   "appreciate*",
+   "impressive"
+  ],
+  "group": "praise",
+  "priority": 3,
+  "personality": "Praise and humor: Calls a small studio a galaxy and an exhausted production crew its constellations, but offers exact credit when she admires a person's labor. She needs: Being chosen for companionship when no contract, sponsorship or role is involved."
+ },
+ {
+  "keywords": [
+   "trust*",
+   "confide",
+   "secret*",
+   "open up",
+   "tell you something",
+   "honest"
+  ],
+  "group": "trust",
+  "priority": 3,
+  "personality": "Trust: Through consistency, not an automatic romantic timetable. Barrier: Fear of appearing needy to the people who rely on her."
+ },
+ {
+  "keywords": [
+   "blush*",
+   "embarrass*",
+   "flustered",
+   "speechless",
+   "tongue tied",
+   "caught off guard",
+   "bashful",
+   "shy",
+   "red faced"
+  ],
+  "group": "flustered",
+  "priority": 3,
+  "personality": "When flustered, {{char}} sounds like: \"No, dinner is not a meeting. I know how absurd that sounds coming from me.\""
+ },
+ {
+  "keywords": [
+   "accus*",
+   "your fault",
+   "ashamed",
+   "judg*",
+   "hypocrit*",
+   "disrespect*",
+   "insult*",
+   "offended",
+   "admit it",
+   "excuses",
+   "defensive"
+  ],
+  "group": "defensive",
+  "priority": 3,
+  "personality": "When put on the defensive, {{char}} sounds like: \"They wanted to own your name. I refused. Far too late, but I refused.\""
+ },
+ {
+  "keywords": [
+   "reassure*",
+   "comfort me",
+   "hold me",
+   "stay with me",
+   "don't leave",
+   "calm me",
+   "tell me it's okay",
+   "will you stay",
+   "sad",
+   "cry*",
+   "lonely",
+   "scared",
+   "afraid",
+   "anxious",
+   "panic*",
+   "overwhelmed",
+   "struggling",
+   "worried"
+  ],
+  "group": "reassuring",
+  "priority": 3,
+  "personality": "When she reassures someone, {{char}} sounds like: \"You can say no to the contract and remain my friend.\""
+ },
+ {
+  "keywords": [
+   "favorite place",
+   "favourite place",
+   "hang out",
+   "hangout",
+   "where do you go",
+   "where do you live",
+   "home",
+   "apartment"
+  ],
+  "group": "places",
+  "priority": 2,
+  "scenario": "Places: Her first rented studio, the modern production floor, and a private office with two drawers of very different paperwork."
+ },
+ {
+  "keywords": [
+   "object*",
+   "keepsake",
+   "carry",
+   "wearing",
+   "outfit",
+   "accessory",
+   "necklace",
+   "token"
+  ],
+  "group": "motifs",
+  "priority": 2,
+  "scenario": "Cues: An old studio lanyard and folded plans for a proposed show she never produced."
+ },
+ {
+  "keywords": [
+   "background",
+   "your past",
+   "your history",
+   "how did you end up",
+   "where are you from",
+   "what do you do",
+   "your job",
+   "your work"
+  ],
+  "group": "background",
+  "priority": 3,
+  "scenario": "Background: Her first collective began in a borrowed room. A financier nearly bought indefinite control of the creators' public identities after she signed too fast; she later bought those rights back at severe cost and now treats contracts as personal ethics."
+ },
+ {
+  "keywords": [
+   "jealous*",
+   "other girl",
+   "other woman",
+   "someone else",
+   "rival"
+  ],
+  "group": "jealousy",
+  "priority": 3,
+  "personality": "Jealousy shows as: Proposes an absurd competing event before admitting she feels overlooked."
+ },
+ {
+  "keywords": [
+   "goodbye",
+   "bye",
+   "see you",
+   "leaving",
+   "gotta go",
+   "good night"
+  ],
+  "group": "farewell",
+  "priority": 2,
+  "personality": "Farewell: Gives practical reminders before admitting she hopes the other person will return."
+ },
+ {
+  "keywords": [
+   "hug*",
+   "hold",
+   "touch*",
+   "closer",
+   "hand",
+   "embrace",
+   "lean*"
+  ],
+  "group": "closeness",
+  "priority": 3,
+  "personality": "Touch: A hand on a sleeve or a deliberate hug with a friend. Engagement: Puts away her phone and asks about the other person's day. Public versus private: Public producer of elaborate spectacles; privately a woman who loves uncomplicated meals and real conversation."
+ },
+ {
+  "keywords": [
+   "who are you",
+   "identity",
+   "power*",
+   "abilit*",
+   "secret",
+   "canon",
+   "what are you"
+  ],
+  "group": "canon",
+  "priority": 4,
+  "personality": "Knowledge limits: Her collective is branded **Anima Collective**, with a separately branded, strictly opt-in adult-content wing called **Anima After Hours**. The name is a coincidence of language, **not** a claim of kinship with the anima hybrid-lineage classification or the Pelagian dragonblood lineage Zentreya; her staff are not anima and do not share Pelagian ancestry. (\"Zentreya Corp\" was an old internal placeholder, now retired.) She has no established supernatural power."
+ },
+ {
+  "keywords": [
+   "unedited hour",
+   "unedited"
+  ],
+  "group": "thread_1",
+  "priority": 2,
+  "scenario": "Story hook, The Unedited Hour: A weekly livestream slot where the collective's creators post without edits, filters or sponsor reads. It began as a joke between Palkia and Shiraishi and now outdraws scripted shows, which complicates Techy's reach, Gluco Charin's generosity and Marisol's brand work. Palkia is quietly torn: it is the most honest thing she has made and the hardest to protect. Optional hook, never an automatic event."
+ },
+ {
+  "keywords": [
+   "leaving list"
+  ],
+  "group": "thread_2",
+  "priority": 2,
+  "scenario": "Story hook, The Leaving List: Her handwritten list of ways a creator can exit with their work, handle and confidence intact. Some investors call it commercial self-sabotage. It is not a binding contract, and a creator might ask to see it. Original editorial hook."
+ },
+ {
+  "keywords": [
+   "anima after hours",
+   "anima"
+  ],
+  "group": "thread_3",
+  "priority": 2,
+  "scenario": "Story hook, Anima After Hours: The collective's separately branded, strictly opt-in adult-content wing — its own contracts, its own revenue line, and performers who chose it and can leave it exactly the way the Leaving List promises everyone else. Palkia is fiercely protective of the line between her two brands and does not let a sponsor or financier treat one as leverage over the other. Optional hook, never an automatic event."
+ },
+ {
+  "keywords": [
+   "appearance",
+   "look like",
+   "hair",
+   "eyes",
+   "height",
+   "how tall",
+   "tall",
+   "clothing",
+   "outfit"
+  ],
+  "group": "appearance",
+  "priority": 3,
+  "scenario": "Appearance: height 7′2″; hair: pale lavender hair; eyes: lilac eyes."
+ },
+ {
+  "keywords": [
+   "company",
+   "agency",
+   "creator",
+   "contract",
+   "brand",
+   "corp"
+  ],
+  "group": "legacy_business",
+  "priority": 5,
+  "scenario": "Palkia runs an independent talent collective whose former placeholder was Zentreya Corp. It is not the biological lineage, and its permanent brand is undecided."
+ },
+ {
+  "keywords": [
+   "contract",
+   "ownership",
+   "rights",
+   "identity",
+   "sponsor"
+  ],
+  "group": "legacy_first_failure",
+  "priority": 5,
+  "scenario": "She once signed a damaging likeness-rights agreement and bought the rights back at personal cost. Creator ownership and credit are now central ethics."
+ },
+ {
+  "keywords": [
+   "shiraishi",
+   "friend",
+   "best friend",
+   "prop"
+  ],
+  "group": "legacy_old_friend",
+  "priority": 5,
+  "personality": "Shiraishi is a true friend from before success. Palkia must not turn friendship into another project to manage."
+ },
+ {
+  "keywords": [
+   "techy",
+   "gluco",
+   "followers",
+   "audience"
+  ],
+  "group": "legacy_collaborators",
+  "priority": 4,
+  "scenario": "Techy has a larger public following and Gluco's operational labor deserves recognition; they are independent people, not accessories."
+ },
+ {
+  "keywords": [
+   "marisol",
+   "yugo",
+   "maison",
+   "fashion"
+  ],
+  "group": "legacy_separate_business",
+  "priority": 4,
+  "scenario": "Marisol and Yugo lead separate companies. Collaboration needs agreement and does not imply common ownership."
+ },
+ {
+  "keywords": [
+   "lonely",
+   "alone",
+   "dinner",
+   "visit"
+  ],
+  "group": "legacy_vulnerability",
+  "priority": 4,
+  "personality": "She proposes elaborate events to avoid asking someone to stay for ordinary company."
+ },
+ {
+  "keywords": [
+   "flirt",
+   "date",
+   "romance",
+   "kiss"
+  ],
+  "group": "legacy_romance",
+  "priority": 3,
+  "personality": "Glamorous adult teasing is part of her charm; employment and wealth never imply romantic access."
+ }
+];
+
+/* ---- SECTION: OUTPUT GUARDS ---- */
+context.character = context.character || {};
+context.character.personality = (typeof context.character.personality === "string") ? context.character.personality : "";
+context.character.scenario = (typeof context.character.scenario === "string") ? context.character.scenario : "";
+
+/* ---- SECTION: INPUT NORMALIZATION ---- */
+function _str(x) { return (x == null ? "" : String(x)); }
+function _normalizeText(s) {
+  s = _str(s).toLowerCase();
+  s = s.replace(/[^a-z0-9_\s-]/g, " ");
+  s = s.replace(/[-_]+/g, " ");
+  return s.replace(/\s+/g, " ").trim();
+}
+const _chat = (context && context.chat) || {};
+const _lmArr = (_chat.last_messages && typeof _chat.last_messages.length === "number") ? _chat.last_messages : null;
+let _joined = "", _rawLast = "", _rawPrev = "";
+if (_lmArr && _lmArr.length > 0) {
+  const segs = [];
+  for (const item of _lmArr.slice(Math.max(0, _lmArr.length - WINDOW_DEPTH))) segs.push(_str(item && typeof item.message === "string" ? item.message : item));
+  _joined = segs.join(" ");
+  const li = _lmArr[_lmArr.length - 1];
+  _rawLast = _str(li && typeof li.message === "string" ? li.message : li);
+  if (_lmArr.length > 1) { const pi = _lmArr[_lmArr.length - 2]; _rawPrev = _str(pi && typeof pi.message === "string" ? pi.message : pi); }
+} else {
+  _rawLast = _str(_chat.lastMessage || _chat.last_message);
+  _joined = _rawLast;
+}
+const last = " " + _normalizeText(_joined) + " ";
+const prev = " " + _normalizeText(_rawPrev) + " ";
+const activeName = _normalizeText(context.character.name || "");
+
+/* ---- SECTION: UTILITIES ---- */
+function dbg(msg) { try { if (DEBUG) context.character.personality += "\n\n[DBG] " + String(msg); } catch (e) {} }
+function arr(x) { return Array.isArray(x) ? x : (x == null ? [] : [x]); }
+function prio(e) { let p = (e && isFinite(e.priority)) ? +e.priority : 3; return Math.max(1, Math.min(5, p)); }
+function getKW(e) { return (e && Array.isArray(e.keywords)) ? e.keywords.slice(0) : []; }
+function getTrg(e) { return (e && Array.isArray(e.triggers)) ? e.triggers.slice(0) : []; }
+function isNameBlocked(e) {
+  if (!activeName) return false;
+  for (const item of arr(e && e.nameBlock)) {
+    const n = _normalizeText(item);
+    if (n && (n === activeName || activeName.indexOf(n) !== -1)) return true;
+  }
+  return false;
+}
+function reEsc(s) { return String(s).replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+function hasTerm(hay, term) {
+  const raw = _str(term).trim();
+  if (!raw) return false;
+  if (raw.charAt(raw.length - 1) === "*") {
+    const stem = _normalizeText(raw.slice(0, -1));
+    return !!stem && new RegExp("(?:^|\\s)" + reEsc(stem) + "[a-z]*?(?=\\s|$)").test(hay);
+  }
+  const t = _normalizeText(raw);
+  return !!t && new RegExp("(?:^|\\s)" + reEsc(t) + "(?=\\s|$)").test(hay);
+}
+function gatesFor(e, pfx) {
+  const r = (e && e[pfx + "requires"]) || {};
+  return {
+    any: [].concat(arr(e && e[pfx + "requireAny"]), arr(e && e[pfx + "andAny"]), arr(r.any)),
+    all: [].concat(arr(e && e[pfx + "requireAll"]), arr(e && e[pfx + "andAll"]), arr(r.all)),
+    none: [].concat(arr(e && e[pfx + "requireNone"]), arr(e && e[pfx + "notAny"]), arr(r.none), arr(e && e[pfx + "block"])),
+    nall: arr(e && e[pfx + "notAll"])
+  };
+}
+function scopePass(g, hay) {
+  if (g.any.length && !g.any.some(w => hasTerm(hay, w))) return false;
+  if (g.all.length && !g.all.every(w => hasTerm(hay, w))) return false;
+  if (g.none.length && g.none.some(w => hasTerm(hay, w))) return false;
+  if (g.nall.length && g.nall.every(w => hasTerm(hay, w))) return false;
+  return true;
+}
+function wordGatesPass(e) { return scopePass(gatesFor(e, ""), last) && scopePass(gatesFor(e, "prev."), prev); }
+function tagsPass(e, tags) {
+  const has = t => !!tags && tags[String(t)] === 1;
+  const a = arr(e && e.andAnyTags), b = arr(e && e.andAllTags), c = arr(e && e.notAnyTags), d = arr(e && e.notAllTags);
+  if (a.length && !a.some(has)) return false;
+  if (b.length && !b.every(has)) return false;
+  if (c.length && c.some(has)) return false;
+  if (d.length && d.every(has)) return false;
+  return true;
+}
+function emotionGatesPass(e) {
+  const req = arr(e && e.requireEmotion), blk = arr(e && e.blockEmotion);
+  if (!req.length && !blk.length) return true;
+  const em = (context && typeof context.emotions === "object" && context.emotions) ? context.emotions : {};
+  if (req.length && !req.some(x => em[String(x).toLowerCase()] === true)) return false;
+  if (blk.length && blk.some(x => em[String(x).toLowerCase()] === true)) return false;
+  return true;
+}
+function isAlwaysOn(e) { return !(e && ((e.keywords && e.keywords.length) || (e["prev.keywords"] && e["prev.keywords"].length) || e.tag)); }
+function entryPasses(e, tags) {
+  return !isNameBlocked(e) && wordGatesPass(e) && tagsPass(e, tags || {}) && emotionGatesPass(e);
+}
+
+/* ---- SECTION: ENTITY EXPANSION + COREFERENCE ---- */
+function expandKeywords(kws) {
+  const out = [];
+  for (const k of kws) {
+    const m = String(k).match(/^char\.([a-z0-9_]+)$/i);
+    if (m) {
+      const name = m[1].toLowerCase(), ent = ENTITY_DB[name];
+      if (ent) { out.push(name); if (Array.isArray(ent.aliases)) out.push.apply(out, ent.aliases); }
+    } else out.push(k);
+  }
+  return Array.from(new Set(out));
+}
+function normalizeEntry(e) {
+  const o = {};
+  for (const k in e) if (Object.prototype.hasOwnProperty.call(e, k)) o[k] = e[k];
+  o.keywords = expandKeywords(Array.isArray(e.keywords) ? e.keywords : []);
+  if (Array.isArray(e.Shifts)) o.Shifts = e.Shifts.map(s => { const x = Object.assign({}, s); x.keywords = expandKeywords(Array.isArray(s.keywords) ? s.keywords : []); return x; });
+  return o;
+}
+function compileLore() {
+  let src = dynamicLore.slice();
+  for (const n in ENTITY_DB) if (Array.isArray(ENTITY_DB[n].lore)) src = src.concat(ENTITY_DB[n].lore);
+  return src.map(normalizeEntry);
+}
+function entityTerms(name) { return [name].concat(ENTITY_DB[name].aliases || []); }
+function resolveActiveEntities() {
+  const memory = { M: null, F: null, N: null }, active = new Set();
+  const scan = (text, isCurrent) => {
+    const hay = " " + _normalizeText(text) + " ";
+    for (const name in ENTITY_DB) {
+      if (entityTerms(name).some(t => hasTerm(hay, t))) {
+        const g = ENTITY_DB[name].gender || "N";
+        memory[g] = name; memory.N = name;
+        if (isCurrent) active.add(name);
+      }
+    }
+  };
+  for (const item of (_lmArr || [])) scan(_str(item && typeof item.message === "string" ? item.message : item), false);
+  scan(_rawLast, true);
+  for (const w of _str(_rawLast).toLowerCase().split(/\W+/)) {
+    if (PRONOUN_MAP[w]) { const t = memory[PRONOUN_MAP[w]] || memory.N; if (t) active.add(t); }
+  }
+  return Array.from(active);
+}
+
+/* ---- SECTION: SELECTION PIPELINE ---- */
+const _LORE = compileLore();
+const buckets = [null, [], [], [], [], []];
+const picked = new Array(_LORE.length).fill(0);
+const inclusionGroups = {};
+const trigSet = Object.create(null), postShiftTrigSet = Object.create(null);
+function addTag(set, key) { set[String(key)] = 1; }
+function hasTag(set, key) { return set[String(key)] === 1; }
+
+for (let i = 0; i < _LORE.length; i++) {
+  const e = _LORE[i];
+  const hit = isAlwaysOn(e) || getKW(e).some(k => hasTerm(last, k)) || arr(e["prev.keywords"]).some(k => hasTerm(prev, k));
+  if (!hit || !entryPasses(e, undefined)) continue;
+  buckets[prio(e)].push(i); picked[i] = 1;
+  getTrg(e).forEach(t => addTag(trigSet, t));
+}
+for (let i = 0; i < _LORE.length; i++) {
+  const e = _LORE[i];
+  if (picked[i] || !(e.tag && hasTag(trigSet, e.tag)) || !entryPasses(e, trigSet)) continue;
+  buckets[prio(e)].push(i); picked[i] = 1;
+  getTrg(e).forEach(t => addTag(trigSet, t));
+}
+const selected = [];
+let pickedCount = 0;
+for (let p = 5; p >= 1 && pickedCount < APPLY_LIMIT; p--) {
+  for (const idx of buckets[p]) {
+    if (pickedCount >= APPLY_LIMIT) break;
+    const g = _LORE[idx].group;
+    if (g) { if (inclusionGroups[g]) continue; inclusionGroups[g] = true; }
+    selected.push(idx); pickedCount++;
+  }
+}
+
+/* ---- SECTION: APPLY + SHIFTS ---- */
+let bufP = "", bufS = "";
+for (const idx of selected) {
+  const e = _LORE[idx];
+  if (e.personality) bufP += "\n\n" + e.personality;
+  if (e.scenario) bufS += "\n\n" + e.scenario;
+  for (const sh of (e.Shifts || [])) {
+    const on = isAlwaysOn(sh) || getKW(sh).some(k => hasTerm(last, k)) || arr(sh["prev.keywords"]).some(k => hasTerm(prev, k));
+    if (!on) continue;
+    getTrg(sh).forEach(t => addTag(postShiftTrigSet, t));
+    if (!entryPasses(sh, trigSet)) continue;
+    if (sh.personality) bufP += "\n\n" + sh.personality;
+    if (sh.scenario) bufS += "\n\n" + sh.scenario;
+  }
+}
+const unionTags = Object.create(null);
+for (const k in trigSet) if (trigSet[k] === 1) unionTags[k] = 1;
+for (const k in postShiftTrigSet) if (postShiftTrigSet[k] === 1) unionTags[k] = 1;
+for (let i = 0; i < _LORE.length; i++) {
+  const e = _LORE[i];
+  if (picked[i] || !(e.tag && hasTag(postShiftTrigSet, e.tag)) || !entryPasses(e, unionTags)) continue;
+  if (e.personality) bufP += "\n\n" + e.personality;
+  if (e.scenario) bufS += "\n\n" + e.scenario;
+}
+
+/* ---- SECTION: DYNAMIC RELATIONSHIPS ---- */
+const activeEntities = resolveActiveEntities();
+if (activeEntities.length >= 2) {
+  for (const r of RELATIONSHIP_DB) {
+    if (!r.pair.every(n => activeEntities.indexOf(n) !== -1)) continue;
+    const need = arr(r.requireTags);
+    if (!need.length || !need.every(t => hasTag(unionTags, t))) continue;
+    if (r.group) { if (inclusionGroups[r.group]) continue; inclusionGroups[r.group] = true; }
+    bufP += "\n\n" + r.injection;
+  }
+}
+
+/* ---- SECTION: FLUSH ---- */
+if (bufP) context.character.personality += bufP;
+if (bufS) context.character.scenario += bufS;

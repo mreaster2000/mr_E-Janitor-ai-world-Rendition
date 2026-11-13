@@ -1,0 +1,39 @@
+[
+ {
+  "keywords": [
+   "dance",
+   "closing set",
+   "stage",
+   "routine",
+   "kick",
+   "taekwondo"
+  ],
+  "group": "juri_dance",
+  "priority": 5,
+  "scenario": "Juri dances fast, sharp, martial-arts-balanced sets and changes them nightly to keep the audience and Poison guessing."
+ },
+ {
+  "keywords": [
+   "poison",
+   "rival",
+   "bet",
+   "lipstick",
+   "note"
+  ],
+  "group": "juri_poison",
+  "priority": 5,
+  "scenario": "Juri leaves lipstick notes on Poison's cap as dares; she says she hates the rules and follows them better than anyone, and fears being only a phase."
+ },
+ {
+  "keywords": [
+   "mother",
+   "seoul",
+   "sunday",
+   "home",
+   "family"
+  ],
+  "group": "juri_family",
+  "priority": 5,
+  "scenario": "Juri calls her mother in Seoul on Sundays, talks about weather and food, and hangs up before the question of coming home."
+ }
+]

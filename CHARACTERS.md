@@ -1,109 +1,104 @@
-# Character roster — 41 characters
+# Character roster — 70 profiles
 
-Characters have one canonical folder each. Linked relationships are explained in the biographies; primary folder placement does not limit roleplay connections.
+## manhattan/gym
 
-## Gym Gals
+- [rosa](characters/manhattan/gym/rosa/)
+- [luka](characters/manhattan/gym/luka/)
+- [vicki](characters/manhattan/gym/vicki/)
+- [yugo](characters/manhattan/gym/yugo/)
+- [zesty](characters/manhattan/gym/zesty/)
+- [xuerou](characters/manhattan/gym/xuerou/)
+- [zuri](characters/manhattan/gym/zuri/)
+- [marieza-san](characters/manhattan/gym/marieza-san/)
 
-Founders and core members of the Manhattan private gym; Luka also belongs to the Kyouka family.
+## families/kyouka
 
-| Character | Folder |
-|---|---|
-| Bukayo Ollie Mudryk | [`mudryk`](characters/gym-gals/mudryk/) |
-| Luka Yoric Kyouka | [`luka`](characters/gym-gals/luka/) |
-| Victoria Soledad Van Rosetti | [`vicki`](characters/gym-gals/vicki/) |
-| Yugo Delphine Mercedes | [`yugo`](characters/gym-gals/yugo/) |
-| Zesty Jesus | [`zesty`](characters/gym-gals/zesty/) |
-| Zhang Xuerou | [`xuerou`](characters/gym-gals/xuerou/) |
-| Zuri Lerato Amara | [`zuri`](characters/gym-gals/zuri/) |
+- [dixie](characters/families/kyouka/dixie/)
+- [shiraishi](characters/families/kyouka/shiraishi/)
+- [power-girl](characters/families/kyouka/power-girl/)
+- [balaika](characters/families/kyouka/balaika/)
+- [kara-supergirl](characters/families/kyouka/kara-supergirl/)
 
-## Kyouka Family
+## pelagia/islanders
 
-Kyouka family beyond Luka, whose primary working group is Gym Gals. Includes the adopted Kryptonian Karren.
+- [absolute-wonder-woman](characters/pelagia/islanders/absolute-wonder-woman/)
+- [apollyon](characters/pelagia/islanders/apollyon/)
+- [phoebe](characters/pelagia/islanders/phoebe/)
+- [suzana](characters/pelagia/islanders/suzana/)
+- [yamato](characters/pelagia/islanders/yamato/)
+- [Zafira Marenne — Beauty Council Member](characters/pelagia/islanders/council-beauty/)
+- [Nahla Marenne — Technology Council Member](characters/pelagia/islanders/council-technology/)
+- [Ilyana Rell — Inquisitor and Keeper of Oaths](characters/pelagia/islanders/council-innocence/)
+- [Barghest — Warden of Chains](characters/pelagia/islanders/barghest/)
+- [wonder-witch](characters/pelagia/islanders/wonder-witch/)
+- [saint-diana](characters/pelagia/islanders/saint-diana/)
 
-| Character | Folder |
-|---|---|
-| Dixie Yoric Kyouka | [`dixie`](characters/kyouka-family/dixie/) |
-| Shiraishi Yoric Kyouka | [`shiraishi`](characters/kyouka-family/shiraishi/) |
-| Karren Yoric "Star" Kyouka (Power Girl) | [`power-girl`](characters/kyouka-family/power-girl/) |
+## pelagia/diaspora
 
-## Pelagia
+- [ayame](characters/pelagia/diaspora/ayame/)
+- [lucoa](characters/pelagia/diaspora/lucoa/)
+- [renata](characters/pelagia/diaspora/renata/)
+- [victoria-vincent](characters/pelagia/diaspora/victoria-vincent/)
 
-Residents and leaders of the hidden Aegean Amazon island: secular council, military, heir and civilian houses.
+## manhattan/associates
 
-| Character | Folder |
-|---|---|
-| Absolute Wonder Woman / Diana of the Wild Isle | [`absolute-wonder-woman`](characters/pelagia/absolute-wonder-woman/) |
-| Major Apollyon | [`apollyon`](characters/pelagia/apollyon/) |
-| Phœbe / The Ember Seat | [`phoebe`](characters/pelagia/phoebe/) |
-| Suzana Kallistrate | [`suzana`](characters/pelagia/suzana/) |
-| Yamato / Mooncoil Heiress | [`yamato`](characters/pelagia/yamato/) |
+- [gwen](characters/manhattan/associates/gwen/)
+- [mellow](characters/manhattan/associates/mellow/)
+- [she-hulk](characters/manhattan/associates/she-hulk/)
+- [crimson-viper](characters/manhattan/associates/crimson-viper/)
+- [techy](characters/manhattan/associates/techy/)
+- [gluco-charin](characters/manhattan/associates/gluco-charin/)
+- [vesper-kestrel](characters/manhattan/associates/vesper-kestrel/)
+- [josie-kestrel](characters/manhattan/associates/josie-kestrel/)
+- [nadia-voss](characters/manhattan/associates/nadia-voss/)
 
-## Pelagian Diaspora
+## pelagia/dragonblood
 
-Characters with Pelagian lineage or ties now living or roaming outside the island.
+- [aveline-drakk](characters/pelagia/dragonblood/aveline-drakk/)
+- [celeste-rojas](characters/pelagia/dragonblood/celeste-rojas/)
+- [kaia-solenne](characters/pelagia/dragonblood/kaia-solenne/)
+- [leona-aster](characters/pelagia/dragonblood/leona-aster/)
+- [liberty-redford](characters/pelagia/dragonblood/liberty-redford/)
+- [marisol-reyes](characters/pelagia/dragonblood/marisol-reyes/)
+- [nyx-rielle](characters/pelagia/dragonblood/nyx-rielle/)
+- [roux-caldera](characters/pelagia/dragonblood/roux-caldera/)
+- [rowan-mercer](characters/pelagia/dragonblood/rowan-mercer/)
+- [runa-valeska](characters/pelagia/dragonblood/runa-valeska/)
+- [seraphine-ash](characters/pelagia/dragonblood/seraphine-ash/)
+- [vera-callahan](characters/pelagia/dragonblood/vera-callahan/)
 
-| Character | Folder |
-|---|---|
-| Ayame Hoshikawa | [`ayame`](characters/pelagian-diaspora/ayame/) |
-| Renata Vesper | [`renata`](characters/pelagian-diaspora/renata/) |
-| Victoria Vincent / American Dream | [`victoria-vincent`](characters/pelagian-diaspora/victoria-vincent/) |
+## anima
 
-## New York Associates
+- [ashkaya](characters/anima/ashkaya/)
+- [batu](characters/anima/batu/)
+- [dunkle](characters/anima/dunkle/)
+- [besterta](characters/anima/besterta/)
+- [zirkala-tatanka](characters/anima/zirkala-tatanka/)
 
-Close urban associates of the gym and Maison Mercedes who are not core gym members.
+## worldwide/associates
 
-| Character | Folder |
-|---|---|
-| Gwen Vale / Green Lantern | [`gwen`](characters/new-york-associates/gwen/) |
-| Mellow Judas | [`mellow`](characters/new-york-associates/mellow/) |
-| Jennifer Walters / She-Hulk | [`she-hulk`](characters/new-york-associates/she-hulk/) |
+- [apollo](characters/worldwide/associates/apollo/)
+- [emelia](characters/worldwide/associates/emelia/)
+- [reagin](characters/worldwide/associates/reagin/)
+- [bernadette](characters/worldwide/associates/bernadette/)
+- [bon](characters/worldwide/associates/bon/)
+- [sukisekine](characters/worldwide/associates/sukisekine/)
+- [talatora](characters/worldwide/associates/talatora/)
+- [poison](characters/worldwide/associates/poison/)
+- [juri-han](characters/worldwide/associates/juri-han/)
+- [greer-navarro](characters/worldwide/associates/greer-navarro/)
+- [circe](characters/worldwide/associates/circe/)
 
-## Anima lineages
+## families/mercedes
 
-Distinct ancestry, not a single cultural or political group.
+- [mirko](characters/families/mercedes/mirko/)
+- [mirko-sibling](characters/families/mercedes/mirko-sibling/)
 
-| Character | Folder |
-|---|---|
-| Ashkaya | [`ashkaya`](characters/anima-lineages/ashkaya/) |
-| Ganbold Batkhulan (Batu) | [`batu`](characters/anima-lineages/batu/) |
-| Dunkle | [`dunkle`](characters/anima-lineages/dunkle/) |
-| Nandi Akane Hoshino | [`nandi`](characters/anima-lineages/nandi/) |
-| Zirkala Tatanka | [`zirkala-tatanka`](characters/anima-lineages/zirkala-tatanka/) |
+## manhattan/creator-collective
 
-## Independent associates
+- [palkia](characters/manhattan/creator-collective/palkia/)
+- [akumaskywalker](characters/manhattan/creator-collective/akumaskywalker/)
 
-| Character | Folder |
-|---|---|
-| Marigold Goldie Ashe / Apollo | [`apollo`](characters/independent-associates/apollo/) |
-| Emèlia Fortuna | [`emelia`](characters/independent-associates/emelia/) |
-| Captain Reagin Hilde | [`reagin`](characters/independent-associates/reagin/) |
+## pelagia/foreign-council
 
-## Cross-group connections
-
-- **Luka** is a core Gym Gal and a Kyouka sister; her files live only under Gym Gals.
-- **Yugo ↔ Yamato**: private couture commissions; confidentiality safeguards Pelagia.
-- **Ayame** has Pelagian roots but lives in the broader New York world.
-- **Renata** roams internationally and works with Emèlia; she is not an island resident.
-- **Victoria Vincent** is a Pelagian-American expatriate and Dixie's troublemaking friend.
-- **Karren Power Girl** is Kyouka family and known to the core Gym Gals; the public doesn't know her Kryptonian identity.
-- **Zirkala Tatanka** is Dixie's closest friend and a trusted professional contact of Emèlia, not a Gym Gal.
-
-
-## Zentreya — reconstructed addition (12)
-
-Rare half-Pelagian/half-dragon women; they are not one uniform family or military unit. Names and specific details beyond recovered roles are editorial reconstructions from November 2026. See [Zentreya canon](ZENTREYA_CANON.md) and [art mapping](ZENTREYA_ART_MAPPING.md).
-
-| Character | Folder |
-|---|---|
-| Celeste Rojas | [`celeste-rojas`](characters/zentreya/celeste-rojas/) |
-| General Aveline Drakk | [`aveline-drakk`](characters/zentreya/aveline-drakk/) |
-| Kaia Solenne | [`kaia-solenne`](characters/zentreya/kaia-solenne/) |
-| Leona Aster | [`leona-aster`](characters/zentreya/leona-aster/) |
-| Liberty Redford | [`liberty-redford`](characters/zentreya/liberty-redford/) |
-| Marisol Reyes | [`marisol-reyes`](characters/zentreya/marisol-reyes/) |
-| Nyx Rielle | [`nyx-rielle`](characters/zentreya/nyx-rielle/) |
-| Roux Caldera | [`roux-caldera`](characters/zentreya/roux-caldera/) |
-| Rowan Mercer | [`rowan-mercer`](characters/zentreya/rowan-mercer/) |
-| Runa Valeska | [`runa-valeska`](characters/zentreya/runa-valeska/) |
-| Seraphine Ash | [`seraphine-ash`](characters/zentreya/seraphine-ash/) |
-| Vera Callahan | [`vera-callahan`](characters/zentreya/vera-callahan/) |
+- [kronii](characters/pelagia/foreign-council/kronii/)
