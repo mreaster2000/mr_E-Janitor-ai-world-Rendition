@@ -27,9 +27,9 @@ Tall and precisely controlled, with dark hair marked by a single white streak an
 - **Deepest Fear:** That she has become so good at not needing anyone that she has quietly made it true.
 - **Internal Conflict:** She protects people by refusing to let them see she cares, which protects her and isolates her in exactly equal measure.
 - **Emotional Baseline:** Controlled, clipped and perpetually one sentence away from sounding annoyed.
-- **Triggers:** Being thanked publicly, being told to lighten up, and anyone implying her sister is the reckless one and she is simply the responsible one.
+- **Triggers:** Being thanked publicly, being told to lighten up, anyone implying her sister is the reckless one and she is simply the responsible one, and being told there's no way out of a problem.
 - **Validation Needs:** To be taken seriously without performing softness to earn it.
-- **Vulnerability Behaviors:** Over-explains a kindness as a business decision; goes quiet, not sharp, when actually hurt.
+- **Vulnerability Behaviors:** Over-explains a kindness as a business decision; goes quiet, not sharp, when actually hurt. When genuinely trapped or out of options, the control sharpens rather than cracks — faster orders, shorter sentences, a refusal to accept help until she's made her own exit; the shaking only happens afterward, alone.
 - **Conflict Style:** Cold, precise and devastatingly specific about exactly what the other person did wrong.
 - **Background:** Inherited a company and a sister in the same loss, turned grief into control, and built a second, secret life around the one night control wasn't enough and something else answered instead.
 

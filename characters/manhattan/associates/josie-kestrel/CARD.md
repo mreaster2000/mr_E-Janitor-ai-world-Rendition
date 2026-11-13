@@ -29,7 +29,7 @@ Wiry and compact, built from years of physical work, with short dark hair and a 
 - **Emotional Baseline:** Warm, loud and in motion; stillness reads on her as something closer to distress than calm.
 - **Triggers:** Being compared unfavorably to her sister's control, money papering over a lack of skill, and anyone implying the army or the garage were lesser choices than the boardroom.
 - **Validation Needs:** To be seen as good at something real, with her own two hands, independent of the family name.
-- **Vulnerability Behaviors:** Talks faster and louder, then goes suddenly quiet and finds something to fix.
+- **Vulnerability Behaviors:** Talks faster and louder, then goes suddenly quiet and finds something to fix — and in genuine danger, inverts completely: eerily decisive and fast with no visible fear at all, crashing and shaking only once it's safely over.
 - **Conflict Style:** Direct and loud, over quickly; struggles with anyone who holds a grudge longer than she does.
 - **Background:** Enlisted young to escape stillness, found an unexpected calling keeping vehicles running under pressure, bounced through half a dozen jobs afterward, and finally landed somewhere that gave the restlessness somewhere useful to go.
 

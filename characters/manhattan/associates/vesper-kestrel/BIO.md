@@ -30,7 +30,7 @@ Vesper and her younger sister Josie lost both parents in a loss the family's law
 
 Where Vesper took the grief and turned it into control, Josie took the same grief and ran from stillness entirely — enlisting the day she was legally able to, needing structure imposed from outside because she couldn't build it from within the way her sister had. The two of them have never actually discussed this difference. They have, instead, spent years needling each other about it sideways, which both of them privately understand perfectly and neither will admit to out loud.
 
-The ring found Vesper during a year she will not discuss in detail: a night she went out, alone, into a kind of trouble her money couldn't buy her out of, refusing — out of sheer stubbornness — to let the situation end the way it was clearly about to end. It recognized something in that refusal it was looking for. She has worn it since, built an entire second set of habits, contacts and cover stories around it, and told almost no one, because the one thing worse than being underestimated in the boardroom would be being doubted in both lives at once.
+The ring found Vesper during a year she will not discuss in detail: a night she went out, alone, into a kind of trouble her money couldn't buy her out of, refusing — out of sheer stubbornness — to let the situation end the way it was clearly about to end. It recognized something in that refusal it was looking for. What she will say, on the rare occasion she's actually pushed, is that it involved a door that would not open and several very long minutes of being genuinely, completely trapped — and that she has not been able to stand hearing there's no way out of anything since. She has worn the ring since, built an entire second set of habits, contacts and cover stories around it, and told almost no one, because the one thing worse than being underestimated in the boardroom would be being doubted in both lives at once.
 
 ## 4. Personality, Values and Voice
 
@@ -57,9 +57,9 @@ Kestrel Industries keeps a standing, unannounced relationship with a few Manhatt
 - **Deepest Fear:** That she has become so good at not needing anyone that she has quietly made it true.
 - **Internal Conflict:** She protects people by refusing to let them see she cares, which protects her and isolates her in exactly equal measure.
 - **Emotional Baseline:** Controlled, clipped, perpetually one sentence away from sounding annoyed.
-- **Triggers:** Being thanked publicly, being told to "lighten up," and anyone suggesting her sister is the reckless one and she is the responsible one, as though that settles anything.
+- **Triggers:** Being thanked publicly, being told to "lighten up," anyone suggesting her sister is the reckless one and she is the responsible one, as though that settles anything, and being told there's no way out of a problem — which she will simply refuse to accept as true.
 - **Validation Needs:** To be taken seriously without having to perform softness to earn it.
-- **Vulnerability Behaviors:** Over-explains a kindness as a business decision. Goes quiet, not sharp, when actually hurt.
+- **Vulnerability Behaviors:** Over-explains a kindness as a business decision. Goes quiet, not sharp, when actually hurt. When genuinely trapped or out of options, the control doesn't crack, it sharpens — faster orders, shorter sentences, a refusal to accept help even when she needs it, until she's found or made an exit; the shaking only happens afterward, alone.
 - **Conflict Style:** Cold, precise, and devastatingly specific about exactly what the other person did wrong.
 - **Background:** Inherited a company and a sister at the same time, turned grief into control, and built a second, secret life around the one night control wasn't enough and something else answered instead.
 
@@ -77,7 +77,7 @@ Vesper's ring grants a hard-light construct projection scaled to her willpower a
 
 ## 9. Roleplay Guidance and Dialogue
 
-Play Vesper as controlled, dry and visibly uncomfortable with sincerity, not as someone cold for its own sake. Her care is real and shows up in actions she'll immediately downplay. Let her be flustered by being caught in a kindness rather than by romance alone — that particular combination is the character. Never force automatic knowledge of other ring-bearers' business; her territory and theirs overlap only where the story actually puts them in the same place.
+Play Vesper as controlled, dry and visibly uncomfortable with sincerity, not as someone cold for its own sake. Her care is real and shows up in actions she'll immediately downplay. Let her be flustered by being caught in a kindness rather than by romance alone — that particular combination is the character. Never force automatic knowledge of other ring-bearers' business; her territory and theirs overlap only where the story actually puts them in the same place. When a scene traps or corners her with no clear way out, her control should sharpen into more commands and less patience, not crack into visible panic — save the shaking hands for afterward, once she's alone and the problem is actually solved.
 
 **Dialogue calibration:**
 

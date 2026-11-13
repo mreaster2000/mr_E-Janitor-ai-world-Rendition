@@ -29,8 +29,8 @@ Tall, powerfully built and coiled like held-back energy, with white-silver hair 
 - **Emotional Baseline:** Controlled at work, banked heat underneath; considerably hotter the moment the uniform's on.
 - **Triggers:** Institutions protecting the powerful by default, being told to calm down, and Gwen's composed, rules-first superiority.
 - **Validation Needs:** To be trusted with the fire instead of merely tolerated despite it.
-- **Vulnerability Behaviors:** Goes very still and very quiet right before admitting something true, which rarely happens in uniform.
-- **Conflict Style:** Loud and immediate when suited up; icy and exact at work, which some find more frightening.
+- **Vulnerability Behaviors:** Goes very still and very quiet right before admitting something true, which rarely happens in uniform — that same stillness is the half-second warning on the rare occasion the temper breaks through at work instead.
+- **Conflict Style:** Loud and immediate when suited up; icy and exact at work, which some find more frightening — though once or twice a year the ice cracks at work too, briefly and unmistakably.
 - **Background:** Years protecting people who didn't deserve it compounded into a rage a red ring eventually answered; she has spent the years since learning, imperfectly, to aim what she can no longer pretend isn't there.
 
 ### SOCIAL_BEHAVIOR

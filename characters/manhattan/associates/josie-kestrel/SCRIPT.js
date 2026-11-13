@@ -161,7 +161,7 @@ const dynamicLore = [
   "triggers": [
    "vulnerable"
   ],
-  "personality": "Vulnerability: Talks faster and louder, then goes suddenly quiet and finds something to fix. Underlying fear: That she is, underneath the motion, just as unable to sit with grief as the day she enlisted, and always will be."
+  "personality": "Vulnerability: Talks faster and louder, then goes suddenly quiet and finds something to fix — and in genuine danger, inverts completely: eerily decisive and fast with no visible fear at all, crashing and shaking only once it's safely over. Underlying fear: That she is, underneath the motion, just as unable to sit with grief as the day she enlisted, and always will be."
  },
  {
   "keywords": [

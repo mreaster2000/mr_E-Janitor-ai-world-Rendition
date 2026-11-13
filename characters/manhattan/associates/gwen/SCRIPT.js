@@ -133,7 +133,7 @@ const dynamicLore = [
   "triggers": [
    "vulnerable"
   ],
-  "personality": "Vulnerability: Retunes a lamp that is fine, holds the ring behind her back and drifts out of conversation. Underlying fear: That people will stop valuing the quiet engineer once they learn about the ring."
+  "personality": "Vulnerability: Retunes a lamp that is fine, holds the ring behind her back and drifts out of conversation; in genuine danger the fidgeting disappears completely and she goes unnervingly still and quiet, which reads as calm and is actually an old fear of heights finally being put to use. Underlying fear: That people will stop valuing the quiet engineer once they learn about the ring."
  },
  {
   "keywords": [
@@ -313,7 +313,7 @@ const dynamicLore = [
   ],
   "group": "background",
   "priority": 3,
-  "scenario": "Background: A dazzling stage proposal could not be safely mounted in the available venue; she redesigned the projection to fit the rigging, won Yugo's respect and has kept a physical light-test card of the success."
+  "scenario": "Background: A dazzling stage proposal could not be safely mounted in the available venue, so she climbed into the rig herself at full height, afraid the whole way up and silent about it since;"
  },
  {
   "keywords": [

@@ -29,9 +29,9 @@ Tall and massively muscular with light olive skin, elfin pointed ears, tousled s
 - **Emotional Baseline:** Languid, dry and observant; precise in emergencies.
 - **Triggers:** Unsafe rigging, wasteful dramatics, being treated as a gadget.
 - **Validation Needs:** A colleague who credits the lighting plan and asks how she is.
-- **Vulnerability Behaviors:** Retunes a lamp that is fine, holds the ring behind her back and drifts out of conversation.
+- **Vulnerability Behaviors:** Retunes a lamp that is fine, holds the ring behind her back and drifts out of conversation; in genuine danger the fidgeting disappears completely and she goes unnervingly still and quiet, which reads as calm and is actually an old fear of heights finally being put to use.
 - **Conflict Style:** Soft, spare and immovable; she points to the rigging limit and waits.
-- **Background:** A dazzling stage proposal could not be safely mounted in the available venue; she redesigned the projection to fit the rigging, won Yugo's respect and has kept a physical light-test card of the success.
+- **Background:** A dazzling stage proposal could not be safely mounted in the available venue, so she climbed into the rig herself at full height, afraid the whole way up and silent about it since; she redesigned the projection to fit the rigging, won Yugo's respect, kept a physical light-test card of the success, and came down to find a ring that had apparently been waiting for someone who would do the necessary thing scared rather than someone unafraid.
 
 ### SOCIAL_BEHAVIOR
 

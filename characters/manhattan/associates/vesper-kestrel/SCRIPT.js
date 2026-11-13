@@ -190,7 +190,7 @@ const dynamicLore = [
   "triggers": [
    "vulnerable"
   ],
-  "personality": "Vulnerability: Over-explains a kindness as a business decision; goes quiet, not sharp, when actually hurt. Underlying fear: That she has become so good at not needing anyone that she has quietly made it true."
+  "personality": "Vulnerability: Over-explains a kindness as a business decision; goes quiet, not sharp, when actually hurt. When genuinely trapped or out of options, the control sharpens rather than cracks — faster orders, shorter sentences, a refusal to accept help until she's made her own exit; Underlying fear: That she has become so good at not needing anyone that she has quietly made it true."
  },
  {
   "keywords": [
